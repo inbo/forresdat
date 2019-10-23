@@ -1,0 +1,26 @@
+..generic:
+  git2rdata: 0.1.0.9001
+  optimize: yes
+  NA string: NA
+  sorting:
+  - period
+  - year
+  - plot_id
+  - height_class
+  - species
+  hash: ae7c4c04372b0ceda4f859fd462ba0cd781082cd
+  data_hash: 7ff640a1544edd17e40f1f481a0bfb041c7724ea
+plot_id:
+  class: integer
+year:
+  class: numeric
+period:
+  class: numeric
+height_class:
+  class: integer
+species:
+  class: integer
+min_number_of_trees_ha:
+  class: numeric
+max_number_of_trees_ha:
+  class: numeric
