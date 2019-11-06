@@ -1,5 +1,5 @@
 ..generic:
-  git2rdata: 0.1.0.9001
+  git2rdata: '0.1'
   optimize: yes
   NA string: NA
   sorting:
@@ -7,7 +7,7 @@
   - year
   - plot_id
   hash: 491c4c2477970599af719897f9f55ec980c0492d
-  data_hash: ac6fdcad02ce260ff8237fe3426d40d23e45c11d
+  data_hash: f025d425d53b68547553262a62efc6f24de24b4b
 plot_id:
   class: integer
 year:
