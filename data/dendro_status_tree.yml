@@ -1,5 +1,5 @@
 ..generic:
-  git2rdata: '0.1'
+  git2rdata: 0.2.0
   optimize: yes
   NA string: NA
   sorting:
@@ -9,7 +9,7 @@
   - tree_measure_id
   - species
   hash: 2fc51b923c343d82542034fdee747acc3b87aa53
-  data_hash: e9cc5f5ec58fc6cb9bc863936c7eba051e94000b
+  data_hash: b86b0cd52e48a0733dca2b4e667b63365c71c6ab
 plot_id:
   class: integer
 period:
