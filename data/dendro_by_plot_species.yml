@@ -1,0 +1,41 @@
+..generic:
+  git2rdata: 0.2.0
+  optimize: yes
+  NA string: NA
+  sorting:
+  - period
+  - year
+  - plot_id
+  - species
+  hash: 0ebfe312290eed0ff0fffc51146645979ce8f513
+  data_hash: f061ed6360e93782a673233bf397ac2e0ee2fc26
+plot_id:
+  class: integer
+year:
+  class: numeric
+period:
+  class: numeric
+species:
+  class: integer
+plottype:
+  class: integer
+number_of_trees_ha:
+  class: numeric
+stem_number_ha:
+  class: numeric
+basal_area_alive_m2_ha:
+  class: numeric
+basal_area_snag_m2_ha:
+  class: numeric
+volume_alive_m3_ha:
+  class: numeric
+volume_snag_m3_ha:
+  class: numeric
+vol_stem_m3:
+  class: numeric
+volume_log_m3_ha:
+  class: numeric
+volume_deadwood_m3_ha:
+  class: numeric
+stems_per_tree:
+  class: numeric

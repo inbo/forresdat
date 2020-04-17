@@ -1,0 +1,143 @@
+..generic:
+  git2rdata: 0.2.0
+  optimize: yes
+  NA string: NA
+  sorting:
+  - period
+  - year
+  - plot_id
+  - dbh_class_5cm
+  - species
+  hash: fe00e29f19ed905c37454998bedf313f353fb686
+  data_hash: 858abeec628943f36f42b29218c94eee2e1e925f
+plot_id:
+  class: integer
+year:
+  class: numeric
+period:
+  class: numeric
+species:
+  class: integer
+dbh_class_5cm:
+  class: factor
+  labels:
+  - 5 - 10 cm
+  - 10 - 15 cm
+  - 15 - 20 cm
+  - 20 - 25 cm
+  - 25 - 30 cm
+  - 30 - 35 cm
+  - 35 - 40 cm
+  - 40 - 45 cm
+  - 45 - 50 cm
+  - 50 - 55 cm
+  - 55 - 60 cm
+  - 60 - 65 cm
+  - 65 - 70 cm
+  - 70 - 75 cm
+  - 75 - 80 cm
+  - 80 - 85 cm
+  - 85 - 90 cm
+  - 90 - 95 cm
+  - 95 - 100 cm
+  - 100 - 105 cm
+  - 105 - 110 cm
+  - 110 - 115 cm
+  - 115 - 120 cm
+  - 120 - 125 cm
+  - 125 - 130 cm
+  - 130 - 135 cm
+  - 135 - 140 cm
+  - 140 - 145 cm
+  - 145 - 150 cm
+  - 150 - 155 cm
+  - 155 - 160 cm
+  - 160 - 165 cm
+  - 165 - 170 cm
+  - 170 - 175 cm
+  - 175 - 180 cm
+  - 180 - 185 cm
+  - 185 - 190 cm
+  - 190 - 195 cm
+  - 195 - 200 cm
+  - 200 - 205 cm
+  - 205 - 210 cm
+  - 210 - 215 cm
+  - 215 - 220 cm
+  - 220 - 225 cm
+  - 225 - 230 cm
+  - 230 - 235 cm
+  - 235 - 240 cm
+  - 240 - 245 cm
+  - 245 cm +
+  index:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+  - 16
+  - 17
+  - 18
+  - 19
+  - 20
+  - 21
+  - 22
+  - 23
+  - 24
+  - 25
+  - 26
+  - 27
+  - 28
+  - 29
+  - 30
+  - 31
+  - 32
+  - 33
+  - 34
+  - 35
+  - 36
+  - 37
+  - 38
+  - 39
+  - 40
+  - 41
+  - 42
+  - 43
+  - 44
+  - 45
+  - 46
+  - 47
+  - 48
+  - 49
+  ordered: no
+stem_number_alive_ha:
+  class: numeric
+stem_number_snag_ha:
+  class: numeric
+basal_area_shoot_alive_m2_ha:
+  class: numeric
+basal_area_shoot_snag_m2_ha:
+  class: numeric
+basal_area_tree_alive_m2_ha:
+  class: numeric
+basal_area_tree_snag_m2_ha:
+  class: numeric
+volume_tree_alive_m3_ha:
+  class: numeric
+volume_tree_snag_m3_ha:
+  class: numeric
+log_number_ha:
+  class: numeric
+volume_log_m3_ha:
+  class: numeric
