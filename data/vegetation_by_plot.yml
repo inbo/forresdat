@@ -1,0 +1,48 @@
+..generic:
+  git2rdata: 0.2.0
+  optimize: yes
+  NA string: NA
+  sorting:
+  - period
+  - year
+  - plot_id
+  hash: 8d1ad2aaa027befbcca5a738305d4df4c79e8e73
+  data_hash: 362e0be9dcbca25c3586438f630db56ed01fc207
+plot_id:
+  class: integer
+year:
+  class: numeric
+period:
+  class: numeric
+moss_cover_min:
+  class: numeric
+moss_cover_max:
+  class: numeric
+herb_cover_min:
+  class: numeric
+herb_cover_max:
+  class: numeric
+shrub_cover_min:
+  class: numeric
+shrub_cover_max:
+  class: numeric
+tree_cover_min:
+  class: numeric
+tree_cover_max:
+  class: numeric
+waterlayer_cover_min:
+  class: numeric
+waterlayer_cover_max:
+  class: numeric
+soildisturbance_game_cover_min:
+  class: numeric
+soildisturbance_game_cover_max:
+  class: numeric
+number_of_species:
+  class: integer
+cumm_herb_coverage_class_average_perc:
+  class: numeric
+cumulated_canopy_cover_min:
+  class: numeric
+cumulated_canopy_cover_max:
+  class: numeric

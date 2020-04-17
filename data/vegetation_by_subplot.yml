@@ -1,0 +1,23 @@
+..generic:
+  git2rdata: 0.2.0
+  optimize: yes
+  NA string: NA
+  sorting:
+  - period
+  - year
+  - plot_id
+  - subplot_id
+  hash: 1417f3b4650b379497f950f8d7fe33bb3fc52e94
+  data_hash: 83927828e37471dc69d5113721c8968067505b54
+plot_id:
+  class: integer
+subplot_id:
+  class: integer
+year:
+  class: numeric
+period:
+  class: numeric
+number_of_species:
+  class: integer
+cumm_herb_coverage_class_average_perc:
+  class: numeric
