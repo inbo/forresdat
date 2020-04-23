@@ -8,7 +8,7 @@
   - plot_id
   - height_class
   hash: 862e993fb7ee3f1803e9c40e745569ebec8b68a6
-  data_hash: aaad7de6b00524dcff2d529e8c6207089f0b6319
+  data_hash: 6e185edcf012cdea7f635ee7bcc052e8c2c9d9ee
 plot_id:
   class: integer
 year:
