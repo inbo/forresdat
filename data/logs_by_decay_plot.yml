@@ -7,8 +7,8 @@
   - year
   - plot_id
   - decaystage
-  hash: 5da1ae7e78e7aeff5f5cbdec22be1ab62607f017
-  data_hash: 26cb23592af4c8e36f19db35a29759110d5110fb
+  hash: f1dfb00cb672ba5edbecd4ffef5fc56421c377f2
+  data_hash: 2871c9e8b88ec3b5fb77abd6e4ac89e8d4ef9a80
 plot_id:
   class: integer
 year:
@@ -19,3 +19,5 @@ decaystage:
   class: integer
 volume_log_m3_ha:
   class: numeric
+forest_reserve:
+  class: character

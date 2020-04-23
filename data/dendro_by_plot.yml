@@ -6,8 +6,8 @@
   - period
   - year
   - plot_id
-  hash: fc537d9092b17778ae888587b0d1c7d6bfb0314b
-  data_hash: 91926be3466fe409affd5768a06a8780e5682912
+  hash: 44f0c769bd668e94a87fdb10a0d640bf4fda0ad6
+  data_hash: c71059f53b3e9a9a1553ffd24c9c19565bed09e4
 plot_id:
   class: integer
 year:
@@ -38,3 +38,5 @@ volume_deadwood_m3_ha:
   class: numeric
 stems_per_tree:
   class: numeric
+forest_reserve:
+  class: character
