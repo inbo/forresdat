@@ -6,8 +6,8 @@
   - period
   - year
   - plot_id
-  hash: 8d1ad2aaa027befbcca5a738305d4df4c79e8e73
-  data_hash: b2e79fefc1d07c0c85b865d7dc27f811ec25cc51
+  hash: 7cbf284c39f8ef9809e9dea932786c9d7190ed11
+  data_hash: 68cdf5141c70724897219726cdc383e52c3a5e95
 plot_id:
   class: integer
 year:
@@ -46,3 +46,5 @@ cumulated_canopy_cover_min:
   class: numeric
 cumulated_canopy_cover_max:
   class: numeric
+forest_reserve:
+  class: character

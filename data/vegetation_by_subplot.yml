@@ -7,8 +7,8 @@
   - year
   - plot_id
   - subplot_id
-  hash: 1417f3b4650b379497f950f8d7fe33bb3fc52e94
-  data_hash: a30d46df8f17a4242ec49f55238f4630e1f952e6
+  hash: c9a5beb721d2d856cffb9f49e84d3a79dd85306b
+  data_hash: 4d49f83618455b5cd9ec9a7d2c6809fb66646d0c
 plot_id:
   class: integer
 subplot_id:
@@ -21,3 +21,5 @@ number_of_species:
   class: integer
 cumm_herb_coverage_class_average_perc:
   class: numeric
+forest_reserve:
+  class: character
