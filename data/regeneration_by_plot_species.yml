@@ -7,8 +7,8 @@
   - year
   - plot_id
   - species
-  hash: 5b5ee8fb72282ca846dcfda1c5265e72d067a820
-  data_hash: 91b297cfd36ed3903ed6e5b13d4c0464d121dbea
+  hash: 94d3a3574564291a7a3912822c2c02ec3a3ad477
+  data_hash: 0f534856f05c8a2ce3eba92e6b201036661dbb6a
 plot_id:
   class: integer
 year:
@@ -21,3 +21,5 @@ number_of_subplots_with_regeneration:
   class: integer
 perc_subplots_with_regeneration:
   class: numeric
+forest_reserve:
+  class: character

@@ -6,8 +6,8 @@
   - period
   - year
   - plot_id
-  hash: 14b0821fecf5f33a164833d9d82a93802c645741
-  data_hash: 26f6fee8eb8c2eff2db79434dff7686cce675e98
+  hash: b09de661115150280e253a3f7550b2058a86029e
+  data_hash: d3d719aee403aab8d2fc67840ab9534324eee760
 plot_id:
   class: integer
 year:
@@ -22,3 +22,5 @@ max_number_of_trees_ha:
   class: numeric
 rubbing_damage_perc:
   class: numeric
+forest_reserve:
+  class: character
