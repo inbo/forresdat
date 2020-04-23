@@ -8,7 +8,7 @@
   - plot_id
   - dbh_class_5cm
   hash: 18f59113bb9b10525c797cd29093b22594346185
-  data_hash: 022871479e27bb293cf99d2e19027b01b205a035
+  data_hash: 58c59e7c32f03176f69a8d2a2d51aad1c0b1fcd4
 plot_id:
   class: integer
 year:
