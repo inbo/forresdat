@@ -1,0 +1,35 @@
+..generic:
+  git2rdata: 0.2.1
+  optimize: yes
+  NA string: NA
+  sorting:
+  - period
+  - year
+  - plot_id
+  - species
+  hash: 3d49053fa352c3a7a46389ac21f9cc490a5d6f99
+  data_hash: f02e7520945d1c274fe10ba2da98775f10889311
+plot_id:
+  class: integer
+forest_reserve:
+  class: character
+year:
+  class: numeric
+period:
+  class: numeric
+species:
+  class: integer
+number_of_subplots:
+  class: integer
+perc_of_subplots:
+  class: numeric
+number_of_subplots_browsed:
+  class: integer
+number_of_subplots_seriously_browsed:
+  class: integer
+perc_of_subplots_browsed:
+  class: numeric
+perc_of_subplots_seriously_browsed:
+  class: numeric
+mean_coverage_class_average_perc:
+  class: numeric

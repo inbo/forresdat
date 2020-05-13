@@ -1,13 +1,14 @@
 ..generic:
-  git2rdata: 0.2.0
+  git2rdata: 0.2.1
   optimize: yes
   NA string: NA
   sorting:
   - period
   - year
   - plot_id
-  hash: 7cbf284c39f8ef9809e9dea932786c9d7190ed11
-  data_hash: 68cdf5141c70724897219726cdc383e52c3a5e95
+  - subplot_id
+  hash: 283a551f172605ab392de01165a0abfb8ec30c2c
+  data_hash: 7a190ceb262372d7bd5f271047de309fc6e41544
 plot_id:
   class: integer
 year:
@@ -48,3 +49,5 @@ cumulated_canopy_cover_max:
   class: numeric
 forest_reserve:
   class: character
+subplot_id:
+  class: integer
