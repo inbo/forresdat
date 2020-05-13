@@ -1,15 +1,16 @@
 ..generic:
-  git2rdata: 0.2.0
+  git2rdata: 0.2.1
   optimize: yes
   NA string: NA
   sorting:
   - period
   - year
   - plot_id
+  - subplot_id
   - height_class
   - species
-  hash: 3af98dca41e512d394e86d47019951ecbc4f50a6
-  data_hash: f4f21d8187e5ffa42ef821aa69fe1e93230525bd
+  hash: 2597ab9485c414226c5bdc3cfd3016b70a2c293a
+  data_hash: b25e24c103a501b2f544dd7256315a0681b83ee9
 plot_id:
   class: integer
 year:
@@ -26,9 +27,7 @@ max_number_of_trees_ha:
   class: numeric
 rubbing_damage_perc:
   class: numeric
-number_of_subplots_with_regeneration:
-  class: integer
-perc_subplots_with_regeneration:
-  class: numeric
 forest_reserve:
   class: character
+subplot_id:
+  class: integer
