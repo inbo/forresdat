@@ -7,19 +7,15 @@
   - year
   - plot_id
   - species
-  hash: 3d49053fa352c3a7a46389ac21f9cc490a5d6f99
-  data_hash: f02e7520945d1c274fe10ba2da98775f10889311
+  hash: eb80f89e4ee31cb31a54da53fa4454a6755572de
+  data_hash: fb3267786e31daa8cbd2db204a197a7bf8eef7ba
 plot_id:
   class: integer
-forest_reserve:
-  class: character
 year:
   class: numeric
 period:
   class: numeric
 species:
-  class: integer
-number_of_subplots:
   class: integer
 perc_of_subplots:
   class: numeric
@@ -33,3 +29,5 @@ perc_of_subplots_seriously_browsed:
   class: numeric
 mean_coverage_class_average_perc:
   class: numeric
+number_of_subplots_with_vegetation:
+  class: integer
