@@ -7,8 +7,8 @@
   - year
   - plot_id
   - subplot_id
-  hash: 17473aa3b8daa0ec9b70432ebfc958226243d3c1
-  data_hash: e180bcd62095f001fb63e15de5ee8f0579acfd98
+  hash: a7273b00729994edd1bde1c145ed5981deee80a0
+  data_hash: 941f373d0d90432e827dcd5fdeb737c79c009048
 plot_id:
   class: integer
 year:
@@ -21,9 +21,5 @@ min_number_of_trees_ha:
   class: numeric
 max_number_of_trees_ha:
   class: numeric
-rubbing_damage_perc:
-  class: numeric
-forest_reserve:
-  class: character
 subplot_id:
   class: integer

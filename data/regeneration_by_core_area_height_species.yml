@@ -8,12 +8,10 @@
   - plot_id
   - height_class
   - species
-  hash: 0c79a4a53c3c3d19c4bff7b294fb3306b4344a87
-  data_hash: 44cb4602408173cdeccacd74282b5eff9fbc7fa8
+  hash: 6dc13604428f27c8f95c528342021d4317500358
+  data_hash: 8ca8b3aca40c4d405918b954ca6146ae6e3dc973
 plot_id:
   class: integer
-forest_reserve:
-  class: character
 year:
   class: numeric
 period:
@@ -29,4 +27,6 @@ max_number_of_trees_ha:
 number_of_subplots_with_regeneration:
   class: integer
 perc_subplots_with_regeneration:
+  class: numeric
+rubbing_damage_perc:
   class: numeric

@@ -9,8 +9,8 @@
   - subplot_id
   - height_class
   - species
-  hash: 2597ab9485c414226c5bdc3cfd3016b70a2c293a
-  data_hash: b25e24c103a501b2f544dd7256315a0681b83ee9
+  hash: 1ea62bb431da7dce99a2149d54495597e9438a6d
+  data_hash: 4286358e388ff8e17ee3299369e53d5528112a3d
 plot_id:
   class: integer
 year:
@@ -27,7 +27,5 @@ max_number_of_trees_ha:
   class: numeric
 rubbing_damage_perc:
   class: numeric
-forest_reserve:
-  class: character
 subplot_id:
   class: integer
