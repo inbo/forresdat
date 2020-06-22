@@ -1,5 +1,5 @@
 ..generic:
-  git2rdata: 0.2.1
+  git2rdata: 0.2.0
   optimize: yes
   NA string: NA
   sorting:
@@ -9,7 +9,7 @@
   - decaystage
   - species
   hash: f2e38c773b1654954961f87189f736bf11dd1941
-  data_hash: c3c79eff9756a1e1711f831a26dee828178d390c
+  data_hash: 1073dc07de397881106f262cf3c21fd696d68983
 plot_id:
   class: integer
 year:
