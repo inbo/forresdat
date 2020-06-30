@@ -3,14 +3,14 @@
   optimize: yes
   NA string: NA
   sorting: ID
-  hash: 91b9cc79fd94ca703db2ad28088a964c4c779a76
-  data_hash: 6d9de176c613b2a47e7381102616c3468a4b4103
+  hash: ec13189f3323bd5659ad8b03bac6a7dfc55c5d7d
+  data_hash: 5a2f9e2b082bd4ad9c1c12aaa381606015795636
 ID:
   class: integer
 Value1:
   class: character
 Value2:
-  class: logical
+  class: character
 Value3:
   class: logical
 OrderField:
