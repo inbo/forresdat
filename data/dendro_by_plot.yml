@@ -7,7 +7,7 @@
   - year
   - plot_id
   hash: 3ec6d99dc8ae7e97c1004f076a32b1596ff2000a
-  data_hash: cbaca1e29bf11085e85d7b94c9b757c672907473
+  data_hash: 0f42d2c6313166dac2d33b4610916bfd38bc8fac
 plot_id:
   class: integer
 year:

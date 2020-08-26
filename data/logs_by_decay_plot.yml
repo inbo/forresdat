@@ -8,7 +8,7 @@
   - plot_id
   - decaystage
   hash: 5da1ae7e78e7aeff5f5cbdec22be1ab62607f017
-  data_hash: 473376cfa652af09b937fef8c911ca5278f5f489
+  data_hash: b661290c36ad4c3f6e20ba72b776be904f904799
 plot_id:
   class: integer
 year:
