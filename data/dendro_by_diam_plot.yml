@@ -1,5 +1,5 @@
 ..generic:
-  git2rdata: 0.2.0
+  git2rdata: 0.2.1
   optimize: yes
   NA string: NA
   sorting:
@@ -8,7 +8,7 @@
   - plot_id
   - dbh_class_5cm
   hash: 18f59113bb9b10525c797cd29093b22594346185
-  data_hash: 02a25f49c1859a1f7924d56c8ce074250f8b056f
+  data_hash: 8289478c5205dd3ea3e09ff902e7217866a09a35
 plot_id:
   class: integer
 year:
