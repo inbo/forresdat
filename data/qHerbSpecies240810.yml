@@ -1,0 +1,19 @@
+..generic:
+  git2rdata: 0.3.1
+  optimize: yes
+  NA string: NA
+  sorting: ID
+  hash: ec13189f3323bd5659ad8b03bac6a7dfc55c5d7d
+  data_hash: d2be285a7a9f125b3d01de62ebf0146a793fd041
+ID:
+  class: integer
+Value1:
+  class: character
+Value2:
+  class: character
+Value3:
+  class: logical
+OrderField:
+  class: integer
+Active:
+  class: integer
