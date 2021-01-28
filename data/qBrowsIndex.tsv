@@ -1,0 +1,4 @@
+ID	Value1	Value2	Value3	OrderField	Active
+0	Geen vraatschade	No browsing	NA	NA	1
+10	Vraatschade waarneembaar (minder 1/20)	Browsing observed (less than 1/20)	NA	NA	1
+20	Vraatschade duidelijk (meer dan 1/20)	Browsing explicit (more than 1/20)	NA	NA	1
