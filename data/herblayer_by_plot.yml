@@ -1,0 +1,34 @@
+..generic:
+  git2rdata: 0.3.1
+  optimize: yes
+  NA string: NA
+  sorting:
+  - period
+  - year
+  - plot_id
+  - subplot_id
+  - species
+  hash: a7835db94379c19eb3db506c72ba6365966ba994
+  data_hash: f41244d9281349f43bcd7e369b870e517f5159a1
+plot_id:
+  class: integer
+subplot_id:
+  class: integer
+period:
+  class: numeric
+year:
+  class: numeric
+species:
+  class: integer
+coverage_class_average_perc:
+  class: numeric
+browse_index_id:
+  class: integer
+plotarea_ha:
+  class: numeric
+date_vegetation:
+  class: Date
+  origin: '1970-01-01'
+deviating_date:
+  class: Date
+  origin: '1970-01-01'
