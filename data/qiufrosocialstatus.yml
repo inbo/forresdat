@@ -3,8 +3,10 @@
   optimize: yes
   NA string: NA
   sorting: ID
-  hash: fb7954178e272cc0326ad3d7be20dfd9cf0105b8
-  data_hash: 3bdbde2e8d4aede46e64ac78a8e2aee0dd916eeb
+  hash: bc68512aea4594354e67f694d3cc635f8c7e11c4
+  data_hash: a0a4138c4133467d0fc2f73f23662a45ef8bc934
+MasterID:
+  class: integer
 ID:
   class: integer
 Value1:
@@ -12,7 +14,7 @@ Value1:
 Value2:
   class: character
 Value3:
-  class: integer
+  class: logical
 OrderField:
   class: integer
 Active:
