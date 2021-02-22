@@ -1,13 +1,27 @@
 ..generic:
-  git2rdata: 0.2.0
+  git2rdata: 0.3.1
   optimize: yes
   NA string: NA
-  sorting: plot_id
-  hash: aebaa829280de10d9bb2782d8f7a0fcaccc79232
-  data_hash: fb07c415861570fe00e1fbfa8399d20866e03eeb
+  sorting:
+  - period
+  - plot_id
+  hash: 747f170b6a5e2397269361e677de3040dbe448b6
+  data_hash: 6c7b799bd84712f3bc6af6ffd1ba9fbec5ef4ff4
 plot_id:
   class: integer
 plottype:
   class: integer
 forest_reserve:
   class: character
+survey_trees:
+  class: integer
+survey_deadw:
+  class: integer
+survey_veg:
+  class: integer
+survey_reg:
+  class: integer
+data_processed:
+  class: integer
+period:
+  class: numeric
