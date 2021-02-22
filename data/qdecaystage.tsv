@@ -1,9 +1,9 @@
 MasterID	ID	Value1	Value2	Value3	OrderField	Active
-12	10	1+ :  recent, nog knoppen en bladeren	NA	NA	NA	1
-12	11	1 : max 2 j, fijne takjes, schors intact	NA	NA	NA	1
-12	12	2 : opp verteerd, schors los, max 1cm	NA	NA	NA	1
-12	13	3 : matig verteerd,schors, enkele cm	NA	NA	NA	1
-12	14	4 : grotendeels verteerd, stam vermolmd	NA	NA	NA	1
-12	15	5 : resten in strooisellaag	NA	NA	NA	1
-11	16	NVT - levend	NA	NA	NA	1
-12	17	NVT - stoof	NA	NA	NA	1
+12	10	1+ :  recent, nog knoppen en bladeren	1+: very recent, still buds and leaves	NA	NA	1
+12	11	1 : max 2 j, fijne takjes, schors intact	1: max 2y,still finebranches,bark intact	NA	NA	1
+12	12	2 : opp verteerd, schors los, max 1cm	2: superficial decay, bark loose,max 1cm	NA	NA	1
+12	13	3 : matig verteerd,schors, enkele cm	3: moderate decay, knife penetrate cm's	NA	NA	1
+12	14	4 : grotendeels verteerd, stam vermolmd	4: advanced decay, stem mostly mould	NA	NA	1
+12	15	5 : resten in strooisellaag	5: full decay, remains in litter layer	NA	NA	1
+11	16	NVT - levend	NA - Alive	NA	NA	1
+12	17	NVT - stoof	NA - stool	NA	NA	1

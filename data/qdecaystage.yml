@@ -1,10 +1,10 @@
 ..generic:
-  git2rdata: 0.2.1
+  git2rdata: 0.3.1
   optimize: yes
   NA string: NA
   sorting: ID
-  hash: 7bf71cff4106fa8242eac9a3c41ff23187bc92e9
-  data_hash: 34a0f343d47d5c2cea578f606e6f80d81ba25cf8
+  hash: bc68512aea4594354e67f694d3cc635f8c7e11c4
+  data_hash: 8381b7ff1d754fdd94b1cb587487b3be6e354418
 MasterID:
   class: integer
 ID:
@@ -12,7 +12,7 @@ ID:
 Value1:
   class: character
 Value2:
-  class: logical
+  class: character
 Value3:
   class: logical
 OrderField:
