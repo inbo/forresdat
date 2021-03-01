@@ -5,8 +5,8 @@
   sorting:
   - period
   - plot_id
-  hash: 747f170b6a5e2397269361e677de3040dbe448b6
-  data_hash: 7ff9e97d0d2964c13c4a2efc709b390db9c73076
+  hash: b5b8d9bae894f84c297f4a1bff347aa524e59a51
+  data_hash: 31de1e0fb17dfbe7dc07c9767bd4f7284da9f6f1
 plot_id:
   class: integer
 plottype:
@@ -24,4 +24,6 @@ survey_reg:
 data_processed:
   class: integer
 period:
+  class: numeric
+survey_number:
   class: numeric
