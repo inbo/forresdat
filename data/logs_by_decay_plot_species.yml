@@ -8,8 +8,8 @@
   - plot_id
   - decaystage
   - species
-  hash: eb6a76042a49f2469b5355d74f3e1157a9cadaa9
-  data_hash: a88e6d2c61c6ddfdf759fa2c58ce3e57f910454f
+  hash: 54fe37ed18798bc382758ceb1dbaf1ff15789544
+  data_hash: 2995be0876b355fd6556277d913857619975647b
 plot_id:
   class: integer
 period:
@@ -22,5 +22,3 @@ vol_log_m3_ha:
   class: numeric
 year:
   class: numeric
-survey_deadw:
-  class: logical

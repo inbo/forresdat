@@ -7,8 +7,8 @@
   - year
   - plot_id
   - dbh_class_5cm
-  hash: 002df7440baafabbd2b37c24784dcf36b4663a69
-  data_hash: e49c4e500faa5e56f087611e522a643eae27c93a
+  hash: 1e06c0089a1e57c9cb8d3c09d6d5156042cbf1be
+  data_hash: e2063c87a939ac71cab0c0e7800399f937018a62
 plot_id:
   class: integer
 period:
@@ -136,5 +136,3 @@ vol_log_m3_ha:
   class: numeric
 year:
   class: numeric
-survey_deadw:
-  class: logical

@@ -7,8 +7,8 @@
   - year
   - plot_id
   - species
-  hash: 9e1909c43406e6153e9ea3a3b0d752d9782d97a7
-  data_hash: a34c7369d1288a08507e5dfe2fe62906fca79790
+  hash: 695e673448b4b4b096b9bf131854ee8bb9b821da
+  data_hash: dcebd74d219a661ab2c6513df4c5e390ffec761f
 plot_id:
   class: integer
 period:
@@ -39,5 +39,3 @@ vol_deadw_m3_ha:
   class: numeric
 year:
   class: numeric
-survey_deadw:
-  class: logical

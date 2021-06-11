@@ -6,8 +6,8 @@
   - period
   - year
   - plot_id
-  hash: cc237501157e119ca8a9e835c3fac867fc627f92
-  data_hash: 95e0df251a2d42b87fac92b7a371373cf7460edb
+  hash: 56eed8e344b69a45304802a044149e19be7c8d4d
+  data_hash: 15248d1f0bff7910e5c4ca7e7232af97a755a9a5
 plot_id:
   class: integer
 period:
@@ -38,5 +38,3 @@ vol_deadw_m3_ha:
   class: numeric
 year:
   class: numeric
-survey_deadw:
-  class: logical

@@ -8,8 +8,8 @@
   - plot_id
   - dbh_class_5cm
   - species
-  hash: 5e09bcf00a3e7da9df3d1833b99d7145bd2e814c
-  data_hash: b15ea6b7f902c31a7ae5652413a9a5a32b656f34
+  hash: 8d60cec5c824263316a5dc846edafc063848c4b1
+  data_hash: a4877cb85e6802a45b1c053f063527b0f9011ecf
 plot_id:
   class: integer
 period:
@@ -139,5 +139,3 @@ vol_log_m3_ha:
   class: numeric
 year:
   class: numeric
-survey_deadw:
-  class: logical
