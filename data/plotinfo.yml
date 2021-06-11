@@ -6,8 +6,8 @@
   - period
   - year
   - plot_id
-  hash: d34bea534b1f594941f11cdb123ae1f99a418b64
-  data_hash: 08863f0283d65142279f11e330f10cc8f8d72ab7
+  hash: f66c0a921fb8b4321bdccd5bf084fb0c800d4da6
+  data_hash: 9e9ccea88eff4ff81314fab76a56e26384d6fbed
 plot_id:
   class: integer
 plottype:
@@ -15,15 +15,15 @@ plottype:
 forest_reserve:
   class: character
 survey_trees:
-  class: integer
+  class: logical
 survey_deadw:
-  class: integer
+  class: logical
 survey_veg:
-  class: integer
+  class: logical
 survey_reg:
-  class: integer
+  class: logical
 data_processed:
-  class: integer
+  class: logical
 period:
   class: numeric
 survey_number:

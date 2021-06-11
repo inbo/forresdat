@@ -1,5 +1,5 @@
 ..generic:
-  git2rdata: 0.2.0
+  git2rdata: 0.3.1
   optimize: yes
   NA string: NA
   sorting:
@@ -7,8 +7,8 @@
   - year
   - plot_id
   - species
-  hash: 52c35f44b3e6f67f006b147b8682ce9ab4bbe741
-  data_hash: 2799cfa14d6dadafc5c15704b926d205020114d3
+  hash: ef403b9e8ca10afb71b158fe80ff8b00ebf47b59
+  data_hash: 3f1c293bb6cd03d0b16455dea6bd240d80406925
 plot_id:
   class: integer
 year:
@@ -24,4 +24,6 @@ max_number_of_trees_ha:
 number_of_subplots_with_regeneration:
   class: integer
 perc_subplots_with_regeneration:
+  class: numeric
+mean_number_of_trees_ha:
   class: numeric

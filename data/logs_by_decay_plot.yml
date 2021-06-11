@@ -1,5 +1,5 @@
 ..generic:
-  git2rdata: 0.2.1
+  git2rdata: 0.3.1
   optimize: yes
   NA string: NA
   sorting:
@@ -7,15 +7,17 @@
   - year
   - plot_id
   - decaystage
-  hash: 5da1ae7e78e7aeff5f5cbdec22be1ab62607f017
-  data_hash: b661290c36ad4c3f6e20ba72b776be904f904799
+  hash: 60684d43c52e63356f08fe76b2eeed25f48a821d
+  data_hash: 7ae596112d99dd30c900501d2ec272128169212d
 plot_id:
   class: integer
-year:
-  class: numeric
 period:
   class: numeric
 decaystage:
   class: integer
-volume_log_m3_ha:
+vol_log_m3_ha:
   class: numeric
+year:
+  class: numeric
+survey_deadw:
+  class: logical

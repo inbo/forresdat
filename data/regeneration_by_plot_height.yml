@@ -1,5 +1,5 @@
 ..generic:
-  git2rdata: 0.2.0
+  git2rdata: 0.3.1
   optimize: yes
   NA string: NA
   sorting:
@@ -8,8 +8,8 @@
   - plot_id
   - subplot_id
   - height_class
-  hash: a1492a8d63156473aba37b9657f74390fce64cbb
-  data_hash: b1f288731e36a7209518b9545c34756df85c6524
+  hash: 051e423db21b8aaa705ab9c016a758da21c07f4c
+  data_hash: 15aae4b6faf040b5eeed4f99cf493c6d7b7911f9
 plot_id:
   class: integer
 year:
@@ -28,3 +28,5 @@ rubbing_damage_perc:
   class: numeric
 subplot_id:
   class: integer
+mean_number_of_trees_ha:
+  class: numeric

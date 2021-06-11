@@ -8,8 +8,8 @@
   - plot_id
   - subplot_id
   - species
-  hash: a7835db94379c19eb3db506c72ba6365966ba994
-  data_hash: f41244d9281349f43bcd7e369b870e517f5159a1
+  hash: f2ec3c204ff9536fcb904c05a74eb076fc737623
+  data_hash: f734406e952934656e1c3476abce2ea60d07b3d8
 plot_id:
   class: integer
 subplot_id:
@@ -32,3 +32,5 @@ date_vegetation:
 deviating_date:
   class: Date
   origin: '1970-01-01'
+subplot_name:
+  class: character

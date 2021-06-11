@@ -1,17 +1,15 @@
 ..generic:
-  git2rdata: 0.2.1
+  git2rdata: 0.3.1
   optimize: yes
   NA string: NA
   sorting:
   - period
   - year
   - plot_id
-  hash: 3ec6d99dc8ae7e97c1004f076a32b1596ff2000a
-  data_hash: bea637b10fa92eadc0678adfd4546229de46b08d
+  hash: cc237501157e119ca8a9e835c3fac867fc627f92
+  data_hash: 95e0df251a2d42b87fac92b7a371373cf7460edb
 plot_id:
   class: integer
-year:
-  class: numeric
 period:
   class: numeric
 number_of_tree_species:
@@ -22,19 +20,23 @@ stem_number_ha:
   class: numeric
 basal_area_alive_m2_ha:
   class: numeric
-basal_area_snag_m2_ha:
-  class: numeric
-volume_alive_m3_ha:
-  class: numeric
-volume_snag_m3_ha:
-  class: numeric
-volume_log_m3_ha:
-  class: numeric
-volume_deadwood_m3_ha:
-  class: numeric
 stems_per_tree:
   class: numeric
-volume_stem_alive_m3_ha:
+basal_area_dead_m2_ha:
   class: numeric
-volume_stem_snag_m3_ha:
+vol_alive_m3_ha:
   class: numeric
+vol_dead_standing_m3_ha:
+  class: numeric
+vol_bole_alive_m3_ha:
+  class: numeric
+vol_bole_dead_m3_ha:
+  class: numeric
+vol_log_m3_ha:
+  class: numeric
+vol_deadw_m3_ha:
+  class: numeric
+year:
+  class: numeric
+survey_deadw:
+  class: logical

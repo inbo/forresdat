@@ -1,5 +1,5 @@
 ..generic:
-  git2rdata: 0.2.1
+  git2rdata: 0.3.1
   optimize: yes
   NA string: NA
   sorting:
@@ -7,12 +7,10 @@
   - year
   - plot_id
   - dbh_class_5cm
-  hash: 18f59113bb9b10525c797cd29093b22594346185
-  data_hash: 8289478c5205dd3ea3e09ff902e7217866a09a35
+  hash: 002df7440baafabbd2b37c24784dcf36b4663a69
+  data_hash: e49c4e500faa5e56f087611e522a643eae27c93a
 plot_id:
   class: integer
-year:
-  class: numeric
 period:
   class: numeric
 dbh_class_5cm:
@@ -120,21 +118,23 @@ dbh_class_5cm:
   ordered: no
 stem_number_alive_ha:
   class: numeric
-stem_number_snag_ha:
+stem_number_dead_ha:
   class: numeric
-basal_area_shoot_alive_m2_ha:
+basal_area_alive_m2_ha:
   class: numeric
-basal_area_shoot_snag_m2_ha:
+basal_area_dead_m2_ha:
   class: numeric
-basal_area_tree_alive_m2_ha:
+vol_alive_m3_ha:
   class: numeric
-basal_area_tree_snag_m2_ha:
+vol_dead_standing_m3_ha:
   class: numeric
-volume_tree_alive_m3_ha:
+vol_bole_alive_m3_ha:
   class: numeric
-volume_tree_snag_m3_ha:
+vol_bole_dead_m3_ha:
   class: numeric
-log_number_ha:
+vol_log_m3_ha:
   class: numeric
-volume_log_m3_ha:
+year:
   class: numeric
+survey_deadw:
+  class: logical

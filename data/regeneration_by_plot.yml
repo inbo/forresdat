@@ -1,5 +1,5 @@
 ..generic:
-  git2rdata: 0.2.0
+  git2rdata: 0.3.1
   optimize: yes
   NA string: NA
   sorting:
@@ -7,8 +7,8 @@
   - year
   - plot_id
   - subplot_id
-  hash: a7273b00729994edd1bde1c145ed5981deee80a0
-  data_hash: 4fc5952bea595cc07f838f63f0a2b64f27e4c437
+  hash: 89b3157d9d478684f58bbc00ecad003dcf109e14
+  data_hash: a1e7eae24ef57df1fde6cc7640cf3cb5921696ec
 plot_id:
   class: integer
 year:
@@ -23,3 +23,5 @@ max_number_of_trees_ha:
   class: numeric
 subplot_id:
   class: integer
+mean_number_of_trees_ha:
+  class: numeric
