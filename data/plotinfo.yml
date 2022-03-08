@@ -4,14 +4,13 @@
   NA string: NA
   sorting:
   - period
-  - year
   - plot_id
-  hash: f66c0a921fb8b4321bdccd5bf084fb0c800d4da6
-  data_hash: 84d616b3b7b68c750dbdbec186a8751ee1586792
+  hash: 0ca7e4db9d1807123da42ddaa5844cd9277f5cf3
+  data_hash: ceb06470a975bb0c97323315f90f7c28659a3ea6
 plot_id:
   class: integer
 plottype:
-  class: integer
+  class: character
 forest_reserve:
   class: character
 survey_trees:
@@ -27,6 +26,4 @@ data_processed:
 period:
   class: numeric
 survey_number:
-  class: numeric
-year:
   class: numeric
