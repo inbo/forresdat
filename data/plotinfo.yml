@@ -4,9 +4,10 @@
   NA string: NA
   sorting:
   - period
+  - year
   - plot_id
-  hash: 0ca7e4db9d1807123da42ddaa5844cd9277f5cf3
-  data_hash: ceb06470a975bb0c97323315f90f7c28659a3ea6
+  hash: 450b2d2db754c89e84f0c84745cbbb5e46a17cd7
+  data_hash: 345c22aa20eedb8df5bc1c83ec5ee80922122e98
 plot_id:
   class: integer
 plottype:
@@ -26,4 +27,6 @@ data_processed:
 period:
   class: numeric
 survey_number:
+  class: numeric
+year:
   class: numeric
