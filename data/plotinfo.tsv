@@ -1,89 +1,5 @@
-plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	data_processed	period	survey_number	year
+plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	data_processed	period	survey_number	year_dendro
 11000	CA	Kersselaerspleyn	1	0	0	0	1	0	1	1985
-200	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-204	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-205	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-206	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-207	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-209	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-210	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-211	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-212	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-213	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-214	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-215	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-216	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-217	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-218	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-219	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-220	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-221	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-223	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-224	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-225	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-226	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-227	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-228	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-229	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-2001	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2002	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2003	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2004	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2005	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2006	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2007	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2008	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2009	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2010	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2011	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2012	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2013	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2016	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2017	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2018	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2019	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2020	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2021	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2022	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2023	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2024	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2025	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2026	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2027	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2028	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2029	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2030	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2031	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2032	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2033	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2034	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2035	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2036	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2037	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2038	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2039	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2040	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2041	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2042	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2043	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2044	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2048	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2056	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2057	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2058	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2059	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2060	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2061	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2062	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2063	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2064	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2065	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-11000	CA	Kersselaerspleyn	1	0	1	1	1	1	2	2000
-31000	CA	Hannecart	1	1	1	1	1	1	1	2001
-41000	CA	Rodebos KV1	1	1	1	1	1	1	1	2001
-43000	CA	Rodebos KV2	1	1	1	1	1	1	1	2001
-51000	CA	Walenbos KV1	1	1	1	1	1	1	1	2001
-53000	CA	Walenbos OT	1	1	1	1	1	1	1	2001
 101	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
 102	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
 103	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
@@ -132,6 +48,35 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 146	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
 147	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
 148	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
+200	CP	Withoefse heide	1	1	1	1	1	1	1	1999
+201	CP	Withoefse heide	0	0	1	1	0	1	NA	NA
+202	CP	Withoefse heide	0	0	1	1	0	1	NA	NA
+203	CP	Withoefse heide	0	0	1	1	0	1	NA	NA
+204	CP	Withoefse heide	1	1	1	1	1	1	1	1999
+205	CP	Withoefse heide	1	1	1	1	1	1	1	1999
+206	CP	Withoefse heide	1	1	1	1	1	1	1	1999
+207	CP	Withoefse heide	1	1	1	1	1	1	1	1999
+208	CP	Withoefse heide	0	0	1	1	0	1	NA	NA
+209	CP	Withoefse heide	1	1	1	1	1	1	1	1999
+210	CP	Withoefse heide	1	1	1	1	1	1	1	1999
+211	CP	Withoefse heide	1	1	1	1	1	1	1	1999
+212	CP	Withoefse heide	1	1	1	1	1	1	1	1999
+213	CP	Withoefse heide	1	1	1	1	1	1	1	1999
+214	CP	Withoefse heide	1	1	1	1	1	1	1	1999
+215	CP	Withoefse heide	1	1	1	1	1	1	1	1999
+216	CP	Withoefse heide	1	1	1	1	1	1	1	1999
+217	CP	Withoefse heide	1	1	1	1	1	1	1	1999
+218	CP	Withoefse heide	1	1	1	1	1	1	1	1999
+219	CP	Withoefse heide	1	1	1	1	1	1	1	1999
+220	CP	Withoefse heide	1	1	1	1	1	1	1	1999
+221	CP	Withoefse heide	1	1	1	1	1	1	1	1999
+223	CP	Withoefse heide	1	1	1	1	1	1	1	1999
+224	CP	Withoefse heide	1	1	1	1	1	1	1	1999
+225	CP	Withoefse heide	1	1	1	1	1	1	1	1999
+226	CP	Withoefse heide	1	1	1	1	1	1	1	1999
+227	CP	Withoefse heide	1	1	1	1	1	1	1	1999
+228	CP	Withoefse heide	1	1	1	1	1	1	1	1999
+229	CP	Withoefse heide	1	1	1	1	1	1	1	1999
 400	CP	Wijnendalebos	1	1	1	1	0	1	1	2002
 401	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
 402	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
@@ -256,8 +201,6 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 521	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
 522	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
 523	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-71000	CA	Wijnendalebos	1	1	1	1	1	1	1	2002
-81000	CA	Everzwijnbad	1	1	1	1	1	1	1	2002
 701	CP	Heirnisse	1	1	1	1	1	1	1	2003
 702	CP	Heirnisse	1	1	1	1	1	1	1	2003
 703	CP	Heirnisse	1	1	1	1	1	1	1	2003
@@ -326,8 +269,6 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 766	CP	Heirnisse	1	1	1	1	1	1	1	2003
 767	CP	Heirnisse	1	1	1	1	1	1	1	2003
 768	CP	Heirnisse	1	1	1	1	1	1	1	2003
-823	CP	Jansheideberg	1	1	1	1	1	1	1	2003
-91000	CA	Heirnisse	1	1	1	1	1	1	1	2003
 801	CP	Jansheideberg	1	1	1	1	1	1	1	2004
 802	CP	Jansheideberg	1	1	1	1	1	1	1	2004
 803	CP	Jansheideberg	1	1	1	1	1	1	1	2004
@@ -350,6 +291,7 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 820	CP	Jansheideberg	1	1	1	1	1	1	1	2004
 821	CP	Jansheideberg	1	1	1	1	1	1	1	2004
 822	CP	Jansheideberg	1	1	1	1	1	1	1	2004
+823	CP	Jansheideberg	1	1	1	1	1	1	1	2003
 824	CP	Jansheideberg	1	1	1	1	1	1	1	2004
 825	CP	Jansheideberg	1	1	1	1	1	1	1	2004
 826	CP	Jansheideberg	1	1	1	1	1	1	1	2004
@@ -410,9 +352,6 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 888	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
 889	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
 890	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-101000	CA	Jansheideberg	1	1	1	1	1	1	1	2004
-171100	CA	Coolhem A	1	1	1	1	1	1	1	2004
-171200	CA	Coolhem Q	1	1	1	1	1	1	1	2004
 901	CP	Pruikemakers	1	1	1	1	1	1	1	2005
 902	CP	Pruikemakers	1	1	1	1	1	1	1	2005
 903	CP	Pruikemakers	1	1	1	1	1	1	1	2005
@@ -479,8 +418,6 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 964	CP	Pruikemakers	1	1	1	1	1	1	1	2005
 965	CP	Pruikemakers	1	1	1	1	1	1	1	2005
 966	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-111000	CA	Bos Terrijst	1	1	1	1	1	1	1	2005
-121000	CA	Pruikemakers	1	1	1	1	1	1	1	2005
 1003	CP	Liedekerke	1	1	1	1	1	1	1	2006
 1004	CP	Liedekerke	1	1	1	1	1	1	1	2006
 1005	CP	Liedekerke	1	1	1	1	1	1	1	2006
@@ -511,7 +448,6 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 1062	CP	Liedekerke	1	1	1	1	1	1	1	2006
 1063	CP	Liedekerke	1	1	1	1	1	1	1	2006
 1065	CP	Liedekerke	1	1	1	1	1	1	1	2006
-131000	CA	Liedekerke Transekt	1	1	1	1	0	1	1	2006
 1101	CP	Sevendonck	1	1	1	1	1	1	1	2007
 1102	CP	Sevendonck	1	1	1	1	1	1	1	2007
 1103	CP	Sevendonck	1	1	1	1	1	1	1	2007
@@ -636,14 +572,6 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 1244	CP	Muizenbos	1	1	1	1	1	1	1	2007
 1245	CP	Muizenbos	1	1	1	1	1	1	1	2007
 1246	CP	Muizenbos	1	1	1	1	1	1	1	2007
-141100	CA	Sevendonck A	1	1	1	1	0	1	1	2007
-141200	CA	Sevendonck Q	1	1	1	1	0	1	1	2007
-151000	CA	Muizenbos	1	1	1	1	1	1	1	2007
-21000	CA	Harras	1	1	1	1	1	1	1	2008
-201	CP	Withoefse heide	0	0	1	1	0	1	NA	NA
-202	CP	Withoefse heide	0	0	1	1	0	1	NA	NA
-203	CP	Withoefse heide	0	0	1	1	0	1	NA	NA
-208	CP	Withoefse heide	0	0	1	1	0	1	NA	NA
 1301	CP	Ename	0	0	0	0	0	1	NA	NA
 1302	CP	Ename	0	0	0	0	0	1	NA	NA
 1303	CP	Ename	0	0	0	0	0	1	NA	NA
@@ -929,17 +857,70 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 1730	CP	Kolmont	0	0	0	0	0	1	NA	NA
 1731	CP	Kolmont	0	0	0	0	0	1	NA	NA
 1732	CP	Kolmont	0	0	0	0	0	1	NA	NA
+2001	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2002	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2003	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2004	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2005	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2006	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2007	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2008	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2009	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2010	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2011	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2012	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2013	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
 2014	CP	Kersselaerspleyn	0	0	0	0	0	1	NA	NA
 2015	CP	Kersselaerspleyn	0	0	0	0	0	1	NA	NA
+2016	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2017	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2018	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2019	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2020	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2021	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2022	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2023	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2024	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2025	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2026	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2027	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2028	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2029	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2030	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2031	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2032	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2033	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2034	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2035	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2036	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2037	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2038	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2039	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2040	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2041	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2042	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2043	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2044	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
 2045	CP	Kersselaerspleyn	0	0	0	0	0	1	NA	NA
 2046	CP	Kersselaerspleyn	0	0	0	0	0	1	NA	NA
 2047	CP	Kersselaerspleyn	0	0	0	0	0	1	NA	NA
+2048	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
 2049	CP	Kersselaerspleyn	0	0	0	0	0	1	NA	NA
 2050	CP	Kersselaerspleyn	0	0	0	0	0	1	NA	NA
 2051	CP	Kersselaerspleyn	0	0	0	0	0	1	NA	NA
 2053	CP	Kersselaerspleyn	0	0	0	0	0	1	NA	NA
 2054	CP	Kersselaerspleyn	0	0	0	0	0	1	NA	NA
 2055	CP	Kersselaerspleyn	0	0	0	0	0	1	NA	NA
+2056	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2057	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2058	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2059	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2060	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2061	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2062	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2063	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2064	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
+2065	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
 2101	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
 2102	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
 2103	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
@@ -1026,102 +1007,25 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 2184	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
 2185	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
 2186	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2001	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
-2004	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
-2005	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
-2006	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
-2007	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
-2008	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
-2009	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
-2010	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
-2011	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
-2012	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
-2013	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
-2017	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
-2018	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
-2019	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
-2020	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
-11000	CA	Kersselaerspleyn	1	0	1	1	1	2	3	2009
-2002	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2003	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2014	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010
-2015	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010
-2016	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2021	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2022	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2023	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2024	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2025	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2026	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2027	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2028	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2029	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2030	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2031	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2032	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2033	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2034	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2035	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2036	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2037	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2038	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2039	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2040	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2041	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2042	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2043	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2044	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2045	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010
-2046	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010
-2047	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010
-2048	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2049	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010
-2050	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010
-2051	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010
-2053	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010
-2054	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010
-2055	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010
-2056	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2057	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2058	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2059	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2060	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2061	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2062	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2063	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2064	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2065	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-200	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-201	CP	Withoefse heide	0	0	0	0	0	2	NA	2011
-204	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-205	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-206	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-207	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-209	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-210	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-211	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-212	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-213	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-214	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-215	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-216	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-217	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-218	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-219	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-220	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-221	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-223	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-224	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-225	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-226	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-227	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-228	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-229	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-31000	CA	Hannecart	1	1	1	1	1	2	2	2011
-41000	CA	Rodebos KV1	1	1	1	1	1	2	2	2011
-43000	CA	Rodebos KV2	1	1	1	1	1	2	2	2011
-51000	CA	Walenbos KV1	1	1	1	1	1	2	2	2011
-53000	CA	Walenbos OT	1	1	1	1	1	2	2	2011
+11000	CA	Kersselaerspleyn	1	0	1	1	1	1	2	2000
+21000	CA	Harras	1	1	1	1	1	1	1	2008
+31000	CA	Hannecart	1	1	1	1	1	1	1	2001
+41000	CA	Rodebos KV1	1	1	1	1	1	1	1	2001
+43000	CA	Rodebos KV2	1	1	1	1	1	1	1	2001
+51000	CA	Walenbos KV1	1	1	1	1	1	1	1	2001
+53000	CA	Walenbos OT	1	1	1	1	1	1	1	2001
+71000	CA	Wijnendalebos	1	1	1	1	1	1	1	2002
+81000	CA	Everzwijnbad	1	1	1	1	1	1	1	2002
+91000	CA	Heirnisse	1	1	1	1	1	1	1	2003
+101000	CA	Jansheideberg	1	1	1	1	1	1	1	2004
+111000	CA	Bos Terrijst	1	1	1	1	1	1	1	2005
+121000	CA	Pruikemakers	1	1	1	1	1	1	1	2005
+131000	CA	Liedekerke Transekt	1	1	1	1	0	1	1	2006
+141100	CA	Sevendonck A	1	1	1	1	0	1	1	2007
+141200	CA	Sevendonck Q	1	1	1	1	0	1	1	2007
+151000	CA	Muizenbos	1	1	1	1	1	1	1	2007
+171100	CA	Coolhem A	1	1	1	1	1	1	1	2004
+171200	CA	Coolhem Q	1	1	1	1	1	1	1	2004
 101	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
 102	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
 103	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
@@ -1170,6 +1074,36 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 146	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
 147	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
 148	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
+200	CP	Withoefse heide	1	1	0	1	1	2	2	2011
+201	CP	Withoefse heide	0	0	0	0	0	2	NA	2011
+202	CP	Withoefse heide	0	0	0	0	0	2	NA	NA
+203	CP	Withoefse heide	0	0	0	0	0	2	NA	NA
+204	CP	Withoefse heide	1	1	0	1	1	2	2	2011
+205	CP	Withoefse heide	1	1	0	1	1	2	2	2011
+206	CP	Withoefse heide	1	1	0	1	1	2	2	2011
+207	CP	Withoefse heide	1	1	0	1	1	2	2	2011
+208	CP	Withoefse heide	0	0	0	0	0	2	NA	NA
+209	CP	Withoefse heide	1	1	0	1	1	2	2	2011
+210	CP	Withoefse heide	1	1	0	1	1	2	2	2011
+211	CP	Withoefse heide	1	1	0	1	1	2	2	2011
+212	CP	Withoefse heide	1	1	0	1	1	2	2	2011
+213	CP	Withoefse heide	1	1	0	1	1	2	2	2011
+214	CP	Withoefse heide	1	1	0	1	1	2	2	2011
+215	CP	Withoefse heide	1	1	0	1	1	2	2	2011
+216	CP	Withoefse heide	1	1	0	1	1	2	2	2011
+217	CP	Withoefse heide	1	1	0	1	1	2	2	2011
+218	CP	Withoefse heide	1	1	0	1	1	2	2	2011
+219	CP	Withoefse heide	1	1	0	1	1	2	2	2011
+220	CP	Withoefse heide	1	1	0	1	1	2	2	2011
+221	CP	Withoefse heide	1	1	0	1	1	2	2	2011
+223	CP	Withoefse heide	1	1	0	1	1	2	2	2011
+224	CP	Withoefse heide	1	1	0	1	1	2	2	2011
+225	CP	Withoefse heide	1	1	0	1	1	2	2	2011
+226	CP	Withoefse heide	1	1	0	1	1	2	2	2011
+227	CP	Withoefse heide	1	1	0	1	1	2	2	2011
+228	CP	Withoefse heide	1	1	0	1	1	2	2	2011
+229	CP	Withoefse heide	1	1	0	1	1	2	2	2011
+400	CP	Wijnendalebos	0	0	1	1	0	2	NA	NA
 401	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
 402	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
 403	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
@@ -1193,7 +1127,9 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 421	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
 422	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
 423	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
+424	CP	Wijnendalebos	0	0	1	1	0	2	NA	NA
 425	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
+426	CP	Wijnendalebos	0	0	1	1	0	2	NA	NA
 427	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
 428	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
 429	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
@@ -1249,6 +1185,7 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 479	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
 480	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
 481	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
+482	CP	Wijnendalebos	0	0	0	0	0	2	NA	NA
 483	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
 484	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
 485	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
@@ -1290,9 +1227,7 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 521	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
 522	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
 523	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-827	CP	Jansheideberg	1	1	1	1	1	2	2	2012
-71000	CA	Wijnendalebos	1	1	1	1	1	2	2	2012
-81000	CA	Everzwijnbad	1	1	1	1	1	2	2	2012
+701	CP	Heirnisse	1	1	1	1	1	2	2	2014
 702	CP	Heirnisse	1	1	1	1	1	2	2	2013
 703	CP	Heirnisse	1	1	1	1	1	2	2	2013
 704	CP	Heirnisse	1	1	1	1	1	2	2	2013
@@ -1300,6 +1235,7 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 706	CP	Heirnisse	1	1	1	1	1	2	2	2013
 707	CP	Heirnisse	1	1	1	1	1	2	2	2013
 708	CP	Heirnisse	1	1	1	1	1	2	2	2013
+709	CP	Heirnisse	1	1	1	1	1	2	2	2014
 710	CP	Heirnisse	1	1	1	1	1	2	2	2013
 711	CP	Heirnisse	1	1	1	1	1	2	2	2013
 712	CP	Heirnisse	1	1	1	1	1	2	2	2013
@@ -1328,6 +1264,9 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 735	CP	Heirnisse	1	1	1	1	1	2	2	2013
 736	CP	Heirnisse	1	1	1	1	1	2	2	2013
 737	CP	Heirnisse	1	1	1	1	1	2	2	2013
+738	CP	Heirnisse	1	1	1	1	1	2	2	2014
+739	CP	Heirnisse	1	1	1	1	1	2	2	2014
+740	CP	Heirnisse	1	1	1	1	1	2	2	2014
 741	CP	Heirnisse	1	1	1	1	1	2	2	2013
 742	CP	Heirnisse	1	1	1	1	1	2	2	2013
 743	CP	Heirnisse	1	1	1	1	1	2	2	2013
@@ -1382,19 +1321,13 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 824	CP	Jansheideberg	1	1	1	1	1	2	2	2013
 825	CP	Jansheideberg	1	1	1	1	1	2	2	2013
 826	CP	Jansheideberg	1	1	1	1	1	2	2	2013
+827	CP	Jansheideberg	1	1	1	1	1	2	2	2012
 828	CP	Jansheideberg	1	1	1	1	1	2	2	2013
 829	CP	Jansheideberg	1	1	1	1	1	2	2	2013
 830	CP	Jansheideberg	1	1	1	1	1	2	2	2013
 831	CP	Jansheideberg	1	1	1	1	1	2	2	2013
 832	CP	Jansheideberg	1	1	1	1	1	2	2	2013
 833	CP	Jansheideberg	1	1	1	1	1	2	2	2013
-91000	CA	Heirnisse	1	1	1	1	1	2	2	2013
-101000	CA	Jansheideberg	1	1	1	1	1	2	2	2013
-701	CP	Heirnisse	1	1	1	1	1	2	2	2014
-709	CP	Heirnisse	1	1	1	1	1	2	2	2014
-738	CP	Heirnisse	1	1	1	1	1	2	2	2014
-739	CP	Heirnisse	1	1	1	1	1	2	2	2014
-740	CP	Heirnisse	1	1	1	1	1	2	2	2014
 841	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
 842	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
 843	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
@@ -1445,82 +1378,6 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 888	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
 889	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
 890	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-1301	CP	Ename	1	1	1	1	1	2	1	2014
-1302	CP	Ename	1	1	1	1	1	2	1	2014
-1303	CP	Ename	1	1	1	1	1	2	1	2014
-1304	CP	Ename	1	1	1	1	1	2	1	2014
-1305	CP	Ename	1	1	1	1	1	2	1	2014
-1306	CP	Ename	1	1	1	1	1	2	1	2014
-1307	CP	Ename	1	1	1	1	1	2	1	2014
-1308	CP	Ename	1	1	1	1	1	2	1	2014
-1309	CP	Ename	1	1	1	1	1	2	1	2014
-1310	CP	Ename	1	1	1	1	1	2	1	2014
-1311	CP	Ename	1	1	1	1	1	2	1	2014
-1312	CP	Ename	1	1	1	1	1	2	1	2014
-1313	CP	Ename	1	1	1	1	1	2	1	2014
-1314	CP	Ename	1	1	1	1	1	2	1	2014
-1315	CP	Ename	1	1	1	1	1	2	1	2014
-1316	CP	Ename	1	1	1	1	1	2	1	2014
-1317	CP	Ename	1	1	1	1	1	2	1	2014
-1318	CP	Ename	1	1	1	1	1	2	1	2014
-1319	CP	Ename	1	1	1	1	1	2	1	2014
-1320	CP	Ename	1	1	1	1	1	2	1	2014
-1321	CP	Ename	1	1	1	1	1	2	1	2014
-1322	CP	Ename	1	1	1	1	1	2	1	2014
-1323	CP	Ename	1	1	1	1	1	2	1	2014
-1324	CP	Ename	1	1	1	1	1	2	1	2014
-1325	CP	Ename	1	1	1	1	1	2	1	2014
-1326	CP	Ename	1	1	1	1	1	2	1	2014
-1327	CP	Ename	1	1	1	1	1	2	1	2014
-1328	CP	Ename	1	1	1	1	1	2	1	2014
-1329	CP	Ename	1	1	1	1	1	2	1	2014
-1330	CP	Ename	1	1	1	1	1	2	1	2014
-1331	CP	Ename	1	1	1	1	1	2	1	2014
-1332	CP	Ename	1	1	1	1	1	2	1	2014
-1333	CP	Ename	1	1	1	1	1	2	1	2014
-1334	CP	Ename	1	1	1	1	1	2	1	2014
-1335	CP	Ename	1	1	1	1	1	2	1	2014
-1336	CP	Ename	1	1	1	1	1	2	1	2014
-1337	CP	Ename	1	1	1	1	1	2	1	2014
-1338	CP	Ename	1	1	1	1	1	2	1	2014
-1339	CP	Ename	1	1	1	1	1	2	1	2014
-1340	CP	Ename	1	1	1	1	1	2	1	2014
-1341	CP	Ename	1	1	1	1	1	2	1	2014
-1342	CP	Ename	1	1	1	1	1	2	1	2014
-1343	CP	Ename	1	1	1	1	1	2	1	2014
-1344	CP	Ename	1	1	1	1	1	2	1	2014
-1345	CP	Ename	1	1	1	1	1	2	1	2014
-1346	CP	Ename	1	1	1	1	1	2	1	2014
-1347	CP	Ename	1	1	1	1	1	2	1	2014
-1348	CP	Ename	1	1	1	1	1	2	1	2014
-1349	CP	Ename	1	1	1	1	1	2	1	2014
-1350	CP	Ename	1	1	1	1	1	2	1	2014
-1351	CP	Ename	1	1	1	1	1	2	1	2014
-1352	CP	Ename	1	1	1	1	1	2	1	2014
-1353	CP	Ename	1	1	1	1	1	2	1	2014
-1354	CP	Ename	1	1	1	1	1	2	1	2014
-1355	CP	Ename	1	1	1	1	1	2	1	2014
-1356	CP	Ename	1	1	1	1	1	2	1	2014
-1357	CP	Ename	1	1	1	1	1	2	1	2014
-1358	CP	Ename	1	1	1	1	1	2	1	2014
-1359	CP	Ename	1	1	1	1	1	2	1	2014
-1360	CP	Ename	1	1	1	1	1	2	1	2014
-1361	CP	Ename	1	1	1	1	1	2	1	2014
-1362	CP	Ename	1	1	1	1	1	2	1	2014
-1363	CP	Ename	1	1	1	1	1	2	1	2014
-1364	CP	Ename	1	1	1	1	1	2	1	2014
-1365	CP	Ename	1	1	1	1	1	2	1	2014
-1366	CP	Ename	1	1	1	1	1	2	1	2014
-1367	CP	Ename	1	1	1	1	1	2	1	2014
-1368	CP	Ename	1	1	1	1	1	2	1	2014
-1369	CP	Ename	1	1	1	1	1	2	1	2014
-1370	CP	Ename	1	1	1	1	1	2	1	2014
-1371	CP	Ename	1	1	1	1	1	2	1	2014
-1372	CP	Ename	1	1	1	1	1	2	1	2014
-1373	CP	Ename	1	1	1	1	1	2	1	2014
-111000	CA	Bos Terrijst	1	1	1	1	1	2	2	2014
-171100	CA	Coolhem A	1	1	1	1	1	2	2	2014
-171200	CA	Coolhem Q	1	1	1	1	1	2	2	2014
 901	CP	Pruikemakers	1	1	1	1	1	2	2	2015
 902	CP	Pruikemakers	1	1	1	1	1	2	2	2015
 903	CP	Pruikemakers	1	1	1	1	1	2	2	2015
@@ -1587,7 +1444,6 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 964	CP	Pruikemakers	1	1	1	1	1	2	2	2015
 965	CP	Pruikemakers	1	1	1	1	1	2	2	2015
 966	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-121000	CA	Pruikemakers	1	1	1	1	1	2	2	2015
 1003	CP	Liedekerke	1	1	1	1	1	2	2	2016
 1004	CP	Liedekerke	1	1	1	1	1	2	2	2016
 1005	CP	Liedekerke	1	1	1	1	1	2	2	2016
@@ -1696,6 +1552,125 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 1176	CP	Sevendonck	1	1	1	1	1	2	2	2016
 1177	CP	Sevendonck	1	1	1	1	1	2	2	2016
 1178	CP	Sevendonck	1	1	1	1	1	2	2	2016
+1201	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1202	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1203	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1204	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1205	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1206	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1207	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1208	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1209	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1210	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1211	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1212	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1213	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1214	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1215	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1216	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1217	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1218	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1219	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1220	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1221	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1222	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1223	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1224	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1225	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1226	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1227	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1228	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1229	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1230	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1231	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1232	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1233	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1234	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1235	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1236	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1237	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1238	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1239	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1240	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1241	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1242	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1243	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1244	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1245	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1246	CP	Muizenbos	1	1	1	1	1	2	2	2017
+1301	CP	Ename	1	1	1	1	1	2	1	2014
+1302	CP	Ename	1	1	1	1	1	2	1	2014
+1303	CP	Ename	1	1	1	1	1	2	1	2014
+1304	CP	Ename	1	1	1	1	1	2	1	2014
+1305	CP	Ename	1	1	1	1	1	2	1	2014
+1306	CP	Ename	1	1	1	1	1	2	1	2014
+1307	CP	Ename	1	1	1	1	1	2	1	2014
+1308	CP	Ename	1	1	1	1	1	2	1	2014
+1309	CP	Ename	1	1	1	1	1	2	1	2014
+1310	CP	Ename	1	1	1	1	1	2	1	2014
+1311	CP	Ename	1	1	1	1	1	2	1	2014
+1312	CP	Ename	1	1	1	1	1	2	1	2014
+1313	CP	Ename	1	1	1	1	1	2	1	2014
+1314	CP	Ename	1	1	1	1	1	2	1	2014
+1315	CP	Ename	1	1	1	1	1	2	1	2014
+1316	CP	Ename	1	1	1	1	1	2	1	2014
+1317	CP	Ename	1	1	1	1	1	2	1	2014
+1318	CP	Ename	1	1	1	1	1	2	1	2014
+1319	CP	Ename	1	1	1	1	1	2	1	2014
+1320	CP	Ename	1	1	1	1	1	2	1	2014
+1321	CP	Ename	1	1	1	1	1	2	1	2014
+1322	CP	Ename	1	1	1	1	1	2	1	2014
+1323	CP	Ename	1	1	1	1	1	2	1	2014
+1324	CP	Ename	1	1	1	1	1	2	1	2014
+1325	CP	Ename	1	1	1	1	1	2	1	2014
+1326	CP	Ename	1	1	1	1	1	2	1	2014
+1327	CP	Ename	1	1	1	1	1	2	1	2014
+1328	CP	Ename	1	1	1	1	1	2	1	2014
+1329	CP	Ename	1	1	1	1	1	2	1	2014
+1330	CP	Ename	1	1	1	1	1	2	1	2014
+1331	CP	Ename	1	1	1	1	1	2	1	2014
+1332	CP	Ename	1	1	1	1	1	2	1	2014
+1333	CP	Ename	1	1	1	1	1	2	1	2014
+1334	CP	Ename	1	1	1	1	1	2	1	2014
+1335	CP	Ename	1	1	1	1	1	2	1	2014
+1336	CP	Ename	1	1	1	1	1	2	1	2014
+1337	CP	Ename	1	1	1	1	1	2	1	2014
+1338	CP	Ename	1	1	1	1	1	2	1	2014
+1339	CP	Ename	1	1	1	1	1	2	1	2014
+1340	CP	Ename	1	1	1	1	1	2	1	2014
+1341	CP	Ename	1	1	1	1	1	2	1	2014
+1342	CP	Ename	1	1	1	1	1	2	1	2014
+1343	CP	Ename	1	1	1	1	1	2	1	2014
+1344	CP	Ename	1	1	1	1	1	2	1	2014
+1345	CP	Ename	1	1	1	1	1	2	1	2014
+1346	CP	Ename	1	1	1	1	1	2	1	2014
+1347	CP	Ename	1	1	1	1	1	2	1	2014
+1348	CP	Ename	1	1	1	1	1	2	1	2014
+1349	CP	Ename	1	1	1	1	1	2	1	2014
+1350	CP	Ename	1	1	1	1	1	2	1	2014
+1351	CP	Ename	1	1	1	1	1	2	1	2014
+1352	CP	Ename	1	1	1	1	1	2	1	2014
+1353	CP	Ename	1	1	1	1	1	2	1	2014
+1354	CP	Ename	1	1	1	1	1	2	1	2014
+1355	CP	Ename	1	1	1	1	1	2	1	2014
+1356	CP	Ename	1	1	1	1	1	2	1	2014
+1357	CP	Ename	1	1	1	1	1	2	1	2014
+1358	CP	Ename	1	1	1	1	1	2	1	2014
+1359	CP	Ename	1	1	1	1	1	2	1	2014
+1360	CP	Ename	1	1	1	1	1	2	1	2014
+1361	CP	Ename	1	1	1	1	1	2	1	2014
+1362	CP	Ename	1	1	1	1	1	2	1	2014
+1363	CP	Ename	1	1	1	1	1	2	1	2014
+1364	CP	Ename	1	1	1	1	1	2	1	2014
+1365	CP	Ename	1	1	1	1	1	2	1	2014
+1366	CP	Ename	1	1	1	1	1	2	1	2014
+1367	CP	Ename	1	1	1	1	1	2	1	2014
+1368	CP	Ename	1	1	1	1	1	2	1	2014
+1369	CP	Ename	1	1	1	1	1	2	1	2014
+1370	CP	Ename	1	1	1	1	1	2	1	2014
+1371	CP	Ename	1	1	1	1	1	2	1	2014
+1372	CP	Ename	1	1	1	1	1	2	1	2014
+1373	CP	Ename	1	1	1	1	1	2	1	2014
 1401	CP	De heide	1	1	1	1	1	2	1	2016
 1402	CP	De heide	1	1	1	1	1	2	1	2016
 1403	CP	De heide	1	1	1	1	1	2	1	2016
@@ -1748,56 +1723,6 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 1450	CP	De heide	1	1	1	1	1	2	1	2016
 1451	CP	De heide	1	1	1	1	1	2	1	2016
 1452	CP	De heide	1	1	1	1	1	2	1	2016
-131000	CA	Liedekerke Transekt	1	1	1	1	0	2	2	2016
-141100	CA	Sevendonck A	1	1	1	1	0	2	2	2016
-141200	CA	Sevendonck Q	1	1	1	1	0	2	2	2016
-1201	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1202	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1203	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1204	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1205	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1206	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1207	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1208	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1209	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1210	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1211	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1212	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1213	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1214	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1215	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1216	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1217	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1218	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1219	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1220	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1221	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1222	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1223	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1224	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1225	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1226	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1227	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1228	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1229	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1230	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1231	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1232	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1233	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1234	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1235	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1236	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1237	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1238	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1239	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1240	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1241	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1242	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1243	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1244	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1245	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1246	CP	Muizenbos	1	1	1	1	1	2	2	2017
-151000	CA	Muizenbos	1	1	1	1	1	2	2	2017
 1501	CP	Kluisbos	1	1	1	1	1	2	1	2018
 1502	CP	Kluisbos	1	1	1	1	1	2	1	2018
 1503	CP	Kluisbos	1	1	1	1	1	2	1	2018
@@ -1926,14 +1851,6 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 1626	CP	Kluisbos	1	0	1	1	1	2	1	2018
 1627	CP	Kluisbos	1	0	1	1	1	2	1	2018
 1628	CP	Kluisbos	1	0	1	1	1	2	1	2018
-21000	CA	Harras	1	1	1	1	1	2	2	2018
-202	CP	Withoefse heide	0	0	0	0	0	2	NA	NA
-203	CP	Withoefse heide	0	0	0	0	0	2	NA	NA
-208	CP	Withoefse heide	0	0	0	0	0	2	NA	NA
-400	CP	Wijnendalebos	0	0	1	1	0	2	NA	NA
-424	CP	Wijnendalebos	0	0	1	1	0	2	NA	NA
-426	CP	Wijnendalebos	0	0	1	1	0	2	NA	NA
-482	CP	Wijnendalebos	0	0	0	0	0	2	NA	NA
 1701	CP	Kolmont	0	0	0	0	0	2	NA	NA
 1702	CP	Kolmont	0	0	0	0	0	2	NA	NA
 1703	CP	Kolmont	0	0	0	0	0	2	NA	NA
@@ -1966,6 +1883,70 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 1730	CP	Kolmont	0	0	0	0	0	2	NA	NA
 1731	CP	Kolmont	0	0	0	0	0	2	NA	NA
 1732	CP	Kolmont	0	0	0	0	0	2	NA	NA
+2001	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
+2002	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
+2003	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
+2004	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
+2005	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
+2006	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
+2007	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
+2008	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
+2009	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
+2010	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
+2011	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
+2012	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
+2013	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
+2014	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010
+2015	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010
+2016	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
+2017	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
+2018	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
+2019	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
+2020	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
+2021	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
+2022	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
+2023	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
+2024	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
+2025	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
+2026	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
+2027	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
+2028	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
+2029	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
+2030	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
+2031	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
+2032	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
+2033	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
+2034	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
+2035	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
+2036	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
+2037	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
+2038	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
+2039	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
+2040	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
+2041	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
+2042	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
+2043	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
+2044	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
+2045	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010
+2046	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010
+2047	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010
+2048	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
+2049	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010
+2050	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010
+2051	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010
+2053	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010
+2054	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010
+2055	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010
+2056	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
+2057	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
+2058	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
+2059	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
+2060	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
+2061	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
+2062	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
+2063	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
+2064	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
+2065	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
 2101	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
 2102	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
 2103	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
@@ -2052,8 +2033,150 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 2184	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
 2185	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
 2186	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
+11000	CA	Kersselaerspleyn	1	0	1	1	1	2	3	2009
+21000	CA	Harras	1	1	1	1	1	2	2	2018
+31000	CA	Hannecart	1	1	1	1	1	2	2	2011
+41000	CA	Rodebos KV1	1	1	1	1	1	2	2	2011
+43000	CA	Rodebos KV2	1	1	1	1	1	2	2	2011
+51000	CA	Walenbos KV1	1	1	1	1	1	2	2	2011
+53000	CA	Walenbos OT	1	1	1	1	1	2	2	2011
+71000	CA	Wijnendalebos	1	1	1	1	1	2	2	2012
+81000	CA	Everzwijnbad	1	1	1	1	1	2	2	2012
+91000	CA	Heirnisse	1	1	1	1	1	2	2	2013
+101000	CA	Jansheideberg	1	1	1	1	1	2	2	2013
+111000	CA	Bos Terrijst	1	1	1	1	1	2	2	2014
+121000	CA	Pruikemakers	1	1	1	1	1	2	2	2015
+131000	CA	Liedekerke Transekt	1	1	1	1	0	2	2	2016
+141100	CA	Sevendonck A	1	1	1	1	0	2	2	2016
+141200	CA	Sevendonck Q	1	1	1	1	0	2	2	2016
+151000	CA	Muizenbos	1	1	1	1	1	2	2	2017
+171100	CA	Coolhem A	1	1	1	1	1	2	2	2014
+171200	CA	Coolhem Q	1	1	1	1	1	2	2	2014
+200	CP	Withoefse heide	1	1	1	1	0	3	3	2021
+201	CP	Withoefse heide	0	0	0	0	0	3	NA	NA
+202	CP	Withoefse heide	0	0	0	0	0	3	NA	NA
+203	CP	Withoefse heide	0	0	0	0	0	3	NA	NA
+204	CP	Withoefse heide	1	1	1	1	0	3	3	2021
+205	CP	Withoefse heide	1	1	1	1	0	3	3	2021
+206	CP	Withoefse heide	1	1	1	1	0	3	3	2021
+207	CP	Withoefse heide	1	1	1	1	0	3	3	2021
+208	CP	Withoefse heide	0	0	0	0	0	3	NA	NA
+209	CP	Withoefse heide	1	1	1	1	0	3	3	2021
+210	CP	Withoefse heide	1	1	1	1	0	3	3	2021
+211	CP	Withoefse heide	1	1	1	1	0	3	3	2021
+212	CP	Withoefse heide	1	1	1	1	0	3	3	2021
+213	CP	Withoefse heide	1	1	1	1	0	3	3	2021
+214	CP	Withoefse heide	1	1	1	1	0	3	3	2021
+215	CP	Withoefse heide	1	1	1	1	0	3	3	2021
+216	CP	Withoefse heide	1	1	1	1	0	3	3	2021
+217	CP	Withoefse heide	1	1	1	1	0	3	3	2021
+218	CP	Withoefse heide	1	1	1	1	0	3	3	2021
+219	CP	Withoefse heide	1	1	1	1	0	3	3	2021
+220	CP	Withoefse heide	1	1	1	1	0	3	3	2021
+221	CP	Withoefse heide	1	1	1	1	0	3	3	2021
+223	CP	Withoefse heide	1	1	1	1	0	3	3	2021
+224	CP	Withoefse heide	1	1	1	1	0	3	3	2021
+225	CP	Withoefse heide	1	1	1	1	0	3	3	2021
+226	CP	Withoefse heide	1	1	1	1	0	3	3	2021
+227	CP	Withoefse heide	1	1	1	1	0	3	3	2021
+228	CP	Withoefse heide	1	1	1	1	0	3	3	2021
+229	CP	Withoefse heide	1	1	1	1	0	3	3	2021
+1701	CP	Kolmont	1	1	1	1	1	3	1	2020
+1702	CP	Kolmont	1	1	1	1	1	3	1	2020
+1703	CP	Kolmont	1	1	1	1	1	3	1	2020
+1704	CP	Kolmont	1	1	1	1	1	3	1	2020
+1705	CP	Kolmont	1	1	1	1	1	3	1	2020
+1706	CP	Kolmont	1	1	1	1	1	3	1	2020
+1707	CP	Kolmont	1	1	1	1	1	3	1	2020
+1708	CP	Kolmont	1	1	1	1	1	3	1	2020
+1709	CP	Kolmont	1	1	1	1	1	3	1	2020
+1710	CP	Kolmont	1	1	1	1	1	3	1	2020
+1711	CP	Kolmont	1	1	1	1	1	3	1	2020
+1712	CP	Kolmont	1	1	1	1	1	3	1	2020
+1713	CP	Kolmont	1	1	1	1	1	3	1	2020
+1714	CP	Kolmont	1	1	1	1	1	3	1	2020
+1715	CP	Kolmont	1	1	1	1	1	3	1	2020
 1716	CP	Kolmont	1	1	1	1	1	3	1	2019
+1717	CP	Kolmont	1	1	1	1	1	3	1	2020
+1718	CP	Kolmont	1	1	1	1	1	3	1	2020
+1719	CP	Kolmont	1	1	1	1	1	3	1	2020
+1720	CP	Kolmont	1	1	1	1	1	3	1	2020
+1721	CP	Kolmont	1	1	1	1	1	3	1	2020
+1722	CP	Kolmont	1	1	1	1	1	3	1	2020
+1723	CP	Kolmont	1	1	1	1	1	3	1	2020
+1724	CP	Kolmont	1	1	1	1	1	3	1	2020
+1725	CP	Kolmont	1	1	1	1	1	3	1	2020
+1726	CP	Kolmont	1	1	1	1	1	3	1	2020
+1727	CP	Kolmont	1	1	1	1	1	3	1	2020
+1728	CP	Kolmont	1	1	1	1	1	3	1	2020
+1729	CP	Kolmont	1	1	1	1	1	3	1	2020
+1730	CP	Kolmont	1	1	1	1	1	3	1	2020
+1731	CP	Kolmont	1	1	1	1	1	3	1	2020
+1732	CP	Kolmont	1	1	1	1	1	3	1	2020
+2001	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2002	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2003	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2004	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2005	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2006	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2007	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2008	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2009	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2010	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2011	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2012	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2013	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2014	CP	Kersselaerspleyn	1	1	0	0	1	3	2	2020
+2015	CP	Kersselaerspleyn	1	1	0	0	1	3	2	2020
+2016	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2017	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2018	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2019	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2020	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2021	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2022	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2023	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2024	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2025	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2026	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2027	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2028	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2029	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2030	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2031	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2032	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2033	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2034	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2035	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2036	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2037	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2038	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
 2039	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2019
+2040	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2041	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2042	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2043	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2044	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2045	CP	Kersselaerspleyn	1	1	0	0	1	3	2	2020
+2046	CP	Kersselaerspleyn	1	1	0	0	1	3	2	2020
+2047	CP	Kersselaerspleyn	1	1	0	0	1	3	2	2020
+2048	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2049	CP	Kersselaerspleyn	1	1	0	0	1	3	2	2020
+2050	CP	Kersselaerspleyn	1	1	0	0	1	3	2	2020
+2051	CP	Kersselaerspleyn	1	1	0	0	1	3	2	2020
+2053	CP	Kersselaerspleyn	1	1	0	0	1	3	2	2020
+2054	CP	Kersselaerspleyn	1	1	0	0	1	3	2	2020
+2055	CP	Kersselaerspleyn	1	1	0	0	1	3	2	2020
+2056	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2057	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2058	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2059	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2060	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2061	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2062	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2063	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2064	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
+2065	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
 2101	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
 2102	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
 2103	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
@@ -2140,132 +2263,9 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 2184	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
 2185	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
 2186	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-1701	CP	Kolmont	1	1	1	1	1	3	1	2020
-1702	CP	Kolmont	1	1	1	1	1	3	1	2020
-1703	CP	Kolmont	1	1	1	1	1	3	1	2020
-1704	CP	Kolmont	1	1	1	1	1	3	1	2020
-1705	CP	Kolmont	1	1	1	1	1	3	1	2020
-1706	CP	Kolmont	1	1	1	1	1	3	1	2020
-1707	CP	Kolmont	1	1	1	1	1	3	1	2020
-1708	CP	Kolmont	1	1	1	1	1	3	1	2020
-1709	CP	Kolmont	1	1	1	1	1	3	1	2020
-1710	CP	Kolmont	1	1	1	1	1	3	1	2020
-1711	CP	Kolmont	1	1	1	1	1	3	1	2020
-1712	CP	Kolmont	1	1	1	1	1	3	1	2020
-1713	CP	Kolmont	1	1	1	1	1	3	1	2020
-1714	CP	Kolmont	1	1	1	1	1	3	1	2020
-1715	CP	Kolmont	1	1	1	1	1	3	1	2020
-1717	CP	Kolmont	1	1	1	1	1	3	1	2020
-1718	CP	Kolmont	1	1	1	1	1	3	1	2020
-1719	CP	Kolmont	1	1	1	1	1	3	1	2020
-1720	CP	Kolmont	1	1	1	1	1	3	1	2020
-1721	CP	Kolmont	1	1	1	1	1	3	1	2020
-1722	CP	Kolmont	1	1	1	1	1	3	1	2020
-1723	CP	Kolmont	1	1	1	1	1	3	1	2020
-1724	CP	Kolmont	1	1	1	1	1	3	1	2020
-1725	CP	Kolmont	1	1	1	1	1	3	1	2020
-1726	CP	Kolmont	1	1	1	1	1	3	1	2020
-1727	CP	Kolmont	1	1	1	1	1	3	1	2020
-1728	CP	Kolmont	1	1	1	1	1	3	1	2020
-1729	CP	Kolmont	1	1	1	1	1	3	1	2020
-1730	CP	Kolmont	1	1	1	1	1	3	1	2020
-1731	CP	Kolmont	1	1	1	1	1	3	1	2020
-1732	CP	Kolmont	1	1	1	1	1	3	1	2020
-2001	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2002	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2003	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2004	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2005	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2006	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2007	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2008	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2009	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2010	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2011	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2012	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2013	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2014	CP	Kersselaerspleyn	1	1	0	0	1	3	2	2020
-2015	CP	Kersselaerspleyn	1	1	0	0	1	3	2	2020
-2016	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2017	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2018	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2019	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2020	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2021	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2022	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2023	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2024	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2025	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2026	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2027	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2028	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2029	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2030	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2031	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2032	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2033	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2034	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2035	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2036	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2037	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2038	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2040	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2041	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2042	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2043	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2044	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2045	CP	Kersselaerspleyn	1	1	0	0	1	3	2	2020
-2046	CP	Kersselaerspleyn	1	1	0	0	1	3	2	2020
-2047	CP	Kersselaerspleyn	1	1	0	0	1	3	2	2020
-2048	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2049	CP	Kersselaerspleyn	1	1	0	0	1	3	2	2020
-2050	CP	Kersselaerspleyn	1	1	0	0	1	3	2	2020
-2051	CP	Kersselaerspleyn	1	1	0	0	1	3	2	2020
-2053	CP	Kersselaerspleyn	1	1	0	0	1	3	2	2020
-2054	CP	Kersselaerspleyn	1	1	0	0	1	3	2	2020
-2055	CP	Kersselaerspleyn	1	1	0	0	1	3	2	2020
-2056	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2057	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2058	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2059	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2060	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2061	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2062	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2063	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2064	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2065	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
 11000	CA	Kersselaerspleyn	1	0	0	0	1	3	4	2020
-200	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-204	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-205	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-206	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-207	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-209	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-210	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-211	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-212	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-213	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-214	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-215	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-216	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-217	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-218	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-219	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-220	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-221	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-223	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-224	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-225	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-226	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-227	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-228	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-229	CP	Withoefse heide	1	1	1	1	0	3	3	2021
 31000	CA	Hannecartbos	1	1	1	1	0	3	1	2021
 41000	CA	Rodebos KV1	1	1	1	1	0	3	3	2021
 43000	CA	Rodebos	1	1	1	1	0	3	1	2021
-201	CP	Withoefse heide	0	0	0	0	0	3	NA	NA
-202	CP	Withoefse heide	0	0	0	0	0	3	NA	NA
-203	CP	Withoefse heide	0	0	0	0	0	3	NA	NA
-208	CP	Withoefse heide	0	0	0	0	0	3	NA	NA
 51000	CA	Walenbos	0	0	0	0	0	3	NA	NA
 53000	CA	Walenbos	0	0	0	0	0	3	NA	NA
