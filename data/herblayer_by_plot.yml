@@ -8,8 +8,8 @@
   - plot_id
   - subplot_id
   - species
-  hash: cca2e570c17c3e10ab541919a37f9759f07b5e1a
-  data_hash: fa0fa77da25d492caf9e01ddfd7f940485a21428
+  hash: 0a6f76435cd49f9a2f39f1610a2cf1399cdcf82d
+  data_hash: b953094c265868f60add7c73be3777e165ab3c98
 plot_id:
   class: integer
 subplot_id:
@@ -29,5 +29,3 @@ date_vegetation:
   origin: '1970-01-01'
 year_main_survey:
   class: integer
-browse_index:
-  class: character
