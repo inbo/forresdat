@@ -7,8 +7,8 @@
   - year
   - plot_id
   - subplot_id
-  hash: 72cab607273da4764cd0319dda437cdd10409d38
-  data_hash: 56b7a224da735a249932ae7c2f438a94d35a5be7
+  hash: 2031e0758762efee9bd3ba7365e29b6b01e9f79d
+  data_hash: ebb4b0d76bab880d7c9d659e519f2558a59ad35c
 plot_id:
   class: integer
 year:
@@ -49,17 +49,17 @@ cumulated_canopy_cover_max:
   class: numeric
 subplot_id:
   class: integer
-moss_cover_mean:
+moss_cover_mid:
   class: numeric
-herb_cover_mean:
+herb_cover_mid:
   class: numeric
-shrub_cover_mean:
+shrub_cover_mid:
   class: numeric
-tree_cover_mean:
+tree_cover_mid:
   class: numeric
-waterlayer_cover_mean:
+waterlayer_cover_mid:
   class: numeric
-soildisturbance_game_cover_mean:
+soildisturbance_game_cover_mid:
   class: numeric
-cumulated_canopy_cover_mean:
+cumulated_canopy_cover_mid:
   class: numeric
