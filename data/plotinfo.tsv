@@ -1,2271 +1,2271 @@
-plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	data_processed	period	survey_number	year_dendro
-11000	CA	Kersselaerspleyn	1	0	0	0	1	0	1	1985
-101	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-102	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-103	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-104	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-105	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-106	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-107	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-108	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-109	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-110	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-111	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-112	CP	Everzwijnbad	1	1	0	0	1	1	1	2002
-113	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-114	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-115	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-116	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-117	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-118	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-119	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-120	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-121	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-122	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-123	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-124	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-125	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-126	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-127	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-128	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-129	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-130	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-131	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-132	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-133	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-134	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-135	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-136	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-137	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-138	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-139	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-140	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-141	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-142	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-143	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-144	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-145	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-146	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-147	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-148	CP	Everzwijnbad	1	1	1	1	1	1	1	2002
-200	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-201	CP	Withoefse heide	0	0	1	1	0	1	NA	NA
-202	CP	Withoefse heide	0	0	1	1	0	1	NA	NA
-203	CP	Withoefse heide	0	0	1	1	0	1	NA	NA
-204	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-205	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-206	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-207	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-208	CP	Withoefse heide	0	0	1	1	0	1	NA	NA
-209	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-210	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-211	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-212	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-213	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-214	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-215	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-216	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-217	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-218	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-219	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-220	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-221	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-223	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-224	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-225	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-226	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-227	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-228	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-229	CP	Withoefse heide	1	1	1	1	1	1	1	1999
-400	CP	Wijnendalebos	1	1	1	1	0	1	1	2002
-401	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-402	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-403	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-404	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-405	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-406	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-407	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-408	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-409	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-410	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-411	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-412	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-413	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-414	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-415	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-416	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-417	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-418	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-419	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-420	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-421	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-422	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-423	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-424	CP	Wijnendalebos	1	1	1	1	0	1	1	2002
-425	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-426	CP	Wijnendalebos	1	1	1	1	0	1	1	2002
-427	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-428	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-429	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-430	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-431	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-432	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-433	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-434	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-435	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-436	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-437	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-438	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-439	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-440	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-441	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-442	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-443	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-444	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-445	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-446	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-447	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-448	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-449	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-450	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-451	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-452	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-453	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-454	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-455	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-456	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-457	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-458	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-459	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-460	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-461	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-462	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-463	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-464	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-465	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-466	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-467	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-468	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-469	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-470	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-471	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-472	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-473	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-474	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-475	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-476	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-477	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-478	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-479	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-480	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-481	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-482	CP	Wijnendalebos	1	1	1	1	0	1	1	2002
-483	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-484	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-485	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-486	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-487	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-488	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-489	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-490	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-491	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-492	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-493	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-494	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-495	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-496	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-497	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-498	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-499	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-500	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-501	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-502	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-503	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-504	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-505	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-506	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-507	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-508	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-509	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-510	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-511	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-512	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-513	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-514	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-515	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-516	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-517	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-518	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-519	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-520	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-521	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-522	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-523	CP	Wijnendalebos	1	1	1	1	1	1	1	2002
-701	CP	Heirnisse	1	1	1	1	1	1	1	2003
-702	CP	Heirnisse	1	1	1	1	1	1	1	2003
-703	CP	Heirnisse	1	1	1	1	1	1	1	2003
-704	CP	Heirnisse	1	1	1	1	1	1	1	2003
-705	CP	Heirnisse	1	1	1	1	1	1	1	2003
-706	CP	Heirnisse	1	1	1	1	1	1	1	2003
-707	CP	Heirnisse	1	1	1	1	1	1	1	2003
-708	CP	Heirnisse	1	1	1	1	1	1	1	2003
-709	CP	Heirnisse	1	1	1	1	1	1	1	2003
-710	CP	Heirnisse	1	1	1	1	1	1	1	2003
-711	CP	Heirnisse	1	1	1	1	1	1	1	2003
-712	CP	Heirnisse	1	1	1	1	1	1	1	2003
-713	CP	Heirnisse	1	1	1	1	1	1	1	2003
-714	CP	Heirnisse	1	1	1	1	1	1	1	2003
-715	CP	Heirnisse	1	1	1	1	1	1	1	2003
-716	CP	Heirnisse	1	1	1	1	1	1	1	2003
-717	CP	Heirnisse	1	1	1	1	1	1	1	2003
-718	CP	Heirnisse	1	1	1	1	1	1	1	2003
-719	CP	Heirnisse	1	1	1	1	1	1	1	2003
-720	CP	Heirnisse	1	1	1	1	1	1	1	2003
-721	CP	Heirnisse	1	1	1	1	1	1	1	2003
-722	CP	Heirnisse	1	1	1	1	1	1	1	2003
-723	CP	Heirnisse	1	1	1	1	1	1	1	2003
-724	CP	Heirnisse	1	1	1	1	1	1	1	2003
-725	CP	Heirnisse	1	1	1	1	1	1	1	2003
-726	CP	Heirnisse	1	1	1	1	1	1	1	2003
-727	CP	Heirnisse	1	1	1	1	1	1	1	2003
-728	CP	Heirnisse	1	1	1	1	1	1	1	2003
-729	CP	Heirnisse	1	1	1	1	1	1	1	2003
-730	CP	Heirnisse	1	1	1	1	1	1	1	2003
-731	CP	Heirnisse	1	1	1	1	1	1	1	2003
-732	CP	Heirnisse	1	1	1	1	1	1	1	2003
-733	CP	Heirnisse	1	1	1	1	1	1	1	2003
-734	CP	Heirnisse	1	1	1	1	1	1	1	2003
-735	CP	Heirnisse	1	1	1	1	1	1	1	2003
-736	CP	Heirnisse	1	1	1	1	1	1	1	2003
-737	CP	Heirnisse	1	1	1	1	1	1	1	2003
-738	CP	Heirnisse	1	1	1	1	1	1	1	2003
-739	CP	Heirnisse	1	1	1	1	1	1	1	2003
-740	CP	Heirnisse	1	1	1	1	1	1	1	2003
-741	CP	Heirnisse	1	1	1	1	1	1	1	2003
-742	CP	Heirnisse	1	1	1	1	1	1	1	2003
-743	CP	Heirnisse	1	1	1	1	1	1	1	2003
-744	CP	Heirnisse	1	1	1	1	1	1	1	2003
-745	CP	Heirnisse	1	1	1	1	1	1	1	2003
-746	CP	Heirnisse	1	1	1	1	1	1	1	2003
-747	CP	Heirnisse	1	1	1	1	1	1	1	2003
-748	CP	Heirnisse	1	1	1	1	1	1	1	2003
-749	CP	Heirnisse	1	1	1	1	1	1	1	2003
-750	CP	Heirnisse	1	1	1	1	1	1	1	2003
-751	CP	Heirnisse	1	1	1	1	1	1	1	2003
-752	CP	Heirnisse	1	1	1	1	1	1	1	2003
-753	CP	Heirnisse	1	1	1	1	1	1	1	2003
-754	CP	Heirnisse	1	1	1	1	1	1	1	2003
-755	CP	Heirnisse	1	1	1	1	1	1	1	2003
-756	CP	Heirnisse	1	1	1	1	1	1	1	2003
-757	CP	Heirnisse	1	1	1	1	1	1	1	2003
-758	CP	Heirnisse	1	1	1	1	1	1	1	2003
-759	CP	Heirnisse	1	1	1	1	1	1	1	2003
-760	CP	Heirnisse	1	1	1	1	1	1	1	2003
-761	CP	Heirnisse	1	1	1	1	1	1	1	2003
-762	CP	Heirnisse	1	1	1	1	1	1	1	2003
-763	CP	Heirnisse	1	1	1	1	1	1	1	2003
-764	CP	Heirnisse	1	1	1	1	1	1	1	2003
-765	CP	Heirnisse	1	1	1	1	1	1	1	2003
-766	CP	Heirnisse	1	1	1	1	1	1	1	2003
-767	CP	Heirnisse	1	1	1	1	1	1	1	2003
-768	CP	Heirnisse	1	1	1	1	1	1	1	2003
-801	CP	Jansheideberg	1	1	1	1	1	1	1	2004
-802	CP	Jansheideberg	1	1	1	1	1	1	1	2004
-803	CP	Jansheideberg	1	1	1	1	1	1	1	2004
-804	CP	Jansheideberg	1	1	1	1	1	1	1	2004
-805	CP	Jansheideberg	1	1	1	1	1	1	1	2004
-806	CP	Jansheideberg	1	1	1	1	1	1	1	2004
-807	CP	Jansheideberg	1	1	1	1	1	1	1	2004
-808	CP	Jansheideberg	1	1	1	1	1	1	1	2004
-809	CP	Jansheideberg	1	1	1	1	1	1	1	2004
-810	CP	Jansheideberg	1	1	1	1	1	1	1	2004
-811	CP	Jansheideberg	1	1	1	1	1	1	1	2004
-812	CP	Jansheideberg	1	1	1	1	1	1	1	2004
-813	CP	Jansheideberg	1	1	1	1	1	1	1	2004
-814	CP	Jansheideberg	1	1	1	1	1	1	1	2004
-815	CP	Jansheideberg	1	1	1	1	1	1	1	2004
-816	CP	Jansheideberg	1	1	1	1	1	1	1	2004
-817	CP	Jansheideberg	1	1	1	1	1	1	1	2004
-818	CP	Jansheideberg	1	1	1	1	1	1	1	2004
-819	CP	Jansheideberg	1	1	1	1	1	1	1	2004
-820	CP	Jansheideberg	1	1	1	1	1	1	1	2004
-821	CP	Jansheideberg	1	1	1	1	1	1	1	2004
-822	CP	Jansheideberg	1	1	1	1	1	1	1	2004
-823	CP	Jansheideberg	1	1	1	1	1	1	1	2003
-824	CP	Jansheideberg	1	1	1	1	1	1	1	2004
-825	CP	Jansheideberg	1	1	1	1	1	1	1	2004
-826	CP	Jansheideberg	1	1	1	1	1	1	1	2004
-827	CP	Jansheideberg	1	1	1	1	1	1	1	2004
-828	CP	Jansheideberg	1	1	1	1	1	1	1	2004
-829	CP	Jansheideberg	1	1	1	1	1	1	1	2004
-830	CP	Jansheideberg	1	1	1	1	1	1	1	2004
-831	CP	Jansheideberg	1	1	1	1	1	1	1	2004
-832	CP	Jansheideberg	1	1	1	1	1	1	1	2004
-833	CP	Jansheideberg	1	1	1	1	1	1	1	2004
-841	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-842	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-843	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-844	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-845	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-846	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-847	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-848	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-849	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-850	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-851	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-852	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-853	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-854	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-855	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-856	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-857	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-858	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-859	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-860	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-861	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-862	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-863	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-864	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-865	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-866	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-867	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-868	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-869	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-870	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-871	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-872	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-873	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-874	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-875	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-876	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-877	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-878	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-879	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-880	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-881	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-882	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-883	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-884	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-885	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-886	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-887	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-888	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-889	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-890	CP	Bos Terrijst	1	1	1	1	1	1	1	2004
-901	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-902	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-903	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-904	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-905	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-906	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-907	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-908	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-909	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-910	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-911	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-912	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-913	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-914	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-915	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-916	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-917	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-918	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-919	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-920	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-921	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-922	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-923	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-924	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-925	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-926	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-927	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-928	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-929	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-930	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-931	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-932	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-933	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-934	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-935	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-936	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-937	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-938	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-939	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-940	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-941	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-942	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-943	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-944	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-945	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-946	CP	Pruikemakers	1	1	0	0	1	1	1	2005
-947	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-948	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-949	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-950	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-951	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-952	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-953	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-954	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-955	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-956	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-957	CP	Pruikemakers	1	1	0	0	1	1	1	2005
-958	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-959	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-960	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-961	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-962	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-963	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-964	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-965	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-966	CP	Pruikemakers	1	1	1	1	1	1	1	2005
-1003	CP	Liedekerke	1	1	1	1	1	1	1	2006
-1004	CP	Liedekerke	1	1	1	1	1	1	1	2006
-1005	CP	Liedekerke	1	1	1	1	1	1	1	2006
-1008	CP	Liedekerke	1	1	1	1	1	1	1	2006
-1009	CP	Liedekerke	1	1	1	1	1	1	1	2006
-1011	CP	Liedekerke	1	1	1	1	1	1	1	2006
-1018	CP	Liedekerke	1	1	1	1	1	1	1	2006
-1019	CP	Liedekerke	1	1	1	1	1	1	1	2006
-1022	CP	Liedekerke	1	1	1	1	1	1	1	2006
-1023	CP	Liedekerke	1	1	1	1	1	1	1	2006
-1024	CP	Liedekerke	1	1	1	1	1	1	1	2006
-1026	CP	Liedekerke	1	1	1	1	1	1	1	2006
-1027	CP	Liedekerke	1	1	1	1	1	1	1	2006
-1028	CP	Liedekerke	1	1	1	1	1	1	1	2006
-1029	CP	Liedekerke	1	1	1	1	1	1	1	2006
-1032	CP	Liedekerke	1	1	1	1	1	1	1	2006
-1035	CP	Liedekerke	1	1	1	1	1	1	1	2006
-1037	CP	Liedekerke	1	1	1	1	1	1	1	2006
-1041	CP	Liedekerke	1	1	1	1	1	1	1	2006
-1044	CP	Liedekerke	1	1	1	1	1	1	1	2006
-1046	CP	Liedekerke	1	1	1	1	1	1	1	2006
-1051	CP	Liedekerke	1	1	1	1	1	1	1	2006
-1052	CP	Liedekerke	1	1	1	1	1	1	1	2006
-1053	CP	Liedekerke	1	1	1	1	1	1	1	2006
-1058	CP	Liedekerke	1	1	1	1	1	1	1	2006
-1059	CP	Liedekerke	1	1	1	1	1	1	1	2006
-1060	CP	Liedekerke	1	1	1	1	1	1	1	2006
-1062	CP	Liedekerke	1	1	1	1	1	1	1	2006
-1063	CP	Liedekerke	1	1	1	1	1	1	1	2006
-1065	CP	Liedekerke	1	1	1	1	1	1	1	2006
-1101	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1102	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1103	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1104	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1105	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1106	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1107	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1108	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1109	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1110	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1111	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1112	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1113	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1114	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1115	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1116	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1117	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1118	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1119	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1120	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1121	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1122	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1123	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1124	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1125	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1126	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1127	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1128	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1129	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1130	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1131	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1132	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1133	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1134	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1135	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1136	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1137	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1138	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1139	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1140	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1141	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1142	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1143	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1144	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1145	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1146	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1147	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1148	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1149	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1150	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1151	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1152	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1153	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1154	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1155	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1156	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1157	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1158	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1159	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1160	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1161	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1162	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1163	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1164	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1165	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1166	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1167	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1168	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1169	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1170	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1171	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1172	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1173	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1174	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1175	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1176	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1177	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1178	CP	Sevendonck	1	1	1	1	1	1	1	2007
-1201	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1202	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1203	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1204	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1205	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1206	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1207	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1208	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1209	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1210	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1211	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1212	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1213	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1214	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1215	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1216	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1217	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1218	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1219	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1220	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1221	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1222	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1223	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1224	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1225	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1226	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1227	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1228	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1229	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1230	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1231	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1232	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1233	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1234	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1235	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1236	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1237	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1238	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1239	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1240	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1241	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1242	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1243	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1244	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1245	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1246	CP	Muizenbos	1	1	1	1	1	1	1	2007
-1301	CP	Ename	0	0	0	0	0	1	NA	NA
-1302	CP	Ename	0	0	0	0	0	1	NA	NA
-1303	CP	Ename	0	0	0	0	0	1	NA	NA
-1304	CP	Ename	0	0	0	0	0	1	NA	NA
-1305	CP	Ename	0	0	0	0	0	1	NA	NA
-1306	CP	Ename	0	0	0	0	0	1	NA	NA
-1307	CP	Ename	0	0	0	0	0	1	NA	NA
-1308	CP	Ename	0	0	0	0	0	1	NA	NA
-1309	CP	Ename	0	0	0	0	0	1	NA	NA
-1310	CP	Ename	0	0	0	0	0	1	NA	NA
-1311	CP	Ename	0	0	0	0	0	1	NA	NA
-1312	CP	Ename	0	0	0	0	0	1	NA	NA
-1313	CP	Ename	0	0	0	0	0	1	NA	NA
-1314	CP	Ename	0	0	0	0	0	1	NA	NA
-1315	CP	Ename	0	0	0	0	0	1	NA	NA
-1316	CP	Ename	0	0	0	0	0	1	NA	NA
-1317	CP	Ename	0	0	0	0	0	1	NA	NA
-1318	CP	Ename	0	0	0	0	0	1	NA	NA
-1319	CP	Ename	0	0	0	0	0	1	NA	NA
-1320	CP	Ename	0	0	0	0	0	1	NA	NA
-1321	CP	Ename	0	0	0	0	0	1	NA	NA
-1322	CP	Ename	0	0	0	0	0	1	NA	NA
-1323	CP	Ename	0	0	0	0	0	1	NA	NA
-1324	CP	Ename	0	0	0	0	0	1	NA	NA
-1325	CP	Ename	0	0	0	0	0	1	NA	NA
-1326	CP	Ename	0	0	0	0	0	1	NA	NA
-1327	CP	Ename	0	0	0	0	0	1	NA	NA
-1328	CP	Ename	0	0	0	0	0	1	NA	NA
-1329	CP	Ename	0	0	0	0	0	1	NA	NA
-1330	CP	Ename	0	0	0	0	0	1	NA	NA
-1331	CP	Ename	0	0	0	0	0	1	NA	NA
-1332	CP	Ename	0	0	0	0	0	1	NA	NA
-1333	CP	Ename	0	0	0	0	0	1	NA	NA
-1334	CP	Ename	0	0	0	0	0	1	NA	NA
-1335	CP	Ename	0	0	0	0	0	1	NA	NA
-1336	CP	Ename	0	0	0	0	0	1	NA	NA
-1337	CP	Ename	0	0	0	0	0	1	NA	NA
-1338	CP	Ename	0	0	0	0	0	1	NA	NA
-1339	CP	Ename	0	0	0	0	0	1	NA	NA
-1340	CP	Ename	0	0	0	0	0	1	NA	NA
-1341	CP	Ename	0	0	0	0	0	1	NA	NA
-1342	CP	Ename	0	0	0	0	0	1	NA	NA
-1343	CP	Ename	0	0	0	0	0	1	NA	NA
-1344	CP	Ename	0	0	0	0	0	1	NA	NA
-1345	CP	Ename	0	0	0	0	0	1	NA	NA
-1346	CP	Ename	0	0	0	0	0	1	NA	NA
-1347	CP	Ename	0	0	0	0	0	1	NA	NA
-1348	CP	Ename	0	0	0	0	0	1	NA	NA
-1349	CP	Ename	0	0	0	0	0	1	NA	NA
-1350	CP	Ename	0	0	0	0	0	1	NA	NA
-1351	CP	Ename	0	0	0	0	0	1	NA	NA
-1352	CP	Ename	0	0	0	0	0	1	NA	NA
-1353	CP	Ename	0	0	0	0	0	1	NA	NA
-1354	CP	Ename	0	0	0	0	0	1	NA	NA
-1355	CP	Ename	0	0	0	0	0	1	NA	NA
-1356	CP	Ename	0	0	0	0	0	1	NA	NA
-1357	CP	Ename	0	0	0	0	0	1	NA	NA
-1358	CP	Ename	0	0	0	0	0	1	NA	NA
-1359	CP	Ename	0	0	0	0	0	1	NA	NA
-1360	CP	Ename	0	0	0	0	0	1	NA	NA
-1361	CP	Ename	0	0	0	0	0	1	NA	NA
-1362	CP	Ename	0	0	0	0	0	1	NA	NA
-1363	CP	Ename	0	0	0	0	0	1	NA	NA
-1364	CP	Ename	0	0	0	0	0	1	NA	NA
-1365	CP	Ename	0	0	0	0	0	1	NA	NA
-1366	CP	Ename	0	0	0	0	0	1	NA	NA
-1367	CP	Ename	0	0	0	0	0	1	NA	NA
-1368	CP	Ename	0	0	0	0	0	1	NA	NA
-1369	CP	Ename	0	0	0	0	0	1	NA	NA
-1370	CP	Ename	0	0	0	0	0	1	NA	NA
-1371	CP	Ename	0	0	0	0	0	1	NA	NA
-1372	CP	Ename	0	0	0	0	0	1	NA	NA
-1373	CP	Ename	0	0	0	0	0	1	NA	NA
-1401	CP	De heide	0	0	0	0	0	1	NA	NA
-1402	CP	De heide	0	0	0	0	0	1	NA	NA
-1403	CP	De heide	0	0	0	0	0	1	NA	NA
-1404	CP	De heide	0	0	0	0	0	1	NA	NA
-1405	CP	De heide	0	0	0	0	0	1	NA	NA
-1406	CP	De heide	0	0	0	0	0	1	NA	NA
-1407	CP	De heide	0	0	0	0	0	1	NA	NA
-1408	CP	De heide	0	0	0	0	0	1	NA	NA
-1409	CP	De heide	0	0	0	0	0	1	NA	NA
-1410	CP	De heide	0	0	0	0	0	1	NA	NA
-1411	CP	De heide	0	0	0	0	0	1	NA	NA
-1412	CP	De heide	0	0	0	0	0	1	NA	NA
-1413	CP	De heide	0	0	0	0	0	1	NA	NA
-1414	CP	De heide	0	0	0	0	0	1	NA	NA
-1415	CP	De heide	0	0	0	0	0	1	NA	NA
-1416	CP	De heide	0	0	0	0	0	1	NA	NA
-1417	CP	De heide	0	0	0	0	0	1	NA	NA
-1418	CP	De heide	0	0	0	0	0	1	NA	NA
-1419	CP	De heide	0	0	0	0	0	1	NA	NA
-1420	CP	De heide	0	0	0	0	0	1	NA	NA
-1421	CP	De heide	0	0	0	0	0	1	NA	NA
-1422	CP	De heide	0	0	0	0	0	1	NA	NA
-1423	CP	De heide	0	0	0	0	0	1	NA	NA
-1424	CP	De heide	0	0	0	0	0	1	NA	NA
-1425	CP	De heide	0	0	0	0	0	1	NA	NA
-1426	CP	De heide	0	0	0	0	0	1	NA	NA
-1427	CP	De heide	0	0	0	0	0	1	NA	NA
-1428	CP	De heide	0	0	0	0	0	1	NA	NA
-1429	CP	De heide	0	0	0	0	0	1	NA	NA
-1430	CP	De heide	0	0	0	0	0	1	NA	NA
-1431	CP	De heide	0	0	0	0	0	1	NA	NA
-1432	CP	De heide	0	0	0	0	0	1	NA	NA
-1433	CP	De heide	0	0	0	0	0	1	NA	NA
-1434	CP	De heide	0	0	0	0	0	1	NA	NA
-1435	CP	De heide	0	0	0	0	0	1	NA	NA
-1436	CP	De heide	0	0	0	0	0	1	NA	NA
-1437	CP	De heide	0	0	0	0	0	1	NA	NA
-1438	CP	De heide	0	0	0	0	0	1	NA	NA
-1439	CP	De heide	0	0	0	0	0	1	NA	NA
-1440	CP	De heide	0	0	0	0	0	1	NA	NA
-1441	CP	De heide	0	0	0	0	0	1	NA	NA
-1442	CP	De heide	0	0	0	0	0	1	NA	NA
-1443	CP	De heide	0	0	0	0	0	1	NA	NA
-1444	CP	De heide	0	0	0	0	0	1	NA	NA
-1445	CP	De heide	0	0	0	0	0	1	NA	NA
-1446	CP	De heide	0	0	0	0	0	1	NA	NA
-1447	CP	De heide	0	0	0	0	0	1	NA	NA
-1448	CP	De heide	0	0	0	0	0	1	NA	NA
-1449	CP	De heide	0	0	0	0	0	1	NA	NA
-1450	CP	De heide	0	0	0	0	0	1	NA	NA
-1451	CP	De heide	0	0	0	0	0	1	NA	NA
-1452	CP	De heide	0	0	0	0	0	1	NA	NA
-1501	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1502	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1503	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1504	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1505	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1506	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1507	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1508	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1509	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1510	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1511	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1512	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1513	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1514	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1515	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1516	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1517	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1518	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1519	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1520	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1521	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1522	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1523	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1524	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1525	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1526	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1527	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1528	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1529	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1530	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1531	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1532	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1533	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1534	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1535	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1536	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1537	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1538	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1539	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1540	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1541	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1542	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1543	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1544	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1545	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1546	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1547	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1548	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1549	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1550	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1551	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1552	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1553	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1554	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1555	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1556	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1557	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1558	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1559	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1560	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1561	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1562	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1563	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1564	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1565	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1566	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1567	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1568	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1569	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1570	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1571	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1572	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1573	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1574	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1575	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1576	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1577	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1578	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1579	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1580	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1581	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1582	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1583	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1584	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1585	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1586	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1587	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1588	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1589	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1590	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1591	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1592	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1593	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1594	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1595	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1596	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1597	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1598	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1599	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1600	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1601	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1602	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1603	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1604	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1605	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1606	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1607	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1608	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1609	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1610	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1611	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1612	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1613	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1614	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1615	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1616	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1617	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1618	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1619	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1620	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1621	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1622	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1623	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1624	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1625	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1626	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1627	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1628	CP	Kluisbos	0	0	0	0	0	1	NA	NA
-1701	CP	Kolmont	0	0	0	0	0	1	NA	NA
-1702	CP	Kolmont	0	0	0	0	0	1	NA	NA
-1703	CP	Kolmont	0	0	0	0	0	1	NA	NA
-1704	CP	Kolmont	0	0	0	0	0	1	NA	NA
-1705	CP	Kolmont	0	0	0	0	0	1	NA	NA
-1706	CP	Kolmont	0	0	0	0	0	1	NA	NA
-1707	CP	Kolmont	0	0	0	0	0	1	NA	NA
-1708	CP	Kolmont	0	0	0	0	0	1	NA	NA
-1709	CP	Kolmont	0	0	0	0	0	1	NA	NA
-1710	CP	Kolmont	0	0	0	0	0	1	NA	NA
-1711	CP	Kolmont	0	0	0	0	0	1	NA	NA
-1712	CP	Kolmont	0	0	0	0	0	1	NA	NA
-1713	CP	Kolmont	0	0	0	0	0	1	NA	NA
-1714	CP	Kolmont	0	0	0	0	0	1	NA	NA
-1715	CP	Kolmont	0	0	0	0	0	1	NA	NA
-1716	CP	Kolmont	0	0	0	0	0	1	NA	NA
-1717	CP	Kolmont	0	0	0	0	0	1	NA	NA
-1718	CP	Kolmont	0	0	0	0	0	1	NA	NA
-1719	CP	Kolmont	0	0	0	0	0	1	NA	NA
-1720	CP	Kolmont	0	0	0	0	0	1	NA	NA
-1721	CP	Kolmont	0	0	0	0	0	1	NA	NA
-1722	CP	Kolmont	0	0	0	0	0	1	NA	NA
-1723	CP	Kolmont	0	0	0	0	0	1	NA	NA
-1724	CP	Kolmont	0	0	0	0	0	1	NA	NA
-1725	CP	Kolmont	0	0	0	0	0	1	NA	NA
-1726	CP	Kolmont	0	0	0	0	0	1	NA	NA
-1727	CP	Kolmont	0	0	0	0	0	1	NA	NA
-1728	CP	Kolmont	0	0	0	0	0	1	NA	NA
-1729	CP	Kolmont	0	0	0	0	0	1	NA	NA
-1730	CP	Kolmont	0	0	0	0	0	1	NA	NA
-1731	CP	Kolmont	0	0	0	0	0	1	NA	NA
-1732	CP	Kolmont	0	0	0	0	0	1	NA	NA
-2001	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2002	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2003	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2004	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2005	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2006	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2007	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2008	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2009	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2010	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2011	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2012	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2013	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2014	CP	Kersselaerspleyn	0	0	0	0	0	1	NA	NA
-2015	CP	Kersselaerspleyn	0	0	0	0	0	1	NA	NA
-2016	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2017	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2018	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2019	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2020	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2021	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2022	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2023	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2024	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2025	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2026	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2027	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2028	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2029	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2030	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2031	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2032	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2033	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2034	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2035	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2036	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2037	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2038	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2039	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2040	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2041	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2042	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2043	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2044	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2045	CP	Kersselaerspleyn	0	0	0	0	0	1	NA	NA
-2046	CP	Kersselaerspleyn	0	0	0	0	0	1	NA	NA
-2047	CP	Kersselaerspleyn	0	0	0	0	0	1	NA	NA
-2048	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2049	CP	Kersselaerspleyn	0	0	0	0	0	1	NA	NA
-2050	CP	Kersselaerspleyn	0	0	0	0	0	1	NA	NA
-2051	CP	Kersselaerspleyn	0	0	0	0	0	1	NA	NA
-2053	CP	Kersselaerspleyn	0	0	0	0	0	1	NA	NA
-2054	CP	Kersselaerspleyn	0	0	0	0	0	1	NA	NA
-2055	CP	Kersselaerspleyn	0	0	0	0	0	1	NA	NA
-2056	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2057	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2058	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2059	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2060	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2061	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2062	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2063	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2064	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2065	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000
-2101	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2102	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2103	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2104	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2105	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2106	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2107	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2108	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2109	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2110	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2111	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2112	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2113	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2114	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2115	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2116	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2117	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2118	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2119	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2120	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2121	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2122	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2123	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2124	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2125	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2126	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2127	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2128	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2129	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2130	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2131	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2132	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2133	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2134	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2135	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2136	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2137	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2138	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2139	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2140	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2141	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2142	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2143	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2144	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2145	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2146	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2147	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2148	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2149	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2150	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2151	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2152	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2153	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2154	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2155	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2156	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2157	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2158	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2159	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2160	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2161	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2162	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2163	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2164	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2165	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2166	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2167	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2168	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2169	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2170	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2171	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2172	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2173	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2174	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2175	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2176	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2177	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2178	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2179	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2180	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2181	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2182	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2183	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2184	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2185	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-2186	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA
-11000	CA	Kersselaerspleyn	1	0	1	1	1	1	2	2000
-21000	CA	Harras	1	1	1	1	1	1	1	2008
-31000	CA	Hannecart	1	1	1	1	1	1	1	2001
-41000	CA	Rodebos KV1	1	1	1	1	1	1	1	2001
-43000	CA	Rodebos KV2	1	1	1	1	1	1	1	2001
-51000	CA	Walenbos KV1	1	1	1	1	1	1	1	2001
-53000	CA	Walenbos OT	1	1	1	1	1	1	1	2001
-71000	CA	Wijnendalebos	1	1	1	1	1	1	1	2002
-81000	CA	Everzwijnbad	1	1	1	1	1	1	1	2002
-91000	CA	Heirnisse	1	1	1	1	1	1	1	2003
-101000	CA	Jansheideberg	1	1	1	1	1	1	1	2004
-111000	CA	Bos Terrijst	1	1	1	1	1	1	1	2005
-121000	CA	Pruikemakers	1	1	1	1	1	1	1	2005
-131000	CA	Liedekerke Transekt	1	1	1	1	0	1	1	2006
-141100	CA	Sevendonck A	1	1	1	1	0	1	1	2007
-141200	CA	Sevendonck Q	1	1	1	1	0	1	1	2007
-151000	CA	Muizenbos	1	1	1	1	1	1	1	2007
-171100	CA	Coolhem A	1	1	1	1	1	1	1	2004
-171200	CA	Coolhem Q	1	1	1	1	1	1	1	2004
-101	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-102	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-103	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-104	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-105	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-106	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-107	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-108	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-109	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-110	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-111	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-112	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-113	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-114	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-115	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-116	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-117	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-118	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-119	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-120	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-121	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-122	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-123	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-124	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-125	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-126	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-127	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-128	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-129	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-130	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-131	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-132	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-133	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-134	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-135	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-136	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-137	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-138	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-139	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-140	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-141	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-142	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-143	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-144	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-145	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-146	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-147	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-148	CP	Everzwijnbad	1	1	1	1	1	2	2	2012
-200	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-201	CP	Withoefse heide	0	0	0	0	0	2	NA	2011
-202	CP	Withoefse heide	0	0	0	0	0	2	NA	NA
-203	CP	Withoefse heide	0	0	0	0	0	2	NA	NA
-204	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-205	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-206	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-207	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-208	CP	Withoefse heide	0	0	0	0	0	2	NA	NA
-209	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-210	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-211	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-212	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-213	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-214	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-215	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-216	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-217	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-218	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-219	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-220	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-221	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-223	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-224	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-225	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-226	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-227	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-228	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-229	CP	Withoefse heide	1	1	0	1	1	2	2	2011
-400	CP	Wijnendalebos	0	0	1	1	0	2	NA	NA
-401	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-402	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-403	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-404	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-405	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-406	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-407	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-408	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-409	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-410	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-411	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-412	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-413	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-414	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-415	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-416	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-417	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-418	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-419	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-420	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-421	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-422	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-423	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-424	CP	Wijnendalebos	0	0	1	1	0	2	NA	NA
-425	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-426	CP	Wijnendalebos	0	0	1	1	0	2	NA	NA
-427	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-428	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-429	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-430	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-431	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-432	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-433	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-434	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-435	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-436	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-437	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-438	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-439	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-440	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-441	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-442	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-443	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-444	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-445	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-446	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-447	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-448	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-449	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-450	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-451	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-452	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-453	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-454	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-455	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-456	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-457	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-458	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-459	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-460	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-461	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-462	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-463	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-464	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-465	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-466	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-467	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-468	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-469	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-470	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-471	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-472	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-473	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-474	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-475	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-476	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-477	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-478	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-479	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-480	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-481	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-482	CP	Wijnendalebos	0	0	0	0	0	2	NA	NA
-483	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-484	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-485	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-486	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-487	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-488	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-489	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-490	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-491	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-492	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-493	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-494	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-495	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-496	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-497	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-498	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-499	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-500	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-501	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-502	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-503	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-504	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-505	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-506	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-507	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-508	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-509	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-510	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-511	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-512	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-513	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-514	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-515	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-516	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-517	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-518	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-519	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-520	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-521	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-522	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-523	CP	Wijnendalebos	1	1	1	1	1	2	2	2012
-701	CP	Heirnisse	1	1	1	1	1	2	2	2014
-702	CP	Heirnisse	1	1	1	1	1	2	2	2013
-703	CP	Heirnisse	1	1	1	1	1	2	2	2013
-704	CP	Heirnisse	1	1	1	1	1	2	2	2013
-705	CP	Heirnisse	1	1	1	1	1	2	2	2013
-706	CP	Heirnisse	1	1	1	1	1	2	2	2013
-707	CP	Heirnisse	1	1	1	1	1	2	2	2013
-708	CP	Heirnisse	1	1	1	1	1	2	2	2013
-709	CP	Heirnisse	1	1	1	1	1	2	2	2014
-710	CP	Heirnisse	1	1	1	1	1	2	2	2013
-711	CP	Heirnisse	1	1	1	1	1	2	2	2013
-712	CP	Heirnisse	1	1	1	1	1	2	2	2013
-713	CP	Heirnisse	1	1	1	1	1	2	2	2013
-714	CP	Heirnisse	1	1	1	1	1	2	2	2013
-715	CP	Heirnisse	1	1	1	1	1	2	2	2013
-716	CP	Heirnisse	1	1	1	1	1	2	2	2013
-717	CP	Heirnisse	1	1	1	1	1	2	2	2013
-718	CP	Heirnisse	1	1	1	1	1	2	2	2013
-719	CP	Heirnisse	1	1	1	1	1	2	2	2013
-720	CP	Heirnisse	1	1	1	1	1	2	2	2013
-721	CP	Heirnisse	1	1	1	1	1	2	2	2013
-722	CP	Heirnisse	1	1	1	1	1	2	2	2013
-723	CP	Heirnisse	1	1	1	1	1	2	2	2013
-724	CP	Heirnisse	1	1	1	1	1	2	2	2013
-725	CP	Heirnisse	1	1	1	1	1	2	2	2013
-726	CP	Heirnisse	1	1	1	1	1	2	2	2013
-727	CP	Heirnisse	1	1	1	1	1	2	2	2013
-728	CP	Heirnisse	1	1	1	1	1	2	2	2013
-729	CP	Heirnisse	1	1	1	1	1	2	2	2013
-730	CP	Heirnisse	1	1	1	1	1	2	2	2013
-731	CP	Heirnisse	1	1	1	1	1	2	2	2013
-732	CP	Heirnisse	1	1	1	1	1	2	2	2013
-733	CP	Heirnisse	1	1	1	1	1	2	2	2013
-734	CP	Heirnisse	1	1	1	1	1	2	2	2013
-735	CP	Heirnisse	1	1	1	1	1	2	2	2013
-736	CP	Heirnisse	1	1	1	1	1	2	2	2013
-737	CP	Heirnisse	1	1	1	1	1	2	2	2013
-738	CP	Heirnisse	1	1	1	1	1	2	2	2014
-739	CP	Heirnisse	1	1	1	1	1	2	2	2014
-740	CP	Heirnisse	1	1	1	1	1	2	2	2014
-741	CP	Heirnisse	1	1	1	1	1	2	2	2013
-742	CP	Heirnisse	1	1	1	1	1	2	2	2013
-743	CP	Heirnisse	1	1	1	1	1	2	2	2013
-744	CP	Heirnisse	1	1	1	1	1	2	2	2013
-745	CP	Heirnisse	1	1	1	1	1	2	2	2013
-746	CP	Heirnisse	1	1	1	1	1	2	2	2013
-747	CP	Heirnisse	1	1	1	1	1	2	2	2013
-748	CP	Heirnisse	1	1	1	1	1	2	2	2013
-749	CP	Heirnisse	1	1	1	1	1	2	2	2013
-750	CP	Heirnisse	1	1	1	1	1	2	2	2013
-751	CP	Heirnisse	1	1	1	1	1	2	2	2013
-752	CP	Heirnisse	1	1	1	1	1	2	2	2013
-753	CP	Heirnisse	1	1	1	1	1	2	2	2013
-754	CP	Heirnisse	1	1	1	1	1	2	2	2013
-755	CP	Heirnisse	1	1	1	1	1	2	2	2013
-756	CP	Heirnisse	1	1	1	1	1	2	2	2013
-757	CP	Heirnisse	1	1	1	1	1	2	2	2013
-758	CP	Heirnisse	1	1	1	1	1	2	2	2013
-759	CP	Heirnisse	1	1	1	1	1	2	2	2013
-760	CP	Heirnisse	1	1	1	1	1	2	2	2013
-761	CP	Heirnisse	1	1	1	1	1	2	2	2013
-762	CP	Heirnisse	1	1	1	1	1	2	2	2013
-763	CP	Heirnisse	1	1	1	1	1	2	2	2013
-764	CP	Heirnisse	1	1	1	1	1	2	2	2013
-765	CP	Heirnisse	1	1	1	1	1	2	2	2013
-766	CP	Heirnisse	1	1	1	1	1	2	2	2013
-767	CP	Heirnisse	1	1	1	1	1	2	2	2013
-768	CP	Heirnisse	1	1	1	1	1	2	2	2013
-801	CP	Jansheideberg	1	1	1	1	1	2	2	2013
-802	CP	Jansheideberg	1	1	1	1	1	2	2	2013
-803	CP	Jansheideberg	1	1	1	1	1	2	2	2013
-804	CP	Jansheideberg	1	1	1	1	1	2	2	2013
-805	CP	Jansheideberg	1	1	1	1	1	2	2	2013
-806	CP	Jansheideberg	1	1	1	1	1	2	2	2013
-807	CP	Jansheideberg	1	1	1	1	1	2	2	2013
-808	CP	Jansheideberg	1	1	1	1	1	2	2	2013
-809	CP	Jansheideberg	1	1	1	1	1	2	2	2013
-810	CP	Jansheideberg	1	1	1	1	1	2	2	2013
-811	CP	Jansheideberg	1	1	1	1	1	2	2	2013
-812	CP	Jansheideberg	1	1	1	1	1	2	2	2013
-813	CP	Jansheideberg	1	1	1	1	1	2	2	2013
-814	CP	Jansheideberg	1	1	1	1	1	2	2	2013
-815	CP	Jansheideberg	1	1	1	1	1	2	2	2013
-816	CP	Jansheideberg	1	1	1	1	1	2	2	2013
-817	CP	Jansheideberg	1	1	1	1	1	2	2	2013
-818	CP	Jansheideberg	1	1	1	1	1	2	2	2013
-819	CP	Jansheideberg	1	1	1	1	1	2	2	2013
-820	CP	Jansheideberg	1	1	1	1	1	2	2	2013
-821	CP	Jansheideberg	1	1	1	1	1	2	2	2013
-822	CP	Jansheideberg	1	1	1	1	1	2	2	2013
-823	CP	Jansheideberg	1	1	1	1	1	2	2	2013
-824	CP	Jansheideberg	1	1	1	1	1	2	2	2013
-825	CP	Jansheideberg	1	1	1	1	1	2	2	2013
-826	CP	Jansheideberg	1	1	1	1	1	2	2	2013
-827	CP	Jansheideberg	1	1	1	1	1	2	2	2012
-828	CP	Jansheideberg	1	1	1	1	1	2	2	2013
-829	CP	Jansheideberg	1	1	1	1	1	2	2	2013
-830	CP	Jansheideberg	1	1	1	1	1	2	2	2013
-831	CP	Jansheideberg	1	1	1	1	1	2	2	2013
-832	CP	Jansheideberg	1	1	1	1	1	2	2	2013
-833	CP	Jansheideberg	1	1	1	1	1	2	2	2013
-841	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-842	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-843	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-844	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-845	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-846	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-847	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-848	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-849	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-850	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-851	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-852	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-853	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-854	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-855	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-856	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-857	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-858	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-859	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-860	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-861	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-862	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-863	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-864	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-865	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-866	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-867	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-868	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-869	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-870	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-871	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-872	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-873	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-874	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-875	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-876	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-877	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-878	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-879	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-880	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-881	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-882	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-883	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-884	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-885	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-886	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-887	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-888	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-889	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-890	CP	Bos Terrijst	1	1	1	1	1	2	2	2014
-901	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-902	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-903	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-904	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-905	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-906	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-907	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-908	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-909	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-910	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-911	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-912	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-913	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-914	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-915	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-916	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-917	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-918	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-919	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-920	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-921	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-922	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-923	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-924	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-925	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-926	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-927	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-928	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-929	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-930	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-931	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-932	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-933	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-934	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-935	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-936	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-937	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-938	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-939	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-940	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-941	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-942	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-943	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-944	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-945	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-946	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-947	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-948	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-949	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-950	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-951	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-952	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-953	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-954	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-955	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-956	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-957	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-958	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-959	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-960	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-961	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-962	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-963	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-964	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-965	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-966	CP	Pruikemakers	1	1	1	1	1	2	2	2015
-1003	CP	Liedekerke	1	1	1	1	1	2	2	2016
-1004	CP	Liedekerke	1	1	1	1	1	2	2	2016
-1005	CP	Liedekerke	1	1	1	1	1	2	2	2016
-1008	CP	Liedekerke	1	1	1	1	1	2	2	2016
-1009	CP	Liedekerke	1	1	1	1	1	2	2	2016
-1011	CP	Liedekerke	1	1	1	1	1	2	2	2016
-1018	CP	Liedekerke	1	1	1	1	1	2	2	2016
-1019	CP	Liedekerke	1	1	1	1	1	2	2	2016
-1022	CP	Liedekerke	1	1	1	1	1	2	2	2016
-1023	CP	Liedekerke	1	1	1	1	1	2	2	2016
-1024	CP	Liedekerke	1	1	1	1	1	2	2	2016
-1026	CP	Liedekerke	1	1	1	1	1	2	2	2016
-1027	CP	Liedekerke	1	1	1	1	1	2	2	2016
-1028	CP	Liedekerke	1	1	1	1	1	2	2	2016
-1029	CP	Liedekerke	1	1	1	1	1	2	2	2016
-1032	CP	Liedekerke	1	1	1	1	1	2	2	2016
-1035	CP	Liedekerke	1	1	1	1	1	2	2	2016
-1037	CP	Liedekerke	1	1	1	1	1	2	2	2016
-1041	CP	Liedekerke	1	1	1	1	1	2	2	2016
-1044	CP	Liedekerke	1	1	1	1	1	2	2	2016
-1046	CP	Liedekerke	1	1	1	1	1	2	2	2016
-1051	CP	Liedekerke	1	1	1	1	1	2	2	2016
-1052	CP	Liedekerke	1	1	1	1	1	2	2	2016
-1053	CP	Liedekerke	1	1	1	1	1	2	2	2016
-1058	CP	Liedekerke	1	1	1	1	1	2	2	2016
-1059	CP	Liedekerke	1	1	1	1	1	2	2	2016
-1060	CP	Liedekerke	1	1	1	1	1	2	2	2016
-1062	CP	Liedekerke	1	1	1	1	1	2	2	2016
-1063	CP	Liedekerke	1	1	1	1	1	2	2	2016
-1065	CP	Liedekerke	1	1	1	1	1	2	2	2016
-1101	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1102	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1103	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1104	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1105	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1106	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1107	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1108	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1109	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1110	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1111	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1112	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1113	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1114	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1115	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1116	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1117	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1118	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1119	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1120	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1121	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1122	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1123	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1124	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1125	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1126	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1127	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1128	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1129	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1130	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1131	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1132	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1133	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1134	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1135	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1136	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1137	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1138	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1139	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1140	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1141	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1142	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1143	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1144	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1145	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1146	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1147	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1148	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1149	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1150	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1151	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1152	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1153	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1154	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1155	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1156	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1157	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1158	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1159	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1160	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1161	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1162	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1163	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1164	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1165	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1166	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1167	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1168	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1169	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1170	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1171	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1172	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1173	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1174	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1175	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1176	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1177	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1178	CP	Sevendonck	1	1	1	1	1	2	2	2016
-1201	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1202	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1203	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1204	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1205	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1206	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1207	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1208	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1209	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1210	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1211	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1212	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1213	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1214	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1215	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1216	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1217	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1218	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1219	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1220	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1221	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1222	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1223	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1224	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1225	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1226	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1227	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1228	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1229	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1230	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1231	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1232	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1233	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1234	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1235	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1236	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1237	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1238	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1239	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1240	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1241	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1242	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1243	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1244	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1245	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1246	CP	Muizenbos	1	1	1	1	1	2	2	2017
-1301	CP	Ename	1	1	1	1	1	2	1	2014
-1302	CP	Ename	1	1	1	1	1	2	1	2014
-1303	CP	Ename	1	1	1	1	1	2	1	2014
-1304	CP	Ename	1	1	1	1	1	2	1	2014
-1305	CP	Ename	1	1	1	1	1	2	1	2014
-1306	CP	Ename	1	1	1	1	1	2	1	2014
-1307	CP	Ename	1	1	1	1	1	2	1	2014
-1308	CP	Ename	1	1	1	1	1	2	1	2014
-1309	CP	Ename	1	1	1	1	1	2	1	2014
-1310	CP	Ename	1	1	1	1	1	2	1	2014
-1311	CP	Ename	1	1	1	1	1	2	1	2014
-1312	CP	Ename	1	1	1	1	1	2	1	2014
-1313	CP	Ename	1	1	1	1	1	2	1	2014
-1314	CP	Ename	1	1	1	1	1	2	1	2014
-1315	CP	Ename	1	1	1	1	1	2	1	2014
-1316	CP	Ename	1	1	1	1	1	2	1	2014
-1317	CP	Ename	1	1	1	1	1	2	1	2014
-1318	CP	Ename	1	1	1	1	1	2	1	2014
-1319	CP	Ename	1	1	1	1	1	2	1	2014
-1320	CP	Ename	1	1	1	1	1	2	1	2014
-1321	CP	Ename	1	1	1	1	1	2	1	2014
-1322	CP	Ename	1	1	1	1	1	2	1	2014
-1323	CP	Ename	1	1	1	1	1	2	1	2014
-1324	CP	Ename	1	1	1	1	1	2	1	2014
-1325	CP	Ename	1	1	1	1	1	2	1	2014
-1326	CP	Ename	1	1	1	1	1	2	1	2014
-1327	CP	Ename	1	1	1	1	1	2	1	2014
-1328	CP	Ename	1	1	1	1	1	2	1	2014
-1329	CP	Ename	1	1	1	1	1	2	1	2014
-1330	CP	Ename	1	1	1	1	1	2	1	2014
-1331	CP	Ename	1	1	1	1	1	2	1	2014
-1332	CP	Ename	1	1	1	1	1	2	1	2014
-1333	CP	Ename	1	1	1	1	1	2	1	2014
-1334	CP	Ename	1	1	1	1	1	2	1	2014
-1335	CP	Ename	1	1	1	1	1	2	1	2014
-1336	CP	Ename	1	1	1	1	1	2	1	2014
-1337	CP	Ename	1	1	1	1	1	2	1	2014
-1338	CP	Ename	1	1	1	1	1	2	1	2014
-1339	CP	Ename	1	1	1	1	1	2	1	2014
-1340	CP	Ename	1	1	1	1	1	2	1	2014
-1341	CP	Ename	1	1	1	1	1	2	1	2014
-1342	CP	Ename	1	1	1	1	1	2	1	2014
-1343	CP	Ename	1	1	1	1	1	2	1	2014
-1344	CP	Ename	1	1	1	1	1	2	1	2014
-1345	CP	Ename	1	1	1	1	1	2	1	2014
-1346	CP	Ename	1	1	1	1	1	2	1	2014
-1347	CP	Ename	1	1	1	1	1	2	1	2014
-1348	CP	Ename	1	1	1	1	1	2	1	2014
-1349	CP	Ename	1	1	1	1	1	2	1	2014
-1350	CP	Ename	1	1	1	1	1	2	1	2014
-1351	CP	Ename	1	1	1	1	1	2	1	2014
-1352	CP	Ename	1	1	1	1	1	2	1	2014
-1353	CP	Ename	1	1	1	1	1	2	1	2014
-1354	CP	Ename	1	1	1	1	1	2	1	2014
-1355	CP	Ename	1	1	1	1	1	2	1	2014
-1356	CP	Ename	1	1	1	1	1	2	1	2014
-1357	CP	Ename	1	1	1	1	1	2	1	2014
-1358	CP	Ename	1	1	1	1	1	2	1	2014
-1359	CP	Ename	1	1	1	1	1	2	1	2014
-1360	CP	Ename	1	1	1	1	1	2	1	2014
-1361	CP	Ename	1	1	1	1	1	2	1	2014
-1362	CP	Ename	1	1	1	1	1	2	1	2014
-1363	CP	Ename	1	1	1	1	1	2	1	2014
-1364	CP	Ename	1	1	1	1	1	2	1	2014
-1365	CP	Ename	1	1	1	1	1	2	1	2014
-1366	CP	Ename	1	1	1	1	1	2	1	2014
-1367	CP	Ename	1	1	1	1	1	2	1	2014
-1368	CP	Ename	1	1	1	1	1	2	1	2014
-1369	CP	Ename	1	1	1	1	1	2	1	2014
-1370	CP	Ename	1	1	1	1	1	2	1	2014
-1371	CP	Ename	1	1	1	1	1	2	1	2014
-1372	CP	Ename	1	1	1	1	1	2	1	2014
-1373	CP	Ename	1	1	1	1	1	2	1	2014
-1401	CP	De heide	1	1	1	1	1	2	1	2016
-1402	CP	De heide	1	1	1	1	1	2	1	2016
-1403	CP	De heide	1	1	1	1	1	2	1	2016
-1404	CP	De heide	1	1	1	1	1	2	1	2016
-1405	CP	De heide	1	1	1	1	1	2	1	2016
-1406	CP	De heide	1	1	1	1	1	2	1	2016
-1407	CP	De heide	1	1	1	1	1	2	1	2016
-1408	CP	De heide	1	1	1	1	1	2	1	2016
-1409	CP	De heide	1	1	1	1	1	2	1	2016
-1410	CP	De heide	1	1	1	1	1	2	1	2016
-1411	CP	De heide	1	1	1	1	1	2	1	2016
-1412	CP	De heide	1	1	1	1	1	2	1	2016
-1413	CP	De heide	1	1	1	1	1	2	1	2016
-1414	CP	De heide	1	1	1	1	1	2	1	2016
-1415	CP	De heide	1	1	1	1	1	2	1	2016
-1416	CP	De heide	1	1	1	1	1	2	1	2016
-1417	CP	De heide	1	1	1	1	1	2	1	2016
-1418	CP	De heide	1	1	1	1	1	2	1	2016
-1419	CP	De heide	1	1	1	1	1	2	1	2016
-1420	CP	De heide	1	1	1	1	1	2	1	2016
-1421	CP	De heide	1	1	1	1	1	2	1	2016
-1422	CP	De heide	1	1	1	1	1	2	1	2016
-1423	CP	De heide	1	1	1	1	1	2	1	2016
-1424	CP	De heide	1	1	1	1	1	2	1	2016
-1425	CP	De heide	1	1	1	1	1	2	1	2016
-1426	CP	De heide	1	1	1	1	1	2	1	2016
-1427	CP	De heide	1	1	1	1	1	2	1	2016
-1428	CP	De heide	1	1	1	1	1	2	1	2016
-1429	CP	De heide	1	1	1	1	1	2	1	2016
-1430	CP	De heide	1	1	1	1	1	2	1	2016
-1431	CP	De heide	1	1	1	1	1	2	1	2016
-1432	CP	De heide	1	1	1	1	1	2	1	2016
-1433	CP	De heide	1	1	1	1	1	2	1	2016
-1434	CP	De heide	1	1	1	1	1	2	1	2016
-1435	CP	De heide	1	1	1	1	1	2	1	2016
-1436	CP	De heide	1	1	1	1	1	2	1	2016
-1437	CP	De heide	1	1	1	1	1	2	1	2016
-1438	CP	De heide	1	1	1	1	1	2	1	2016
-1439	CP	De heide	1	1	1	1	1	2	1	2016
-1440	CP	De heide	1	1	1	1	1	2	1	2016
-1441	CP	De heide	1	1	1	1	1	2	1	2016
-1442	CP	De heide	1	1	1	1	1	2	1	2016
-1443	CP	De heide	1	1	1	1	1	2	1	2016
-1444	CP	De heide	1	1	1	1	1	2	1	2016
-1445	CP	De heide	1	1	1	1	1	2	1	2016
-1446	CP	De heide	1	1	1	1	1	2	1	2016
-1447	CP	De heide	1	1	1	1	1	2	1	2016
-1448	CP	De heide	1	1	1	1	1	2	1	2016
-1449	CP	De heide	1	1	1	1	1	2	1	2016
-1450	CP	De heide	1	1	1	1	1	2	1	2016
-1451	CP	De heide	1	1	1	1	1	2	1	2016
-1452	CP	De heide	1	1	1	1	1	2	1	2016
-1501	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1502	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1503	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1504	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1505	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1506	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1507	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1508	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1509	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1510	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1511	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1512	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1513	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1514	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1515	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1516	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1517	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1518	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1519	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1520	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1521	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1522	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1523	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1524	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1525	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1526	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1527	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1528	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1529	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1530	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1531	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1532	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1533	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1534	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1535	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1536	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1537	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1538	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1539	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1540	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1541	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1542	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1543	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1544	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1545	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1546	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1547	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1548	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1549	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1550	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1551	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1552	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1553	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1554	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1555	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1556	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1557	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1558	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1559	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1560	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1561	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1562	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1563	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1564	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1565	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1566	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1567	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1568	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1569	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1570	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1571	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1572	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1573	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1574	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1575	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1576	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1577	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1578	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1579	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1580	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1581	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1582	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1583	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1584	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1585	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1586	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1587	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1588	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1589	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1590	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1591	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1592	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1593	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1594	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1595	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1596	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1597	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1598	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1599	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1600	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1601	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1602	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1603	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1604	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1605	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1606	CP	Kluisbos	1	1	1	1	1	2	1	2018
-1607	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1608	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1609	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1610	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1611	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1612	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1613	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1614	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1615	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1616	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1617	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1618	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1619	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1620	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1621	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1622	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1623	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1624	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1625	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1626	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1627	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1628	CP	Kluisbos	1	0	1	1	1	2	1	2018
-1701	CP	Kolmont	0	0	0	0	0	2	NA	NA
-1702	CP	Kolmont	0	0	0	0	0	2	NA	NA
-1703	CP	Kolmont	0	0	0	0	0	2	NA	NA
-1704	CP	Kolmont	0	0	0	0	0	2	NA	NA
-1705	CP	Kolmont	0	0	0	0	0	2	NA	NA
-1706	CP	Kolmont	0	0	0	0	0	2	NA	NA
-1707	CP	Kolmont	0	0	0	0	0	2	NA	NA
-1708	CP	Kolmont	0	0	0	0	0	2	NA	NA
-1709	CP	Kolmont	0	0	0	0	0	2	NA	NA
-1710	CP	Kolmont	0	0	0	0	0	2	NA	NA
-1711	CP	Kolmont	0	0	0	0	0	2	NA	NA
-1712	CP	Kolmont	0	0	0	0	0	2	NA	NA
-1713	CP	Kolmont	0	0	0	0	0	2	NA	NA
-1714	CP	Kolmont	0	0	0	0	0	2	NA	NA
-1715	CP	Kolmont	0	0	0	0	0	2	NA	NA
-1716	CP	Kolmont	0	0	0	0	0	2	NA	NA
-1717	CP	Kolmont	0	0	0	0	0	2	NA	NA
-1718	CP	Kolmont	0	0	0	0	0	2	NA	NA
-1719	CP	Kolmont	0	0	0	0	0	2	NA	NA
-1720	CP	Kolmont	0	0	0	0	0	2	NA	NA
-1721	CP	Kolmont	0	0	0	0	0	2	NA	NA
-1722	CP	Kolmont	0	0	0	0	0	2	NA	NA
-1723	CP	Kolmont	0	0	0	0	0	2	NA	NA
-1724	CP	Kolmont	0	0	0	0	0	2	NA	NA
-1725	CP	Kolmont	0	0	0	0	0	2	NA	NA
-1726	CP	Kolmont	0	0	0	0	0	2	NA	NA
-1727	CP	Kolmont	0	0	0	0	0	2	NA	NA
-1728	CP	Kolmont	0	0	0	0	0	2	NA	NA
-1729	CP	Kolmont	0	0	0	0	0	2	NA	NA
-1730	CP	Kolmont	0	0	0	0	0	2	NA	NA
-1731	CP	Kolmont	0	0	0	0	0	2	NA	NA
-1732	CP	Kolmont	0	0	0	0	0	2	NA	NA
-2001	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
-2002	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2003	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2004	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
-2005	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
-2006	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
-2007	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
-2008	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
-2009	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
-2010	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
-2011	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
-2012	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
-2013	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
-2014	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010
-2015	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010
-2016	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2017	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
-2018	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
-2019	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
-2020	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009
-2021	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2022	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2023	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2024	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2025	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2026	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2027	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2028	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2029	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2030	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2031	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2032	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2033	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2034	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2035	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2036	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2037	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2038	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2039	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2040	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2041	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2042	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2043	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2044	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2045	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010
-2046	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010
-2047	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010
-2048	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2049	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010
-2050	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010
-2051	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010
-2053	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010
-2054	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010
-2055	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010
-2056	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2057	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2058	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2059	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2060	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2061	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2062	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2063	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2064	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2065	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010
-2101	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2102	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2103	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2104	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2105	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2106	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2107	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2108	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2109	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2110	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2111	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2112	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2113	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2114	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2115	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2116	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2117	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2118	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2119	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2120	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2121	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2122	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2123	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2124	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2125	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2126	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2127	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2128	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2129	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2130	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2131	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2132	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2133	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2134	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2135	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2136	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2137	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2138	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2139	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2140	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2141	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2142	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2143	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2144	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2145	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2146	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2147	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2148	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2149	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2150	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2151	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2152	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2153	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2154	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2155	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2156	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2157	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2158	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2159	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2160	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2161	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2162	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2163	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2164	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2165	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2166	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2167	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2168	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2169	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2170	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2171	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2172	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2173	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2174	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2175	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2176	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2177	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2178	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2179	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2180	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2181	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2182	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2183	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2184	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2185	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-2186	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA
-11000	CA	Kersselaerspleyn	1	0	1	1	1	2	3	2009
-21000	CA	Harras	1	1	1	1	1	2	2	2018
-31000	CA	Hannecart	1	1	1	1	1	2	2	2011
-41000	CA	Rodebos KV1	1	1	1	1	1	2	2	2011
-43000	CA	Rodebos KV2	1	1	1	1	1	2	2	2011
-51000	CA	Walenbos KV1	1	1	1	1	1	2	2	2011
-53000	CA	Walenbos OT	1	1	1	1	1	2	2	2011
-71000	CA	Wijnendalebos	1	1	1	1	1	2	2	2012
-81000	CA	Everzwijnbad	1	1	1	1	1	2	2	2012
-91000	CA	Heirnisse	1	1	1	1	1	2	2	2013
-101000	CA	Jansheideberg	1	1	1	1	1	2	2	2013
-111000	CA	Bos Terrijst	1	1	1	1	1	2	2	2014
-121000	CA	Pruikemakers	1	1	1	1	1	2	2	2015
-131000	CA	Liedekerke Transekt	1	1	1	1	0	2	2	2016
-141100	CA	Sevendonck A	1	1	1	1	0	2	2	2016
-141200	CA	Sevendonck Q	1	1	1	1	0	2	2	2016
-151000	CA	Muizenbos	1	1	1	1	1	2	2	2017
-171100	CA	Coolhem A	1	1	1	1	1	2	2	2014
-171200	CA	Coolhem Q	1	1	1	1	1	2	2	2014
-200	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-201	CP	Withoefse heide	0	0	0	0	0	3	NA	NA
-202	CP	Withoefse heide	0	0	0	0	0	3	NA	NA
-203	CP	Withoefse heide	0	0	0	0	0	3	NA	NA
-204	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-205	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-206	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-207	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-208	CP	Withoefse heide	0	0	0	0	0	3	NA	NA
-209	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-210	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-211	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-212	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-213	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-214	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-215	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-216	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-217	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-218	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-219	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-220	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-221	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-223	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-224	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-225	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-226	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-227	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-228	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-229	CP	Withoefse heide	1	1	1	1	0	3	3	2021
-1701	CP	Kolmont	1	1	1	1	1	3	1	2020
-1702	CP	Kolmont	1	1	1	1	1	3	1	2020
-1703	CP	Kolmont	1	1	1	1	1	3	1	2020
-1704	CP	Kolmont	1	1	1	1	1	3	1	2020
-1705	CP	Kolmont	1	1	1	1	1	3	1	2020
-1706	CP	Kolmont	1	1	1	1	1	3	1	2020
-1707	CP	Kolmont	1	1	1	1	1	3	1	2020
-1708	CP	Kolmont	1	1	1	1	1	3	1	2020
-1709	CP	Kolmont	1	1	1	1	1	3	1	2020
-1710	CP	Kolmont	1	1	1	1	1	3	1	2020
-1711	CP	Kolmont	1	1	1	1	1	3	1	2020
-1712	CP	Kolmont	1	1	1	1	1	3	1	2020
-1713	CP	Kolmont	1	1	1	1	1	3	1	2020
-1714	CP	Kolmont	1	1	1	1	1	3	1	2020
-1715	CP	Kolmont	1	1	1	1	1	3	1	2020
-1716	CP	Kolmont	1	1	1	1	1	3	1	2019
-1717	CP	Kolmont	1	1	1	1	1	3	1	2020
-1718	CP	Kolmont	1	1	1	1	1	3	1	2020
-1719	CP	Kolmont	1	1	1	1	1	3	1	2020
-1720	CP	Kolmont	1	1	1	1	1	3	1	2020
-1721	CP	Kolmont	1	1	1	1	1	3	1	2020
-1722	CP	Kolmont	1	1	1	1	1	3	1	2020
-1723	CP	Kolmont	1	1	1	1	1	3	1	2020
-1724	CP	Kolmont	1	1	1	1	1	3	1	2020
-1725	CP	Kolmont	1	1	1	1	1	3	1	2020
-1726	CP	Kolmont	1	1	1	1	1	3	1	2020
-1727	CP	Kolmont	1	1	1	1	1	3	1	2020
-1728	CP	Kolmont	1	1	1	1	1	3	1	2020
-1729	CP	Kolmont	1	1	1	1	1	3	1	2020
-1730	CP	Kolmont	1	1	1	1	1	3	1	2020
-1731	CP	Kolmont	1	1	1	1	1	3	1	2020
-1732	CP	Kolmont	1	1	1	1	1	3	1	2020
-2001	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2002	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2003	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2004	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2005	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2006	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2007	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2008	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2009	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2010	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2011	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2012	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2013	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2014	CP	Kersselaerspleyn	1	1	0	0	1	3	2	2020
-2015	CP	Kersselaerspleyn	1	1	0	0	1	3	2	2020
-2016	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2017	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2018	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2019	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2020	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2021	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2022	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2023	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2024	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2025	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2026	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2027	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2028	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2029	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2030	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2031	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2032	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2033	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2034	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2035	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2036	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2037	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2038	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2039	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2019
-2040	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2041	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2042	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2043	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2044	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2045	CP	Kersselaerspleyn	1	1	0	0	1	3	2	2020
-2046	CP	Kersselaerspleyn	1	1	0	0	1	3	2	2020
-2047	CP	Kersselaerspleyn	1	1	0	0	1	3	2	2020
-2048	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2049	CP	Kersselaerspleyn	1	1	0	0	1	3	2	2020
-2050	CP	Kersselaerspleyn	1	1	0	0	1	3	2	2020
-2051	CP	Kersselaerspleyn	1	1	0	0	1	3	2	2020
-2053	CP	Kersselaerspleyn	1	1	0	0	1	3	2	2020
-2054	CP	Kersselaerspleyn	1	1	0	0	1	3	2	2020
-2055	CP	Kersselaerspleyn	1	1	0	0	1	3	2	2020
-2056	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2057	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2058	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2059	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2060	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2061	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2062	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2063	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2064	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2065	CP	Kersselaerspleyn	1	1	0	0	1	3	3	2020
-2101	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2102	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2103	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2104	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2105	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2106	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2107	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2108	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2109	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2110	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2111	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2112	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2113	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2114	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2115	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2116	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2117	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2118	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2119	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2120	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2121	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2122	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2123	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2124	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2125	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2126	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2127	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2128	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2129	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2130	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2131	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2132	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2133	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2134	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2135	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2136	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2137	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2138	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2139	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2140	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2141	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2142	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2143	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2144	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2145	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2146	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2147	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2148	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2149	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2150	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2151	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2152	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2153	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2154	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2155	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2156	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2157	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2158	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2159	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2160	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2161	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2162	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2163	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2164	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2165	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2166	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2167	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2168	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2169	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2170	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2171	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2172	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2173	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2174	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2175	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2176	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2177	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2178	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2179	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2180	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2181	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2182	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2183	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2184	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2185	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-2186	CP	Zwaenepoel	1	1	1	1	1	3	1	2019
-11000	CA	Kersselaerspleyn	1	0	0	0	1	3	4	2020
-31000	CA	Hannecartbos	1	1	1	1	0	3	1	2021
-41000	CA	Rodebos KV1	1	1	1	1	0	3	3	2021
-43000	CA	Rodebos	1	1	1	1	0	3	1	2021
-51000	CA	Walenbos	0	0	0	0	0	3	NA	NA
-53000	CA	Walenbos	0	0	0	0	0	3	NA	NA
+plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	data_processed	period	survey_number	year_dendro	game_impact_veg	game_impact_reg
+11000	CA	Kersselaerspleyn	1	0	0	0	1	0	1	1986	0	0
+101	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+102	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+103	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+104	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+105	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+106	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+107	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+108	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+109	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+110	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+111	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+112	CP	Everzwijnbad	1	1	0	0	1	1	1	2002	0	0
+113	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+114	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+115	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+116	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+117	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+118	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+119	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+120	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+121	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+122	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+123	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+124	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+125	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+126	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+127	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+128	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+129	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+130	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+131	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+132	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+133	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+134	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+135	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+136	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+137	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+138	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+139	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+140	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+141	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+142	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+143	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+144	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+145	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+146	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+147	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+148	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+200	CP	Withoefse heide	1	1	1	1	1	1	1	1999	0	0
+201	CP	Withoefse heide	0	0	1	1	0	1	NA	NA	0	0
+202	CP	Withoefse heide	0	0	1	1	0	1	NA	NA	0	0
+203	CP	Withoefse heide	0	0	1	1	0	1	NA	NA	0	0
+204	CP	Withoefse heide	1	1	1	1	1	1	1	1999	0	0
+205	CP	Withoefse heide	1	1	1	1	1	1	1	1999	0	0
+206	CP	Withoefse heide	1	1	1	1	1	1	1	1999	0	0
+207	CP	Withoefse heide	1	1	1	1	1	1	1	1999	0	0
+208	CP	Withoefse heide	0	0	1	1	0	1	NA	NA	0	0
+209	CP	Withoefse heide	1	1	1	1	1	1	1	1999	0	0
+210	CP	Withoefse heide	1	1	1	1	1	1	1	1999	0	0
+211	CP	Withoefse heide	1	1	1	1	1	1	1	1999	0	0
+212	CP	Withoefse heide	1	1	1	1	1	1	1	1999	0	0
+213	CP	Withoefse heide	1	1	1	1	1	1	1	1999	0	0
+214	CP	Withoefse heide	1	1	1	1	1	1	1	1999	0	0
+215	CP	Withoefse heide	1	1	1	1	1	1	1	1999	0	0
+216	CP	Withoefse heide	1	1	1	1	1	1	1	1999	0	0
+217	CP	Withoefse heide	1	1	1	1	1	1	1	1999	0	0
+218	CP	Withoefse heide	1	1	1	1	1	1	1	1999	0	0
+219	CP	Withoefse heide	1	1	1	1	1	1	1	1999	0	0
+220	CP	Withoefse heide	1	1	1	1	1	1	1	1999	0	0
+221	CP	Withoefse heide	1	1	1	1	1	1	1	1999	0	0
+223	CP	Withoefse heide	1	1	1	1	1	1	1	1999	0	0
+224	CP	Withoefse heide	1	1	1	1	1	1	1	1999	0	0
+225	CP	Withoefse heide	1	1	1	1	1	1	1	1999	0	0
+226	CP	Withoefse heide	1	1	1	1	1	1	1	1999	0	0
+227	CP	Withoefse heide	1	1	1	1	1	1	1	1999	0	0
+228	CP	Withoefse heide	1	1	1	1	1	1	1	1999	0	0
+229	CP	Withoefse heide	1	1	1	1	1	1	1	1999	0	0
+400	CP	Wijnendalebos	1	1	1	1	0	1	1	2002	0	0
+401	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+402	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+403	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+404	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+405	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+406	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+407	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+408	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+409	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+410	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+411	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+412	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+413	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+414	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+415	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+416	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+417	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+418	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+419	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+420	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+421	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+422	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+423	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+424	CP	Wijnendalebos	1	1	1	1	0	1	1	2002	0	0
+425	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+426	CP	Wijnendalebos	1	1	1	1	0	1	1	2002	0	0
+427	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+428	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+429	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+430	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+431	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+432	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+433	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+434	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+435	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+436	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+437	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+438	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+439	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+440	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+441	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+442	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+443	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+444	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+445	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+446	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+447	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+448	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+449	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+450	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+451	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+452	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+453	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+454	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+455	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+456	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+457	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+458	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+459	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+460	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+461	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+462	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+463	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+464	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+465	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+466	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+467	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+468	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+469	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+470	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+471	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+472	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+473	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+474	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+475	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+476	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+477	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+478	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+479	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+480	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+481	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+482	CP	Wijnendalebos	1	1	1	1	0	1	1	2002	0	0
+483	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+484	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+485	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+486	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+487	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+488	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+489	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+490	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+491	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+492	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+493	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+494	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+495	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+496	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+497	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+498	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+499	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+500	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+501	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+502	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+503	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+504	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+505	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+506	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+507	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+508	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+509	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+510	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+511	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+512	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+513	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+514	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+515	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+516	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+517	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+518	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+519	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+520	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+521	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+522	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+523	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+701	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+702	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+703	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+704	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+705	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+706	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+707	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+708	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+709	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+710	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+711	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+712	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+713	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+714	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+715	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+716	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+717	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+718	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+719	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+720	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+721	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+722	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+723	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+724	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+725	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+726	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+727	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+728	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+729	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+730	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+731	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+732	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+733	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+734	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+735	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+736	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+737	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+738	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+739	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+740	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+741	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+742	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+743	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+744	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+745	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+746	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+747	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+748	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+749	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+750	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+751	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+752	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+753	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+754	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+755	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+756	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+757	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+758	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+759	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+760	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+761	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+762	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+763	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+764	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+765	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+766	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+767	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+768	CP	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+801	CP	Jansheideberg	1	1	1	1	1	1	1	2004	0	0
+802	CP	Jansheideberg	1	1	1	1	1	1	1	2004	0	0
+803	CP	Jansheideberg	1	1	1	1	1	1	1	2004	0	0
+804	CP	Jansheideberg	1	1	1	1	1	1	1	2004	0	0
+805	CP	Jansheideberg	1	1	1	1	1	1	1	2004	0	0
+806	CP	Jansheideberg	1	1	1	1	1	1	1	2004	0	0
+807	CP	Jansheideberg	1	1	1	1	1	1	1	2004	0	0
+808	CP	Jansheideberg	1	1	1	1	1	1	1	2004	0	0
+809	CP	Jansheideberg	1	1	1	1	1	1	1	2004	0	0
+810	CP	Jansheideberg	1	1	1	1	1	1	1	2004	0	0
+811	CP	Jansheideberg	1	1	1	1	1	1	1	2004	0	0
+812	CP	Jansheideberg	1	1	1	1	1	1	1	2004	0	0
+813	CP	Jansheideberg	1	1	1	1	1	1	1	2004	0	0
+814	CP	Jansheideberg	1	1	1	1	1	1	1	2004	0	0
+815	CP	Jansheideberg	1	1	1	1	1	1	1	2004	0	0
+816	CP	Jansheideberg	1	1	1	1	1	1	1	2004	0	0
+817	CP	Jansheideberg	1	1	1	1	1	1	1	2004	0	0
+818	CP	Jansheideberg	1	1	1	1	1	1	1	2004	0	0
+819	CP	Jansheideberg	1	1	1	1	1	1	1	2004	0	0
+820	CP	Jansheideberg	1	1	1	1	1	1	1	2004	0	0
+821	CP	Jansheideberg	1	1	1	1	1	1	1	2004	0	0
+822	CP	Jansheideberg	1	1	1	1	1	1	1	2004	0	0
+823	CP	Jansheideberg	1	1	1	1	1	1	1	2004	0	0
+824	CP	Jansheideberg	1	1	1	1	1	1	1	2004	0	0
+825	CP	Jansheideberg	1	1	1	1	1	1	1	2004	0	0
+826	CP	Jansheideberg	1	1	1	1	1	1	1	2004	0	0
+827	CP	Jansheideberg	1	1	1	1	1	1	1	2004	0	0
+828	CP	Jansheideberg	1	1	1	1	1	1	1	2004	0	0
+829	CP	Jansheideberg	1	1	1	1	1	1	1	2004	0	0
+830	CP	Jansheideberg	1	1	1	1	1	1	1	2004	0	0
+831	CP	Jansheideberg	1	1	1	1	1	1	1	2004	0	0
+832	CP	Jansheideberg	1	1	1	1	1	1	1	2004	0	0
+833	CP	Jansheideberg	1	1	1	1	1	1	1	2004	0	0
+841	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+842	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+843	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+844	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+845	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+846	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+847	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+848	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+849	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+850	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+851	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+852	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+853	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+854	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+855	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+856	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+857	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+858	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+859	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+860	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+861	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+862	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+863	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+864	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+865	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+866	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+867	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+868	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+869	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+870	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+871	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+872	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+873	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+874	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+875	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+876	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+877	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+878	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+879	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+880	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+881	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+882	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+883	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+884	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+885	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+886	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+887	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+888	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+889	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+890	CP	Bos Terrijst	1	1	1	1	1	1	1	2004	0	0
+901	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+902	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+903	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+904	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+905	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+906	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+907	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+908	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+909	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+910	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+911	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+912	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+913	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+914	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+915	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+916	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+917	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+918	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+919	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+920	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+921	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+922	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+923	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+924	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+925	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+926	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+927	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+928	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+929	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+930	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+931	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+932	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+933	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+934	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+935	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+936	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+937	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+938	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+939	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+940	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+941	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+942	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+943	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+944	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+945	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+946	CP	Pruikemakers	1	1	0	0	1	1	1	2005	0	0
+947	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+948	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+949	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+950	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+951	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+952	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+953	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+954	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+955	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+956	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+957	CP	Pruikemakers	1	1	0	0	1	1	1	2005	0	0
+958	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+959	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+960	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+961	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+962	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+963	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+964	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+965	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+966	CP	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+1003	CP	Liedekerke	1	1	1	1	1	1	1	2006	0	0
+1004	CP	Liedekerke	1	1	1	1	1	1	1	2006	0	0
+1005	CP	Liedekerke	1	1	1	1	1	1	1	2006	0	0
+1008	CP	Liedekerke	1	1	1	1	1	1	1	2006	0	0
+1009	CP	Liedekerke	1	1	1	1	1	1	1	2006	0	0
+1011	CP	Liedekerke	1	1	1	1	1	1	1	2006	0	0
+1018	CP	Liedekerke	1	1	1	1	1	1	1	2006	0	0
+1019	CP	Liedekerke	1	1	1	1	1	1	1	2006	0	0
+1022	CP	Liedekerke	1	1	1	1	1	1	1	2006	0	0
+1023	CP	Liedekerke	1	1	1	1	1	1	1	2006	0	0
+1024	CP	Liedekerke	1	1	1	1	1	1	1	2006	0	0
+1026	CP	Liedekerke	1	1	1	1	1	1	1	2006	0	0
+1027	CP	Liedekerke	1	1	1	1	1	1	1	2006	0	0
+1028	CP	Liedekerke	1	1	1	1	1	1	1	2006	0	0
+1029	CP	Liedekerke	1	1	1	1	1	1	1	2006	0	0
+1032	CP	Liedekerke	1	1	1	1	1	1	1	2006	0	0
+1035	CP	Liedekerke	1	1	1	1	1	1	1	2006	0	0
+1037	CP	Liedekerke	1	1	1	1	1	1	1	2006	0	0
+1041	CP	Liedekerke	1	1	1	1	1	1	1	2006	0	0
+1044	CP	Liedekerke	1	1	1	1	1	1	1	2006	0	0
+1046	CP	Liedekerke	1	1	1	1	1	1	1	2006	0	0
+1051	CP	Liedekerke	1	1	1	1	1	1	1	2006	0	0
+1052	CP	Liedekerke	1	1	1	1	1	1	1	2006	0	0
+1053	CP	Liedekerke	1	1	1	1	1	1	1	2006	0	0
+1058	CP	Liedekerke	1	1	1	1	1	1	1	2006	0	0
+1059	CP	Liedekerke	1	1	1	1	1	1	1	2006	0	0
+1060	CP	Liedekerke	1	1	1	1	1	1	1	2006	0	0
+1062	CP	Liedekerke	1	1	1	1	1	1	1	2006	0	0
+1063	CP	Liedekerke	1	1	1	1	1	1	1	2006	0	0
+1065	CP	Liedekerke	1	1	1	1	1	1	1	2006	0	0
+1101	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1102	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1103	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1104	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1105	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1106	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1107	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1108	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1109	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1110	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1111	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1112	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1113	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1114	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1115	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1116	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1117	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1118	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1119	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1120	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1121	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1122	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1123	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1124	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1125	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1126	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1127	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1128	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1129	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1130	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1131	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1132	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1133	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1134	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1135	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1136	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1137	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1138	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1139	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1140	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1141	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1142	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1143	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1144	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1145	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1146	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1147	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1148	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1149	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1150	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1151	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1152	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1153	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1154	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1155	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1156	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1157	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1158	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1159	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1160	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1161	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1162	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1163	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1164	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1165	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1166	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1167	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1168	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1169	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1170	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1171	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1172	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1173	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1174	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1175	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1176	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1177	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1178	CP	Sevendonck	1	1	1	1	1	1	1	2007	0	0
+1201	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1202	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1203	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1204	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1205	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1206	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1207	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1208	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1209	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1210	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1211	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1212	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1213	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1214	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1215	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1216	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1217	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1218	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1219	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1220	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1221	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1222	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1223	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1224	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1225	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1226	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1227	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1228	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1229	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1230	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1231	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1232	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1233	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1234	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1235	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1236	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1237	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1238	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1239	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1240	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1241	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1242	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1243	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1244	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1245	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1246	CP	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+1301	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1302	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1303	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1304	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1305	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1306	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1307	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1308	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1309	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1310	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1311	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1312	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1313	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1314	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1315	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1316	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1317	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1318	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1319	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1320	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1321	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1322	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1323	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1324	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1325	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1326	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1327	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1328	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1329	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1330	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1331	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1332	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1333	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1334	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1335	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1336	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1337	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1338	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1339	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1340	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1341	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1342	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1343	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1344	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1345	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1346	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1347	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1348	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1349	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1350	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1351	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1352	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1353	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1354	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1355	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1356	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1357	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1358	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1359	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1360	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1361	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1362	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1363	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1364	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1365	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1366	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1367	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1368	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1369	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1370	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1371	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1372	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1373	CP	Ename	0	0	0	0	0	1	NA	NA	0	0
+1401	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1402	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1403	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1404	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1405	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1406	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1407	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1408	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1409	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1410	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1411	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1412	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1413	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1414	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1415	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1416	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1417	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1418	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1419	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1420	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1421	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1422	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1423	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1424	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1425	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1426	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1427	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1428	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1429	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1430	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1431	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1432	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1433	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1434	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1435	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1436	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1437	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1438	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1439	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1440	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1441	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1442	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1443	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1444	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1445	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1446	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1447	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1448	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1449	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1450	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1451	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1452	CP	De heide	0	0	0	0	0	1	NA	NA	0	0
+1501	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1502	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1503	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1504	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1505	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1506	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1507	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1508	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1509	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1510	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1511	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1512	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1513	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1514	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1515	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1516	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1517	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1518	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1519	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1520	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1521	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1522	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1523	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1524	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1525	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1526	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1527	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1528	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1529	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1530	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1531	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1532	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1533	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1534	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1535	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1536	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1537	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1538	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1539	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1540	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1541	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1542	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1543	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1544	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1545	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1546	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1547	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1548	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1549	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1550	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1551	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1552	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1553	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1554	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1555	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1556	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1557	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1558	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1559	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1560	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1561	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1562	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1563	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1564	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1565	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1566	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1567	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1568	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1569	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1570	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1571	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1572	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1573	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1574	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1575	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1576	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1577	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1578	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1579	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1580	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1581	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1582	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1583	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1584	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1585	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1586	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1587	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1588	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1589	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1590	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1591	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1592	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1593	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1594	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1595	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1596	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1597	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1598	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1599	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1600	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1601	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1602	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1603	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1604	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1605	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1606	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1607	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1608	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1609	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1610	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1611	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1612	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1613	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1614	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1615	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1616	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1617	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1618	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1619	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1620	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1621	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1622	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1623	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1624	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1625	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1626	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1627	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1628	CP	Kluisbos	0	0	0	0	0	1	NA	NA	0	0
+1701	CP	Kolmont	0	0	0	0	0	1	NA	NA	0	0
+1702	CP	Kolmont	0	0	0	0	0	1	NA	NA	0	0
+1703	CP	Kolmont	0	0	0	0	0	1	NA	NA	0	0
+1704	CP	Kolmont	0	0	0	0	0	1	NA	NA	0	0
+1705	CP	Kolmont	0	0	0	0	0	1	NA	NA	0	0
+1706	CP	Kolmont	0	0	0	0	0	1	NA	NA	0	0
+1707	CP	Kolmont	0	0	0	0	0	1	NA	NA	0	0
+1708	CP	Kolmont	0	0	0	0	0	1	NA	NA	0	0
+1709	CP	Kolmont	0	0	0	0	0	1	NA	NA	0	0
+1710	CP	Kolmont	0	0	0	0	0	1	NA	NA	0	0
+1711	CP	Kolmont	0	0	0	0	0	1	NA	NA	0	0
+1712	CP	Kolmont	0	0	0	0	0	1	NA	NA	0	0
+1713	CP	Kolmont	0	0	0	0	0	1	NA	NA	0	0
+1714	CP	Kolmont	0	0	0	0	0	1	NA	NA	0	0
+1715	CP	Kolmont	0	0	0	0	0	1	NA	NA	0	0
+1716	CP	Kolmont	0	0	0	0	0	1	NA	NA	0	0
+1717	CP	Kolmont	0	0	0	0	0	1	NA	NA	0	0
+1718	CP	Kolmont	0	0	0	0	0	1	NA	NA	0	0
+1719	CP	Kolmont	0	0	0	0	0	1	NA	NA	0	0
+1720	CP	Kolmont	0	0	0	0	0	1	NA	NA	0	0
+1721	CP	Kolmont	0	0	0	0	0	1	NA	NA	0	0
+1722	CP	Kolmont	0	0	0	0	0	1	NA	NA	0	0
+1723	CP	Kolmont	0	0	0	0	0	1	NA	NA	0	0
+1724	CP	Kolmont	0	0	0	0	0	1	NA	NA	0	0
+1725	CP	Kolmont	0	0	0	0	0	1	NA	NA	0	0
+1726	CP	Kolmont	0	0	0	0	0	1	NA	NA	0	0
+1727	CP	Kolmont	0	0	0	0	0	1	NA	NA	0	0
+1728	CP	Kolmont	0	0	0	0	0	1	NA	NA	0	0
+1729	CP	Kolmont	0	0	0	0	0	1	NA	NA	0	0
+1730	CP	Kolmont	0	0	0	0	0	1	NA	NA	0	0
+1731	CP	Kolmont	0	0	0	0	0	1	NA	NA	0	0
+1732	CP	Kolmont	0	0	0	0	0	1	NA	NA	0	0
+2001	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2002	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2003	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2004	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2005	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2006	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2007	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2008	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2009	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2010	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2011	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2012	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2013	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2014	CP	Kersselaerspleyn	0	0	0	0	0	1	NA	NA	0	0
+2015	CP	Kersselaerspleyn	0	0	0	0	0	1	NA	NA	0	0
+2016	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2017	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2018	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2019	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2020	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2021	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2022	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2023	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2024	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2025	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2026	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2027	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2028	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2029	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2030	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2031	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2032	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2033	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2034	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2035	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2036	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2037	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2038	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2039	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2040	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2041	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2042	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2043	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2044	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2045	CP	Kersselaerspleyn	0	0	0	0	0	1	NA	NA	0	0
+2046	CP	Kersselaerspleyn	0	0	0	0	0	1	NA	NA	0	0
+2047	CP	Kersselaerspleyn	0	0	0	0	0	1	NA	NA	0	0
+2048	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2049	CP	Kersselaerspleyn	0	0	0	0	0	1	NA	NA	0	0
+2050	CP	Kersselaerspleyn	0	0	0	0	0	1	NA	NA	0	0
+2051	CP	Kersselaerspleyn	0	0	0	0	0	1	NA	NA	0	0
+2053	CP	Kersselaerspleyn	0	0	0	0	0	1	NA	NA	0	0
+2054	CP	Kersselaerspleyn	0	0	0	0	0	1	NA	NA	0	0
+2055	CP	Kersselaerspleyn	0	0	0	0	0	1	NA	NA	0	0
+2056	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2057	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2058	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2059	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2060	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2061	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2062	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2063	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2064	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2065	CP	Kersselaerspleyn	1	0	1	1	1	1	1	2000	0	0
+2101	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2102	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2103	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2104	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2105	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2106	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2107	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2108	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2109	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2110	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2111	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2112	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2113	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2114	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2115	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2116	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2117	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2118	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2119	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2120	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2121	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2122	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2123	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2124	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2125	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2126	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2127	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2128	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2129	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2130	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2131	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2132	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2133	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2134	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2135	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2136	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2137	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2138	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2139	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2140	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2141	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2142	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2143	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2144	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2145	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2146	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2147	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2148	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2149	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2150	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2151	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2152	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2153	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2154	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2155	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2156	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2157	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2158	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2159	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2160	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2161	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2162	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2163	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2164	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2165	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2166	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2167	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2168	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2169	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2170	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2171	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2172	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2173	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2174	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2175	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2176	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2177	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2178	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2179	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2180	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2181	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2182	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2183	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2184	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2185	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+2186	CP	Zwaenepoel	0	0	0	0	0	1	NA	NA	0	0
+11000	CA	Kersselaerspleyn	1	0	1	1	1	1	2	2000	0	0
+21000	CA	Harras	1	1	1	1	1	1	1	2008	0	0
+31000	CA	Hannecart	1	1	1	1	1	1	1	2001	0	0
+41000	CA	Rodebos KV1	1	1	1	1	1	1	1	2001	0	0
+43000	CA	Rodebos KV2	1	1	1	1	1	1	1	2001	0	0
+51000	CA	Walenbos KV1	1	1	1	1	1	1	1	2001	0	0
+53000	CA	Walenbos OT	1	1	1	1	1	1	1	2001	0	0
+71000	CA	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
+81000	CA	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
+91000	CA	Heirnisse	1	1	1	1	1	1	1	2003	0	0
+101000	CA	Jansheideberg	1	1	1	1	1	1	1	2004	0	0
+111000	CA	Bos Terrijst	1	1	1	1	1	1	1	2005	0	0
+121000	CA	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
+131000	CA	Liedekerke TR	1	1	1	1	0	1	1	2006	0	0
+141100	CA	Sevendonck A	1	1	1	1	0	1	1	2007	0	0
+141200	CA	Sevendonck Q	1	1	1	1	0	1	1	2007	0	0
+151000	CA	Muizenbos	1	1	1	1	1	1	1	2007	0	0
+171100	CA	Coolhem A	1	1	1	1	1	1	1	2004	0	0
+171200	CA	Coolhem Q	1	1	1	1	1	1	1	2004	0	0
+101	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+102	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+103	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+104	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+105	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+106	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+107	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+108	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+109	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+110	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+111	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+112	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+113	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+114	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+115	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+116	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+117	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+118	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+119	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+120	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+121	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+122	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+123	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+124	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+125	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+126	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+127	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+128	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+129	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+130	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+131	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+132	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+133	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+134	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+135	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+136	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+137	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+138	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+139	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+140	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+141	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+142	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+143	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+144	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+145	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+146	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+147	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+148	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+200	CP	Withoefse heide	1	1	0	1	1	2	2	2011	0	0
+201	CP	Withoefse heide	0	0	0	0	0	2	NA	2011	0	0
+202	CP	Withoefse heide	0	0	0	0	0	2	NA	NA	0	0
+203	CP	Withoefse heide	0	0	0	0	0	2	NA	NA	0	0
+204	CP	Withoefse heide	1	1	0	1	1	2	2	2011	0	0
+205	CP	Withoefse heide	1	1	0	1	1	2	2	2011	0	0
+206	CP	Withoefse heide	1	1	0	1	1	2	2	2011	0	0
+207	CP	Withoefse heide	1	1	0	1	1	2	2	2011	0	0
+208	CP	Withoefse heide	0	0	0	0	0	2	NA	NA	0	0
+209	CP	Withoefse heide	1	1	0	1	1	2	2	2011	0	0
+210	CP	Withoefse heide	1	1	0	1	1	2	2	2011	0	0
+211	CP	Withoefse heide	1	1	0	1	1	2	2	2011	0	0
+212	CP	Withoefse heide	1	1	0	1	1	2	2	2011	0	0
+213	CP	Withoefse heide	1	1	0	1	1	2	2	2011	0	0
+214	CP	Withoefse heide	1	1	0	1	1	2	2	2011	0	0
+215	CP	Withoefse heide	1	1	0	1	1	2	2	2011	0	0
+216	CP	Withoefse heide	1	1	0	1	1	2	2	2011	0	0
+217	CP	Withoefse heide	1	1	0	1	1	2	2	2011	0	0
+218	CP	Withoefse heide	1	1	0	1	1	2	2	2011	0	0
+219	CP	Withoefse heide	1	1	0	1	1	2	2	2011	0	0
+220	CP	Withoefse heide	1	1	0	1	1	2	2	2011	0	0
+221	CP	Withoefse heide	1	1	0	1	1	2	2	2011	0	0
+223	CP	Withoefse heide	1	1	0	1	1	2	2	2011	0	0
+224	CP	Withoefse heide	1	1	0	1	1	2	2	2011	0	0
+225	CP	Withoefse heide	1	1	0	1	1	2	2	2011	0	0
+226	CP	Withoefse heide	1	1	0	1	1	2	2	2011	0	0
+227	CP	Withoefse heide	1	1	0	1	1	2	2	2011	0	0
+228	CP	Withoefse heide	1	1	0	1	1	2	2	2011	0	0
+229	CP	Withoefse heide	1	1	0	1	1	2	2	2011	0	0
+400	CP	Wijnendalebos	0	0	1	1	0	2	NA	NA	0	0
+401	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+402	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+403	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+404	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+405	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+406	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+407	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+408	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+409	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+410	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+411	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+412	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+413	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+414	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+415	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+416	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+417	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+418	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+419	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+420	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+421	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+422	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+423	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+424	CP	Wijnendalebos	0	0	1	1	0	2	NA	NA	0	0
+425	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+426	CP	Wijnendalebos	0	0	1	1	0	2	NA	NA	0	0
+427	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+428	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+429	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+430	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+431	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+432	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+433	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+434	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+435	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+436	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+437	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+438	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+439	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+440	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+441	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+442	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+443	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+444	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+445	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+446	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+447	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+448	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+449	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+450	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+451	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+452	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+453	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+454	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+455	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+456	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+457	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+458	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+459	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+460	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+461	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+462	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+463	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+464	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+465	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+466	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+467	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+468	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+469	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+470	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+471	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+472	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+473	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+474	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+475	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+476	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+477	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+478	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+479	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+480	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+481	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+482	CP	Wijnendalebos	0	0	0	0	0	2	NA	NA	0	0
+483	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+484	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+485	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+486	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+487	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+488	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+489	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+490	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+491	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+492	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+493	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+494	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+495	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+496	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+497	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+498	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+499	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+500	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+501	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+502	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+503	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+504	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+505	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+506	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+507	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+508	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+509	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+510	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+511	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+512	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+513	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+514	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+515	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+516	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+517	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+518	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+519	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+520	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+521	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+522	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+523	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+701	CP	Heirnisse	1	1	1	1	1	2	2	2014	1	1
+702	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+703	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+704	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+705	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+706	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+707	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+708	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+709	CP	Heirnisse	1	1	1	1	1	2	2	2014	1	1
+710	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+711	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+712	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+713	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+714	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+715	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+716	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+717	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+718	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+719	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+720	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+721	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+722	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+723	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+724	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+725	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+726	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+727	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+728	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+729	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+730	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+731	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+732	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+733	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+734	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+735	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+736	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+737	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+738	CP	Heirnisse	1	1	1	1	1	2	2	2014	1	1
+739	CP	Heirnisse	1	1	1	1	1	2	2	2014	1	1
+740	CP	Heirnisse	1	1	1	1	1	2	2	2014	1	1
+741	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+742	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+743	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+744	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+745	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+746	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+747	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+748	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+749	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+750	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+751	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+752	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+753	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+754	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+755	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+756	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+757	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+758	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+759	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+760	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+761	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+762	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+763	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+764	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+765	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+766	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+767	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+768	CP	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+801	CP	Jansheideberg	1	1	1	1	1	2	2	2013	1	1
+802	CP	Jansheideberg	1	1	1	1	1	2	2	2013	1	1
+803	CP	Jansheideberg	1	1	1	1	1	2	2	2013	1	1
+804	CP	Jansheideberg	1	1	1	1	1	2	2	2013	1	1
+805	CP	Jansheideberg	1	1	1	1	1	2	2	2013	1	1
+806	CP	Jansheideberg	1	1	1	1	1	2	2	2013	1	1
+807	CP	Jansheideberg	1	1	1	1	1	2	2	2013	1	1
+808	CP	Jansheideberg	1	1	1	1	1	2	2	2013	1	1
+809	CP	Jansheideberg	1	1	1	1	1	2	2	2013	1	1
+810	CP	Jansheideberg	1	1	1	1	1	2	2	2013	1	1
+811	CP	Jansheideberg	1	1	1	1	1	2	2	2013	1	1
+812	CP	Jansheideberg	1	1	1	1	1	2	2	2013	1	1
+813	CP	Jansheideberg	1	1	1	1	1	2	2	2013	1	1
+814	CP	Jansheideberg	1	1	1	1	1	2	2	2013	1	1
+815	CP	Jansheideberg	1	1	1	1	1	2	2	2013	1	1
+816	CP	Jansheideberg	1	1	1	1	1	2	2	2013	1	1
+817	CP	Jansheideberg	1	1	1	1	1	2	2	2013	1	1
+818	CP	Jansheideberg	1	1	1	1	1	2	2	2013	1	1
+819	CP	Jansheideberg	1	1	1	1	1	2	2	2013	1	1
+820	CP	Jansheideberg	1	1	1	1	1	2	2	2013	1	1
+821	CP	Jansheideberg	1	1	1	1	1	2	2	2013	1	1
+822	CP	Jansheideberg	1	1	1	1	1	2	2	2013	1	1
+823	CP	Jansheideberg	1	1	1	1	1	2	2	2013	1	1
+824	CP	Jansheideberg	1	1	1	1	1	2	2	2013	1	1
+825	CP	Jansheideberg	1	1	1	1	1	2	2	2013	1	1
+826	CP	Jansheideberg	1	1	1	1	1	2	2	2013	1	1
+827	CP	Jansheideberg	1	1	1	1	1	2	2	2013	1	1
+828	CP	Jansheideberg	1	1	1	1	1	2	2	2013	1	1
+829	CP	Jansheideberg	1	1	1	1	1	2	2	2013	1	1
+830	CP	Jansheideberg	1	1	1	1	1	2	2	2013	1	1
+831	CP	Jansheideberg	1	1	1	1	1	2	2	2013	1	1
+832	CP	Jansheideberg	1	1	1	1	1	2	2	2013	1	1
+833	CP	Jansheideberg	1	1	1	1	1	2	2	2013	1	1
+841	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+842	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+843	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+844	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+845	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+846	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+847	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+848	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+849	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+850	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+851	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+852	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+853	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+854	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+855	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+856	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+857	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+858	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+859	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+860	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+861	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+862	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+863	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+864	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+865	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+866	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+867	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+868	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+869	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+870	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+871	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+872	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+873	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+874	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+875	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+876	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+877	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+878	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+879	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+880	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+881	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+882	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+883	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+884	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+885	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+886	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+887	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+888	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+889	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+890	CP	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+901	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+902	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+903	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+904	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+905	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+906	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+907	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+908	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+909	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+910	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+911	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+912	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+913	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+914	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+915	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+916	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+917	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+918	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+919	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+920	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+921	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+922	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+923	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+924	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+925	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+926	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+927	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+928	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+929	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+930	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+931	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+932	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+933	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+934	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+935	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+936	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+937	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+938	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+939	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+940	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+941	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+942	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+943	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+944	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+945	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+946	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+947	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+948	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+949	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+950	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+951	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+952	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+953	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+954	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+955	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+956	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+957	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+958	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+959	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+960	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+961	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+962	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+963	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+964	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+965	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+966	CP	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+1003	CP	Liedekerke	1	1	1	1	1	2	2	2016	1	1
+1004	CP	Liedekerke	1	1	1	1	1	2	2	2016	1	1
+1005	CP	Liedekerke	1	1	1	1	1	2	2	2016	1	1
+1008	CP	Liedekerke	1	1	1	1	1	2	2	2016	1	1
+1009	CP	Liedekerke	1	1	1	1	1	2	2	2016	1	1
+1011	CP	Liedekerke	1	1	1	1	1	2	2	2016	1	1
+1018	CP	Liedekerke	1	1	1	1	1	2	2	2016	1	1
+1019	CP	Liedekerke	1	1	1	1	1	2	2	2016	1	1
+1022	CP	Liedekerke	1	1	1	1	1	2	2	2016	1	1
+1023	CP	Liedekerke	1	1	1	1	1	2	2	2016	1	1
+1024	CP	Liedekerke	1	1	1	1	1	2	2	2016	1	1
+1026	CP	Liedekerke	1	1	1	1	1	2	2	2016	1	1
+1027	CP	Liedekerke	1	1	1	1	1	2	2	2016	1	1
+1028	CP	Liedekerke	1	1	1	1	1	2	2	2016	1	1
+1029	CP	Liedekerke	1	1	1	1	1	2	2	2016	1	1
+1032	CP	Liedekerke	1	1	1	1	1	2	2	2016	1	1
+1035	CP	Liedekerke	1	1	1	1	1	2	2	2016	1	1
+1037	CP	Liedekerke	1	1	1	1	1	2	2	2016	1	1
+1041	CP	Liedekerke	1	1	1	1	1	2	2	2016	1	1
+1044	CP	Liedekerke	1	1	1	1	1	2	2	2016	1	1
+1046	CP	Liedekerke	1	1	1	1	1	2	2	2016	1	1
+1051	CP	Liedekerke	1	1	1	1	1	2	2	2016	1	1
+1052	CP	Liedekerke	1	1	1	1	1	2	2	2016	1	1
+1053	CP	Liedekerke	1	1	1	1	1	2	2	2016	1	1
+1058	CP	Liedekerke	1	1	1	1	1	2	2	2016	1	1
+1059	CP	Liedekerke	1	1	1	1	1	2	2	2016	1	1
+1060	CP	Liedekerke	1	1	1	1	1	2	2	2016	1	1
+1062	CP	Liedekerke	1	1	1	1	1	2	2	2016	1	1
+1063	CP	Liedekerke	1	1	1	1	1	2	2	2016	1	1
+1065	CP	Liedekerke	1	1	1	1	1	2	2	2016	1	1
+1101	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1102	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1103	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1104	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1105	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1106	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1107	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1108	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1109	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1110	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1111	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1112	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1113	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1114	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1115	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1116	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1117	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1118	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1119	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1120	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1121	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1122	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1123	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1124	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1125	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1126	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1127	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1128	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1129	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1130	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1131	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1132	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1133	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1134	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1135	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1136	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1137	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1138	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1139	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1140	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1141	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1142	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1143	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1144	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1145	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1146	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1147	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1148	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1149	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1150	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1151	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1152	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1153	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1154	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1155	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1156	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1157	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1158	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1159	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1160	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1161	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1162	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1163	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1164	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1165	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1166	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1167	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1168	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1169	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1170	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1171	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1172	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1173	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1174	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1175	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1176	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1177	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1178	CP	Sevendonck	1	1	1	1	1	2	2	2016	1	1
+1201	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1202	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1203	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1204	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1205	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1206	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1207	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1208	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1209	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1210	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1211	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1212	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1213	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1214	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1215	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1216	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1217	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1218	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1219	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1220	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1221	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1222	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1223	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1224	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1225	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1226	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1227	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1228	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1229	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1230	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1231	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1232	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1233	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1234	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1235	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1236	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1237	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1238	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1239	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1240	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1241	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1242	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1243	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1244	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1245	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1246	CP	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+1301	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1302	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1303	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1304	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1305	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1306	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1307	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1308	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1309	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1310	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1311	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1312	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1313	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1314	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1315	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1316	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1317	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1318	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1319	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1320	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1321	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1322	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1323	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1324	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1325	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1326	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1327	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1328	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1329	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1330	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1331	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1332	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1333	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1334	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1335	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1336	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1337	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1338	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1339	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1340	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1341	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1342	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1343	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1344	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1345	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1346	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1347	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1348	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1349	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1350	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1351	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1352	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1353	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1354	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1355	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1356	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1357	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1358	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1359	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1360	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1361	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1362	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1363	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1364	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1365	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1366	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1367	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1368	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1369	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1370	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1371	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1372	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1373	CP	Ename	1	1	1	1	1	2	1	2014	1	1
+1401	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1402	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1403	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1404	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1405	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1406	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1407	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1408	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1409	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1410	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1411	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1412	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1413	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1414	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1415	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1416	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1417	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1418	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1419	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1420	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1421	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1422	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1423	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1424	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1425	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1426	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1427	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1428	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1429	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1430	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1431	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1432	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1433	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1434	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1435	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1436	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1437	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1438	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1439	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1440	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1441	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1442	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1443	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1444	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1445	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1446	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1447	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1448	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1449	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1450	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1451	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1452	CP	De heide	1	1	1	1	1	2	1	2016	1	1
+1501	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1502	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1503	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1504	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1505	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1506	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1507	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1508	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1509	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1510	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1511	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1512	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1513	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1514	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1515	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1516	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1517	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1518	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1519	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1520	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1521	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1522	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1523	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1524	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1525	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1526	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1527	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1528	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1529	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1530	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1531	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1532	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1533	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1534	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1535	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1536	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1537	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1538	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1539	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1540	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1541	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1542	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1543	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1544	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1545	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1546	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1547	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1548	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1549	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1550	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1551	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1552	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1553	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1554	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1555	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1556	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1557	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1558	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1559	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1560	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1561	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1562	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1563	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1564	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1565	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1566	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1567	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1568	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1569	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1570	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1571	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1572	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1573	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1574	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1575	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1576	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1577	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1578	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1579	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1580	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1581	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1582	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1583	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1584	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1585	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1586	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1587	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1588	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1589	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1590	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1591	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1592	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1593	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1594	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1595	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1596	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1597	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1598	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1599	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1600	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1601	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1602	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1603	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1604	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1605	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1606	CP	Kluisbos	1	1	1	1	1	2	1	2018	1	1
+1607	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1608	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1609	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1610	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1611	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1612	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1613	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1614	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1615	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1616	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1617	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1618	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1619	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1620	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1621	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1622	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1623	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1624	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1625	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1626	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1627	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1628	CP	Kluisbos	1	0	1	1	1	2	1	2018	1	1
+1701	CP	Kolmont	0	0	0	0	0	2	NA	NA	0	0
+1702	CP	Kolmont	0	0	0	0	0	2	NA	NA	0	0
+1703	CP	Kolmont	0	0	0	0	0	2	NA	NA	0	0
+1704	CP	Kolmont	0	0	0	0	0	2	NA	NA	0	0
+1705	CP	Kolmont	0	0	0	0	0	2	NA	NA	0	0
+1706	CP	Kolmont	0	0	0	0	0	2	NA	NA	0	0
+1707	CP	Kolmont	0	0	0	0	0	2	NA	NA	0	0
+1708	CP	Kolmont	0	0	0	0	0	2	NA	NA	0	0
+1709	CP	Kolmont	0	0	0	0	0	2	NA	NA	0	0
+1710	CP	Kolmont	0	0	0	0	0	2	NA	NA	0	0
+1711	CP	Kolmont	0	0	0	0	0	2	NA	NA	0	0
+1712	CP	Kolmont	0	0	0	0	0	2	NA	NA	0	0
+1713	CP	Kolmont	0	0	0	0	0	2	NA	NA	0	0
+1714	CP	Kolmont	0	0	0	0	0	2	NA	NA	0	0
+1715	CP	Kolmont	0	0	0	0	0	2	NA	NA	0	0
+1716	CP	Kolmont	0	0	0	0	0	2	NA	NA	0	0
+1717	CP	Kolmont	0	0	0	0	0	2	NA	NA	0	0
+1718	CP	Kolmont	0	0	0	0	0	2	NA	NA	0	0
+1719	CP	Kolmont	0	0	0	0	0	2	NA	NA	0	0
+1720	CP	Kolmont	0	0	0	0	0	2	NA	NA	0	0
+1721	CP	Kolmont	0	0	0	0	0	2	NA	NA	0	0
+1722	CP	Kolmont	0	0	0	0	0	2	NA	NA	0	0
+1723	CP	Kolmont	0	0	0	0	0	2	NA	NA	0	0
+1724	CP	Kolmont	0	0	0	0	0	2	NA	NA	0	0
+1725	CP	Kolmont	0	0	0	0	0	2	NA	NA	0	0
+1726	CP	Kolmont	0	0	0	0	0	2	NA	NA	0	0
+1727	CP	Kolmont	0	0	0	0	0	2	NA	NA	0	0
+1728	CP	Kolmont	0	0	0	0	0	2	NA	NA	0	0
+1729	CP	Kolmont	0	0	0	0	0	2	NA	NA	0	0
+1730	CP	Kolmont	0	0	0	0	0	2	NA	NA	0	0
+1731	CP	Kolmont	0	0	0	0	0	2	NA	NA	0	0
+1732	CP	Kolmont	0	0	0	0	0	2	NA	NA	0	0
+2001	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009	0	0
+2002	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2003	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2004	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009	0	0
+2005	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009	0	0
+2006	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009	0	0
+2007	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009	0	0
+2008	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009	0	0
+2009	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009	0	0
+2010	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009	0	0
+2011	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009	0	0
+2012	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009	0	0
+2013	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009	0	0
+2014	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010	0	0
+2015	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010	0	0
+2016	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2017	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009	0	0
+2018	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009	0	0
+2019	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009	0	0
+2020	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2009	0	0
+2021	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2022	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2023	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2024	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2025	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2026	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2027	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2028	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2029	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2030	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2031	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2032	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2033	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2034	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2035	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2036	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2037	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2038	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2039	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2040	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2041	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2042	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2043	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2044	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2045	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010	0	0
+2046	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010	0	0
+2047	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010	0	0
+2048	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2049	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010	0	0
+2050	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010	0	0
+2051	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010	0	0
+2053	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010	0	0
+2054	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010	0	0
+2055	CP	Kersselaerspleyn	1	1	1	1	1	2	1	2010	0	0
+2056	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2057	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2058	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2059	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2060	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2061	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2062	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2063	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2064	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2065	CP	Kersselaerspleyn	1	1	1	1	1	2	2	2010	0	0
+2101	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2102	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2103	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2104	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2105	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2106	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2107	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2108	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2109	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2110	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2111	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2112	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2113	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2114	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2115	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2116	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2117	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2118	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2119	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2120	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2121	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2122	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2123	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2124	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2125	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2126	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2127	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2128	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2129	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2130	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2131	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2132	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2133	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2134	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2135	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2136	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2137	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2138	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2139	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2140	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2141	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2142	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2143	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2144	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2145	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2146	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2147	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2148	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2149	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2150	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2151	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2152	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2153	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2154	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2155	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2156	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2157	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2158	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2159	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2160	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2161	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2162	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2163	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2164	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2165	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2166	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2167	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2168	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2169	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2170	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2171	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2172	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2173	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2174	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2175	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2176	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2177	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2178	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2179	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2180	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2181	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2182	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2183	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2184	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2185	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+2186	CP	Zwaenepoel	0	0	0	0	0	2	NA	NA	0	0
+11000	CA	Kersselaerspleyn	1	1	1	1	1	2	3	2009	0	0
+21000	CA	Harras	1	1	1	1	1	2	2	2018	0	0
+31000	CA	Hannecart	1	1	1	1	1	2	2	2011	0	0
+41000	CA	Rodebos KV1	1	1	1	1	1	2	2	2011	0	0
+43000	CA	Rodebos KV2	1	1	1	1	1	2	2	2011	0	0
+51000	CA	Walenbos KV1	1	1	1	1	1	2	2	2011	0	0
+53000	CA	Walenbos OT	1	1	1	1	1	2	2	2011	0	0
+71000	CA	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
+81000	CA	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
+91000	CA	Heirnisse	1	1	1	1	1	2	2	2013	1	1
+101000	CA	Jansheideberg	1	1	1	1	1	2	2	2013	1	1
+111000	CA	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
+121000	CA	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
+131000	CA	Liedekerke TR	1	1	1	1	0	2	2	2016	1	1
+141100	CA	Sevendonck A	1	1	1	1	0	2	2	2016	1	1
+141200	CA	Sevendonck Q	1	1	1	1	0	2	2	2016	1	1
+151000	CA	Muizenbos	1	1	1	1	1	2	2	2017	1	1
+171100	CA	Coolhem A	1	1	1	1	1	2	2	2014	1	1
+171200	CA	Coolhem Q	1	1	1	1	1	2	2	2014	1	1
+200	CP	Withoefse heide	1	1	1	1	0	3	3	2021	1	1
+201	CP	Withoefse heide	0	0	0	0	0	3	NA	NA	0	0
+202	CP	Withoefse heide	0	0	0	0	0	3	NA	NA	0	0
+203	CP	Withoefse heide	0	0	0	0	0	3	NA	NA	0	0
+204	CP	Withoefse heide	1	1	1	1	0	3	3	2021	1	1
+205	CP	Withoefse heide	1	1	1	1	0	3	3	2021	1	1
+206	CP	Withoefse heide	1	1	1	1	0	3	3	2021	1	1
+207	CP	Withoefse heide	1	1	1	1	0	3	3	2021	1	1
+208	CP	Withoefse heide	0	0	0	0	0	3	NA	NA	0	0
+209	CP	Withoefse heide	1	1	1	1	0	3	3	2021	1	1
+210	CP	Withoefse heide	1	1	1	1	0	3	3	2021	1	1
+211	CP	Withoefse heide	1	1	1	1	0	3	3	2021	1	1
+212	CP	Withoefse heide	1	1	1	1	0	3	3	2021	1	1
+213	CP	Withoefse heide	1	1	1	1	0	3	3	2021	1	1
+214	CP	Withoefse heide	1	1	1	1	0	3	3	2021	1	1
+215	CP	Withoefse heide	1	1	1	1	0	3	3	2021	1	1
+216	CP	Withoefse heide	1	1	1	1	0	3	3	2021	1	1
+217	CP	Withoefse heide	1	1	1	1	0	3	3	2021	1	1
+218	CP	Withoefse heide	1	1	1	1	0	3	3	2021	1	1
+219	CP	Withoefse heide	1	1	1	1	0	3	3	2021	1	1
+220	CP	Withoefse heide	1	1	1	1	0	3	3	2021	1	1
+221	CP	Withoefse heide	1	1	1	1	0	3	3	2021	1	1
+223	CP	Withoefse heide	1	1	1	1	0	3	3	2021	1	1
+224	CP	Withoefse heide	1	1	1	1	0	3	3	2021	1	1
+225	CP	Withoefse heide	1	1	1	1	0	3	3	2021	1	1
+226	CP	Withoefse heide	1	1	1	1	0	3	3	2021	1	1
+227	CP	Withoefse heide	1	1	1	1	0	3	3	2021	1	1
+228	CP	Withoefse heide	1	1	1	1	0	3	3	2021	1	1
+229	CP	Withoefse heide	1	1	1	1	0	3	3	2021	1	1
+1701	CP	Kolmont	1	1	1	1	1	3	1	2020	1	1
+1702	CP	Kolmont	1	1	1	1	1	3	1	2020	1	1
+1703	CP	Kolmont	1	1	1	1	1	3	1	2020	1	1
+1704	CP	Kolmont	1	1	1	1	1	3	1	2020	1	1
+1705	CP	Kolmont	1	1	1	1	1	3	1	2020	1	1
+1706	CP	Kolmont	1	1	1	1	1	3	1	2020	1	1
+1707	CP	Kolmont	1	1	1	1	1	3	1	2020	1	1
+1708	CP	Kolmont	1	1	1	1	1	3	1	2020	1	1
+1709	CP	Kolmont	1	1	1	1	1	3	1	2020	1	1
+1710	CP	Kolmont	1	1	1	1	1	3	1	2020	1	1
+1711	CP	Kolmont	1	1	1	1	1	3	1	2020	1	1
+1712	CP	Kolmont	1	1	1	1	1	3	1	2020	1	1
+1713	CP	Kolmont	1	1	1	1	1	3	1	2020	1	1
+1714	CP	Kolmont	1	1	1	1	1	3	1	2020	1	1
+1715	CP	Kolmont	1	1	1	1	1	3	1	2020	1	1
+1716	CP	Kolmont	1	1	1	1	1	3	1	2020	1	1
+1717	CP	Kolmont	1	1	1	1	1	3	1	2020	1	1
+1718	CP	Kolmont	1	1	1	1	1	3	1	2020	1	1
+1719	CP	Kolmont	1	1	1	1	1	3	1	2020	1	1
+1720	CP	Kolmont	1	1	1	1	1	3	1	2020	1	1
+1721	CP	Kolmont	1	1	1	1	1	3	1	2020	1	1
+1722	CP	Kolmont	1	1	1	1	1	3	1	2020	1	1
+1723	CP	Kolmont	1	1	1	1	1	3	1	2020	1	1
+1724	CP	Kolmont	1	1	1	1	1	3	1	2020	1	1
+1725	CP	Kolmont	1	1	1	1	1	3	1	2020	1	1
+1726	CP	Kolmont	1	1	1	1	1	3	1	2020	1	1
+1727	CP	Kolmont	1	1	1	1	1	3	1	2020	1	1
+1728	CP	Kolmont	1	1	1	1	1	3	1	2020	1	1
+1729	CP	Kolmont	1	1	1	1	1	3	1	2020	1	1
+1730	CP	Kolmont	1	1	1	1	1	3	1	2020	1	1
+1731	CP	Kolmont	1	1	1	1	1	3	1	2020	1	1
+1732	CP	Kolmont	1	1	1	1	1	3	1	2020	1	1
+2001	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2002	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2003	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2004	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2005	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2006	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2007	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2008	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2009	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2010	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2011	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2012	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2013	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2014	CP	Kersselaerspleyn	1	1	1	1	1	3	2	2020	1	1
+2015	CP	Kersselaerspleyn	1	1	1	1	1	3	2	2020	1	1
+2016	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2017	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2018	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2019	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2020	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2021	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2022	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2023	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2024	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2025	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2026	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2027	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2028	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2029	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2030	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2031	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2032	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2033	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2034	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2035	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2036	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2037	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2038	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2039	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2040	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2041	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2042	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2043	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2044	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2045	CP	Kersselaerspleyn	1	1	1	1	1	3	2	2020	1	1
+2046	CP	Kersselaerspleyn	1	1	1	1	1	3	2	2020	1	1
+2047	CP	Kersselaerspleyn	1	1	1	1	1	3	2	2020	1	1
+2048	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2049	CP	Kersselaerspleyn	1	1	1	1	1	3	2	2020	1	1
+2050	CP	Kersselaerspleyn	1	1	1	1	1	3	2	2020	1	1
+2051	CP	Kersselaerspleyn	1	1	1	1	1	3	2	2020	1	1
+2053	CP	Kersselaerspleyn	1	1	1	1	1	3	2	2020	1	1
+2054	CP	Kersselaerspleyn	1	1	1	1	1	3	2	2020	1	1
+2055	CP	Kersselaerspleyn	1	1	1	1	1	3	2	2020	1	1
+2056	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2057	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2058	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2059	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2060	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2061	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2062	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2063	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2064	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2065	CP	Kersselaerspleyn	1	1	1	1	1	3	3	2020	1	1
+2101	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2102	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2103	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2104	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2105	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2106	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2107	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2108	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2109	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2110	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2111	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2112	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2113	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2114	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2115	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2116	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2117	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2118	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2119	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2120	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2121	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2122	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2123	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2124	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2125	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2126	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2127	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2128	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2129	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2130	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2131	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2132	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2133	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2134	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2135	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2136	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2137	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2138	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2139	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2140	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2141	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2142	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2143	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2144	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2145	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2146	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2147	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2148	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2149	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2150	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2151	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2152	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2153	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2154	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2155	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2156	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2157	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2158	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2159	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2160	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2161	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2162	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2163	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2164	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2165	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2166	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2167	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2168	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2169	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2170	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2171	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2172	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2173	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2174	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2175	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2176	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2177	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2178	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2179	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2180	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2181	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2182	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2183	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2184	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2185	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+2186	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
+11000	CA	Kersselaerspleyn	1	1	1	1	1	3	4	2020	1	1
+31000	CA	Hannecart	1	1	1	1	0	3	3	2021	1	1
+41000	CA	Rodebos KV1	1	1	0	0	0	3	3	2021	1	1
+43000	CA	Rodebos KV2	1	1	0	0	0	3	3	2021	1	1
+51000	CA	Walenbos KV1	0	0	0	0	0	3	NA	NA	0	0
+53000	CA	Walenbos OT	0	0	0	0	0	3	NA	NA	0	0

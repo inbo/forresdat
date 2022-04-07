@@ -5,8 +5,8 @@
   sorting:
   - period
   - plot_id
-  hash: ce0a50a68408526cfc9e46168a61c8223c4b605a
-  data_hash: e0fd2d64376901b69f114fc7ee83eb4dd32f61b7
+  hash: 889fbf44769a19a393770feaf3dc4e37a34e7587
+  data_hash: c3384df556a80acc23257db0e591af11b5a19777
 plot_id:
   class: integer
 plottype:
@@ -29,3 +29,7 @@ survey_number:
   class: numeric
 year_dendro:
   class: numeric
+game_impact_veg:
+  class: logical
+game_impact_reg:
+  class: logical
