@@ -1020,9 +1020,9 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 101000	CA	Jansheideberg	1	1	1	1	1	1	1	2004	0	0
 111000	CA	Bos Terrijst	1	1	1	1	1	1	1	2005	0	0
 121000	CA	Pruikemakers	1	1	1	1	1	1	1	2005	0	0
-131000	CA	Liedekerke TR	1	1	1	1	0	1	1	2006	0	0
-141100	CA	Sevendonck A	1	1	1	1	0	1	1	2007	0	0
-141200	CA	Sevendonck Q	1	1	1	1	0	1	1	2007	0	0
+131000	CA	Liedekerke TR	1	1	1	1	1	1	1	2006	0	0
+141100	CA	Sevendonck A	1	1	1	1	1	1	1	2007	0	0
+141200	CA	Sevendonck Q	1	1	1	1	1	1	1	2007	0	0
 151000	CA	Muizenbos	1	1	1	1	1	1	1	2007	0	0
 171100	CA	Coolhem A	1	1	1	1	1	1	1	2004	0	0
 171200	CA	Coolhem Q	1	1	1	1	1	1	1	2004	0	0
@@ -2046,9 +2046,9 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 101000	CA	Jansheideberg	1	1	1	1	1	2	2	2013	1	1
 111000	CA	Bos Terrijst	1	1	1	1	1	2	2	2014	1	1
 121000	CA	Pruikemakers	1	1	1	1	1	2	2	2015	1	1
-131000	CA	Liedekerke TR	1	1	1	1	0	2	2	2016	1	1
-141100	CA	Sevendonck A	1	1	1	1	0	2	2	2016	1	1
-141200	CA	Sevendonck Q	1	1	1	1	0	2	2	2016	1	1
+131000	CA	Liedekerke TR	1	1	1	1	1	2	2	2016	1	1
+141100	CA	Sevendonck A	1	1	1	1	1	2	2	2016	1	1
+141200	CA	Sevendonck Q	1	1	1	1	1	2	2	2016	1	1
 151000	CA	Muizenbos	1	1	1	1	1	2	2	2017	1	1
 171100	CA	Coolhem A	1	1	1	1	1	2	2	2014	1	1
 171200	CA	Coolhem Q	1	1	1	1	1	2	2	2014	1	1
@@ -2264,7 +2264,7 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 2185	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
 2186	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
 11000	CA	Kersselaerspleyn	1	1	1	1	1	3	4	2020	1	1
-31000	CA	Hannecart	1	1	1	1	0	3	3	2021	1	1
+31000	CA	Hannecart	1	1	1	1	1	3	3	2021	1	1
 41000	CA	Rodebos KV1	1	1	0	0	0	3	3	2021	1	1
 43000	CA	Rodebos KV2	1	1	0	0	0	3	3	2021	1	1
 51000	CA	Walenbos KV1	0	0	0	0	0	3	NA	NA	0	0
