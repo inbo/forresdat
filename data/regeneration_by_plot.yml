@@ -7,8 +7,8 @@
   - year
   - plot_id
   - subplot_id
-  hash: 89b3157d9d478684f58bbc00ecad003dcf109e14
-  data_hash: cfc67cd7e34692dabe6e885c82efa9a2037b1588
+  hash: 80168b9e0a34e81d4ec1d7f0e8fb3e8dd1623d16
+  data_hash: 378a52203ad9a7492edc04abaa8dd54b47207d89
 plot_id:
   class: integer
 year:
@@ -17,11 +17,27 @@ period:
   class: numeric
 number_of_tree_species:
   class: integer
-min_number_of_trees_ha:
-  class: numeric
-max_number_of_trees_ha:
-  class: numeric
 subplot_id:
   class: integer
-mean_number_of_trees_ha:
+nr_established_ha:
+  class: numeric
+nr_seedlings_ha:
+  class: numeric
+rubbing_damage_perc:
+  class: numeric
+approx_nr_established_ha:
+  class: numeric
+approx_nr_seedlings_ha:
+  class: numeric
+mean_number_established_ha:
+  class: numeric
+lci_number_established_ha:
+  class: numeric
+uci_number_established_ha:
+  class: numeric
+mean_number_seedlings_ha:
+  class: numeric
+lci_number_seedlings_ha:
+  class: numeric
+uci_number_seedlings_ha:
   class: numeric
