@@ -4,15 +4,12 @@
   NA string: NA
   sorting:
   - period
-  - year
   - plot_id
   - subplot_id
-  hash: 2031e0758762efee9bd3ba7365e29b6b01e9f79d
-  data_hash: ebb4b0d76bab880d7c9d659e519f2558a59ad35c
+  hash: aac2e06423687b48d4f38cf03a4b329e1164d126
+  data_hash: 1a844cfbc976c9d3260690cf40f02b36de48cfe3
 plot_id:
   class: integer
-year:
-  class: numeric
 period:
   class: numeric
 moss_cover_min:
@@ -63,3 +60,9 @@ soildisturbance_game_cover_mid:
   class: numeric
 cumulated_canopy_cover_mid:
   class: numeric
+year_main_survey:
+  class: numeric
+date_vegetation:
+  class: POSIXct
+  origin: 1970-01-01 00:00:00
+  timezone: UTC
