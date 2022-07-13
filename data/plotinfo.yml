@@ -1,12 +1,12 @@
 ..generic:
-  git2rdata: 0.3.1
+  git2rdata: 0.4.0
   optimize: yes
   NA string: NA
   sorting:
   - period
   - plot_id
   hash: 889fbf44769a19a393770feaf3dc4e37a34e7587
-  data_hash: ef93fd8be3ad6972358e6bb106b4107ce7a47dc6
+  data_hash: 42179986d68a755608a13961ca7eb5614c3e8f84
 plot_id:
   class: integer
 plottype:
