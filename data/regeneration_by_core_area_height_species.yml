@@ -8,8 +8,8 @@
   - plot_id
   - height_class
   - species
-  hash: 3ce1e13f8da72ece684b23cf43014f0657e128d5
-  data_hash: f44eabd8d42ec155dc0a9500c63de49460c7b415
+  hash: 9f098f51920943956ab6edc4f6297a74edf81650
+  data_hash: 4d60a4988e53873a6851c5c5dfc16f83e8d15787
 plot_id:
   class: integer
 year:
@@ -26,8 +26,6 @@ rubbing_damage_perc:
   class: numeric
 nr_of_subplots_with_regeneration:
   class: integer
-nr_of_regeneration_ha:
-  class: numeric
 approx_nr_regeneration_ha:
   class: numeric
 mean_number_of_regeneration_ha:

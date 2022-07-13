@@ -7,8 +7,8 @@
   - year
   - plot_id
   - species
-  hash: a845a7ef0c65447218bdf6da67cb9b7cfe9ed2e5
-  data_hash: f9b3af75a4cf68ed6a679469ab3058abd642a6eb
+  hash: a3426a13743c94709e58f870bff184c10d64a03e
+  data_hash: 0136174b475dbb97adf695b4c10a214498445582
 plot_id:
   class: integer
 year:
@@ -21,10 +21,6 @@ perc_subplots_with_regeneration:
   class: numeric
 nr_of_subplots_with_regeneration:
   class: integer
-nr_established_ha:
-  class: numeric
-nr_seedlings_ha:
-  class: numeric
 rubbing_damage_perc:
   class: numeric
 approx_nr_established_ha:
