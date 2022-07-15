@@ -49,14 +49,10 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 147	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
 148	CP	Everzwijnbad	1	1	1	1	1	1	1	2002	0	0
 200	CP	Withoefse heide	1	1	1	1	1	1	1	1999	0	0
-201	CP	Withoefse heide	0	0	1	1	0	1	NA	NA	0	0
-202	CP	Withoefse heide	0	0	1	1	0	1	NA	NA	0	0
-203	CP	Withoefse heide	0	0	1	1	0	1	NA	NA	0	0
 204	CP	Withoefse heide	1	1	1	1	1	1	1	1999	0	0
 205	CP	Withoefse heide	1	1	1	1	1	1	1	1999	0	0
 206	CP	Withoefse heide	1	1	1	1	1	1	1	1999	0	0
 207	CP	Withoefse heide	1	1	1	1	1	1	1	1999	0	0
-208	CP	Withoefse heide	0	0	1	1	0	1	NA	NA	0	0
 209	CP	Withoefse heide	1	1	1	1	1	1	1	1999	0	0
 210	CP	Withoefse heide	1	1	1	1	1	1	1	1999	0	0
 211	CP	Withoefse heide	1	1	1	1	1	1	1	1999	0	0
@@ -77,7 +73,6 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 227	CP	Withoefse heide	1	1	1	1	1	1	1	1999	0	0
 228	CP	Withoefse heide	1	1	1	1	1	1	1	1999	0	0
 229	CP	Withoefse heide	1	1	1	1	1	1	1	1999	0	0
-400	CP	Wijnendalebos	1	1	1	1	0	1	1	2002	0	0
 401	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
 402	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
 403	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
@@ -101,9 +96,7 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 421	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
 422	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
 423	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
-424	CP	Wijnendalebos	1	1	1	1	0	1	1	2002	0	0
 425	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
-426	CP	Wijnendalebos	1	1	1	1	0	1	1	2002	0	0
 427	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
 428	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
 429	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
@@ -159,7 +152,6 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 479	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
 480	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
 481	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
-482	CP	Wijnendalebos	1	1	1	1	0	1	1	2002	0	0
 483	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
 484	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
 485	CP	Wijnendalebos	1	1	1	1	1	1	1	2002	0	0
@@ -1075,14 +1067,10 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 147	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
 148	CP	Everzwijnbad	1	1	1	1	1	2	2	2012	0	0
 200	CP	Withoefse heide	1	1	0	1	1	2	2	2011	0	0
-201	CP	Withoefse heide	0	0	0	0	0	2	NA	2011	0	0
-202	CP	Withoefse heide	0	0	0	0	0	2	NA	NA	0	0
-203	CP	Withoefse heide	0	0	0	0	0	2	NA	NA	0	0
 204	CP	Withoefse heide	1	1	0	1	1	2	2	2011	0	0
 205	CP	Withoefse heide	1	1	0	1	1	2	2	2011	0	0
 206	CP	Withoefse heide	1	1	0	1	1	2	2	2011	0	0
 207	CP	Withoefse heide	1	1	0	1	1	2	2	2011	0	0
-208	CP	Withoefse heide	0	0	0	0	0	2	NA	NA	0	0
 209	CP	Withoefse heide	1	1	0	1	1	2	2	2011	0	0
 210	CP	Withoefse heide	1	1	0	1	1	2	2	2011	0	0
 211	CP	Withoefse heide	1	1	0	1	1	2	2	2011	0	0
@@ -1103,7 +1091,6 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 227	CP	Withoefse heide	1	1	0	1	1	2	2	2011	0	0
 228	CP	Withoefse heide	1	1	0	1	1	2	2	2011	0	0
 229	CP	Withoefse heide	1	1	0	1	1	2	2	2011	0	0
-400	CP	Wijnendalebos	0	0	1	1	0	2	NA	NA	0	0
 401	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
 402	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
 403	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
@@ -1127,9 +1114,7 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 421	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
 422	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
 423	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
-424	CP	Wijnendalebos	0	0	1	1	0	2	NA	NA	0	0
 425	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
-426	CP	Wijnendalebos	0	0	1	1	0	2	NA	NA	0	0
 427	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
 428	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
 429	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
@@ -1185,7 +1170,6 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 479	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
 480	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
 481	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
-482	CP	Wijnendalebos	0	0	0	0	0	2	NA	NA	0	0
 483	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
 484	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
 485	CP	Wijnendalebos	1	1	1	1	1	2	2	2012	0	0
@@ -2053,14 +2037,10 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 171100	CA	Coolhem A	1	1	1	1	1	2	2	2014	1	1
 171200	CA	Coolhem Q	1	1	1	1	1	2	2	2014	1	1
 200	CP	Withoefse heide	1	1	1	1	0	3	3	2021	1	1
-201	CP	Withoefse heide	0	0	0	0	0	3	NA	NA	0	0
-202	CP	Withoefse heide	0	0	0	0	0	3	NA	NA	0	0
-203	CP	Withoefse heide	0	0	0	0	0	3	NA	NA	0	0
 204	CP	Withoefse heide	1	1	1	1	0	3	3	2021	1	1
 205	CP	Withoefse heide	1	1	1	1	0	3	3	2021	1	1
 206	CP	Withoefse heide	1	1	1	1	0	3	3	2021	1	1
 207	CP	Withoefse heide	1	1	1	1	0	3	3	2021	1	1
-208	CP	Withoefse heide	0	0	0	0	0	3	NA	NA	0	0
 209	CP	Withoefse heide	1	1	1	1	0	3	3	2021	1	1
 210	CP	Withoefse heide	1	1	1	1	0	3	3	2021	1	1
 211	CP	Withoefse heide	1	1	1	1	0	3	3	2021	1	1
@@ -2265,7 +2245,7 @@ plot_id	plottype	forest_reserve	survey_trees	survey_deadw	survey_veg	survey_reg	
 2186	CP	Zwaenepoel	1	1	1	1	1	3	1	2019	1	1
 11000	CA	Kersselaerspleyn	1	1	1	1	1	3	4	2020	1	1
 31000	CA	Hannecart	1	1	1	1	1	3	3	2021	1	1
-41000	CA	Rodebos KV1	1	1	0	0	1	3	3	2021	1	1
-43000	CA	Rodebos KV2	1	1	0	0	1	3	3	2021	1	1
+41000	CA	Rodebos KV1	1	1	1	1	1	3	3	2021	1	1
+43000	CA	Rodebos KV2	1	1	1	1	1	3	3	2021	1	1
 51000	CA	Walenbos KV1	0	0	0	0	0	3	NA	NA	0	0
 53000	CA	Walenbos OT	0	0	0	0	0	3	NA	NA	0	0
