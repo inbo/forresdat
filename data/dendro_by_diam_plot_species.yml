@@ -1,5 +1,5 @@
 ..generic:
-  git2rdata: 0.3.1
+  git2rdata: 0.4.0
   optimize: yes
   NA string: NA
   sorting:
@@ -8,8 +8,8 @@
   - plot_id
   - dbh_class_5cm
   - species
-  hash: 8d60cec5c824263316a5dc846edafc063848c4b1
-  data_hash: c222171cd4358d0d26c53af0275c6520dd7f9370
+  hash: e4070df0e827d08c6534c13f5991c2fd49583e64
+  data_hash: 32c8bf3b298e3178287060dc50c1dbcf211fa8e7
 plot_id:
   class: integer
 period:
@@ -138,4 +138,6 @@ vol_bole_dead_m3_ha:
 vol_log_m3_ha:
   class: numeric
 year:
+  class: numeric
+vol_deadw_m3_ha:
   class: numeric
