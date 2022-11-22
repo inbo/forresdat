@@ -1,10 +1,10 @@
 ..generic:
-  git2rdata: 0.3.1
+  git2rdata: 0.4.0
   optimize: yes
   NA string: NA
   sorting: ID
   hash: c22b555b21e045c7353ad4a9e0edc1edb6f3fa05
-  data_hash: 02b8a348da818b60a07ba21b10e0f27e65846416
+  data_hash: ebdda1db5fb7a6d6e2bc706cdf08199f8b916f0c
 ID:
   class: integer
 Value1:
