@@ -7,8 +7,8 @@
   - year
   - plot_id
   - decaystage
-  hash: ab3cd7b431b0eb0012009f1c10e6ee4a7b7f2331
-  data_hash: becd50d9772aca6383a65dc3585b47d81ff9aaa4
+  hash: 7ce05a528647f2037396686b77b3f977a8eab155
+  data_hash: fefef2c36e65fc695db7ed93d4b83181c45e231a
 plot_id:
   class: integer
 period:
@@ -18,4 +18,6 @@ decaystage:
 vol_log_m3_ha:
   class: numeric
 year:
+  class: numeric
+vol_log_m3_ha_min40cm:
   class: numeric
