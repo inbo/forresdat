@@ -8,7 +8,7 @@
   - plot_id
   - subplot_id
   hash: a64f81384eadcb1962a791e3c4fcdf01718ec8c6
-  data_hash: cf25f84dc39fb6a70519f11e3dde4622fe0b5698
+  data_hash: 1e18fc78adefedde31b2151e705f8f5bbad503ac
 plot_id:
   class: integer
 year:
