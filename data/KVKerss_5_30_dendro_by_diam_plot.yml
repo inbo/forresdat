@@ -6,8 +6,8 @@
   - period
   - year
   - plot_id
-  hash: 1ecea4bd65cc0bda395bd699e547d7b2c43c964d
-  data_hash: 1da480678352e7cd3fc92f60539daf4b6afd09db
+  hash: 3130bc2bc58d5b7fa24c99e1867c1cdfcc33eb36
+  data_hash: 65e9ced864bcebe0ef7c316152fbcb43a7debab9
 plot_id:
   class: numeric
 year:
@@ -16,8 +16,6 @@ period:
   class: numeric
 dbh_class_cm:
   class: character
-number_of_trees_ha:
-  class: numeric
 stem_number_ha:
   class: numeric
 basal_area_alive_m2_ha:

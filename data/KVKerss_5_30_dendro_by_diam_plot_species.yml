@@ -7,8 +7,8 @@
   - year
   - plot_id
   - species
-  hash: 1df4f0cd54a2bef11b5402b8b7b092a71a496116
-  data_hash: f0a08a2e46fa15eddf917d66e6105f372f451d00
+  hash: 0baaea32dfa444feb5dbacf57f83b230c38d5225
+  data_hash: 4d97c8a23cb8d9cbee81e022be012e7cd46ea7a6
 plot_id:
   class: numeric
 year:
@@ -19,8 +19,6 @@ species:
   class: numeric
 dbh_class_cm:
   class: character
-number_of_trees_ha:
-  class: numeric
 stem_number_ha:
   class: numeric
 basal_area_alive_m2_ha:
