@@ -1,0 +1,29 @@
+..generic:
+  git2rdata: 0.4.0
+  optimize: yes
+  NA string: NA
+  sorting:
+  - period
+  - year
+  - plot_id
+  - species
+  hash: 46da936baac3468fc97459eaaa9ccf9cbf4e6b22
+  data_hash: 09c5828f98894203ade717abc6d997779086169a
+plot_id:
+  class: numeric
+year:
+  class: numeric
+period:
+  class: numeric
+species:
+  class: numeric
+number_of_trees_ha:
+  class: numeric
+stem_number_ha:
+  class: numeric
+basal_area_alive_m2_ha:
+  class: numeric
+vol_alive_m3_ha:
+  class: numeric
+vol_bole_alive_m3_ha:
+  class: numeric
