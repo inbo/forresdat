@@ -8,7 +8,7 @@
   - plot_id
   - dbh_class_5cm
   hash: 20863b3b79c4a1f8e1f9885bc59b6d743202bc20
-  data_hash: 53bc2d816699931f53d4f8434cd33a0fcca9a9e0
+  data_hash: 1d499d9f60ad0e3e9fe3de9f26d46ffb09fc509a
 plot_id:
   class: integer
 period:
