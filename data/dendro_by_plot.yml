@@ -6,10 +6,10 @@
   - period
   - year
   - plot_id
-  hash: 2d484c5441b4ccf9c0a1ce410a7138846a2e4cda
-  data_hash: 850b22710f2acfc006aedc436a037226ae1091aa
+  hash: a113556f179f46ad02b0bd3a3ec1101f0ea11433
+  data_hash: ed69ea2e9f16474950f987dddc9b30f604ca87b0
 plot_id:
-  class: integer
+  class: numeric
 period:
   class: numeric
 number_of_tree_species:
