@@ -9,7 +9,7 @@
   - dbh_class_5cm
   - species
   hash: 8ade0252a3cde22f828e8eabc44238245f1d0d77
-  data_hash: f4538d19b339d436644f8dfeee068e28de952738
+  data_hash: 940c2bb89e95da3a191ca5afd20de487b9f5a2cf
 plot_id:
   class: integer
 period:
