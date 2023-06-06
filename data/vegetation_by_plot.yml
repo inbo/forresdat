@@ -6,10 +6,10 @@
   - period
   - plot_id
   - subplot_id
-  hash: aac2e06423687b48d4f38cf03a4b329e1164d126
-  data_hash: f8d3d2445a113d908d8c034c0511a30b70353683
+  hash: 7143c703e1f6033bff50bf4793b63c956ab1d73e
+  data_hash: 92e5c538d9e734119d014a9bba5ea3bd433836c1
 plot_id:
-  class: integer
+  class: numeric
 period:
   class: numeric
 moss_cover_min:
@@ -37,7 +37,7 @@ soildisturbance_game_cover_min:
 soildisturbance_game_cover_max:
   class: numeric
 number_of_species:
-  class: integer
+  class: numeric
 cumm_herb_coverage_class_average_perc:
   class: numeric
 cumulated_canopy_cover_min:
@@ -45,7 +45,7 @@ cumulated_canopy_cover_min:
 cumulated_canopy_cover_max:
   class: numeric
 subplot_id:
-  class: integer
+  class: numeric
 moss_cover_mid:
   class: numeric
 herb_cover_mid:
