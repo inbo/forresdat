@@ -1,8 +1,0 @@
-ID	Value1	Value2	Value3	OrderField	Active
-10	Navigatieplot	Navigation	NAV	NA	1
-20	Cirkelplot	Circular plot	CP	NA	1
-30	Kernvlakte	Core area	CA	NA	1
-40	BE kartering	Polygonal plot	BE	NA	1
-50	Facieskartering	Vegetation mapping	FACIES	NA	1
-60	Biodivplot	Object sampling	BIODIV	NA	1
-70	Afwijkend	Other	OTHER	NA	1
