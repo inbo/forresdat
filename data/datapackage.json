@@ -49,7 +49,7 @@
           {
             "name": "plottype",
             "type": "string",
-            "description": null
+            "description": {}
           },
           {
             "name": "plot_id",
@@ -79,7 +79,7 @@
           {
             "name": "nr_of_tree_species_established",
             "type": "integer",
-            "description": null
+            "description": {}
           },
           {
             "name": "mean_number_established_ha",
@@ -114,32 +114,32 @@
           {
             "name": "mean_rubbing_damage_perc_established",
             "type": "number",
-            "description": null
+            "description": {}
           },
           {
             "name": "lci_rubbing_damage_perc_established",
             "type": "number",
-            "description": null
+            "description": {}
           },
           {
             "name": "uci_rubbing_damage_perc_established",
             "type": "number",
-            "description": null
+            "description": {}
           },
           {
             "name": "mean_rubbing_damage_perc_seedlings",
             "type": "number",
-            "description": null
+            "description": {}
           },
           {
             "name": "lci_rubbing_damage_perc_seedlings",
             "type": "number",
-            "description": null
+            "description": {}
           },
           {
             "name": "uci_rubbing_damage_perc_seedlings",
             "type": "number",
-            "description": null
+            "description": {}
           },
           {
             "name": "approx_nr_established_ha",
@@ -154,12 +154,53 @@
           {
             "name": "approx_rubbing_damage_perc_established",
             "type": "number",
-            "description": null
+            "description": {}
           },
           {
             "name": "approx_rubbing_damage_perc_seedlings",
             "type": "number",
-            "description": null
+            "description": {}
+          }
+        ]
+      }
+    },
+    {
+      "name": "qdecaystage",
+      "path": "qdecaystage.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": [],
+      "schema": {
+        "fields": [
+          {
+            "name": "MasterID",
+            "type": "integer"
+          },
+          {
+            "name": "ID",
+            "type": "integer"
+          },
+          {
+            "name": "Value1",
+            "type": "string"
+          },
+          {
+            "name": "Value2",
+            "type": "string"
+          },
+          {
+            "name": "Value3",
+            "type": "string"
+          },
+          {
+            "name": "OrderField",
+            "type": "integer"
+          },
+          {
+            "name": "Active",
+            "type": "integer"
           }
         ]
       }
