@@ -35,6 +35,134 @@
           }
         ]
       }
+    },
+    {
+      "name": "regeneration_by_plot",
+      "path": "regeneration_by_plot.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "rejuvenation values on plot level (or subplot level in case of core area)",
+      "schema": {
+        "fields": [
+          {
+            "name": "plottype",
+            "type": "string",
+            "description": null
+          },
+          {
+            "name": "plot_id",
+            "type": "integer",
+            "description": "unique sample plot id"
+          },
+          {
+            "name": "year",
+            "type": "integer",
+            "description": "year of regeneration survey"
+          },
+          {
+            "name": "period",
+            "type": "integer",
+            "description": "period: \"1\" for 1st decade (2000-2010), \"2\" for 2nd decade (2011-2020), \"3\" for 3th decade (2021-2030)"
+          },
+          {
+            "name": "subplot_id",
+            "type": "integer",
+            "description": "id of subplot (1 for circular plots)"
+          },
+          {
+            "name": "number_of_tree_species",
+            "type": "integer",
+            "description": "number of tree species with DBH < 5 cm (rejuvenation)"
+          },
+          {
+            "name": "nr_of_tree_species_established",
+            "type": "integer",
+            "description": null
+          },
+          {
+            "name": "mean_number_established_ha",
+            "type": "number",
+            "description": "mean number per hectare of established rejuvenation (DBH < 5 cm & height > 50 cm)"
+          },
+          {
+            "name": "lci_number_established_ha",
+            "type": "number",
+            "description": "lower confidence interval (lci) of number per hectare of established rejuvenation"
+          },
+          {
+            "name": "uci_number_established_ha",
+            "type": "number",
+            "description": "upper confidence interval (uci) of number per hectare of established rejuvenation"
+          },
+          {
+            "name": "mean_number_seedlings_ha",
+            "type": "number",
+            "description": "mean number per hectare of seedlings (DBH < 5 cm & height < 50 cm)"
+          },
+          {
+            "name": "lci_number_seedlings_ha",
+            "type": "number",
+            "description": "lower confidence interval (lci) of number per hectare of seedlings"
+          },
+          {
+            "name": "uci_number_seedlings_ha",
+            "type": "number",
+            "description": "upper confidence interval (uci) of number per hectare of seedlings"
+          },
+          {
+            "name": "mean_rubbing_damage_perc_established",
+            "type": "number",
+            "description": null
+          },
+          {
+            "name": "lci_rubbing_damage_perc_established",
+            "type": "number",
+            "description": null
+          },
+          {
+            "name": "uci_rubbing_damage_perc_established",
+            "type": "number",
+            "description": null
+          },
+          {
+            "name": "mean_rubbing_damage_perc_seedlings",
+            "type": "number",
+            "description": null
+          },
+          {
+            "name": "lci_rubbing_damage_perc_seedlings",
+            "type": "number",
+            "description": null
+          },
+          {
+            "name": "uci_rubbing_damage_perc_seedlings",
+            "type": "number",
+            "description": null
+          },
+          {
+            "name": "approx_nr_established_ha",
+            "type": "number",
+            "description": "mean number per hectare of established rejuvenation (DBH < 5 cm & height > 50 cm)"
+          },
+          {
+            "name": "approx_nr_seedlings_ha",
+            "type": "number",
+            "description": "mean number per hectare  of seedlings (DBH < 5 cm & height < 50 cm)"
+          },
+          {
+            "name": "approx_rubbing_damage_perc_established",
+            "type": "number",
+            "description": null
+          },
+          {
+            "name": "approx_rubbing_damage_perc_seedlings",
+            "type": "number",
+            "description": null
+          }
+        ]
+      }
     }
   ]
 }
