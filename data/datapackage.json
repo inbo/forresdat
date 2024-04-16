@@ -207,6 +207,518 @@
           }
         ]
       }
+    },
+    {
+      "name": "dendro_by_plot",
+      "path": "dendro_by_plot.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "dendrometric values of living trees and deadwood on plot level",
+      "extra_info": "number of tree species, number of trees, basal area, volume …",
+      "source_database": "nog aanvullen -> bestandsnaam van databank in attr van berekeningen steken!!!!!!!!!",
+      "calculation": "forrescalc 0.0.0.9000",
+      "schema": {
+        "fields": [
+          {
+            "name": "plottype",
+            "type": "string",
+            "description": "CP:  circular plot; CA: core area",
+            "extra_info": null
+          },
+          {
+            "name": "plot_id",
+            "type": "integer",
+            "description": "unique sample plot id",
+            "extra_info": null
+          },
+          {
+            "name": "year",
+            "type": "integer",
+            "description": "year of dendro survey (year of growing season)",
+            "extra_info": "f.e. march 2020 becomes 2019 (start of growing season is set to May 1)"
+          },
+          {
+            "name": "period",
+            "type": "integer",
+            "description": "period: \"1\" for 1st decade (2000-2010), \"2\" for 2nd decade (2011-2020), \"3\" for 3th decade (2021-2030)",
+            "extra_info": "\"0\" only occurs for dendro data in plot 11000 (1986)"
+          },
+          {
+            "name": "number_of_tree_species",
+            "type": "integer",
+            "description": "number of tree species",
+            "extra_info": "only living species with dbh > 7 cm"
+          },
+          {
+            "name": "number_of_trees_ha",
+            "type": "number",
+            "description": "number of living individuals per ha (1/ha)",
+            "extra_info": "coppice is considered as one tree  - small stems (dbh < 5 cm) excluded"
+          },
+          {
+            "name": "stem_number_ha",
+            "type": "number",
+            "description": "number of living stems per ha (1/ha)",
+            "extra_info": "small stems (dbh < 5 cm) excluded"
+          },
+          {
+            "name": "basal_area_alive_m2_ha",
+            "type": "number",
+            "description": "basal area of living trees per ha (m²/ha)",
+            "extra_info": "small trees (dbh < 5 cm) excluded"
+          },
+          {
+            "name": "basal_area_dead_m2_ha",
+            "type": "number",
+            "description": "basal area of standing deadwood per ha (m²/ha)",
+            "extra_info": "small trees (dbh < 5 cm) excluded"
+          },
+          {
+            "name": "vol_alive_m3_ha",
+            "type": "number",
+            "description": "standing volume of living trees per ha (m³/ha): tree bole + crown volume calculated using species specific volume functions based on height and diameter at breast height",
+            "extra_info": "source: Dagnelie et al., Quataert et al., Dik, Berben; see table \"tblTarieven_2ing\" and \"tblTarieven_1ingKroon\"; volume up to a top diameter of 7 cm; small trees (dbh < 5 cm) excluded"
+          },
+          {
+            "name": "vol_dead_standing_m3_ha",
+            "type": "number",
+            "description": "volume of standing deadwood per ha (m³/ha): tree bole + crown volume calculated using species specific volume functions based on height and diameter at breast height",
+            "extra_info": "idem"
+          },
+          {
+            "name": "vol_bole_alive_m3_ha",
+            "type": "number",
+            "description": "volume of tree bole (m³/ha) calculated using species specific volume functions based on height and diameter at breast height",
+            "extra_info": "source: Dagnelie et al., Quataert et al., Dik, Berben; see table \"tblTarieven_2ing\"; volume up to a top diameter of 7 cm; small trees (dbh < 5 cm) excluded"
+          },
+          {
+            "name": "vol_bole_dead_m3_ha",
+            "type": "number",
+            "description": "volume of tree bole (m³/ha) calculated using species specific volume functions based on height and diameter at breast height",
+            "extra_info": "idem"
+          },
+          {
+            "name": "vol_log_m3_ha",
+            "type": "number",
+            "description": "volume of lying deadwood per ha (m³/ha);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
+            "extra_info": "volume is calculated using Smalian’s formula (except for circular plots Kersselaerspleyn (2001-2065) 1st survey (2000):  volume of fallen trees is based on tariffs, and if necessary cut of at border of the plot)"
+          },
+          {
+            "name": "vol_deadw_m3_ha",
+            "type": "number",
+            "description": "total volume deadwood per ha (m³/ha) -  lying + standing",
+            "extra_info": "vol_log_m3_ha + vol_dead_standing_m3_ha"
+          },
+          {
+            "name": "stems_per_tree",
+            "type": "number",
+            "description": "mean number of stems per tree",
+            "extra_info": "additional info for coppice"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dendro_by_plot_species",
+      "path": "dendro_by_plot_species.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "dendrometric values of living trees and deadwood per plot and per species",
+      "extra_info": "number of trees, basal area, volume, mean number of stems per tree (info on copppice), …",
+      "source_database": "nog aanvullen -> bestandsnaam van databank in attr van berekeningen steken!!!!!!!!!",
+      "calculation": "forrescalc 0.0.0.9000",
+      "schema": {
+        "fields": [
+          {
+            "name": "plottype",
+            "type": "string",
+            "description": "CP:  circular plot; CA: core area",
+            "extra_info": null
+          },
+          {
+            "name": "plot_id",
+            "type": "integer",
+            "description": "unique sample plot id",
+            "extra_info": null
+          },
+          {
+            "name": "year",
+            "type": "integer",
+            "description": "year of dendro survey (year of growing season)",
+            "extra_info": "f.e. march 2020 becomes 2019 (start of growing season is set to May 1)"
+          },
+          {
+            "name": "period",
+            "type": "integer",
+            "description": "period: \"1\" for 1st decade (2000-2010), \"2\" for 2nd decade (2011-2020), \"3\" for 3th decade (2021-2030)",
+            "extra_info": "\"0\" only occurs for dendro data in plot 11000 (1986)"
+          },
+          {
+            "name": "species",
+            "type": "number",
+            "description": "tree species code",
+            "extra_info": "see table \"qSpecies\""
+          },
+          {
+            "name": "number_of_trees_ha",
+            "type": "number",
+            "description": "number of living individuals per ha (1/ha)",
+            "extra_info": "coppice is considered as one tree  - small stems (dbh < 5 cm) excluded"
+          },
+          {
+            "name": "stem_number_ha",
+            "type": "number",
+            "description": "number of living stems per ha (1/ha)",
+            "extra_info": "small stems (dbh < 5 cm) excluded"
+          },
+          {
+            "name": "basal_area_alive_m2_ha",
+            "type": "number",
+            "description": "basal area of living trees per ha (m²/ha)",
+            "extra_info": "small trees (dbh < 5 cm) excluded"
+          },
+          {
+            "name": "basal_area_dead_m2_ha",
+            "type": "number",
+            "description": "basal area of standing deadwood per ha (m²/ha)",
+            "extra_info": "small trees (dbh < 5 cm) excluded"
+          },
+          {
+            "name": "vol_alive_m3_ha",
+            "type": "number",
+            "description": "standing volume of living trees per ha (m³/ha): tree bole + crown volume calculated using species specific volume functions based on height and diameter at breast height",
+            "extra_info": "source: Dagnelie et al., Quataert et al., Dik, Berben; see table \"tblTarieven_2ing\" and \"tblTarieven_1ingKroon\"; volume up to a top diameter of 7 cm; small trees (dbh < 5 cm) excluded"
+          },
+          {
+            "name": "vol_dead_standing_m3_ha",
+            "type": "number",
+            "description": "volume of standing deadwood per ha (m³/ha): tree bole + crown volume calculated using species specific volume functions based on height and diameter at breast height",
+            "extra_info": "idem"
+          },
+          {
+            "name": "vol_bole_alive_m3_ha",
+            "type": "number",
+            "description": "volume of tree bole (m³/ha) calculated using species specific volume functions based on height and diameter at breast height",
+            "extra_info": "source: Dagnelie et al., Quataert et al., Dik, Berben; see table \"tblTarieven_2ing\"; volume up to a top diameter of 7 cm; small trees (dbh < 5 cm) excluded"
+          },
+          {
+            "name": "vol_bole_dead_m3_ha",
+            "type": "number",
+            "description": "volume of tree bole (m³/ha) calculated using species specific volume functions based on height and diameter at breast height",
+            "extra_info": "idem"
+          },
+          {
+            "name": "vol_log_m3_ha",
+            "type": "number",
+            "description": "volume of lying deadwood per ha (m³/ha);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
+            "extra_info": "volume is calculated using Smalian’s formula (except for circular plots Kersselaerspleyn (2001-2065) 1st survey (2000):  volume of fallen trees is based on tariffs, and if necessary cut of at border of the plot)"
+          },
+          {
+            "name": "vol_deadw_m3_ha",
+            "type": "number",
+            "description": "total volume deadwood per ha (m³/ha) -  lying + standing",
+            "extra_info": null
+          },
+          {
+            "name": "stems_per_tree",
+            "type": "number",
+            "description": "mean number of stems per tree",
+            "extra_info": "additional info for coppice"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dendro_by_diam_plot",
+      "path": "dendro_by_diam_plot.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "dendrometric values of living trees and deadwood per plot and diameter class",
+      "extra_info": "number of trees, basal area, volume, …",
+      "source_database": "nog aanvullen -> bestandsnaam van databank in attr van berekeningen steken!!!!!!!!!",
+      "calculation": "forrescalc 0.0.0.9000",
+      "schema": {
+        "fields": [
+          {
+            "name": "plottype",
+            "type": "string"
+          },
+          {
+            "name": "plot_id",
+            "type": "integer"
+          },
+          {
+            "name": "year",
+            "type": "integer"
+          },
+          {
+            "name": "period",
+            "type": "integer"
+          },
+          {
+            "name": "dbh_class_5cm",
+            "type": "string",
+            "constraints": {
+              "enum": ["5 - 10 cm", "10 - 15 cm", "15 - 20 cm", "20 - 25 cm", "25 - 30 cm", "30 - 35 cm", "35 - 40 cm", "40 - 45 cm", "45 - 50 cm", "50 - 55 cm", "55 - 60 cm", "60 - 65 cm", "65 - 70 cm", "70 - 75 cm", "75 - 80 cm", "80 - 85 cm", "85 - 90 cm", "90 - 95 cm", "95 - 100 cm", "100 - 105 cm", "105 - 110 cm", "110 - 115 cm", "115 - 120 cm", "120 - 125 cm", "125 - 130 cm", "130 - 135 cm", "135 - 140 cm", "140 - 145 cm", "145 - 150 cm", "150 - 155 cm", "155 - 160 cm", "160 - 165 cm", "165 - 170 cm", "170 - 175 cm", "175 - 180 cm", "180 - 185 cm", "185 - 190 cm", "190 - 195 cm", "195 - 200 cm", "200 - 205 cm", "205 - 210 cm", "210 - 215 cm", "215 - 220 cm", "220 - 225 cm", "225 - 230 cm", "230 - 235 cm", "235 - 240 cm", "240 - 245 cm", "245 cm +"]
+            }
+          },
+          {
+            "name": "stem_number_alive_ha",
+            "type": "number"
+          },
+          {
+            "name": "stem_number_dead_ha",
+            "type": "number"
+          },
+          {
+            "name": "basal_area_alive_m2_ha",
+            "type": "number"
+          },
+          {
+            "name": "basal_area_dead_m2_ha",
+            "type": "number"
+          },
+          {
+            "name": "vol_alive_m3_ha",
+            "type": "number"
+          },
+          {
+            "name": "vol_dead_standing_m3_ha",
+            "type": "number"
+          },
+          {
+            "name": "vol_bole_alive_m3_ha",
+            "type": "number"
+          },
+          {
+            "name": "vol_bole_dead_m3_ha",
+            "type": "number"
+          },
+          {
+            "name": "vol_log_m3_ha",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dendro_by_diam_plot_species",
+      "path": "dendro_by_diam_plot_species.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "dendrometric values of living trees and deadwood per plot, species and diameter class",
+      "extra_info": "number of trees, basal area, volume, …",
+      "source_database": "nog aanvullen -> bestandsnaam van databank in attr van berekeningen steken!!!!!!!!!",
+      "calculation": "forrescalc 0.0.0.9000",
+      "schema": {
+        "fields": [
+          {
+            "name": "plottype",
+            "type": "string"
+          },
+          {
+            "name": "plot_id",
+            "type": "integer"
+          },
+          {
+            "name": "year",
+            "type": "integer"
+          },
+          {
+            "name": "period",
+            "type": "integer"
+          },
+          {
+            "name": "species",
+            "type": "number"
+          },
+          {
+            "name": "dbh_class_5cm",
+            "type": "string",
+            "constraints": {
+              "enum": ["5 - 10 cm", "10 - 15 cm", "15 - 20 cm", "20 - 25 cm", "25 - 30 cm", "30 - 35 cm", "35 - 40 cm", "40 - 45 cm", "45 - 50 cm", "50 - 55 cm", "55 - 60 cm", "60 - 65 cm", "65 - 70 cm", "70 - 75 cm", "75 - 80 cm", "80 - 85 cm", "85 - 90 cm", "90 - 95 cm", "95 - 100 cm", "100 - 105 cm", "105 - 110 cm", "110 - 115 cm", "115 - 120 cm", "120 - 125 cm", "125 - 130 cm", "130 - 135 cm", "135 - 140 cm", "140 - 145 cm", "145 - 150 cm", "150 - 155 cm", "155 - 160 cm", "160 - 165 cm", "165 - 170 cm", "170 - 175 cm", "175 - 180 cm", "180 - 185 cm", "185 - 190 cm", "190 - 195 cm", "195 - 200 cm", "200 - 205 cm", "205 - 210 cm", "210 - 215 cm", "215 - 220 cm", "220 - 225 cm", "225 - 230 cm", "230 - 235 cm", "235 - 240 cm", "240 - 245 cm", "245 cm +"]
+            }
+          },
+          {
+            "name": "stem_number_alive_ha",
+            "type": "number"
+          },
+          {
+            "name": "stem_number_dead_ha",
+            "type": "number"
+          },
+          {
+            "name": "basal_area_alive_m2_ha",
+            "type": "number"
+          },
+          {
+            "name": "basal_area_dead_m2_ha",
+            "type": "number"
+          },
+          {
+            "name": "vol_alive_m3_ha",
+            "type": "number"
+          },
+          {
+            "name": "vol_dead_standing_m3_ha",
+            "type": "number"
+          },
+          {
+            "name": "vol_bole_alive_m3_ha",
+            "type": "number"
+          },
+          {
+            "name": "vol_bole_dead_m3_ha",
+            "type": "number"
+          },
+          {
+            "name": "vol_log_m3_ha",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "name": "deadw_by_decay_plot",
+      "path": "deadw_by_decay_plot.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "volumes of lying & standing deadwood per plot and per decay stage",
+      "extra_info": "op dit moment enkel nog liggend dood hout (22/11/2023: zal aangepast worden in package)",
+      "source_database": "nog aanvullen -> bestandsnaam van databank in attr van berekeningen steken!!!!!!!!!",
+      "calculation": "forrescalc 0.0.0.9000",
+      "schema": {
+        "fields": [
+          {
+            "name": "plottype",
+            "type": "string",
+            "description": "CP:  circular plot; CA: core area",
+            "extra_info": null
+          },
+          {
+            "name": "plot_id",
+            "type": "integer",
+            "description": "unique sample plot id",
+            "extra_info": null
+          },
+          {
+            "name": "year",
+            "type": "integer",
+            "description": "year of dendro survey (year of growing season)",
+            "extra_info": "f.e. march 2020 becomes 2019 (start of growing season is set to May 1)"
+          },
+          {
+            "name": "period",
+            "type": "integer",
+            "description": "period: \"1\" for 1st decade (2000-2010), \"2\" for 2nd decade (2011-2020), \"3\" for 3th decade (2021-2030)",
+            "extra_info": "\"0\" only occurs for dendro data in plot 11000 (1986)"
+          },
+          {
+            "name": "decaystage",
+            "type": "number",
+            "description": "decay stage code: from 10 to 15, with 10 very recent fallen and 15 fully decayed with remains in litter",
+            "extra_info": "see table \"qDecaystage\""
+          },
+          {
+            "name": "vol_dead_standing_m3_ha",
+            "type": "number",
+            "description": "volume of standing deadwood per ha (m³/ha): tree bole + crown volume (if present) calculated using species specific volume functions (tariffs) based on height and diameter at breast height;  for snags formula of a cilinder is used",
+            "extra_info": "source: Dagnelie et al., Quataert et al., Dik, Berben; see table \"tblTarieven_2ing\" and \"tblTarieven_1ingKroon\"; volume up to a top diameter of 7 cm; small trees (dbh < 5 cm) excluded"
+          },
+          {
+            "name": "vol_bole_dead_m3_ha",
+            "type": "number",
+            "description": "volume of standing tree bole (m³/ha) calculated using species specific volume functions (tariffs) based on height and diameter at breast height; for snags formula of a cilinder is used",
+            "extra_info": "source: Dagnelie et al., Quataert et al., Dik, Berben; see table \"tblTarieven_2ing\"; volume up to a top diameter of 7 cm; small trees (dbh < 5 cm) excluded"
+          },
+          {
+            "name": "vol_log_m3_ha",
+            "type": "number",
+            "description": "volume of lying deadwood per ha (m³/ha);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
+            "extra_info": "volume is calculated using Smalian’s formula"
+          }
+        ]
+      }
+    },
+    {
+      "name": "deadw_by_decay_plot_species",
+      "path": "deadw_by_decay_plot_species.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "volumes of lying & standing deadwood per plot, species and decay stage",
+      "extra_info": "oude naam logs_by_decay",
+      "source_database": "nog aanvullen -> bestandsnaam van databank in attr van berekeningen steken!!!!!!!!!",
+      "calculation": "forrescalc 0.0.0.9000",
+      "schema": {
+        "fields": [
+          {
+            "name": "plottype",
+            "type": "string",
+            "description": "CP:  circular plot; CA: core area",
+            "extra_info": null
+          },
+          {
+            "name": "plot_id",
+            "type": "integer",
+            "description": "unique sample plot id",
+            "extra_info": null
+          },
+          {
+            "name": "year",
+            "type": "integer",
+            "description": "year of dendro survey (year of growing season)",
+            "extra_info": "f.e. march 2020 becomes 2019 (start of growing season is set to May 1)"
+          },
+          {
+            "name": "period",
+            "type": "integer",
+            "description": "period: \"1\" for 1st decade (2000-2010), \"2\" for 2nd decade (2011-2020), \"3\" for 3th decade (2021-2030)",
+            "extra_info": "\"0\" only occurs for dendro data in plot 11000 (1986)"
+          },
+          {
+            "name": "species",
+            "type": "number",
+            "description": "tree species code",
+            "extra_info": "see table \"qSpecies\""
+          },
+          {
+            "name": "decaystage",
+            "type": "number",
+            "description": "decay stage code: from 10 to 15, with 10 very recent fallen and 15 fully decayed with remains in litter",
+            "extra_info": "see table \"qDecaystage\""
+          },
+          {
+            "name": "vol_dead_standing_m3_ha",
+            "type": "number",
+            "description": "volume of standing deadwood per ha (m³/ha): tree bole + crown volume (if present) calculated using species specific volume functions based on height and diameter at breast height;  for snags formula of a cilinder is used",
+            "extra_info": "source: Dagnelie et al., Quataert et al., Dik, Berben; see table \"tblTarieven_2ing\" and \"tblTarieven_1ingKroon\"; volume up to a top diameter of 7 cm; small trees (dbh < 5 cm) excluded"
+          },
+          {
+            "name": "vol_bole_dead_m3_ha",
+            "type": "number",
+            "description": "volume of standing tree bole (m³/ha) calculated using species specific volume functions based on height and diameter at breast height; for snags formula of a cilinder is used",
+            "extra_info": "source: Dagnelie et al., Quataert et al., Dik, Berben; see table \"tblTarieven_2ing\"; volume up to a top diameter of 7 cm; small trees (dbh < 5 cm) excluded"
+          },
+          {
+            "name": "vol_log_m3_ha",
+            "type": "number",
+            "description": "volume of lying deadwood per ha (m³/ha);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
+            "extra_info": "volume is calculated using Smalian’s formula"
+          }
+        ]
+      }
     }
   ]
 }
