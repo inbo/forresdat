@@ -1,47 +1,6 @@
 {
   "resources": [
     {
-      "name": "qdecaystage",
-      "path": "qdecaystage.csv",
-      "profile": "tabular-data-resource",
-      "format": "csv",
-      "mediatype": "text/csv",
-      "encoding": "utf-8",
-      "description": [],
-      "schema": {
-        "fields": [
-          {
-            "name": "MasterID",
-            "type": "integer"
-          },
-          {
-            "name": "ID",
-            "type": "integer"
-          },
-          {
-            "name": "Value1",
-            "type": "string"
-          },
-          {
-            "name": "Value2",
-            "type": "string"
-          },
-          {
-            "name": "Value3",
-            "type": "string"
-          },
-          {
-            "name": "OrderField",
-            "type": "integer"
-          },
-          {
-            "name": "Active",
-            "type": "integer"
-          }
-        ]
-      }
-    },
-    {
       "name": "qtotalcover",
       "path": "qtotalcover.csv",
       "profile": "tabular-data-resource",
@@ -1054,20 +1013,20 @@
           {
             "name": "plottype",
             "type": "string",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "plot_id",
             "type": "integer",
             "description": "unique sample plot id",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "period",
             "type": "integer",
             "description": "period: \"1\" for 1st decade (2000-2010), \"2\" for 2nd decade (2011-2020), \"3\" for 3th decade (2021-2030)",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "subplot_id",
@@ -1079,7 +1038,7 @@
             "name": "number_of_species",
             "type": "integer",
             "description": "number of species in the herb layer (herbaceous and woody species (< 200cm))",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "cumm_herb_coverage_class_average_perc",
@@ -1097,7 +1056,7 @@
             "name": "date_vegetation",
             "type": "datetime",
             "description": "date of main vegetation survey",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "moss_cover_min",
@@ -1108,14 +1067,14 @@
           {
             "name": "moss_cover_max",
             "type": "number",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "moss_cover_mid",
             "type": "number",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "herb_cover_min",
@@ -1126,14 +1085,14 @@
           {
             "name": "herb_cover_max",
             "type": "number",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "herb_cover_mid",
             "type": "number",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "shrub_cover_min",
@@ -1144,14 +1103,14 @@
           {
             "name": "shrub_cover_max",
             "type": "number",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "shrub_cover_mid",
             "type": "number",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "tree_cover_min",
@@ -1162,14 +1121,14 @@
           {
             "name": "tree_cover_max",
             "type": "number",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "tree_cover_mid",
             "type": "number",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "waterlayer_cover_min",
@@ -1180,14 +1139,14 @@
           {
             "name": "waterlayer_cover_max",
             "type": "number",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "waterlayer_cover_mid",
             "type": "number",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "soildisturbance_game_cover_min",
@@ -1198,32 +1157,32 @@
           {
             "name": "soildisturbance_game_cover_max",
             "type": "number",
-            "description": null,
+            "description": {},
             "extra_info": "recorded since 2015"
           },
           {
             "name": "soildisturbance_game_cover_mid",
             "type": "number",
-            "description": null,
+            "description": {},
             "extra_info": "recorded since 2015"
           },
           {
             "name": "cumulated_canopy_cover_min",
             "type": "number",
             "description": "cumulated shrub and tree cover",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "cumulated_canopy_cover_max",
             "type": "number",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "cumulated_canopy_cover_mid",
             "type": "number",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           }
         ]
       }
@@ -1244,26 +1203,26 @@
           {
             "name": "plottype",
             "type": "string",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "plot_id",
             "type": "integer",
             "description": "unique sample plot id",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "year",
             "type": "number",
             "description": "year of recording of specific species, possibly different for spring flora",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "period",
             "type": "integer",
             "description": "period: \"1\" for 1st decade (2000-2010), \"2\" for 2nd decade (2011-2020), \"3\" for 3th decade (2021-2030)",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "species",
@@ -1274,14 +1233,14 @@
           {
             "name": "number_of_subplots_with_vegetation",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "perc_of_subplots",
             "type": "number",
             "description": "percentage of subplots where the species occurs",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "number_of_subplots_browsed",
@@ -1311,7 +1270,89 @@
             "name": "mean_coverage_class_average_perc",
             "type": "number",
             "description": "mean coverage of all subplots where the species occurs; based on midpoint values of the respective cover classes",
-            "extra_info": null
+            "extra_info": {}
+          }
+        ]
+      }
+    },
+    {
+      "name": "qnumber_regeneration_classes",
+      "path": "qnumber_regeneration_classes.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": [],
+      "extra_info": [],
+      "source_database": "mdb_bosres",
+      "schema": {
+        "fields": [
+          {
+            "name": "ID",
+            "type": "integer"
+          },
+          {
+            "name": "Value1",
+            "type": "string"
+          },
+          {
+            "name": "Value2",
+            "type": "string"
+          },
+          {
+            "name": "Value3",
+            "type": "string"
+          },
+          {
+            "name": "OrderField",
+            "type": "integer"
+          },
+          {
+            "name": "Active",
+            "type": "integer"
+          }
+        ]
+      }
+    },
+    {
+      "name": "qdecaystage",
+      "path": "qdecaystage.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": [],
+      "extra_info": [],
+      "source_database": "mdb_bosres",
+      "schema": {
+        "fields": [
+          {
+            "name": "MasterID",
+            "type": "integer"
+          },
+          {
+            "name": "ID",
+            "type": "integer"
+          },
+          {
+            "name": "Value1",
+            "type": "string"
+          },
+          {
+            "name": "Value2",
+            "type": "string"
+          },
+          {
+            "name": "Value3",
+            "type": "string"
+          },
+          {
+            "name": "OrderField",
+            "type": "integer"
+          },
+          {
+            "name": "Active",
+            "type": "integer"
           }
         ]
       }
