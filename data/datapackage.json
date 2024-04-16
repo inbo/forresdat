@@ -217,7 +217,7 @@
       "encoding": "utf-8",
       "description": "dendrometric values of living trees and deadwood on plot level",
       "extra_info": "number of tree species, number of trees, basal area, volume …",
-      "source_database": "nog aanvullen -> bestandsnaam van databank in attr van berekeningen steken!!!!!!!!!",
+      "source_database": "mdb_bosres",
       "calculation": "forrescalc 0.0.0.9000",
       "schema": {
         "fields": [
@@ -329,7 +329,7 @@
       "encoding": "utf-8",
       "description": "dendrometric values of living trees and deadwood per plot and per species",
       "extra_info": "number of trees, basal area, volume, mean number of stems per tree (info on copppice), …",
-      "source_database": "nog aanvullen -> bestandsnaam van databank in attr van berekeningen steken!!!!!!!!!",
+      "source_database": "mdb_bosres",
       "calculation": "forrescalc 0.0.0.9000",
       "schema": {
         "fields": [
@@ -441,7 +441,7 @@
       "encoding": "utf-8",
       "description": "dendrometric values of living trees and deadwood per plot and diameter class",
       "extra_info": "number of trees, basal area, volume, …",
-      "source_database": "nog aanvullen -> bestandsnaam van databank in attr van berekeningen steken!!!!!!!!!",
+      "source_database": "mdb_bosres",
       "calculation": "forrescalc 0.0.0.9000",
       "schema": {
         "fields": [
@@ -516,7 +516,7 @@
       "encoding": "utf-8",
       "description": "dendrometric values of living trees and deadwood per plot, species and diameter class",
       "extra_info": "number of trees, basal area, volume, …",
-      "source_database": "nog aanvullen -> bestandsnaam van databank in attr van berekeningen steken!!!!!!!!!",
+      "source_database": "mdb_bosres",
       "calculation": "forrescalc 0.0.0.9000",
       "schema": {
         "fields": [
@@ -595,7 +595,7 @@
       "encoding": "utf-8",
       "description": "volumes of lying & standing deadwood per plot and per decay stage",
       "extra_info": "op dit moment enkel nog liggend dood hout (22/11/2023: zal aangepast worden in package)",
-      "source_database": "nog aanvullen -> bestandsnaam van databank in attr van berekeningen steken!!!!!!!!!",
+      "source_database": "mdb_bosres",
       "calculation": "forrescalc 0.0.0.9000",
       "schema": {
         "fields": [
@@ -659,7 +659,7 @@
       "encoding": "utf-8",
       "description": "volumes of lying & standing deadwood per plot, species and decay stage",
       "extra_info": "oude naam logs_by_decay",
-      "source_database": "nog aanvullen -> bestandsnaam van databank in attr van berekeningen steken!!!!!!!!!",
+      "source_database": "mdb_bosres",
       "calculation": "forrescalc 0.0.0.9000",
       "schema": {
         "fields": [
