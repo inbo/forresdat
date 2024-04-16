@@ -672,26 +672,26 @@
           {
             "name": "plottype",
             "type": "string",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "plot_id",
             "type": "integer",
             "description": "unique sample plot id",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "year",
             "type": "integer",
             "description": "year of regeneration survey",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "period",
             "type": "integer",
             "description": "period: \"1\" for 1st decade (2000-2010), \"2\" for 2nd decade (2011-2020), \"3\" for 3th decade (2021-2030)",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "subplot_id",
@@ -703,13 +703,13 @@
             "name": "number_of_tree_species",
             "type": "integer",
             "description": "number of tree species with DBH < 5 cm (rejuvenation)",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "nr_of_tree_species_established",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "mean_number_established_ha",
@@ -750,38 +750,38 @@
           {
             "name": "mean_rubbing_damage_perc_established",
             "type": "number",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "lci_rubbing_damage_perc_established",
             "type": "number",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "uci_rubbing_damage_perc_established",
             "type": "number",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "mean_rubbing_damage_perc_seedlings",
             "type": "number",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "lci_rubbing_damage_perc_seedlings",
             "type": "number",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "uci_rubbing_damage_perc_seedlings",
             "type": "number",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "approx_nr_established_ha",
@@ -798,14 +798,14 @@
           {
             "name": "approx_rubbing_damage_perc_established",
             "type": "number",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "approx_rubbing_damage_perc_seedlings",
             "type": "number",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           }
         ]
       }
@@ -1034,6 +1034,284 @@
           {
             "name": "uci_number_of_regeneration_ha",
             "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "name": "vegetation_by_plot",
+      "path": "vegetation_by_plot.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "vegetation characteristics on plot level (or subplot level in case of core area)",
+      "extra_info": "number of species, total cover per vegetation layer (moss-, herb-, shrub-, tree- and waterlayer), soildisturbance by game",
+      "source_database": "mdb_bosres",
+      "calculation": "forrescalc 0.0.0.9000",
+      "schema": {
+        "fields": [
+          {
+            "name": "plottype",
+            "type": "string",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "plot_id",
+            "type": "integer",
+            "description": "unique sample plot id",
+            "extra_info": null
+          },
+          {
+            "name": "period",
+            "type": "integer",
+            "description": "period: \"1\" for 1st decade (2000-2010), \"2\" for 2nd decade (2011-2020), \"3\" for 3th decade (2021-2030)",
+            "extra_info": null
+          },
+          {
+            "name": "subplot_id",
+            "type": "integer",
+            "description": "id of subplot (1 for circular plots)",
+            "extra_info": "corea area's are divided in subplots of 10 x 10 m²"
+          },
+          {
+            "name": "number_of_species",
+            "type": "integer",
+            "description": "number of species in the herb layer (herbaceous and woody species (< 200cm))",
+            "extra_info": null
+          },
+          {
+            "name": "cumm_herb_coverage_class_average_perc",
+            "type": "number",
+            "description": "cumulated coverage of all species in the herb  layer; based on midpoint values of the respective cover classes",
+            "extra_info": "in case of core area, mean of all subplots"
+          },
+          {
+            "name": "year_main_survey",
+            "type": "number",
+            "description": "year of main vegetation survey",
+            "extra_info": "\"main\": because sometimes deviating from date of spring survey (for spring flora)"
+          },
+          {
+            "name": "date_vegetation",
+            "type": "datetime",
+            "description": "date of main vegetation survey",
+            "extra_info": null
+          },
+          {
+            "name": "moss_cover_min",
+            "type": "number",
+            "description": "cover of the moss layer, estimated using Londo scale and transformed into percentage values (min, max  and midpoint of respective cover class)",
+            "extra_info": "extended Londo scale (Londo, 1984); bryophytes are not identified"
+          },
+          {
+            "name": "moss_cover_max",
+            "type": "number",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "moss_cover_mid",
+            "type": "number",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "herb_cover_min",
+            "type": "number",
+            "description": "cover of the herbaceous layer, estimated using Londo scale and transformed into percentage  (min, max  and midpoint of respective cover class)values",
+            "extra_info": "extended Londo scale (Londo, 1984)"
+          },
+          {
+            "name": "herb_cover_max",
+            "type": "number",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "herb_cover_mid",
+            "type": "number",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "shrub_cover_min",
+            "type": "number",
+            "description": "cover of the shrub layer (2-8m height), estimated using Londo scale and transformed into percentage values (min, max  and midpoint of respective cover class)",
+            "extra_info": "extended Londo scale (Londo, 1984)"
+          },
+          {
+            "name": "shrub_cover_max",
+            "type": "number",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "shrub_cover_mid",
+            "type": "number",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "tree_cover_min",
+            "type": "number",
+            "description": "cover of the tree layer (> 8m height), estimated using Londo scale and transformed into percentage values (min, max  and midpoint of respective cover class)",
+            "extra_info": "extended Londo scale (Londo, 1984)"
+          },
+          {
+            "name": "tree_cover_max",
+            "type": "number",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "tree_cover_mid",
+            "type": "number",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "waterlayer_cover_min",
+            "type": "number",
+            "description": "area covered by open water, estimated using Londo scale and transformed into percentage values (min, max  and midpoint of respective cover class)",
+            "extra_info": "extended Londo scale (Londo, 1984)"
+          },
+          {
+            "name": "waterlayer_cover_max",
+            "type": "number",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "waterlayer_cover_mid",
+            "type": "number",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "soildisturbance_game_cover_min",
+            "type": "number",
+            "description": "bare soil due to disturbance by game, estimated using Londo scale and transformed into percentage values (min, max  and midpoint of respective cover class)",
+            "extra_info": "recorded since 2015"
+          },
+          {
+            "name": "soildisturbance_game_cover_max",
+            "type": "number",
+            "description": null,
+            "extra_info": "recorded since 2015"
+          },
+          {
+            "name": "soildisturbance_game_cover_mid",
+            "type": "number",
+            "description": null,
+            "extra_info": "recorded since 2015"
+          },
+          {
+            "name": "cumulated_canopy_cover_min",
+            "type": "number",
+            "description": "cumulated shrub and tree cover",
+            "extra_info": null
+          },
+          {
+            "name": "cumulated_canopy_cover_max",
+            "type": "number",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "cumulated_canopy_cover_mid",
+            "type": "number",
+            "description": null,
+            "extra_info": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "vegetation_by_core_area_species",
+      "path": "vegetation_by_core_area_species.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "vegetation characteristics per species for the entire core area",
+      "extra_info": "mean coverage, number and percentage of subplots where species occurs, info on browsing",
+      "source_database": "mdb_bosres",
+      "calculation": "forrescalc 0.0.0.9000",
+      "schema": {
+        "fields": [
+          {
+            "name": "plottype",
+            "type": "string",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "plot_id",
+            "type": "integer",
+            "description": "unique sample plot id",
+            "extra_info": null
+          },
+          {
+            "name": "year",
+            "type": "number",
+            "description": "year of recording of specific species, possibly different for spring flora",
+            "extra_info": null
+          },
+          {
+            "name": "period",
+            "type": "integer",
+            "description": "period: \"1\" for 1st decade (2000-2010), \"2\" for 2nd decade (2011-2020), \"3\" for 3th decade (2021-2030)",
+            "extra_info": null
+          },
+          {
+            "name": "species",
+            "type": "integer",
+            "description": "species code",
+            "extra_info": "see table \"qHerbSpecies240810\""
+          },
+          {
+            "name": "number_of_subplots_with_vegetation",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "perc_of_subplots",
+            "type": "number",
+            "description": "percentage of subplots where the species occurs",
+            "extra_info": null
+          },
+          {
+            "name": "number_of_subplots_browsed",
+            "type": "integer",
+            "description": "number of subplots with traces of browsing (< 5% of individuals browsed)",
+            "extra_info": "recorded since 2015"
+          },
+          {
+            "name": "number_of_subplots_seriously_browsed",
+            "type": "integer",
+            "description": "number of subplots with significant traces of browsing (> 5% of individuals browsed)",
+            "extra_info": "recorded since 2015"
+          },
+          {
+            "name": "perc_of_subplots_browsed",
+            "type": "number",
+            "description": "percentage of subplots with traces of browsing (< 5% of individuals browsed)",
+            "extra_info": "recorded since 2015"
+          },
+          {
+            "name": "perc_of_subplots_seriously_browsed",
+            "type": "number",
+            "description": "percentage of subplots with significant traces of browsing (> 5% of individuals browsed)",
+            "extra_info": "recorded since 2015"
+          },
+          {
+            "name": "mean_coverage_class_average_perc",
+            "type": "number",
+            "description": "mean coverage of all subplots where the species occurs; based on midpoint values of the respective cover classes",
+            "extra_info": null
           }
         ]
       }
