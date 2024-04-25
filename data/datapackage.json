@@ -1,122 +1,289 @@
 {
   "resources": [
     {
-      "name": "qtotalcover",
-      "path": "qtotalcover.csv",
+      "name": "deadw_by_decay_plot",
+      "path": "deadw_by_decay_plot.csv",
       "profile": "tabular-data-resource",
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "description": [],
-      "extra_info": [],
+      "description": "volumes of lying & standing deadwood per plot and per decay stage",
+      "extra_info": "op dit moment enkel nog liggend dood hout (22/11/2023: zal aangepast worden in package)",
       "source_database": "mdb_bosres",
+      "calculation": "forrescalc 0.0.0.9000",
       "schema": {
         "fields": [
           {
-            "name": "ID",
-            "type": "integer"
+            "name": "plottype",
+            "type": "string",
+            "description": "CP:  circular plot; CA: core area",
+            "extra_info": {}
           },
           {
-            "name": "Value1",
-            "type": "string"
+            "name": "plot_id",
+            "type": "integer",
+            "description": "unique sample plot id",
+            "extra_info": {}
           },
           {
-            "name": "Value2",
-            "type": "string"
+            "name": "year",
+            "type": "integer",
+            "description": "year of dendro survey (year of growing season)",
+            "extra_info": "f.e. march 2020 becomes 2019 (start of growing season is set to May 1)"
           },
           {
-            "name": "Value3",
-            "type": "string"
+            "name": "period",
+            "type": "integer",
+            "description": "period: \"1\" for 1st decade (2000-2010), \"2\" for 2nd decade (2011-2020), \"3\" for 3th decade (2021-2030)",
+            "extra_info": "\"0\" only occurs for dendro data in plot 11000 (1986)"
           },
           {
-            "name": "OrderField",
-            "type": "integer"
+            "name": "decaystage",
+            "type": "number",
+            "description": "decay stage code: from 10 to 15, with 10 very recent fallen and 15 fully decayed with remains in litter",
+            "extra_info": "see table \"qDecaystage\""
           },
           {
-            "name": "Active",
-            "type": "integer"
+            "name": "vol_dead_standing_m3_ha",
+            "type": "number",
+            "description": "volume of standing deadwood per ha (m³/ha): tree bole + crown volume (if present) calculated using species specific volume functions (tariffs) based on height and diameter at breast height;  for snags formula of a cilinder is used",
+            "extra_info": "source: Dagnelie et al., Quataert et al., Dik, Berben; see table \"tblTarieven_2ing\" and \"tblTarieven_1ingKroon\"; volume up to a top diameter of 7 cm; small trees (dbh < 5 cm) excluded"
+          },
+          {
+            "name": "vol_bole_dead_m3_ha",
+            "type": "number",
+            "description": "volume of standing tree bole (m³/ha) calculated using species specific volume functions (tariffs) based on height and diameter at breast height; for snags formula of a cilinder is used",
+            "extra_info": "source: Dagnelie et al., Quataert et al., Dik, Berben; see table \"tblTarieven_2ing\"; volume up to a top diameter of 7 cm; small trees (dbh < 5 cm) excluded"
+          },
+          {
+            "name": "vol_log_m3_ha",
+            "type": "number",
+            "description": "volume of lying deadwood per ha (m³/ha);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
+            "extra_info": "volume is calculated using Smalian’s formula"
           }
         ]
       }
     },
     {
-      "name": "qnumber_regeneration_classes",
-      "path": "qnumber_regeneration_classes.csv",
+      "name": "deadw_by_decay_plot_species",
+      "path": "deadw_by_decay_plot_species.csv",
       "profile": "tabular-data-resource",
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "description": [],
-      "extra_info": [],
+      "description": "volumes of lying & standing deadwood per plot, species and decay stage",
+      "extra_info": "oude naam logs_by_decay",
       "source_database": "mdb_bosres",
+      "calculation": "forrescalc 0.0.0.9000",
       "schema": {
         "fields": [
           {
-            "name": "ID",
-            "type": "integer"
+            "name": "plottype",
+            "type": "string",
+            "description": "CP:  circular plot; CA: core area",
+            "extra_info": {}
           },
           {
-            "name": "Value1",
-            "type": "string"
+            "name": "plot_id",
+            "type": "integer",
+            "description": "unique sample plot id",
+            "extra_info": {}
           },
           {
-            "name": "Value2",
-            "type": "string"
+            "name": "year",
+            "type": "integer",
+            "description": "year of dendro survey (year of growing season)",
+            "extra_info": "f.e. march 2020 becomes 2019 (start of growing season is set to May 1)"
           },
           {
-            "name": "Value3",
-            "type": "string"
+            "name": "period",
+            "type": "integer",
+            "description": "period: \"1\" for 1st decade (2000-2010), \"2\" for 2nd decade (2011-2020), \"3\" for 3th decade (2021-2030)",
+            "extra_info": "\"0\" only occurs for dendro data in plot 11000 (1986)"
           },
           {
-            "name": "OrderField",
-            "type": "integer"
+            "name": "species",
+            "type": "number",
+            "description": "tree species code",
+            "extra_info": "see table \"qSpecies\""
           },
           {
-            "name": "Active",
-            "type": "integer"
+            "name": "decaystage",
+            "type": "number",
+            "description": "decay stage code: from 10 to 15, with 10 very recent fallen and 15 fully decayed with remains in litter",
+            "extra_info": "see table \"qDecaystage\""
+          },
+          {
+            "name": "vol_dead_standing_m3_ha",
+            "type": "number",
+            "description": "volume of standing deadwood per ha (m³/ha): tree bole + crown volume (if present) calculated using species specific volume functions based on height and diameter at breast height;  for snags formula of a cilinder is used",
+            "extra_info": "source: Dagnelie et al., Quataert et al., Dik, Berben; see table \"tblTarieven_2ing\" and \"tblTarieven_1ingKroon\"; volume up to a top diameter of 7 cm; small trees (dbh < 5 cm) excluded"
+          },
+          {
+            "name": "vol_bole_dead_m3_ha",
+            "type": "number",
+            "description": "volume of standing tree bole (m³/ha) calculated using species specific volume functions based on height and diameter at breast height; for snags formula of a cilinder is used",
+            "extra_info": "source: Dagnelie et al., Quataert et al., Dik, Berben; see table \"tblTarieven_2ing\"; volume up to a top diameter of 7 cm; small trees (dbh < 5 cm) excluded"
+          },
+          {
+            "name": "vol_log_m3_ha",
+            "type": "number",
+            "description": "volume of lying deadwood per ha (m³/ha);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
+            "extra_info": "volume is calculated using Smalian’s formula"
           }
         ]
       }
     },
     {
-      "name": "qdecaystage",
-      "path": "qdecaystage.csv",
+      "name": "dendro_by_diam_plot",
+      "path": "dendro_by_diam_plot.csv",
       "profile": "tabular-data-resource",
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "description": [],
-      "extra_info": [],
+      "description": "dendrometric values of living trees and deadwood per plot and diameter class",
+      "extra_info": "number of trees, basal area, volume, …",
       "source_database": "mdb_bosres",
+      "calculation": "forrescalc 0.0.0.9000",
       "schema": {
         "fields": [
           {
-            "name": "MasterID",
-            "type": "integer"
-          },
-          {
-            "name": "ID",
-            "type": "integer"
-          },
-          {
-            "name": "Value1",
+            "name": "plottype",
             "type": "string"
           },
           {
-            "name": "Value2",
-            "type": "string"
-          },
-          {
-            "name": "Value3",
-            "type": "string"
-          },
-          {
-            "name": "OrderField",
+            "name": "plot_id",
             "type": "integer"
           },
           {
-            "name": "Active",
+            "name": "year",
             "type": "integer"
+          },
+          {
+            "name": "period",
+            "type": "integer"
+          },
+          {
+            "name": "dbh_class_5cm",
+            "type": "string",
+            "constraints": {
+              "enum": ["5 - 10 cm", "10 - 15 cm", "15 - 20 cm", "20 - 25 cm", "25 - 30 cm", "30 - 35 cm", "35 - 40 cm", "40 - 45 cm", "45 - 50 cm", "50 - 55 cm", "55 - 60 cm", "60 - 65 cm", "65 - 70 cm", "70 - 75 cm", "75 - 80 cm", "80 - 85 cm", "85 - 90 cm", "90 - 95 cm", "95 - 100 cm", "100 - 105 cm", "105 - 110 cm", "110 - 115 cm", "115 - 120 cm", "120 - 125 cm", "125 - 130 cm", "130 - 135 cm", "135 - 140 cm", "140 - 145 cm", "145 - 150 cm", "150 - 155 cm", "155 - 160 cm", "160 - 165 cm", "165 - 170 cm", "170 - 175 cm", "175 - 180 cm", "180 - 185 cm", "185 - 190 cm", "190 - 195 cm", "195 - 200 cm", "200 - 205 cm", "205 - 210 cm", "210 - 215 cm", "215 - 220 cm", "220 - 225 cm", "225 - 230 cm", "230 - 235 cm", "235 - 240 cm", "240 - 245 cm", "245 cm +"]
+            }
+          },
+          {
+            "name": "stem_number_alive_ha",
+            "type": "number"
+          },
+          {
+            "name": "stem_number_dead_ha",
+            "type": "number"
+          },
+          {
+            "name": "basal_area_alive_m2_ha",
+            "type": "number"
+          },
+          {
+            "name": "basal_area_dead_m2_ha",
+            "type": "number"
+          },
+          {
+            "name": "vol_alive_m3_ha",
+            "type": "number"
+          },
+          {
+            "name": "vol_dead_standing_m3_ha",
+            "type": "number"
+          },
+          {
+            "name": "vol_bole_alive_m3_ha",
+            "type": "number"
+          },
+          {
+            "name": "vol_bole_dead_m3_ha",
+            "type": "number"
+          },
+          {
+            "name": "vol_log_m3_ha",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dendro_by_diam_plot_species",
+      "path": "dendro_by_diam_plot_species.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "dendrometric values of living trees and deadwood per plot, species and diameter class",
+      "extra_info": "number of trees, basal area, volume, …",
+      "source_database": "mdb_bosres",
+      "calculation": "forrescalc 0.0.0.9000",
+      "schema": {
+        "fields": [
+          {
+            "name": "plottype",
+            "type": "string"
+          },
+          {
+            "name": "plot_id",
+            "type": "integer"
+          },
+          {
+            "name": "year",
+            "type": "integer"
+          },
+          {
+            "name": "period",
+            "type": "integer"
+          },
+          {
+            "name": "species",
+            "type": "number"
+          },
+          {
+            "name": "dbh_class_5cm",
+            "type": "string",
+            "constraints": {
+              "enum": ["5 - 10 cm", "10 - 15 cm", "15 - 20 cm", "20 - 25 cm", "25 - 30 cm", "30 - 35 cm", "35 - 40 cm", "40 - 45 cm", "45 - 50 cm", "50 - 55 cm", "55 - 60 cm", "60 - 65 cm", "65 - 70 cm", "70 - 75 cm", "75 - 80 cm", "80 - 85 cm", "85 - 90 cm", "90 - 95 cm", "95 - 100 cm", "100 - 105 cm", "105 - 110 cm", "110 - 115 cm", "115 - 120 cm", "120 - 125 cm", "125 - 130 cm", "130 - 135 cm", "135 - 140 cm", "140 - 145 cm", "145 - 150 cm", "150 - 155 cm", "155 - 160 cm", "160 - 165 cm", "165 - 170 cm", "170 - 175 cm", "175 - 180 cm", "180 - 185 cm", "185 - 190 cm", "190 - 195 cm", "195 - 200 cm", "200 - 205 cm", "205 - 210 cm", "210 - 215 cm", "215 - 220 cm", "220 - 225 cm", "225 - 230 cm", "230 - 235 cm", "235 - 240 cm", "240 - 245 cm", "245 cm +"]
+            }
+          },
+          {
+            "name": "stem_number_alive_ha",
+            "type": "number"
+          },
+          {
+            "name": "stem_number_dead_ha",
+            "type": "number"
+          },
+          {
+            "name": "basal_area_alive_m2_ha",
+            "type": "number"
+          },
+          {
+            "name": "basal_area_dead_m2_ha",
+            "type": "number"
+          },
+          {
+            "name": "vol_alive_m3_ha",
+            "type": "number"
+          },
+          {
+            "name": "vol_dead_standing_m3_ha",
+            "type": "number"
+          },
+          {
+            "name": "vol_bole_alive_m3_ha",
+            "type": "number"
+          },
+          {
+            "name": "vol_bole_dead_m3_ha",
+            "type": "number"
+          },
+          {
+            "name": "vol_log_m3_ha",
+            "type": "number"
           }
         ]
       }
@@ -346,671 +513,122 @@
       }
     },
     {
-      "name": "dendro_by_diam_plot",
-      "path": "dendro_by_diam_plot.csv",
+      "name": "qdecaystage",
+      "path": "qdecaystage.csv",
       "profile": "tabular-data-resource",
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "description": "dendrometric values of living trees and deadwood per plot and diameter class",
-      "extra_info": "number of trees, basal area, volume, …",
+      "description": [],
+      "extra_info": [],
       "source_database": "mdb_bosres",
-      "calculation": "forrescalc 0.0.0.9000",
       "schema": {
         "fields": [
           {
-            "name": "plottype",
+            "name": "MasterID",
+            "type": "integer"
+          },
+          {
+            "name": "ID",
+            "type": "integer"
+          },
+          {
+            "name": "Value1",
             "type": "string"
           },
           {
-            "name": "plot_id",
+            "name": "Value2",
+            "type": "string"
+          },
+          {
+            "name": "Value3",
+            "type": "string"
+          },
+          {
+            "name": "OrderField",
             "type": "integer"
           },
           {
-            "name": "year",
+            "name": "Active",
             "type": "integer"
-          },
-          {
-            "name": "period",
-            "type": "integer"
-          },
-          {
-            "name": "dbh_class_5cm",
-            "type": "string",
-            "constraints": {
-              "enum": ["5 - 10 cm", "10 - 15 cm", "15 - 20 cm", "20 - 25 cm", "25 - 30 cm", "30 - 35 cm", "35 - 40 cm", "40 - 45 cm", "45 - 50 cm", "50 - 55 cm", "55 - 60 cm", "60 - 65 cm", "65 - 70 cm", "70 - 75 cm", "75 - 80 cm", "80 - 85 cm", "85 - 90 cm", "90 - 95 cm", "95 - 100 cm", "100 - 105 cm", "105 - 110 cm", "110 - 115 cm", "115 - 120 cm", "120 - 125 cm", "125 - 130 cm", "130 - 135 cm", "135 - 140 cm", "140 - 145 cm", "145 - 150 cm", "150 - 155 cm", "155 - 160 cm", "160 - 165 cm", "165 - 170 cm", "170 - 175 cm", "175 - 180 cm", "180 - 185 cm", "185 - 190 cm", "190 - 195 cm", "195 - 200 cm", "200 - 205 cm", "205 - 210 cm", "210 - 215 cm", "215 - 220 cm", "220 - 225 cm", "225 - 230 cm", "230 - 235 cm", "235 - 240 cm", "240 - 245 cm", "245 cm +"]
-            }
-          },
-          {
-            "name": "stem_number_alive_ha",
-            "type": "number"
-          },
-          {
-            "name": "stem_number_dead_ha",
-            "type": "number"
-          },
-          {
-            "name": "basal_area_alive_m2_ha",
-            "type": "number"
-          },
-          {
-            "name": "basal_area_dead_m2_ha",
-            "type": "number"
-          },
-          {
-            "name": "vol_alive_m3_ha",
-            "type": "number"
-          },
-          {
-            "name": "vol_dead_standing_m3_ha",
-            "type": "number"
-          },
-          {
-            "name": "vol_bole_alive_m3_ha",
-            "type": "number"
-          },
-          {
-            "name": "vol_bole_dead_m3_ha",
-            "type": "number"
-          },
-          {
-            "name": "vol_log_m3_ha",
-            "type": "number"
           }
         ]
       }
     },
     {
-      "name": "dendro_by_diam_plot_species",
-      "path": "dendro_by_diam_plot_species.csv",
+      "name": "qnumber_regeneration_classes",
+      "path": "qnumber_regeneration_classes.csv",
       "profile": "tabular-data-resource",
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "description": "dendrometric values of living trees and deadwood per plot, species and diameter class",
-      "extra_info": "number of trees, basal area, volume, …",
+      "description": [],
+      "extra_info": [],
       "source_database": "mdb_bosres",
-      "calculation": "forrescalc 0.0.0.9000",
       "schema": {
         "fields": [
           {
-            "name": "plottype",
+            "name": "ID",
+            "type": "integer"
+          },
+          {
+            "name": "Value1",
             "type": "string"
           },
           {
-            "name": "plot_id",
+            "name": "Value2",
+            "type": "string"
+          },
+          {
+            "name": "Value3",
+            "type": "string"
+          },
+          {
+            "name": "OrderField",
             "type": "integer"
           },
           {
-            "name": "year",
+            "name": "Active",
             "type": "integer"
-          },
-          {
-            "name": "period",
-            "type": "integer"
-          },
-          {
-            "name": "species",
-            "type": "number"
-          },
-          {
-            "name": "dbh_class_5cm",
-            "type": "string",
-            "constraints": {
-              "enum": ["5 - 10 cm", "10 - 15 cm", "15 - 20 cm", "20 - 25 cm", "25 - 30 cm", "30 - 35 cm", "35 - 40 cm", "40 - 45 cm", "45 - 50 cm", "50 - 55 cm", "55 - 60 cm", "60 - 65 cm", "65 - 70 cm", "70 - 75 cm", "75 - 80 cm", "80 - 85 cm", "85 - 90 cm", "90 - 95 cm", "95 - 100 cm", "100 - 105 cm", "105 - 110 cm", "110 - 115 cm", "115 - 120 cm", "120 - 125 cm", "125 - 130 cm", "130 - 135 cm", "135 - 140 cm", "140 - 145 cm", "145 - 150 cm", "150 - 155 cm", "155 - 160 cm", "160 - 165 cm", "165 - 170 cm", "170 - 175 cm", "175 - 180 cm", "180 - 185 cm", "185 - 190 cm", "190 - 195 cm", "195 - 200 cm", "200 - 205 cm", "205 - 210 cm", "210 - 215 cm", "215 - 220 cm", "220 - 225 cm", "225 - 230 cm", "230 - 235 cm", "235 - 240 cm", "240 - 245 cm", "245 cm +"]
-            }
-          },
-          {
-            "name": "stem_number_alive_ha",
-            "type": "number"
-          },
-          {
-            "name": "stem_number_dead_ha",
-            "type": "number"
-          },
-          {
-            "name": "basal_area_alive_m2_ha",
-            "type": "number"
-          },
-          {
-            "name": "basal_area_dead_m2_ha",
-            "type": "number"
-          },
-          {
-            "name": "vol_alive_m3_ha",
-            "type": "number"
-          },
-          {
-            "name": "vol_dead_standing_m3_ha",
-            "type": "number"
-          },
-          {
-            "name": "vol_bole_alive_m3_ha",
-            "type": "number"
-          },
-          {
-            "name": "vol_bole_dead_m3_ha",
-            "type": "number"
-          },
-          {
-            "name": "vol_log_m3_ha",
-            "type": "number"
           }
         ]
       }
     },
     {
-      "name": "deadw_by_decay_plot",
-      "path": "deadw_by_decay_plot.csv",
+      "name": "qtotalcover",
+      "path": "qtotalcover.csv",
       "profile": "tabular-data-resource",
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "description": "volumes of lying & standing deadwood per plot and per decay stage",
-      "extra_info": "op dit moment enkel nog liggend dood hout (22/11/2023: zal aangepast worden in package)",
+      "description": [],
+      "extra_info": [],
       "source_database": "mdb_bosres",
-      "calculation": "forrescalc 0.0.0.9000",
       "schema": {
         "fields": [
           {
-            "name": "plottype",
-            "type": "string",
-            "description": "CP:  circular plot; CA: core area",
-            "extra_info": {}
+            "name": "ID",
+            "type": "integer"
           },
           {
-            "name": "plot_id",
-            "type": "integer",
-            "description": "unique sample plot id",
-            "extra_info": {}
-          },
-          {
-            "name": "year",
-            "type": "integer",
-            "description": "year of dendro survey (year of growing season)",
-            "extra_info": "f.e. march 2020 becomes 2019 (start of growing season is set to May 1)"
-          },
-          {
-            "name": "period",
-            "type": "integer",
-            "description": "period: \"1\" for 1st decade (2000-2010), \"2\" for 2nd decade (2011-2020), \"3\" for 3th decade (2021-2030)",
-            "extra_info": "\"0\" only occurs for dendro data in plot 11000 (1986)"
-          },
-          {
-            "name": "decaystage",
-            "type": "number",
-            "description": "decay stage code: from 10 to 15, with 10 very recent fallen and 15 fully decayed with remains in litter",
-            "extra_info": "see table \"qDecaystage\""
-          },
-          {
-            "name": "vol_dead_standing_m3_ha",
-            "type": "number",
-            "description": "volume of standing deadwood per ha (m³/ha): tree bole + crown volume (if present) calculated using species specific volume functions (tariffs) based on height and diameter at breast height;  for snags formula of a cilinder is used",
-            "extra_info": "source: Dagnelie et al., Quataert et al., Dik, Berben; see table \"tblTarieven_2ing\" and \"tblTarieven_1ingKroon\"; volume up to a top diameter of 7 cm; small trees (dbh < 5 cm) excluded"
-          },
-          {
-            "name": "vol_bole_dead_m3_ha",
-            "type": "number",
-            "description": "volume of standing tree bole (m³/ha) calculated using species specific volume functions (tariffs) based on height and diameter at breast height; for snags formula of a cilinder is used",
-            "extra_info": "source: Dagnelie et al., Quataert et al., Dik, Berben; see table \"tblTarieven_2ing\"; volume up to a top diameter of 7 cm; small trees (dbh < 5 cm) excluded"
-          },
-          {
-            "name": "vol_log_m3_ha",
-            "type": "number",
-            "description": "volume of lying deadwood per ha (m³/ha);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
-            "extra_info": "volume is calculated using Smalian’s formula"
-          }
-        ]
-      }
-    },
-    {
-      "name": "deadw_by_decay_plot_species",
-      "path": "deadw_by_decay_plot_species.csv",
-      "profile": "tabular-data-resource",
-      "format": "csv",
-      "mediatype": "text/csv",
-      "encoding": "utf-8",
-      "description": "volumes of lying & standing deadwood per plot, species and decay stage",
-      "extra_info": "oude naam logs_by_decay",
-      "source_database": "mdb_bosres",
-      "calculation": "forrescalc 0.0.0.9000",
-      "schema": {
-        "fields": [
-          {
-            "name": "plottype",
-            "type": "string",
-            "description": "CP:  circular plot; CA: core area",
-            "extra_info": {}
-          },
-          {
-            "name": "plot_id",
-            "type": "integer",
-            "description": "unique sample plot id",
-            "extra_info": {}
-          },
-          {
-            "name": "year",
-            "type": "integer",
-            "description": "year of dendro survey (year of growing season)",
-            "extra_info": "f.e. march 2020 becomes 2019 (start of growing season is set to May 1)"
-          },
-          {
-            "name": "period",
-            "type": "integer",
-            "description": "period: \"1\" for 1st decade (2000-2010), \"2\" for 2nd decade (2011-2020), \"3\" for 3th decade (2021-2030)",
-            "extra_info": "\"0\" only occurs for dendro data in plot 11000 (1986)"
-          },
-          {
-            "name": "species",
-            "type": "number",
-            "description": "tree species code",
-            "extra_info": "see table \"qSpecies\""
-          },
-          {
-            "name": "decaystage",
-            "type": "number",
-            "description": "decay stage code: from 10 to 15, with 10 very recent fallen and 15 fully decayed with remains in litter",
-            "extra_info": "see table \"qDecaystage\""
-          },
-          {
-            "name": "vol_dead_standing_m3_ha",
-            "type": "number",
-            "description": "volume of standing deadwood per ha (m³/ha): tree bole + crown volume (if present) calculated using species specific volume functions based on height and diameter at breast height;  for snags formula of a cilinder is used",
-            "extra_info": "source: Dagnelie et al., Quataert et al., Dik, Berben; see table \"tblTarieven_2ing\" and \"tblTarieven_1ingKroon\"; volume up to a top diameter of 7 cm; small trees (dbh < 5 cm) excluded"
-          },
-          {
-            "name": "vol_bole_dead_m3_ha",
-            "type": "number",
-            "description": "volume of standing tree bole (m³/ha) calculated using species specific volume functions based on height and diameter at breast height; for snags formula of a cilinder is used",
-            "extra_info": "source: Dagnelie et al., Quataert et al., Dik, Berben; see table \"tblTarieven_2ing\"; volume up to a top diameter of 7 cm; small trees (dbh < 5 cm) excluded"
-          },
-          {
-            "name": "vol_log_m3_ha",
-            "type": "number",
-            "description": "volume of lying deadwood per ha (m³/ha);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
-            "extra_info": "volume is calculated using Smalian’s formula"
-          }
-        ]
-      }
-    },
-    {
-      "name": "regeneration_by_plot_height",
-      "path": "regeneration_by_plot_height.csv",
-      "profile": "tabular-data-resource",
-      "format": "csv",
-      "mediatype": "text/csv",
-      "encoding": "utf-8",
-      "description": "rejuvenation values on plot level (or subplot level in case of core area) per height class",
-      "extra_info": "number of tree species, number of rejuvenation, percentage of rubbing damage",
-      "source_database": "mdb_bosres",
-      "calculation": "forrescalc 0.0.0.9000",
-      "schema": {
-        "fields": [
-          {
-            "name": "plottype",
+            "name": "Value1",
             "type": "string"
           },
           {
-            "name": "plot_id",
-            "type": "integer"
-          },
-          {
-            "name": "year",
-            "type": "integer"
-          },
-          {
-            "name": "period",
-            "type": "integer"
-          },
-          {
-            "name": "height_class",
-            "type": "integer"
-          },
-          {
-            "name": "subplot_id",
-            "type": "integer"
-          },
-          {
-            "name": "number_of_tree_species",
-            "type": "integer"
-          },
-          {
-            "name": "rubbing_damage_perc",
+            "name": "Value2",
             "type": "string"
           },
           {
-            "name": "approx_nr_regeneration_ha",
-            "type": "number"
-          },
-          {
-            "name": "mean_number_of_regeneration_ha",
-            "type": "number"
-          },
-          {
-            "name": "lci_number_of_regeneration_ha",
-            "type": "number"
-          },
-          {
-            "name": "uci_number_of_regeneration_ha",
-            "type": "number"
-          }
-        ]
-      }
-    },
-    {
-      "name": "regeneration_by_plot",
-      "path": "regeneration_by_plot.csv",
-      "profile": "tabular-data-resource",
-      "format": "csv",
-      "mediatype": "text/csv",
-      "encoding": "utf-8",
-      "description": "rejuvenation values on plot level (or subplot level in case of core area)",
-      "extra_info": "number of tree species, number of seedlings and established rejuvenation, percentage of rubbing damage",
-      "source_database": "mdb_bosres",
-      "calculation": "forrescalc 0.0.0.9000",
-      "schema": {
-        "fields": [
-          {
-            "name": "plottype",
-            "type": "string",
-            "description": {},
-            "extra_info": {}
-          },
-          {
-            "name": "plot_id",
-            "type": "integer",
-            "description": "unique sample plot id",
-            "extra_info": {}
-          },
-          {
-            "name": "year",
-            "type": "integer",
-            "description": "year of regeneration survey",
-            "extra_info": {}
-          },
-          {
-            "name": "period",
-            "type": "integer",
-            "description": "period: \"1\" for 1st decade (2000-2010), \"2\" for 2nd decade (2011-2020), \"3\" for 3th decade (2021-2030)",
-            "extra_info": {}
-          },
-          {
-            "name": "subplot_id",
-            "type": "integer",
-            "description": "id of subplot (1 for circular plots)",
-            "extra_info": "corea area's are divided in subplots of 10 x 10 m²"
-          },
-          {
-            "name": "number_of_tree_species",
-            "type": "integer",
-            "description": "number of tree species with DBH < 5 cm (rejuvenation)",
-            "extra_info": {}
-          },
-          {
-            "name": "nr_of_tree_species_established",
-            "type": "integer",
-            "description": {},
-            "extra_info": {}
-          },
-          {
-            "name": "mean_number_established_ha",
-            "type": "number",
-            "description": "mean number per hectare of established rejuvenation (DBH < 5 cm & height > 50 cm)",
-            "extra_info": "mean calculated from min and max of frequency classes, using log transformation"
-          },
-          {
-            "name": "lci_number_established_ha",
-            "type": "number",
-            "description": "lower confidence interval (lci) of number per hectare of established rejuvenation",
-            "extra_info": "lci calculated from min and max of frequency classes, using log transformation"
-          },
-          {
-            "name": "uci_number_established_ha",
-            "type": "number",
-            "description": "upper confidence interval (uci) of number per hectare of established rejuvenation",
-            "extra_info": "uci calculated from min and max of frequency classes, using log transformation"
-          },
-          {
-            "name": "mean_number_seedlings_ha",
-            "type": "number",
-            "description": "mean number per hectare of seedlings (DBH < 5 cm & height < 50 cm)",
-            "extra_info": "mean calculated from min and max of frequency classes, using log transformation"
-          },
-          {
-            "name": "lci_number_seedlings_ha",
-            "type": "number",
-            "description": "lower confidence interval (lci) of number per hectare of seedlings",
-            "extra_info": "lci calculated from min and max of frequency classes, using log transformation"
-          },
-          {
-            "name": "uci_number_seedlings_ha",
-            "type": "number",
-            "description": "upper confidence interval (uci) of number per hectare of seedlings",
-            "extra_info": "uci calculated from min and max of frequency classes, using log transformation"
-          },
-          {
-            "name": "mean_rubbing_damage_perc_established",
-            "type": "number",
-            "description": {},
-            "extra_info": {}
-          },
-          {
-            "name": "lci_rubbing_damage_perc_established",
-            "type": "number",
-            "description": {},
-            "extra_info": {}
-          },
-          {
-            "name": "uci_rubbing_damage_perc_established",
-            "type": "number",
-            "description": {},
-            "extra_info": {}
-          },
-          {
-            "name": "mean_rubbing_damage_perc_seedlings",
-            "type": "number",
-            "description": {},
-            "extra_info": {}
-          },
-          {
-            "name": "lci_rubbing_damage_perc_seedlings",
-            "type": "number",
-            "description": {},
-            "extra_info": {}
-          },
-          {
-            "name": "uci_rubbing_damage_perc_seedlings",
-            "type": "number",
-            "description": {},
-            "extra_info": {}
-          },
-          {
-            "name": "approx_nr_established_ha",
-            "type": "number",
-            "description": "mean number per hectare of established rejuvenation (DBH < 5 cm & height > 50 cm)",
-            "extra_info": "calculated based on exact numbers or (if not available) mid values of the frequency classes (see qnumber_regeneration_classes: Value2)"
-          },
-          {
-            "name": "approx_nr_seedlings_ha",
-            "type": "number",
-            "description": "mean number per hectare  of seedlings (DBH < 5 cm & height < 50 cm)",
-            "extra_info": "calculated based on exact numbers or (if not available) mid values of the frequency classes (see qnumber_regeneration_classes: Value2)"
-          },
-          {
-            "name": "approx_rubbing_damage_perc_established",
-            "type": "number",
-            "description": {},
-            "extra_info": {}
-          },
-          {
-            "name": "approx_rubbing_damage_perc_seedlings",
-            "type": "number",
-            "description": {},
-            "extra_info": {}
-          }
-        ]
-      }
-    },
-    {
-      "name": "regeneration_by_plot_height_species",
-      "path": "regeneration_by_plot_height_species.csv",
-      "profile": "tabular-data-resource",
-      "format": "csv",
-      "mediatype": "text/csv",
-      "encoding": "utf-8",
-      "description": "rejuvenation values on plot level (or subplot level in case of core area) per species and height class",
-      "extra_info": "number of rejuvenation, percentage of rubbing damage",
-      "source_database": "mdb_bosres",
-      "calculation": "forrescalc 0.0.0.9000",
-      "schema": {
-        "fields": [
-          {
-            "name": "plottype",
+            "name": "Value3",
             "type": "string"
           },
           {
-            "name": "plot_id",
+            "name": "OrderField",
             "type": "integer"
           },
           {
-            "name": "year",
+            "name": "Active",
             "type": "integer"
-          },
-          {
-            "name": "period",
-            "type": "integer"
-          },
-          {
-            "name": "height_class",
-            "type": "integer"
-          },
-          {
-            "name": "species",
-            "type": "integer"
-          },
-          {
-            "name": "subplot_id",
-            "type": "integer"
-          },
-          {
-            "name": "rubbing_damage_perc",
-            "type": "string"
-          },
-          {
-            "name": "approx_nr_regeneration_ha",
-            "type": "number"
-          },
-          {
-            "name": "mean_number_of_regeneration_ha",
-            "type": "number"
-          },
-          {
-            "name": "lci_number_of_regeneration_ha",
-            "type": "number"
-          },
-          {
-            "name": "uci_number_of_regeneration_ha",
-            "type": "number"
-          }
-        ]
-      }
-    },
-    {
-      "name": "regeneration_by_core_area_species",
-      "path": "regeneration_by_core_area_species.csv",
-      "profile": "tabular-data-resource",
-      "format": "csv",
-      "mediatype": "text/csv",
-      "encoding": "utf-8",
-      "description": "rejuvenation characteristics per species for the entire core area",
-      "extra_info": "number and percentage of subplots where species occurs, mean number of seedlings and established rejuvenation, percentage of rubbing damage",
-      "source_database": "mdb_bosres",
-      "calculation": "forrescalc 0.0.0.9000",
-      "schema": {
-        "fields": [
-          {
-            "name": "plottype",
-            "type": "string"
-          },
-          {
-            "name": "plot_id",
-            "type": "integer"
-          },
-          {
-            "name": "year",
-            "type": "integer"
-          },
-          {
-            "name": "period",
-            "type": "integer"
-          },
-          {
-            "name": "species",
-            "type": "integer"
-          },
-          {
-            "name": "mean_number_established_ha",
-            "type": "number"
-          },
-          {
-            "name": "lci_number_established_ha",
-            "type": "number"
-          },
-          {
-            "name": "uci_number_established_ha",
-            "type": "number"
-          },
-          {
-            "name": "mean_number_seedlings_ha",
-            "type": "number"
-          },
-          {
-            "name": "lci_number_seedlings_ha",
-            "type": "number"
-          },
-          {
-            "name": "uci_number_seedlings_ha",
-            "type": "number"
-          },
-          {
-            "name": "mean_rubbing_damage_perc_established",
-            "type": "number"
-          },
-          {
-            "name": "lci_rubbing_damage_perc_established",
-            "type": "number"
-          },
-          {
-            "name": "uci_rubbing_damage_perc_established",
-            "type": "number"
-          },
-          {
-            "name": "mean_rubbing_damage_perc_seedlings",
-            "type": "number"
-          },
-          {
-            "name": "lci_rubbing_damage_perc_seedlings",
-            "type": "number"
-          },
-          {
-            "name": "uci_rubbing_damage_perc_seedlings",
-            "type": "number"
-          },
-          {
-            "name": "approx_nr_established_ha",
-            "type": "number"
-          },
-          {
-            "name": "approx_nr_seedlings_ha",
-            "type": "number"
-          },
-          {
-            "name": "approx_rubbing_damage_perc_established",
-            "type": "number"
-          },
-          {
-            "name": "approx_rubbing_damage_perc_seedlings",
-            "type": "number"
           }
         ]
       }
@@ -1022,9 +640,9 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "description": "rejuvenation characteristics per species and height class for the entire core area",
-      "extra_info": "number and percentage of subplots where species in respective height class occurs, mean number of rejuvenation, percentage of rubbing damage",
-      "source_database": "mdb_bosres",
+      "description": [],
+      "extra_info": [],
+      "source_database": "database",
       "calculation": "forrescalc 0.0.0.9000",
       "schema": {
         "fields": [
@@ -1075,196 +693,458 @@
           {
             "name": "uci_number_of_regeneration_ha",
             "type": "number"
+          },
+          {
+            "name": "plottype",
+            "type": "string"
           }
         ]
       }
     },
     {
-      "name": "vegetation_by_plot",
-      "path": "vegetation_by_plot.csv",
+      "name": "regeneration_by_core_area_species",
+      "path": "regeneration_by_core_area_species.csv",
       "profile": "tabular-data-resource",
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "description": "vegetation characteristics on plot level (or subplot level in case of core area)",
-      "extra_info": "number of species, total cover per vegetation layer (moss-, herb-, shrub-, tree- and waterlayer), soildisturbance by game",
-      "source_database": "mdb_bosres",
+      "description": [],
+      "extra_info": [],
+      "source_database": "database",
       "calculation": "forrescalc 0.0.0.9000",
       "schema": {
         "fields": [
           {
             "name": "plottype",
-            "type": "string",
-            "description": null,
-            "extra_info": null
+            "type": "string"
           },
           {
             "name": "plot_id",
-            "type": "integer",
-            "description": "unique sample plot id",
-            "extra_info": null
+            "type": "integer"
+          },
+          {
+            "name": "year",
+            "type": "integer"
           },
           {
             "name": "period",
-            "type": "integer",
-            "description": "period: \"1\" for 1st decade (2000-2010), \"2\" for 2nd decade (2011-2020), \"3\" for 3th decade (2021-2030)",
-            "extra_info": null
+            "type": "integer"
+          },
+          {
+            "name": "species",
+            "type": "integer"
+          },
+          {
+            "name": "mean_number_established_ha",
+            "type": "number"
+          },
+          {
+            "name": "lci_number_established_ha",
+            "type": "number"
+          },
+          {
+            "name": "uci_number_established_ha",
+            "type": "number"
+          },
+          {
+            "name": "mean_number_seedlings_ha",
+            "type": "number"
+          },
+          {
+            "name": "lci_number_seedlings_ha",
+            "type": "number"
+          },
+          {
+            "name": "uci_number_seedlings_ha",
+            "type": "number"
+          },
+          {
+            "name": "mean_rubbing_damage_perc_established",
+            "type": "number"
+          },
+          {
+            "name": "lci_rubbing_damage_perc_established",
+            "type": "number"
+          },
+          {
+            "name": "uci_rubbing_damage_perc_established",
+            "type": "number"
+          },
+          {
+            "name": "mean_rubbing_damage_perc_seedlings",
+            "type": "number"
+          },
+          {
+            "name": "lci_rubbing_damage_perc_seedlings",
+            "type": "number"
+          },
+          {
+            "name": "uci_rubbing_damage_perc_seedlings",
+            "type": "number"
+          },
+          {
+            "name": "approx_nr_established_ha",
+            "type": "number"
+          },
+          {
+            "name": "approx_nr_seedlings_ha",
+            "type": "number"
+          },
+          {
+            "name": "approx_rubbing_damage_perc_established",
+            "type": "number"
+          },
+          {
+            "name": "approx_rubbing_damage_perc_seedlings",
+            "type": "number"
+          },
+          {
+            "name": "nr_of_subplots_with_regeneration",
+            "type": "integer"
+          },
+          {
+            "name": "perc_subplots_with_regeneration",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "name": "regeneration_by_plot",
+      "path": "regeneration_by_plot.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": [],
+      "extra_info": [],
+      "source_database": "database",
+      "calculation": "forrescalc 0.0.0.9000",
+      "schema": {
+        "fields": [
+          {
+            "name": "plottype",
+            "type": "string"
+          },
+          {
+            "name": "plot_id",
+            "type": "integer"
+          },
+          {
+            "name": "year",
+            "type": "integer"
+          },
+          {
+            "name": "period",
+            "type": "integer"
           },
           {
             "name": "subplot_id",
-            "type": "integer",
-            "description": "id of subplot (1 for circular plots)",
-            "extra_info": "corea area's are divided in subplots of 10 x 10 m²"
+            "type": "integer"
           },
           {
-            "name": "number_of_species",
-            "type": "integer",
-            "description": "number of species in the herb layer (herbaceous and woody species (< 200cm))",
-            "extra_info": null
+            "name": "number_of_tree_species",
+            "type": "integer"
           },
           {
-            "name": "cumm_herb_coverage_class_average_perc",
-            "type": "number",
-            "description": "cumulated coverage of all species in the herb  layer; based on midpoint values of the respective cover classes",
-            "extra_info": "in case of core area, mean of all subplots"
+            "name": "nr_of_tree_species_established",
+            "type": "integer"
           },
           {
-            "name": "year_main_survey",
-            "type": "number",
-            "description": "year of main vegetation survey",
-            "extra_info": "\"main\": because sometimes deviating from date of spring survey (for spring flora)"
+            "name": "mean_number_established_ha",
+            "type": "number"
           },
           {
-            "name": "date_vegetation",
-            "type": "datetime",
-            "description": "date of main vegetation survey",
-            "extra_info": null
+            "name": "lci_number_established_ha",
+            "type": "number"
           },
           {
-            "name": "moss_cover_min",
-            "type": "number",
-            "description": "cover of the moss layer, estimated using Londo scale and transformed into percentage values (min, max  and midpoint of respective cover class)",
-            "extra_info": "extended Londo scale (Londo, 1984); bryophytes are not identified"
+            "name": "uci_number_established_ha",
+            "type": "number"
           },
           {
-            "name": "moss_cover_max",
-            "type": "number",
-            "description": null,
-            "extra_info": null
+            "name": "mean_number_seedlings_ha",
+            "type": "number"
           },
           {
-            "name": "moss_cover_mid",
-            "type": "number",
-            "description": null,
-            "extra_info": null
+            "name": "lci_number_seedlings_ha",
+            "type": "number"
           },
           {
-            "name": "herb_cover_min",
-            "type": "number",
-            "description": "cover of the herbaceous layer, estimated using Londo scale and transformed into percentage  (min, max  and midpoint of respective cover class)values",
-            "extra_info": "extended Londo scale (Londo, 1984)"
+            "name": "uci_number_seedlings_ha",
+            "type": "number"
           },
           {
-            "name": "herb_cover_max",
-            "type": "number",
-            "description": null,
-            "extra_info": null
+            "name": "mean_rubbing_damage_perc_established",
+            "type": "number"
           },
           {
-            "name": "herb_cover_mid",
-            "type": "number",
-            "description": null,
-            "extra_info": null
+            "name": "lci_rubbing_damage_perc_established",
+            "type": "number"
           },
           {
-            "name": "shrub_cover_min",
-            "type": "number",
-            "description": "cover of the shrub layer (2-8m height), estimated using Londo scale and transformed into percentage values (min, max  and midpoint of respective cover class)",
-            "extra_info": "extended Londo scale (Londo, 1984)"
+            "name": "uci_rubbing_damage_perc_established",
+            "type": "number"
           },
           {
-            "name": "shrub_cover_max",
-            "type": "number",
-            "description": null,
-            "extra_info": null
+            "name": "mean_rubbing_damage_perc_seedlings",
+            "type": "number"
           },
           {
-            "name": "shrub_cover_mid",
-            "type": "number",
-            "description": null,
-            "extra_info": null
+            "name": "lci_rubbing_damage_perc_seedlings",
+            "type": "number"
           },
           {
-            "name": "tree_cover_min",
-            "type": "number",
-            "description": "cover of the tree layer (> 8m height), estimated using Londo scale and transformed into percentage values (min, max  and midpoint of respective cover class)",
-            "extra_info": "extended Londo scale (Londo, 1984)"
+            "name": "uci_rubbing_damage_perc_seedlings",
+            "type": "number"
           },
           {
-            "name": "tree_cover_max",
-            "type": "number",
-            "description": null,
-            "extra_info": null
+            "name": "approx_nr_established_ha",
+            "type": "number"
           },
           {
-            "name": "tree_cover_mid",
-            "type": "number",
-            "description": null,
-            "extra_info": null
+            "name": "approx_nr_seedlings_ha",
+            "type": "number"
           },
           {
-            "name": "waterlayer_cover_min",
-            "type": "number",
-            "description": "area covered by open water, estimated using Londo scale and transformed into percentage values (min, max  and midpoint of respective cover class)",
-            "extra_info": "extended Londo scale (Londo, 1984)"
+            "name": "approx_rubbing_damage_perc_established",
+            "type": "number"
           },
           {
-            "name": "waterlayer_cover_max",
-            "type": "number",
-            "description": null,
-            "extra_info": null
+            "name": "approx_rubbing_damage_perc_seedlings",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "name": "regeneration_by_plot_height",
+      "path": "regeneration_by_plot_height.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": [],
+      "extra_info": [],
+      "source_database": "database",
+      "calculation": "forrescalc 0.0.0.9000",
+      "schema": {
+        "fields": [
+          {
+            "name": "plottype",
+            "type": "string"
           },
           {
-            "name": "waterlayer_cover_mid",
-            "type": "number",
-            "description": null,
-            "extra_info": null
+            "name": "plot_id",
+            "type": "integer"
           },
           {
-            "name": "soildisturbance_game_cover_min",
-            "type": "number",
-            "description": "bare soil due to disturbance by game, estimated using Londo scale and transformed into percentage values (min, max  and midpoint of respective cover class)",
-            "extra_info": "recorded since 2015"
+            "name": "year",
+            "type": "integer"
           },
           {
-            "name": "soildisturbance_game_cover_max",
-            "type": "number",
-            "description": null,
-            "extra_info": "recorded since 2015"
+            "name": "period",
+            "type": "integer"
           },
           {
-            "name": "soildisturbance_game_cover_mid",
-            "type": "number",
-            "description": null,
-            "extra_info": "recorded since 2015"
+            "name": "height_class",
+            "type": "integer"
           },
           {
-            "name": "cumulated_canopy_cover_min",
-            "type": "number",
-            "description": "cumulated shrub and tree cover",
-            "extra_info": null
+            "name": "subplot_id",
+            "type": "integer"
           },
           {
-            "name": "cumulated_canopy_cover_max",
-            "type": "number",
-            "description": null,
-            "extra_info": null
+            "name": "number_of_tree_species",
+            "type": "integer"
           },
           {
-            "name": "cumulated_canopy_cover_mid",
-            "type": "number",
-            "description": null,
-            "extra_info": null
+            "name": "rubbing_damage_perc",
+            "type": "string"
+          },
+          {
+            "name": "approx_nr_regeneration_ha",
+            "type": "number"
+          },
+          {
+            "name": "mean_number_of_regeneration_ha",
+            "type": "number"
+          },
+          {
+            "name": "lci_number_of_regeneration_ha",
+            "type": "number"
+          },
+          {
+            "name": "uci_number_of_regeneration_ha",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "name": "regeneration_by_plot_height_species",
+      "path": "regeneration_by_plot_height_species.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": [],
+      "extra_info": [],
+      "source_database": "database",
+      "calculation": "forrescalc 0.0.0.9000",
+      "schema": {
+        "fields": [
+          {
+            "name": "plottype",
+            "type": "string"
+          },
+          {
+            "name": "plot_id",
+            "type": "integer"
+          },
+          {
+            "name": "year",
+            "type": "integer"
+          },
+          {
+            "name": "period",
+            "type": "integer"
+          },
+          {
+            "name": "height_class",
+            "type": "integer"
+          },
+          {
+            "name": "species",
+            "type": "integer"
+          },
+          {
+            "name": "subplot_id",
+            "type": "integer"
+          },
+          {
+            "name": "rubbing_damage_perc",
+            "type": "string"
+          },
+          {
+            "name": "approx_nr_regeneration_ha",
+            "type": "number"
+          },
+          {
+            "name": "mean_number_of_regeneration_ha",
+            "type": "number"
+          },
+          {
+            "name": "lci_number_of_regeneration_ha",
+            "type": "number"
+          },
+          {
+            "name": "uci_number_of_regeneration_ha",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "name": "regeneration_by_plot_species",
+      "path": "regeneration_by_plot_species.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": [],
+      "extra_info": [],
+      "source_database": "database",
+      "calculation": "forrescalc 0.0.0.9000",
+      "schema": {
+        "fields": [
+          {
+            "name": "plottype",
+            "type": "string"
+          },
+          {
+            "name": "plot_id",
+            "type": "integer"
+          },
+          {
+            "name": "subplot_id",
+            "type": "integer"
+          },
+          {
+            "name": "period",
+            "type": "integer"
+          },
+          {
+            "name": "year",
+            "type": "integer"
+          },
+          {
+            "name": "species",
+            "type": "integer"
+          },
+          {
+            "name": "approx_nr_established_ha",
+            "type": "number"
+          },
+          {
+            "name": "approx_nr_seedlings_ha",
+            "type": "number"
+          },
+          {
+            "name": "approx_rubbing_damage_perc_established",
+            "type": "number"
+          },
+          {
+            "name": "approx_rubbing_damage_perc_seedlings",
+            "type": "number"
+          },
+          {
+            "name": "mean_number_established_ha",
+            "type": "number"
+          },
+          {
+            "name": "lci_number_established_ha",
+            "type": "number"
+          },
+          {
+            "name": "uci_number_established_ha",
+            "type": "number"
+          },
+          {
+            "name": "mean_number_seedlings_ha",
+            "type": "number"
+          },
+          {
+            "name": "lci_number_seedlings_ha",
+            "type": "number"
+          },
+          {
+            "name": "uci_number_seedlings_ha",
+            "type": "number"
+          },
+          {
+            "name": "mean_rubbing_damage_perc_established",
+            "type": "number"
+          },
+          {
+            "name": "lci_rubbing_damage_perc_established",
+            "type": "number"
+          },
+          {
+            "name": "uci_rubbing_damage_perc_established",
+            "type": "number"
+          },
+          {
+            "name": "mean_rubbing_damage_perc_seedlings",
+            "type": "number"
+          },
+          {
+            "name": "lci_rubbing_damage_perc_seedlings",
+            "type": "number"
+          },
+          {
+            "name": "uci_rubbing_damage_perc_seedlings",
+            "type": "number"
           }
         ]
       }
@@ -1285,26 +1165,26 @@
           {
             "name": "plottype",
             "type": "string",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "plot_id",
             "type": "integer",
             "description": "unique sample plot id",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "year",
             "type": "number",
             "description": "year of recording of specific species, possibly different for spring flora",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "period",
             "type": "integer",
             "description": "period: \"1\" for 1st decade (2000-2010), \"2\" for 2nd decade (2011-2020), \"3\" for 3th decade (2021-2030)",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "species",
@@ -1315,14 +1195,14 @@
           {
             "name": "number_of_subplots_with_vegetation",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "perc_of_subplots",
             "type": "number",
             "description": "percentage of subplots where the species occurs",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "number_of_subplots_browsed",
@@ -1352,7 +1232,197 @@
             "name": "mean_coverage_class_average_perc",
             "type": "number",
             "description": "mean coverage of all subplots where the species occurs; based on midpoint values of the respective cover classes",
-            "extra_info": null
+            "extra_info": {}
+          }
+        ]
+      }
+    },
+    {
+      "name": "vegetation_by_plot",
+      "path": "vegetation_by_plot.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "vegetation characteristics on plot level (or subplot level in case of core area)",
+      "extra_info": "number of species, total cover per vegetation layer (moss-, herb-, shrub-, tree- and waterlayer), soildisturbance by game",
+      "source_database": "mdb_bosres",
+      "calculation": "forrescalc 0.0.0.9000",
+      "schema": {
+        "fields": [
+          {
+            "name": "plottype",
+            "type": "string",
+            "description": {},
+            "extra_info": {}
+          },
+          {
+            "name": "plot_id",
+            "type": "integer",
+            "description": "unique sample plot id",
+            "extra_info": {}
+          },
+          {
+            "name": "period",
+            "type": "integer",
+            "description": "period: \"1\" for 1st decade (2000-2010), \"2\" for 2nd decade (2011-2020), \"3\" for 3th decade (2021-2030)",
+            "extra_info": {}
+          },
+          {
+            "name": "subplot_id",
+            "type": "integer",
+            "description": "id of subplot (1 for circular plots)",
+            "extra_info": "corea area's are divided in subplots of 10 x 10 m²"
+          },
+          {
+            "name": "number_of_species",
+            "type": "integer",
+            "description": "number of species in the herb layer (herbaceous and woody species (< 200cm))",
+            "extra_info": {}
+          },
+          {
+            "name": "cumm_herb_coverage_class_average_perc",
+            "type": "number",
+            "description": "cumulated coverage of all species in the herb  layer; based on midpoint values of the respective cover classes",
+            "extra_info": "in case of core area, mean of all subplots"
+          },
+          {
+            "name": "year_main_survey",
+            "type": "number",
+            "description": "year of main vegetation survey",
+            "extra_info": "\"main\": because sometimes deviating from date of spring survey (for spring flora)"
+          },
+          {
+            "name": "date_vegetation",
+            "type": "datetime",
+            "description": "date of main vegetation survey",
+            "extra_info": {}
+          },
+          {
+            "name": "moss_cover_min",
+            "type": "number",
+            "description": "cover of the moss layer, estimated using Londo scale and transformed into percentage values (min, max  and midpoint of respective cover class)",
+            "extra_info": "extended Londo scale (Londo, 1984); bryophytes are not identified"
+          },
+          {
+            "name": "moss_cover_max",
+            "type": "number",
+            "description": {},
+            "extra_info": {}
+          },
+          {
+            "name": "moss_cover_mid",
+            "type": "number",
+            "description": {},
+            "extra_info": {}
+          },
+          {
+            "name": "herb_cover_min",
+            "type": "number",
+            "description": "cover of the herbaceous layer, estimated using Londo scale and transformed into percentage  (min, max  and midpoint of respective cover class)values",
+            "extra_info": "extended Londo scale (Londo, 1984)"
+          },
+          {
+            "name": "herb_cover_max",
+            "type": "number",
+            "description": {},
+            "extra_info": {}
+          },
+          {
+            "name": "herb_cover_mid",
+            "type": "number",
+            "description": {},
+            "extra_info": {}
+          },
+          {
+            "name": "shrub_cover_min",
+            "type": "number",
+            "description": "cover of the shrub layer (2-8m height), estimated using Londo scale and transformed into percentage values (min, max  and midpoint of respective cover class)",
+            "extra_info": "extended Londo scale (Londo, 1984)"
+          },
+          {
+            "name": "shrub_cover_max",
+            "type": "number",
+            "description": {},
+            "extra_info": {}
+          },
+          {
+            "name": "shrub_cover_mid",
+            "type": "number",
+            "description": {},
+            "extra_info": {}
+          },
+          {
+            "name": "tree_cover_min",
+            "type": "number",
+            "description": "cover of the tree layer (> 8m height), estimated using Londo scale and transformed into percentage values (min, max  and midpoint of respective cover class)",
+            "extra_info": "extended Londo scale (Londo, 1984)"
+          },
+          {
+            "name": "tree_cover_max",
+            "type": "number",
+            "description": {},
+            "extra_info": {}
+          },
+          {
+            "name": "tree_cover_mid",
+            "type": "number",
+            "description": {},
+            "extra_info": {}
+          },
+          {
+            "name": "waterlayer_cover_min",
+            "type": "number",
+            "description": "area covered by open water, estimated using Londo scale and transformed into percentage values (min, max  and midpoint of respective cover class)",
+            "extra_info": "extended Londo scale (Londo, 1984)"
+          },
+          {
+            "name": "waterlayer_cover_max",
+            "type": "number",
+            "description": {},
+            "extra_info": {}
+          },
+          {
+            "name": "waterlayer_cover_mid",
+            "type": "number",
+            "description": {},
+            "extra_info": {}
+          },
+          {
+            "name": "soildisturbance_game_cover_min",
+            "type": "number",
+            "description": "bare soil due to disturbance by game, estimated using Londo scale and transformed into percentage values (min, max  and midpoint of respective cover class)",
+            "extra_info": "recorded since 2015"
+          },
+          {
+            "name": "soildisturbance_game_cover_max",
+            "type": "number",
+            "description": {},
+            "extra_info": "recorded since 2015"
+          },
+          {
+            "name": "soildisturbance_game_cover_mid",
+            "type": "number",
+            "description": {},
+            "extra_info": "recorded since 2015"
+          },
+          {
+            "name": "cumulated_canopy_cover_min",
+            "type": "number",
+            "description": "cumulated shrub and tree cover",
+            "extra_info": {}
+          },
+          {
+            "name": "cumulated_canopy_cover_max",
+            "type": "number",
+            "description": {},
+            "extra_info": {}
+          },
+          {
+            "name": "cumulated_canopy_cover_mid",
+            "type": "number",
+            "description": {},
+            "extra_info": {}
           }
         ]
       }
