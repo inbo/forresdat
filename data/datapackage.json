@@ -595,45 +595,6 @@
       }
     },
     {
-      "name": "qtotalcover",
-      "path": "qtotalcover.csv",
-      "profile": "tabular-data-resource",
-      "format": "csv",
-      "mediatype": "text/csv",
-      "encoding": "utf-8",
-      "description": [],
-      "extra_info": [],
-      "source_database": "mdb_bosres",
-      "schema": {
-        "fields": [
-          {
-            "name": "ID",
-            "type": "integer"
-          },
-          {
-            "name": "Value1",
-            "type": "string"
-          },
-          {
-            "name": "Value2",
-            "type": "string"
-          },
-          {
-            "name": "Value3",
-            "type": "string"
-          },
-          {
-            "name": "OrderField",
-            "type": "integer"
-          },
-          {
-            "name": "Active",
-            "type": "integer"
-          }
-        ]
-      }
-    },
-    {
       "name": "regeneration_by_core_area_height_species",
       "path": "regeneration_by_core_area_height_species.csv",
       "profile": "tabular-data-resource",
@@ -1423,6 +1384,45 @@
             "type": "number",
             "description": {},
             "extra_info": {}
+          }
+        ]
+      }
+    },
+    {
+      "name": "qtotalcover",
+      "path": "qtotalcover.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": [],
+      "extra_info": [],
+      "source_database": "database",
+      "schema": {
+        "fields": [
+          {
+            "name": "ID",
+            "type": "integer"
+          },
+          {
+            "name": "Value1",
+            "type": "string"
+          },
+          {
+            "name": "Value2",
+            "type": "string"
+          },
+          {
+            "name": "Value3",
+            "type": "string"
+          },
+          {
+            "name": "OrderField",
+            "type": "integer"
+          },
+          {
+            "name": "Active",
+            "type": "integer"
           }
         ]
       }
