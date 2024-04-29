@@ -8,8 +8,8 @@
       "mediatype": "text/csv",
       "encoding": "utf-8",
       "description": "volumes of lying & standing deadwood per plot and per decay stage",
-      "attention": null,
       "extra_info": null,
+      "attention": null,
       "source_database": "database",
       "calculation": "forrescalc 0.0.0.9000",
       "schema": {
@@ -73,8 +73,8 @@
       "mediatype": "text/csv",
       "encoding": "utf-8",
       "description": "volumes of lying & standing deadwood per plot, species and decay stage",
-      "attention": null,
       "extra_info": null,
+      "attention": null,
       "source_database": "database",
       "calculation": "forrescalc 0.0.0.9000",
       "schema": {
@@ -144,8 +144,8 @@
       "mediatype": "text/csv",
       "encoding": "utf-8",
       "description": "dendrometric values of living trees and deadwood per plot and diameter class",
-      "attention": "plot 11000 (core area Kersselaerspleyn) has different tresholds for standing trees (L+D); volume of lying deadwood per diameter class is unknown for circular plots Kersselaerspleyn (2001-2065) 1st survey (2000)",
       "extra_info": "number of trees, basal area, volume, …",
+      "attention": "plot 11000 (core area Kersselaerspleyn) has different tresholds for standing trees (L+D); volume of lying deadwood per diameter class is unknown for circular plots Kersselaerspleyn (2001-2065) 1st survey (2000)",
       "source_database": "database",
       "calculation": "forrescalc 0.0.0.9000",
       "schema": {
@@ -248,8 +248,8 @@
       "mediatype": "text/csv",
       "encoding": "utf-8",
       "description": "dendrometric values of living trees and deadwood per plot, species and diameter class",
-      "attention": "plot 11000 (core area Kersselaerspleyn) has different tresholds for standing trees (L+D); volume of lying deadwood per diameter class is unknown for circular plots Kersselaerspleyn (2001-2065) 1st survey (2000)",
       "extra_info": "number of trees, basal area, volume, …",
+      "attention": "plot 11000 (core area Kersselaerspleyn) has different tresholds for standing trees (L+D); volume of lying deadwood per diameter class is unknown for circular plots Kersselaerspleyn (2001-2065) 1st survey (2000)",
       "source_database": "database",
       "calculation": "forrescalc 0.0.0.9000",
       "schema": {
@@ -358,8 +358,8 @@
       "mediatype": "text/csv",
       "encoding": "utf-8",
       "description": "dendrometric values of living trees and deadwood on plot level",
-      "attention": "plot 11000 (core area Kersselaerspleyn) has different tresholds for standing trees (L+D); see p. 78 in the monitoring report  https://purews.inbo.be/ws/portalfiles/portal/41050863/Vandekerkhove_etal_2021_MonitoringProgrammeOnStrictForestReservesFlanders.pdf",
       "extra_info": "number of tree species, number of trees, basal area, volume …",
+      "attention": "plot 11000 (core area Kersselaerspleyn) has different tresholds for standing trees (L+D); see p. 78 in the monitoring report  https://purews.inbo.be/ws/portalfiles/portal/41050863/Vandekerkhove_etal_2021_MonitoringProgrammeOnStrictForestReservesFlanders.pdf",
       "source_database": "database",
       "calculation": "forrescalc 0.0.0.9000",
       "schema": {
@@ -471,8 +471,8 @@
       "mediatype": "text/csv",
       "encoding": "utf-8",
       "description": "dendrometric values of living trees and deadwood per plot and per species",
-      "attention": "plot 11000 (core area Kersselaerspleyn) has different tresholds for standing trees (L+D); see p. 78 in the monitoring report  https://purews.inbo.be/ws/portalfiles/portal/41050863/Vandekerkhove_etal_2021_MonitoringProgrammeOnStrictForestReservesFlanders.pdf",
       "extra_info": "number of trees, basal area, volume, mean number of stems per tree (info on copppice), …",
+      "attention": "plot 11000 (core area Kersselaerspleyn) has different tresholds for standing trees (L+D); see p. 78 in the monitoring report  https://purews.inbo.be/ws/portalfiles/portal/41050863/Vandekerkhove_etal_2021_MonitoringProgrammeOnStrictForestReservesFlanders.pdf",
       "source_database": "database",
       "calculation": "forrescalc 0.0.0.9000",
       "schema": {
