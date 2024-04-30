@@ -12,6 +12,7 @@
       "attention": null,
       "source_database": "database",
       "calculation": "forrescalc 0.0.0.9000",
+      "height_model": "heightmodels sha 519e84bf1207f4feb81bbda344e06c342e6a0aa5",
       "schema": {
         "fields": [
           {
@@ -77,6 +78,7 @@
       "attention": null,
       "source_database": "database",
       "calculation": "forrescalc 0.0.0.9000",
+      "height_model": "heightmodels sha 519e84bf1207f4feb81bbda344e06c342e6a0aa5",
       "schema": {
         "fields": [
           {
@@ -148,6 +150,7 @@
       "attention": "plot 11000 (core area Kersselaerspleyn) has different tresholds for standing trees (L+D); volume of lying deadwood per diameter class is unknown for circular plots Kersselaerspleyn (2001-2065) 1st survey (2000)",
       "source_database": "database",
       "calculation": "forrescalc 0.0.0.9000",
+      "height_model": "heightmodels sha 519e84bf1207f4feb81bbda344e06c342e6a0aa5",
       "schema": {
         "fields": [
           {
@@ -252,6 +255,7 @@
       "attention": "plot 11000 (core area Kersselaerspleyn) has different tresholds for standing trees (L+D); volume of lying deadwood per diameter class is unknown for circular plots Kersselaerspleyn (2001-2065) 1st survey (2000)",
       "source_database": "database",
       "calculation": "forrescalc 0.0.0.9000",
+      "height_model": "heightmodels sha 519e84bf1207f4feb81bbda344e06c342e6a0aa5",
       "schema": {
         "fields": [
           {
@@ -362,6 +366,7 @@
       "attention": "plot 11000 (core area Kersselaerspleyn) has different tresholds for standing trees (L+D); see p. 78 in the monitoring report  https://purews.inbo.be/ws/portalfiles/portal/41050863/Vandekerkhove_etal_2021_MonitoringProgrammeOnStrictForestReservesFlanders.pdf",
       "source_database": "database",
       "calculation": "forrescalc 0.0.0.9000",
+      "height_model": "heightmodels sha 519e84bf1207f4feb81bbda344e06c342e6a0aa5",
       "schema": {
         "fields": [
           {
@@ -475,6 +480,7 @@
       "attention": "plot 11000 (core area Kersselaerspleyn) has different tresholds for standing trees (L+D); see p. 78 in the monitoring report  https://purews.inbo.be/ws/portalfiles/portal/41050863/Vandekerkhove_etal_2021_MonitoringProgrammeOnStrictForestReservesFlanders.pdf",
       "source_database": "database",
       "calculation": "forrescalc 0.0.0.9000",
+      "height_model": "heightmodels sha 519e84bf1207f4feb81bbda344e06c342e6a0aa5",
       "schema": {
         "fields": [
           {
