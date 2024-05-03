@@ -8,8 +8,8 @@
       "mediatype": "text/csv",
       "encoding": "utf-8",
       "description": "volumes of lying & standing deadwood per plot and per decay stage",
-      "extra_info": null,
-      "attention": null,
+      "extra_info": {},
+      "attention": {},
       "source_database": "database",
       "calculation": "forrescalc 0.0.0.9000",
       "height_model": "heightmodels sha 519e84bf1207f4feb81bbda344e06c342e6a0aa5",
@@ -19,13 +19,13 @@
             "name": "plottype",
             "type": "string",
             "description": "CP:  circular plot; CA: core area",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "plot_id",
             "type": "integer",
             "description": "unique sample plot id",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "year",
@@ -74,8 +74,8 @@
       "mediatype": "text/csv",
       "encoding": "utf-8",
       "description": "volumes of lying & standing deadwood per plot, species and decay stage",
-      "extra_info": null,
-      "attention": null,
+      "extra_info": {},
+      "attention": {},
       "source_database": "database",
       "calculation": "forrescalc 0.0.0.9000",
       "height_model": "heightmodels sha 519e84bf1207f4feb81bbda344e06c342e6a0aa5",
@@ -85,13 +85,13 @@
             "name": "plottype",
             "type": "string",
             "description": "CP:  circular plot; CA: core area",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "plot_id",
             "type": "integer",
             "description": "unique sample plot id",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "year",
@@ -157,13 +157,13 @@
             "name": "plottype",
             "type": "string",
             "description": "CP:  circular plot; CA: core area",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "plot_id",
             "type": "integer",
             "description": "unique sample plot id",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "year",
@@ -184,31 +184,31 @@
               "enum": ["5 - 10 cm", "10 - 15 cm", "15 - 20 cm", "20 - 25 cm", "25 - 30 cm", "30 - 35 cm", "35 - 40 cm", "40 - 45 cm", "45 - 50 cm", "50 - 55 cm", "55 - 60 cm", "60 - 65 cm", "65 - 70 cm", "70 - 75 cm", "75 - 80 cm", "80 - 85 cm", "85 - 90 cm", "90 - 95 cm", "95 - 100 cm", "100 - 105 cm", "105 - 110 cm", "110 - 115 cm", "115 - 120 cm", "120 - 125 cm", "125 - 130 cm", "130 - 135 cm", "135 - 140 cm", "140 - 145 cm", "145 - 150 cm", "150 - 155 cm", "155 - 160 cm", "160 - 165 cm", "165 - 170 cm", "170 - 175 cm", "175 - 180 cm", "180 - 185 cm", "185 - 190 cm", "190 - 195 cm", "195 - 200 cm", "200 - 205 cm", "205 - 210 cm", "210 - 215 cm", "215 - 220 cm", "220 - 225 cm", "225 - 230 cm", "230 - 235 cm", "235 - 240 cm", "240 - 245 cm", "245 cm +"]
             },
             "description": "diameter class per 5 cm (5 - 10 cm, 10 - 15 cm, …, 155 - 160 cm)",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "stem_number_alive_ha",
             "type": "number",
             "description": "number of living stems per ha (1/ha) - small stems excluded (dbh < 5 cm)",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "stem_number_dead_ha",
             "type": "number",
             "description": "number of dead stems per ha (1/ha) - small stems excluded (dbh < 5 cm)",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "basal_area_alive_m2_ha",
             "type": "number",
             "description": "basal area of living trees per ha (m²/ha) - small trees excluded (dbh < 5 cm)",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "basal_area_dead_m2_ha",
             "type": "number",
             "description": "basal area of standing deadwood per ha (m²/ha) - small trees excluded (dbh < 5 cm)",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "vol_alive_m3_ha",
@@ -262,13 +262,13 @@
             "name": "plottype",
             "type": "string",
             "description": "CP:  circular plot; CA: core area",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "plot_id",
             "type": "integer",
             "description": "unique sample plot id",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "year",
@@ -295,31 +295,31 @@
               "enum": ["5 - 10 cm", "10 - 15 cm", "15 - 20 cm", "20 - 25 cm", "25 - 30 cm", "30 - 35 cm", "35 - 40 cm", "40 - 45 cm", "45 - 50 cm", "50 - 55 cm", "55 - 60 cm", "60 - 65 cm", "65 - 70 cm", "70 - 75 cm", "75 - 80 cm", "80 - 85 cm", "85 - 90 cm", "90 - 95 cm", "95 - 100 cm", "100 - 105 cm", "105 - 110 cm", "110 - 115 cm", "115 - 120 cm", "120 - 125 cm", "125 - 130 cm", "130 - 135 cm", "135 - 140 cm", "140 - 145 cm", "145 - 150 cm", "150 - 155 cm", "155 - 160 cm", "160 - 165 cm", "165 - 170 cm", "170 - 175 cm", "175 - 180 cm", "180 - 185 cm", "185 - 190 cm", "190 - 195 cm", "195 - 200 cm", "200 - 205 cm", "205 - 210 cm", "210 - 215 cm", "215 - 220 cm", "220 - 225 cm", "225 - 230 cm", "230 - 235 cm", "235 - 240 cm", "240 - 245 cm", "245 cm +"]
             },
             "description": "diameter class per 5 cm (5 - 10 cm, 10 - 15 cm, …, 155 - 160 cm)",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "stem_number_alive_ha",
             "type": "number",
             "description": "number of living stems per ha (1/ha) - small stems excluded (dbh < 5 cm)",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "stem_number_dead_ha",
             "type": "number",
             "description": "number of dead stems per ha (1/ha) - small stems excluded (dbh < 5 cm)",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "basal_area_alive_m2_ha",
             "type": "number",
             "description": "basal area of living trees per ha (m²/ha) - small trees excluded (dbh < 5 cm)",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "basal_area_dead_m2_ha",
             "type": "number",
             "description": "basal area of standing deadwood per ha (m²/ha) - small trees excluded (dbh < 5 cm)",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "vol_alive_m3_ha",
@@ -373,13 +373,13 @@
             "name": "plottype",
             "type": "string",
             "description": "CP:  circular plot; CA: core area",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "plot_id",
             "type": "integer",
             "description": "unique sample plot id",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "year",
@@ -487,13 +487,13 @@
             "name": "plottype",
             "type": "string",
             "description": "CP:  circular plot; CA: core area",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "plot_id",
             "type": "integer",
             "description": "unique sample plot id",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "year",
@@ -571,13 +571,64 @@
             "name": "vol_deadw_m3_ha",
             "type": "number",
             "description": "total volume deadwood per ha (m³/ha) -  lying + standing",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "stems_per_tree",
             "type": "number",
             "description": "mean number of stems per tree",
             "extra_info": "additional info for coppice"
+          }
+        ]
+      }
+    },
+    {
+      "name": "qcover_herbs",
+      "path": "qcover_herbs.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "herb cover according to the Londo scale",
+      "extra_info": "extended Londo scale (Londo, 1984)",
+      "source_database": "database",
+      "schema": {
+        "fields": [
+          {
+            "name": "ID",
+            "type": "integer",
+            "description": "unique code",
+            "extra_info": null
+          },
+          {
+            "name": "Value1",
+            "type": "string",
+            "description": "extended Londo scale (Londo, 1984)",
+            "extra_info": null
+          },
+          {
+            "name": "Value2",
+            "type": "string",
+            "description": "Londo scale transformed into values between 0 and 1, used to calculate mean cover",
+            "extra_info": null
+          },
+          {
+            "name": "Value3",
+            "type": "string",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "OrderField",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "Active",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
           }
         ]
       }
@@ -635,6 +686,45 @@
       "description": [],
       "extra_info": [],
       "source_database": "mdb_bosres",
+      "schema": {
+        "fields": [
+          {
+            "name": "ID",
+            "type": "integer"
+          },
+          {
+            "name": "Value1",
+            "type": "string"
+          },
+          {
+            "name": "Value2",
+            "type": "string"
+          },
+          {
+            "name": "Value3",
+            "type": "string"
+          },
+          {
+            "name": "OrderField",
+            "type": "integer"
+          },
+          {
+            "name": "Active",
+            "type": "integer"
+          }
+        ]
+      }
+    },
+    {
+      "name": "qtotal_cover",
+      "path": "qtotal_cover.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": [],
+      "extra_info": [],
+      "source_database": "database",
       "schema": {
         "fields": [
           {
