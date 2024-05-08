@@ -583,6 +583,101 @@
       }
     },
     {
+      "name": "plotinfo",
+      "path": "plotinfo.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "Information about the surveys conducted in the plot, per period, along with the corresponding survey number and year of survey",
+      "extra_info": "Possible surveys include those of trees, deadwood, regeneration, vegetation and game impact",
+      "source_database": "database",
+      "calculation": "forrescalc 0.0.0.9000",
+      "height_model": {},
+      "schema": {
+        "fields": [
+          {
+            "name": "forest_reserve",
+            "type": "string",
+            "description": "name of forest reserve",
+            "extra_info": null
+          },
+          {
+            "name": "plot_id",
+            "type": "integer",
+            "description": "unique sample plot id",
+            "extra_info": null
+          },
+          {
+            "name": "plottype",
+            "type": "string",
+            "description": "CP:  circular plot; CA: core area",
+            "extra_info": null
+          },
+          {
+            "name": "period",
+            "type": "integer",
+            "description": "period: \"1\" for 1st decade (2000-2010), \"2\" for 2nd decade (2011-2020), \"3\" for 3th decade (2021-2030)",
+            "extra_info": "\"0\" only occurs for dendro data in plot 11000 (1986)"
+          },
+          {
+            "name": "survey_number",
+            "type": "integer",
+            "description": "1, 2, 3 or 4: indicating first, second, ... subsequent survey on the same location",
+            "extra_info": null
+          },
+          {
+            "name": "year_dendro",
+            "type": "integer",
+            "description": "year of dendro survey (year of growing season)",
+            "extra_info": "f.e. march 2020 becomes 2019 (start of growing season is set to May 1)"
+          },
+          {
+            "name": "survey_trees",
+            "type": "boolean",
+            "description": "TRUE: there was a dendro survey",
+            "extra_info": null
+          },
+          {
+            "name": "survey_deadw",
+            "type": "boolean",
+            "description": "TRUE: there was a deadwood survey",
+            "extra_info": null
+          },
+          {
+            "name": "survey_veg",
+            "type": "boolean",
+            "description": "TRUE: there was a vegetation survey",
+            "extra_info": null
+          },
+          {
+            "name": "survey_reg",
+            "type": "boolean",
+            "description": "TRUE: there was a regeneration survey",
+            "extra_info": null
+          },
+          {
+            "name": "game_impact_veg",
+            "type": "boolean",
+            "description": "TRUE: game impact on vegetation was registered (browsing)",
+            "extra_info": null
+          },
+          {
+            "name": "game_impact_reg",
+            "type": "boolean",
+            "description": "TRUE: game impact on regeneration was registered (rubbing damage)",
+            "extra_info": null
+          },
+          {
+            "name": "data_processed",
+            "type": "boolean",
+            "description": "TRUE: data processing is finished",
+            "extra_info": "including data control and creation of height models"
+          }
+        ]
+      }
+    },
+    {
       "name": "qalive_dead",
       "path": "qalive_dead.csv",
       "profile": "tabular-data-resource",
@@ -590,7 +685,7 @@
       "mediatype": "text/csv",
       "encoding": "utf-8",
       "description": "status alive or dead",
-      "extra_info": null,
+      "extra_info": {},
       "source_database": "database",
       "schema": {
         "fields": [
@@ -598,37 +693,37 @@
             "name": "ID",
             "type": "integer",
             "description": "unique code",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value1",
             "type": "string",
             "description": "meaning of the code in Dutch",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value2",
             "type": "string",
             "description": "meaning of the code in English",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value3",
             "type": "string",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "OrderField",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "Active",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           }
         ]
       }
@@ -692,7 +787,7 @@
       "mediatype": "text/csv",
       "encoding": "utf-8",
       "description": "decaystage",
-      "extra_info": null,
+      "extra_info": {},
       "source_database": "database",
       "schema": {
         "fields": [
@@ -706,37 +801,37 @@
             "name": "ID",
             "type": "integer",
             "description": "unique code",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value1",
             "type": "string",
             "description": "meaning of the code in Dutch",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value2",
             "type": "string",
             "description": "meaning of the code in English",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value3",
             "type": "string",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "OrderField",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "Active",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           }
         ]
       }
@@ -757,37 +852,37 @@
             "name": "ID",
             "type": "integer",
             "description": "unique code",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value1",
             "type": "string",
             "description": "heightclass as a height interval f.e. \"30 - 50 cm\"",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value2",
             "type": "string",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "Value3",
             "type": "string",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "OrderField",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "Active",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           }
         ]
       }
@@ -800,7 +895,7 @@
       "mediatype": "text/csv",
       "encoding": "utf-8",
       "description": "number classes used instead of an exact count of the seedlings",
-      "extra_info": null,
+      "extra_info": {},
       "source_database": "database",
       "schema": {
         "fields": [
@@ -808,37 +903,37 @@
             "name": "ID",
             "type": "integer",
             "description": "unique code",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value1",
             "type": "string",
             "description": "number class f.e. \"11-20\"",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value2",
             "type": "string",
             "description": "mid value of the number class used to calculate approximate mean number",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value3",
             "type": "string",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "OrderField",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "Active",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           }
         ]
       }
@@ -851,7 +946,7 @@
       "mediatype": "text/csv",
       "encoding": "utf-8",
       "description": "tree species list used in the dendro and regeneration survey",
-      "extra_info": null,
+      "extra_info": {},
       "source_database": "database",
       "schema": {
         "fields": [
@@ -859,19 +954,19 @@
             "name": "ID",
             "type": "integer",
             "description": "unique code",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value1",
             "type": "string",
             "description": "Dutch name",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value2",
             "type": "string",
             "description": "Scientific name",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value3",
@@ -882,14 +977,14 @@
           {
             "name": "OrderField",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "Active",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           }
         ]
       }
