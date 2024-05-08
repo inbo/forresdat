@@ -583,6 +583,57 @@
       }
     },
     {
+      "name": "qalive_dead",
+      "path": "qalive_dead.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "status alive or dead",
+      "extra_info": null,
+      "source_database": "database",
+      "schema": {
+        "fields": [
+          {
+            "name": "ID",
+            "type": "integer",
+            "description": "unique code",
+            "extra_info": null
+          },
+          {
+            "name": "Value1",
+            "type": "string",
+            "description": "meaning of the code in Dutch",
+            "extra_info": null
+          },
+          {
+            "name": "Value2",
+            "type": "string",
+            "description": "meaning of the code in English",
+            "extra_info": null
+          },
+          {
+            "name": "Value3",
+            "type": "string",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "OrderField",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "Active",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          }
+        ]
+      }
+    },
+    {
       "name": "qcover_herbs",
       "path": "qcover_herbs.csv",
       "profile": "tabular-data-resource",
@@ -598,37 +649,37 @@
             "name": "ID",
             "type": "integer",
             "description": "unique code",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value1",
             "type": "string",
             "description": "extended Londo scale (Londo, 1984)",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value2",
             "type": "string",
             "description": "Londo scale transformed into values between 0 and 1, used to calculate mean cover",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value3",
             "type": "string",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "OrderField",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "Active",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           }
         ]
       }
@@ -640,38 +691,103 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "description": [],
-      "extra_info": [],
-      "source_database": "mdb_bosres",
+      "description": "decaystage",
+      "extra_info": null,
+      "source_database": "database",
       "schema": {
         "fields": [
           {
             "name": "MasterID",
-            "type": "integer"
+            "type": "integer",
+            "description": "unique code referring to the master lookuplist, in this case \"qAliveDead\"",
+            "extra_info": "11: alive; 12:  dead"
           },
           {
             "name": "ID",
-            "type": "integer"
+            "type": "integer",
+            "description": "unique code",
+            "extra_info": null
           },
           {
             "name": "Value1",
-            "type": "string"
+            "type": "string",
+            "description": "meaning of the code in Dutch",
+            "extra_info": null
           },
           {
             "name": "Value2",
-            "type": "string"
+            "type": "string",
+            "description": "meaning of the code in English",
+            "extra_info": null
           },
           {
             "name": "Value3",
-            "type": "string"
+            "type": "string",
+            "description": null,
+            "extra_info": null
           },
           {
             "name": "OrderField",
-            "type": "integer"
+            "type": "integer",
+            "description": null,
+            "extra_info": null
           },
           {
             "name": "Active",
-            "type": "integer"
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "qheight_class_regeneration",
+      "path": "qheight_class_regeneration.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "height classes used to classify the rejuvenation",
+      "extra_info": "helps to identify between established rejuvenation and seedlings",
+      "source_database": "database",
+      "schema": {
+        "fields": [
+          {
+            "name": "ID",
+            "type": "integer",
+            "description": "unique code",
+            "extra_info": null
+          },
+          {
+            "name": "Value1",
+            "type": "string",
+            "description": "heightclass as a height interval f.e. \"30 - 50 cm\"",
+            "extra_info": null
+          },
+          {
+            "name": "Value2",
+            "type": "string",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "Value3",
+            "type": "string",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "OrderField",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "Active",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
           }
         ]
       }
@@ -683,34 +799,97 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "description": [],
-      "extra_info": [],
-      "source_database": "mdb_bosres",
+      "description": "number classes used instead of an exact count of the seedlings",
+      "extra_info": null,
+      "source_database": "database",
       "schema": {
         "fields": [
           {
             "name": "ID",
-            "type": "integer"
+            "type": "integer",
+            "description": "unique code",
+            "extra_info": null
           },
           {
             "name": "Value1",
-            "type": "string"
+            "type": "string",
+            "description": "number class f.e. \"11-20\"",
+            "extra_info": null
           },
           {
             "name": "Value2",
-            "type": "string"
+            "type": "string",
+            "description": "mid value of the number class used to calculate approximate mean number",
+            "extra_info": null
           },
           {
             "name": "Value3",
-            "type": "string"
+            "type": "string",
+            "description": null,
+            "extra_info": null
           },
           {
             "name": "OrderField",
-            "type": "integer"
+            "type": "integer",
+            "description": null,
+            "extra_info": null
           },
           {
             "name": "Active",
-            "type": "integer"
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "qspecies",
+      "path": "qspecies.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "tree species list used in the dendro and regeneration survey",
+      "extra_info": null,
+      "source_database": "database",
+      "schema": {
+        "fields": [
+          {
+            "name": "ID",
+            "type": "integer",
+            "description": "unique code",
+            "extra_info": null
+          },
+          {
+            "name": "Value1",
+            "type": "string",
+            "description": "Dutch name",
+            "extra_info": null
+          },
+          {
+            "name": "Value2",
+            "type": "string",
+            "description": "Scientific name",
+            "extra_info": null
+          },
+          {
+            "name": "Value3",
+            "type": "string",
+            "description": "TaxonID used in the Flemish database \"Flora databank\" containing distribution data and species-specific characteristics of the flora of Flanders",
+            "extra_info": "see https://flora.inbo.be/Pages/Common/Default.aspx"
+          },
+          {
+            "name": "OrderField",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "Active",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
           }
         ]
       }
