@@ -1,0 +1,12 @@
+plottype,plot_id,period,year,species,number_of_subplots_with_vegetation,perc_of_subplots,number_of_subplots_browsed,number_of_subplots_seriously_browsed,perc_of_subplots_browsed,perc_of_subplots_seriously_browsed,mean_coverage_class_average_perc
+CA,11000,1,2000,,3,100,,,,,
+CA,141100,1,2007,161,3,100,,,,,12.666666666666666
+CA,21000,1,2009,131,10,100,,,,,16.75
+CA,21000,1,2009,161,1,10,,,,,0.5
+CA,11000,2,2011,131,2,66.66666666666667,,,,,0.5
+CA,11000,2,2011,,1,33.333333333333336,,,,,
+CA,141100,2,2017,161,3,100,0,0,0,0,21.333333333333332
+CA,21000,2,2019,131,10,100,0,0,0,0,36.6
+CA,11000,3,2021,131,2,66.66666666666667,0,0,0,0,0.5
+CA,11000,3,2021,161,1,33.333333333333336,0,0,0,0,0.5
+CA,11000,3,2021,,1,33.333333333333336,0,0,0,0,
