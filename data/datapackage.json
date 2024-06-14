@@ -8,8 +8,8 @@
       "mediatype": "text/csv",
       "encoding": "utf-8",
       "description": "volumes of lying & standing deadwood per plot and per decay stage",
-      "extra_info": null,
-      "attention": null,
+      "extra_info": {},
+      "attention": {},
       "source_database": "database",
       "calculation": "forrescalc 0.0.0.9000",
       "height_model": "forresheights commit 215ddb060e40ecfec41ef4044395809b6f04104a",
@@ -19,13 +19,13 @@
             "name": "plottype",
             "type": "string",
             "description": "CP:  circular plot; CA: core area",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "plot_id",
             "type": "integer",
             "description": "unique sample plot id",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "year",
@@ -74,8 +74,8 @@
       "mediatype": "text/csv",
       "encoding": "utf-8",
       "description": "volumes of lying & standing deadwood per plot, species and decay stage",
-      "extra_info": null,
-      "attention": null,
+      "extra_info": {},
+      "attention": {},
       "source_database": "database",
       "calculation": "forrescalc 0.0.0.9000",
       "height_model": "forresheights commit 215ddb060e40ecfec41ef4044395809b6f04104a",
@@ -85,13 +85,13 @@
             "name": "plottype",
             "type": "string",
             "description": "CP:  circular plot; CA: core area",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "plot_id",
             "type": "integer",
             "description": "unique sample plot id",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "year",
@@ -157,13 +157,13 @@
             "name": "plottype",
             "type": "string",
             "description": "CP:  circular plot; CA: core area",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "plot_id",
             "type": "integer",
             "description": "unique sample plot id",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "year",
@@ -184,31 +184,31 @@
               "enum": ["5 - 10 cm", "10 - 15 cm", "15 - 20 cm", "20 - 25 cm", "25 - 30 cm", "30 - 35 cm", "35 - 40 cm", "40 - 45 cm", "45 - 50 cm", "50 - 55 cm", "55 - 60 cm", "60 - 65 cm", "65 - 70 cm", "70 - 75 cm", "75 - 80 cm", "80 - 85 cm", "85 - 90 cm", "90 - 95 cm", "95 - 100 cm", "100 - 105 cm", "105 - 110 cm", "110 - 115 cm", "115 - 120 cm", "120 - 125 cm", "125 - 130 cm", "130 - 135 cm", "135 - 140 cm", "140 - 145 cm", "145 - 150 cm", "150 - 155 cm", "155 - 160 cm", "160 - 165 cm", "165 - 170 cm", "170 - 175 cm", "175 - 180 cm", "180 - 185 cm", "185 - 190 cm", "190 - 195 cm", "195 - 200 cm", "200 - 205 cm", "205 - 210 cm", "210 - 215 cm", "215 - 220 cm", "220 - 225 cm", "225 - 230 cm", "230 - 235 cm", "235 - 240 cm", "240 - 245 cm", "245 cm +"]
             },
             "description": "diameter class per 5 cm (5 - 10 cm, 10 - 15 cm, …, 155 - 160 cm)",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "stem_number_alive_ha",
             "type": "number",
             "description": "number of living stems per ha (1/ha) - small stems excluded (dbh < 5 cm)",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "stem_number_dead_ha",
             "type": "number",
             "description": "number of dead stems per ha (1/ha) - small stems excluded (dbh < 5 cm)",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "basal_area_alive_m2_ha",
             "type": "number",
             "description": "basal area of living trees per ha (m²/ha) - small trees excluded (dbh < 5 cm)",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "basal_area_dead_m2_ha",
             "type": "number",
             "description": "basal area of standing deadwood per ha (m²/ha) - small trees excluded (dbh < 5 cm)",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "vol_alive_m3_ha",
@@ -262,13 +262,13 @@
             "name": "plottype",
             "type": "string",
             "description": "CP:  circular plot; CA: core area",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "plot_id",
             "type": "integer",
             "description": "unique sample plot id",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "year",
@@ -295,31 +295,31 @@
               "enum": ["5 - 10 cm", "10 - 15 cm", "15 - 20 cm", "20 - 25 cm", "25 - 30 cm", "30 - 35 cm", "35 - 40 cm", "40 - 45 cm", "45 - 50 cm", "50 - 55 cm", "55 - 60 cm", "60 - 65 cm", "65 - 70 cm", "70 - 75 cm", "75 - 80 cm", "80 - 85 cm", "85 - 90 cm", "90 - 95 cm", "95 - 100 cm", "100 - 105 cm", "105 - 110 cm", "110 - 115 cm", "115 - 120 cm", "120 - 125 cm", "125 - 130 cm", "130 - 135 cm", "135 - 140 cm", "140 - 145 cm", "145 - 150 cm", "150 - 155 cm", "155 - 160 cm", "160 - 165 cm", "165 - 170 cm", "170 - 175 cm", "175 - 180 cm", "180 - 185 cm", "185 - 190 cm", "190 - 195 cm", "195 - 200 cm", "200 - 205 cm", "205 - 210 cm", "210 - 215 cm", "215 - 220 cm", "220 - 225 cm", "225 - 230 cm", "230 - 235 cm", "235 - 240 cm", "240 - 245 cm", "245 cm +"]
             },
             "description": "diameter class per 5 cm (5 - 10 cm, 10 - 15 cm, …, 155 - 160 cm)",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "stem_number_alive_ha",
             "type": "number",
             "description": "number of living stems per ha (1/ha) - small stems excluded (dbh < 5 cm)",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "stem_number_dead_ha",
             "type": "number",
             "description": "number of dead stems per ha (1/ha) - small stems excluded (dbh < 5 cm)",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "basal_area_alive_m2_ha",
             "type": "number",
             "description": "basal area of living trees per ha (m²/ha) - small trees excluded (dbh < 5 cm)",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "basal_area_dead_m2_ha",
             "type": "number",
             "description": "basal area of standing deadwood per ha (m²/ha) - small trees excluded (dbh < 5 cm)",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "vol_alive_m3_ha",
@@ -373,13 +373,13 @@
             "name": "plottype",
             "type": "string",
             "description": "CP:  circular plot; CA: core area",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "plot_id",
             "type": "integer",
             "description": "unique sample plot id",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "year",
@@ -487,13 +487,13 @@
             "name": "plottype",
             "type": "string",
             "description": "CP:  circular plot; CA: core area",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "plot_id",
             "type": "integer",
             "description": "unique sample plot id",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "year",
@@ -571,7 +571,7 @@
             "name": "vol_deadw_m3_ha",
             "type": "number",
             "description": "total volume deadwood per ha (m³/ha) -  lying + standing",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "stems_per_tree",
@@ -1063,6 +1063,764 @@
           {
             "name": "Active",
             "type": "integer"
+          }
+        ]
+      }
+    },
+    {
+      "name": "reg_by_core_area_height_species",
+      "path": "reg_by_core_area_height_species.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": [],
+      "extra_info": [],
+      "source_database": "database",
+      "calculation": "forrescalc 0.0.0.9000",
+      "height_model": {},
+      "schema": {
+        "fields": [
+          {
+            "name": "plottype",
+            "type": "string"
+          },
+          {
+            "name": "plot_id",
+            "type": "integer"
+          },
+          {
+            "name": "period",
+            "type": "integer"
+          },
+          {
+            "name": "year",
+            "type": "integer"
+          },
+          {
+            "name": "height_class",
+            "type": "integer"
+          },
+          {
+            "name": "species",
+            "type": "integer"
+          },
+          {
+            "name": "nr_of_subplots_with_regeneration",
+            "type": "integer"
+          },
+          {
+            "name": "perc_subplots_with_regeneration",
+            "type": "number"
+          },
+          {
+            "name": "approx_nr_regeneration_ha",
+            "type": "number"
+          },
+          {
+            "name": "approx_rubbing_damage_perc",
+            "type": "number"
+          },
+          {
+            "name": "rubbing_damage_number_ha",
+            "type": "number"
+          },
+          {
+            "name": "mean_number_of_regeneration_ha",
+            "type": "number"
+          },
+          {
+            "name": "lci_number_of_regeneration_ha",
+            "type": "number"
+          },
+          {
+            "name": "uci_number_of_regeneration_ha",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "name": "reg_by_core_area_species",
+      "path": "reg_by_core_area_species.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "rejuvenation characteristics per species for the entire core area",
+      "extra_info": "number and percentage of subplots where species occurs, mean number of seedlings and established rejuvenation, percentage of rubbing damage",
+      "source_database": "database",
+      "calculation": "forrescalc 0.0.0.9000",
+      "height_model": {},
+      "schema": {
+        "fields": [
+          {
+            "name": "plottype",
+            "type": "string",
+            "description": "CP:  circular plot; CA: core area",
+            "extra_info": null
+          },
+          {
+            "name": "plot_id",
+            "type": "integer",
+            "description": "unique sample plot id",
+            "extra_info": null
+          },
+          {
+            "name": "period",
+            "type": "integer",
+            "description": "period: \"1\" for 1st decade (2000-2010), \"2\" for 2nd decade (2011-2020), \"3\" for 3th decade (2021-2030)",
+            "extra_info": null
+          },
+          {
+            "name": "year",
+            "type": "integer",
+            "description": "year of regeneration survey",
+            "extra_info": null
+          },
+          {
+            "name": "species",
+            "type": "integer",
+            "description": "tree species code",
+            "extra_info": "see table \"qspecies\""
+          },
+          {
+            "name": "nr_of_subplots_with_regeneration",
+            "type": "integer",
+            "description": "number of subplots where the species occurs",
+            "extra_info": null
+          },
+          {
+            "name": "perc_subplots_with_regeneration",
+            "type": "number",
+            "description": "percentage of subplots where the species occurs",
+            "extra_info": null
+          },
+          {
+            "name": "approx_nr_established_ha",
+            "type": "number",
+            "description": "mean number per hectare of established rejuvenation (DBH < 5 cm & height > 50 cm)",
+            "extra_info": "calculated based on exact numbers or (if not available) mid values of the frequency classes (see qnumber_regeneration_classes: Value2)"
+          },
+          {
+            "name": "approx_nr_seedlings_ha",
+            "type": "number",
+            "description": "mean number per hectare  of seedlings (DBH < 5 cm & height < 50 cm)",
+            "extra_info": "calculated based on exact numbers or (if not available) mid values of the frequency classes (see qnumber_regeneration_classes: Value2)"
+          },
+          {
+            "name": "approx_rubbing_damage_perc_established",
+            "type": "number",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "approx_rubbing_damage_perc_seedlings",
+            "type": "number",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "rubbing_damage_nr_established_ha",
+            "type": "number",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "rubbing_damage_nr_seedlings_ha",
+            "type": "number",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "mean_number_established_ha",
+            "type": "number",
+            "description": "mean number per hectare of established rejuvenation (DBH < 5 cm & height > 50 cm)",
+            "extra_info": "mean calculated from min and max of frequency classes, using log transformation"
+          },
+          {
+            "name": "lci_number_established_ha",
+            "type": "number",
+            "description": "lower confidence interval (lci) of number per hectare of established rejuvenation",
+            "extra_info": "lci calculated from min and max of frequency classes, using log transformation"
+          },
+          {
+            "name": "uci_number_established_ha",
+            "type": "number",
+            "description": "upper confidence interval (uci) of number per hectare of established rejuvenation",
+            "extra_info": "uci calculated from min and max of frequency classes, using log transformation"
+          },
+          {
+            "name": "mean_number_seedlings_ha",
+            "type": "number",
+            "description": "mean number per hectare of seedlings (DBH < 5 cm & height < 50 cm)",
+            "extra_info": "mean calculated from min and max of frequency classes, using log transformation"
+          },
+          {
+            "name": "lci_number_seedlings_ha",
+            "type": "number",
+            "description": "lower confidence interval (lci) of number per hectare of seedlings",
+            "extra_info": "lci calculated from min and max of frequency classes, using log transformation"
+          },
+          {
+            "name": "uci_number_seedlings_ha",
+            "type": "number",
+            "description": "upper confidence interval (uci) of number per hectare of seedlings",
+            "extra_info": "uci calculated from min and max of frequency classes, using log transformation"
+          },
+          {
+            "name": "mean_rubbing_damage_perc_established",
+            "type": "number",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "lci_rubbing_damage_perc_established",
+            "type": "number",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "uci_rubbing_damage_perc_established",
+            "type": "number",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "mean_rubbing_damage_perc_seedlings",
+            "type": "number",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "lci_rubbing_damage_perc_seedlings",
+            "type": "number",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "uci_rubbing_damage_perc_seedlings",
+            "type": "number",
+            "description": null,
+            "extra_info": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "reg_by_plot",
+      "path": "reg_by_plot.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "rejuvenation values on plot level (or subplot level in case of core area)",
+      "extra_info": "number of tree species, number of seedlings and established rejuvenation, percentage of rubbing damage",
+      "source_database": "database",
+      "calculation": "forrescalc 0.0.0.9000",
+      "height_model": {},
+      "schema": {
+        "fields": [
+          {
+            "name": "plottype",
+            "type": "string",
+            "description": "CP:  circular plot; CA: core area",
+            "extra_info": null
+          },
+          {
+            "name": "plot_id",
+            "type": "integer",
+            "description": "unique sample plot id",
+            "extra_info": null
+          },
+          {
+            "name": "subplot_id",
+            "type": "integer",
+            "description": "id of subplot (1 for circular plots)",
+            "extra_info": "corea area's are divided in subplots of 10 x 10 m²"
+          },
+          {
+            "name": "period",
+            "type": "integer",
+            "description": "period: \"1\" for 1st decade (2000-2010), \"2\" for 2nd decade (2011-2020), \"3\" for 3th decade (2021-2030)",
+            "extra_info": null
+          },
+          {
+            "name": "year",
+            "type": "integer",
+            "description": "year of regeneration survey",
+            "extra_info": null
+          },
+          {
+            "name": "number_of_tree_species",
+            "type": "integer",
+            "description": "number of tree species with DBH < 5 cm (rejuvenation)",
+            "extra_info": null
+          },
+          {
+            "name": "nr_of_tree_species_established",
+            "type": "integer",
+            "description": "number of tree species with DBH < 5 cm (rejuvenation) and height > 50 cm (established rejuvenation)",
+            "extra_info": null
+          },
+          {
+            "name": "approx_nr_established_ha",
+            "type": "number",
+            "description": "mean number per hectare of established rejuvenation (DBH < 5 cm & height > 50 cm)",
+            "extra_info": "calculated based on exact numbers or (if not available) mid values of the frequency classes (see qnumber_regeneration_classes: Value2)"
+          },
+          {
+            "name": "approx_nr_seedlings_ha",
+            "type": "number",
+            "description": "mean number per hectare  of seedlings (DBH < 5 cm & height < 50 cm)",
+            "extra_info": "calculated based on exact numbers or (if not available) mid values of the frequency classes (see qnumber_regeneration_classes: Value2)"
+          },
+          {
+            "name": "approx_rubbing_damage_perc_established",
+            "type": "number",
+            "description": "percentage of established rejuvenation impacted by browsing or fraying (roedeer)",
+            "extra_info": "recorded since 2015"
+          },
+          {
+            "name": "approx_rubbing_damage_perc_seedlings",
+            "type": "number",
+            "description": "percentage of seedlings impacted by browsing or fraying (roedeer)",
+            "extra_info": "recorded since 2015"
+          },
+          {
+            "name": "rubbing_damage_nr_established_ha",
+            "type": "number",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "rubbing_damage_nr_seedlings_ha",
+            "type": "number",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "mean_number_established_ha",
+            "type": "number",
+            "description": "mean number per hectare of established rejuvenation (DBH < 5 cm & height > 50 cm)",
+            "extra_info": "mean calculated from min and max of frequency classes, using log transformation"
+          },
+          {
+            "name": "lci_number_established_ha",
+            "type": "number",
+            "description": "lower confidence interval (lci) of number per hectare of established rejuvenation",
+            "extra_info": "lci calculated from min and max of frequency classes, using log transformation"
+          },
+          {
+            "name": "uci_number_established_ha",
+            "type": "number",
+            "description": "upper confidence interval (uci) of number per hectare of established rejuvenation",
+            "extra_info": "uci calculated from min and max of frequency classes, using log transformation"
+          },
+          {
+            "name": "mean_number_seedlings_ha",
+            "type": "number",
+            "description": "mean number per hectare of seedlings (DBH < 5 cm & height < 50 cm)",
+            "extra_info": "mean calculated from min and max of frequency classes, using log transformation"
+          },
+          {
+            "name": "lci_number_seedlings_ha",
+            "type": "number",
+            "description": "lower confidence interval (lci) of number per hectare of seedlings",
+            "extra_info": "lci calculated from min and max of frequency classes, using log transformation"
+          },
+          {
+            "name": "uci_number_seedlings_ha",
+            "type": "number",
+            "description": "upper confidence interval (uci) of number per hectare of seedlings",
+            "extra_info": "uci calculated from min and max of frequency classes, using log transformation"
+          },
+          {
+            "name": "mean_rubbing_damage_perc_established",
+            "type": "number",
+            "description": "mean percentage of established rejuvenation impacted by browsing or fraying (roedeer)",
+            "extra_info": "calculated based on 'rubbing_damage_nr_established' and 'mean_number_established'"
+          },
+          {
+            "name": "lci_rubbing_damage_perc_established",
+            "type": "number",
+            "description": "lower confidence interval (lci) of percentage of established rejuvenation impacted by browsing or fraying (roedeer)",
+            "extra_info": "calculated based on 'rubbing_damage_nr_established' and 'lci_number_established'"
+          },
+          {
+            "name": "uci_rubbing_damage_perc_established",
+            "type": "number",
+            "description": "upper confidence interval (lci) of percentage of established rejuvenation impacted by browsing or fraying (roedeer)",
+            "extra_info": "calculated based on 'rubbing_damage_nr_established' and 'uci_number_established'"
+          },
+          {
+            "name": "mean_rubbing_damage_perc_seedlings",
+            "type": "number",
+            "description": "mean percentage of seedlings impacted by browsing or fraying (roedeer)",
+            "extra_info": "calculated based on 'rubbing_damage_nr_seedlings' and 'mean_number_seedlings'"
+          },
+          {
+            "name": "lci_rubbing_damage_perc_seedlings",
+            "type": "number",
+            "description": "lower confidence interval (lci) of percentage of seedlings impacted by browsing or fraying (roedeer)",
+            "extra_info": "calculated based on 'rubbing_damage_nr_seedlings' and 'lci_number_seedlings'"
+          },
+          {
+            "name": "uci_rubbing_damage_perc_seedlings",
+            "type": "number",
+            "description": "upper confidence interval (lci) of percentage of seedlings impacted by browsing or fraying (roedeer)",
+            "extra_info": "calculated based on 'rubbing_damage_nr_seedlings' and 'uci_number_seedlings'"
+          }
+        ]
+      }
+    },
+    {
+      "name": "reg_by_plot_height",
+      "path": "reg_by_plot_height.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "rejuvenation values on plot level (or subplot level in case of core area) per height class",
+      "extra_info": "number of tree species, number of rejuvenation, percentage of rubbing damage",
+      "source_database": "database",
+      "calculation": "forrescalc 0.0.0.9000",
+      "height_model": {},
+      "schema": {
+        "fields": [
+          {
+            "name": "plottype",
+            "type": "string",
+            "description": "CP:  circular plot; CA: core area",
+            "extra_info": null
+          },
+          {
+            "name": "plot_id",
+            "type": "integer",
+            "description": "unique sample plot id",
+            "extra_info": null
+          },
+          {
+            "name": "subplot_id",
+            "type": "integer",
+            "description": "id of subplot (1 for circular plots)",
+            "extra_info": "corea area's are divided in subplots of 10 x 10 m²"
+          },
+          {
+            "name": "period",
+            "type": "integer",
+            "description": "period: \"1\" for 1st decade (2000-2010), \"2\" for 2nd decade (2011-2020), \"3\" for 3th decade (2021-2030)",
+            "extra_info": null
+          },
+          {
+            "name": "year",
+            "type": "integer",
+            "description": "year of regeneration survey",
+            "extra_info": null
+          },
+          {
+            "name": "height_class",
+            "type": "integer",
+            "description": "height class code (main classes: 1000: 0-30cm, 2000: 30-50cm, 3000: 50-200cm, 4000: > 200cm)",
+            "extra_info": "see table \"qheight_class_regeneration\""
+          },
+          {
+            "name": "number_of_tree_species",
+            "type": "integer",
+            "description": "number of tree species with DBH < 5 cm (rejuvenation)",
+            "extra_info": null
+          },
+          {
+            "name": "approx_nr_regeneration_ha",
+            "type": "number",
+            "description": "mean number per hectare of rejuvenation (DBH < 5 cm)",
+            "extra_info": "calculated based on exact numbers or (if not available) mid values of the frequency classes (see qnumber_regeneration_classes: Value2)"
+          },
+          {
+            "name": "approx_rubbing_damage_perc",
+            "type": "number",
+            "description": "percentage of rejuvenation impacted by browsing or fraying (roedeer)",
+            "extra_info": "recorded since 2015"
+          },
+          {
+            "name": "rubbing_damage_number_ha",
+            "type": "number",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "mean_number_of_regeneration_ha",
+            "type": "number",
+            "description": "mean number per hectare of rejuvenation (DBH < 5 cm)",
+            "extra_info": "mean calculated from min and max of frequency classes, using log transformation"
+          },
+          {
+            "name": "lci_number_of_regeneration_ha",
+            "type": "number",
+            "description": "lower confidence interval (lci) of number per hectare of rejuvenation",
+            "extra_info": "lci calculated from min and max of frequency classes, using log transformation"
+          },
+          {
+            "name": "uci_number_of_regeneration_ha",
+            "type": "number",
+            "description": "upper confidence interval (uci) of number per hectare of rejuvenation",
+            "extra_info": "uci calculated from min and max of frequency classes, using log transformation"
+          }
+        ]
+      }
+    },
+    {
+      "name": "reg_by_plot_height_species",
+      "path": "reg_by_plot_height_species.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "rejuvenation values on plot level (or subplot level in case of core area) per species and height class",
+      "extra_info": "number of rejuvenation, percentage of rubbing damage",
+      "source_database": "database",
+      "calculation": "forrescalc 0.0.0.9000",
+      "height_model": {},
+      "schema": {
+        "fields": [
+          {
+            "name": "plottype",
+            "type": "string",
+            "description": "CP:  circular plot; CA: core area",
+            "extra_info": null
+          },
+          {
+            "name": "plot_id",
+            "type": "integer",
+            "description": "unique sample plot id",
+            "extra_info": null
+          },
+          {
+            "name": "subplot_id",
+            "type": "integer",
+            "description": "id of subplot (1 for circular plots)",
+            "extra_info": "corea area's are divided in subplots of 10 x 10 m²"
+          },
+          {
+            "name": "period",
+            "type": "integer",
+            "description": "period: \"1\" for 1st decade (2000-2010), \"2\" for 2nd decade (2011-2020), \"3\" for 3th decade (2021-2030)",
+            "extra_info": null
+          },
+          {
+            "name": "year",
+            "type": "integer",
+            "description": "year of regeneration survey",
+            "extra_info": null
+          },
+          {
+            "name": "height_class",
+            "type": "integer",
+            "description": "height class code (main classes: 1000: 0-30cm, 2000: 30-50cm, 3000: 50-200cm, 4000: > 200cm)",
+            "extra_info": "see table \"qheight_class_regeneration\""
+          },
+          {
+            "name": "species",
+            "type": "integer",
+            "description": "tree species code",
+            "extra_info": "see table \"qspecies\""
+          },
+          {
+            "name": "approx_nr_regeneration_ha",
+            "type": "number",
+            "description": "mean number per hectare of rejuvenation (DBH < 5 cm)",
+            "extra_info": "calculated based on exact numbers or (if not available) mid values of the frequency classes (see qnumber_regeneration_classes: Value2)"
+          },
+          {
+            "name": "approx_rubbing_damage_perc",
+            "type": "number",
+            "description": "percentage of rejuvenation impacted by browsing or fraying (roedeer)",
+            "extra_info": "recorded since 2015"
+          },
+          {
+            "name": "rubbing_damage_number_ha",
+            "type": "number",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "mean_number_of_regeneration_ha",
+            "type": "number",
+            "description": "mean number per hectare of rejuvenation (DBH < 5 cm)",
+            "extra_info": "mean calculated from min and max of frequency classes, using log transformation"
+          },
+          {
+            "name": "lci_number_of_regeneration_ha",
+            "type": "number",
+            "description": "lower confidence interval (lci) of number per hectare of rejuvenation",
+            "extra_info": "lci calculated from min and max of frequency classes, using log transformation"
+          },
+          {
+            "name": "uci_number_of_regeneration_ha",
+            "type": "number",
+            "description": "upper confidence interval (uci) of number per hectare of rejuvenation",
+            "extra_info": "uci calculated from min and max of frequency classes, using log transformation"
+          }
+        ]
+      }
+    },
+    {
+      "name": "reg_by_plot_species",
+      "path": "reg_by_plot_species.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": [],
+      "extra_info": [],
+      "source_database": "database",
+      "calculation": "forrescalc 0.0.0.9000",
+      "height_model": {},
+      "schema": {
+        "fields": [
+          {
+            "name": "plottype",
+            "type": "string",
+            "description": "CP:  circular plot; CA: core area",
+            "extra_info": null
+          },
+          {
+            "name": "plot_id",
+            "type": "integer",
+            "description": "unique sample plot id",
+            "extra_info": null
+          },
+          {
+            "name": "subplot_id",
+            "type": "integer",
+            "description": "id of subplot (1 for circular plots)",
+            "extra_info": "corea area's are divided in subplots of 10 x 10 m²"
+          },
+          {
+            "name": "period",
+            "type": "integer",
+            "description": "period: \"1\" for 1st decade (2000-2010), \"2\" for 2nd decade (2011-2020), \"3\" for 3th decade (2021-2030)",
+            "extra_info": null
+          },
+          {
+            "name": "year",
+            "type": "integer",
+            "description": "year of regeneration survey",
+            "extra_info": null
+          },
+          {
+            "name": "species",
+            "type": "integer",
+            "description": "tree species code",
+            "extra_info": "see table \"qspecies\""
+          },
+          {
+            "name": "approx_nr_established_ha",
+            "type": "number",
+            "description": "mean number per hectare of established rejuvenation (DBH < 5 cm & height > 50 cm)",
+            "extra_info": "calculated based on exact numbers or (if not available) mid values of the frequency classes (see qnumber_regeneration_classes: Value2)"
+          },
+          {
+            "name": "approx_nr_seedlings_ha",
+            "type": "number",
+            "description": "mean number per hectare  of seedlings (DBH < 5 cm & height < 50 cm)",
+            "extra_info": "calculated based on exact numbers or (if not available) mid values of the frequency classes (see qnumber_regeneration_classes: Value2)"
+          },
+          {
+            "name": "approx_rubbing_damage_perc_established",
+            "type": "number",
+            "description": "percentage of established rejuvenation impacted by browsing or fraying (roedeer)",
+            "extra_info": "recorded since 2015"
+          },
+          {
+            "name": "approx_rubbing_damage_perc_seedlings",
+            "type": "number",
+            "description": "percentage of seedlings impacted by browsing or fraying (roedeer)",
+            "extra_info": "recorded since 2015"
+          },
+          {
+            "name": "rubbing_damage_nr_established_ha",
+            "type": "number",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "rubbing_damage_nr_seedlings_ha",
+            "type": "number",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "mean_number_established_ha",
+            "type": "number",
+            "description": "mean number per hectare of established rejuvenation (DBH < 5 cm & height > 50 cm)",
+            "extra_info": "mean calculated from min and max of frequency classes, using log transformation"
+          },
+          {
+            "name": "lci_number_established_ha",
+            "type": "number",
+            "description": "lower confidence interval (lci) of number per hectare of established rejuvenation",
+            "extra_info": "lci calculated from min and max of frequency classes, using log transformation"
+          },
+          {
+            "name": "uci_number_established_ha",
+            "type": "number",
+            "description": "upper confidence interval (uci) of number per hectare of established rejuvenation",
+            "extra_info": "uci calculated from min and max of frequency classes, using log transformation"
+          },
+          {
+            "name": "mean_number_seedlings_ha",
+            "type": "number",
+            "description": "mean number per hectare of seedlings (DBH < 5 cm & height < 50 cm)",
+            "extra_info": "mean calculated from min and max of frequency classes, using log transformation"
+          },
+          {
+            "name": "lci_number_seedlings_ha",
+            "type": "number",
+            "description": "lower confidence interval (lci) of number per hectare of seedlings",
+            "extra_info": "lci calculated from min and max of frequency classes, using log transformation"
+          },
+          {
+            "name": "uci_number_seedlings_ha",
+            "type": "number",
+            "description": "upper confidence interval (uci) of number per hectare of seedlings",
+            "extra_info": "uci calculated from min and max of frequency classes, using log transformation"
+          },
+          {
+            "name": "mean_rubbing_damage_perc_established",
+            "type": "number",
+            "description": "mean percentage of established rejuvenation impacted by browsing or fraying (roedeer)",
+            "extra_info": "calculated based on 'rubbing_damage_nr_established' and 'mean_number_established'"
+          },
+          {
+            "name": "lci_rubbing_damage_perc_established",
+            "type": "number",
+            "description": "lower confidence interval (lci) of percentage of established rejuvenation impacted by browsing or fraying (roedeer)",
+            "extra_info": "calculated based on 'rubbing_damage_nr_established' and 'lci_number_established'"
+          },
+          {
+            "name": "uci_rubbing_damage_perc_established",
+            "type": "number",
+            "description": "upper confidence interval (lci) of percentage of established rejuvenation impacted by browsing or fraying (roedeer)",
+            "extra_info": "calculated based on 'rubbing_damage_nr_established' and 'uci_number_established'"
+          },
+          {
+            "name": "mean_rubbing_damage_perc_seedlings",
+            "type": "number",
+            "description": "mean percentage of seedlings impacted by browsing or fraying (roedeer)",
+            "extra_info": "calculated based on 'rubbing_damage_nr_seedlings' and 'mean_number_seedlings'"
+          },
+          {
+            "name": "lci_rubbing_damage_perc_seedlings",
+            "type": "number",
+            "description": "lower confidence interval (lci) of percentage of seedlings impacted by browsing or fraying (roedeer)",
+            "extra_info": "calculated based on 'rubbing_damage_nr_seedlings' and 'lci_number_seedlings'"
+          },
+          {
+            "name": "uci_rubbing_damage_perc_seedlings",
+            "type": "number",
+            "description": "upper confidence interval (lci) of percentage of seedlings impacted by browsing or fraying (roedeer)",
+            "extra_info": "calculated based on 'rubbing_damage_nr_seedlings' and 'uci_number_seedlings'"
           }
         ]
       }
