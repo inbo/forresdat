@@ -8,24 +8,24 @@
       "mediatype": "text/csv",
       "encoding": "utf-8",
       "description": "volumes of lying & standing deadwood per plot and per decay stage",
-      "extra_info": {},
-      "attention": {},
+      "extra_info": null,
+      "attention": null,
       "source_database": "database",
       "calculation": "forrescalc 0.0.0.9000",
-      "height_model": "forresheights commit 519e84bf1207f4feb81bbda344e06c342e6a0aa5",
+      "height_model": "forresheights commit 215ddb060e40ecfec41ef4044395809b6f04104a",
       "schema": {
         "fields": [
           {
             "name": "plottype",
             "type": "string",
             "description": "CP:  circular plot; CA: core area",
-            "extra_info": {}
+            "extra_info": null
           },
           {
             "name": "plot_id",
             "type": "integer",
             "description": "unique sample plot id",
-            "extra_info": {}
+            "extra_info": null
           },
           {
             "name": "year",
@@ -74,24 +74,24 @@
       "mediatype": "text/csv",
       "encoding": "utf-8",
       "description": "volumes of lying & standing deadwood per plot, species and decay stage",
-      "extra_info": {},
-      "attention": {},
+      "extra_info": null,
+      "attention": null,
       "source_database": "database",
       "calculation": "forrescalc 0.0.0.9000",
-      "height_model": "forresheights commit 519e84bf1207f4feb81bbda344e06c342e6a0aa5",
+      "height_model": "forresheights commit 215ddb060e40ecfec41ef4044395809b6f04104a",
       "schema": {
         "fields": [
           {
             "name": "plottype",
             "type": "string",
             "description": "CP:  circular plot; CA: core area",
-            "extra_info": {}
+            "extra_info": null
           },
           {
             "name": "plot_id",
             "type": "integer",
             "description": "unique sample plot id",
-            "extra_info": {}
+            "extra_info": null
           },
           {
             "name": "year",
@@ -150,20 +150,20 @@
       "attention": "plot 11000 (core area Kersselaerspleyn) has different tresholds for standing trees (L+D); volume of lying deadwood per diameter class is unknown for circular plots Kersselaerspleyn (2001-2065) 1st survey (2000)",
       "source_database": "database",
       "calculation": "forrescalc 0.0.0.9000",
-      "height_model": "forresheights commit 519e84bf1207f4feb81bbda344e06c342e6a0aa5",
+      "height_model": "forresheights commit 215ddb060e40ecfec41ef4044395809b6f04104a",
       "schema": {
         "fields": [
           {
             "name": "plottype",
             "type": "string",
             "description": "CP:  circular plot; CA: core area",
-            "extra_info": {}
+            "extra_info": null
           },
           {
             "name": "plot_id",
             "type": "integer",
             "description": "unique sample plot id",
-            "extra_info": {}
+            "extra_info": null
           },
           {
             "name": "year",
@@ -184,31 +184,31 @@
               "enum": ["5 - 10 cm", "10 - 15 cm", "15 - 20 cm", "20 - 25 cm", "25 - 30 cm", "30 - 35 cm", "35 - 40 cm", "40 - 45 cm", "45 - 50 cm", "50 - 55 cm", "55 - 60 cm", "60 - 65 cm", "65 - 70 cm", "70 - 75 cm", "75 - 80 cm", "80 - 85 cm", "85 - 90 cm", "90 - 95 cm", "95 - 100 cm", "100 - 105 cm", "105 - 110 cm", "110 - 115 cm", "115 - 120 cm", "120 - 125 cm", "125 - 130 cm", "130 - 135 cm", "135 - 140 cm", "140 - 145 cm", "145 - 150 cm", "150 - 155 cm", "155 - 160 cm", "160 - 165 cm", "165 - 170 cm", "170 - 175 cm", "175 - 180 cm", "180 - 185 cm", "185 - 190 cm", "190 - 195 cm", "195 - 200 cm", "200 - 205 cm", "205 - 210 cm", "210 - 215 cm", "215 - 220 cm", "220 - 225 cm", "225 - 230 cm", "230 - 235 cm", "235 - 240 cm", "240 - 245 cm", "245 cm +"]
             },
             "description": "diameter class per 5 cm (5 - 10 cm, 10 - 15 cm, …, 155 - 160 cm)",
-            "extra_info": {}
+            "extra_info": null
           },
           {
             "name": "stem_number_alive_ha",
             "type": "number",
             "description": "number of living stems per ha (1/ha) - small stems excluded (dbh < 5 cm)",
-            "extra_info": {}
+            "extra_info": null
           },
           {
             "name": "stem_number_dead_ha",
             "type": "number",
             "description": "number of dead stems per ha (1/ha) - small stems excluded (dbh < 5 cm)",
-            "extra_info": {}
+            "extra_info": null
           },
           {
             "name": "basal_area_alive_m2_ha",
             "type": "number",
             "description": "basal area of living trees per ha (m²/ha) - small trees excluded (dbh < 5 cm)",
-            "extra_info": {}
+            "extra_info": null
           },
           {
             "name": "basal_area_dead_m2_ha",
             "type": "number",
             "description": "basal area of standing deadwood per ha (m²/ha) - small trees excluded (dbh < 5 cm)",
-            "extra_info": {}
+            "extra_info": null
           },
           {
             "name": "vol_alive_m3_ha",
@@ -255,20 +255,20 @@
       "attention": "plot 11000 (core area Kersselaerspleyn) has different tresholds for standing trees (L+D); volume of lying deadwood per diameter class is unknown for circular plots Kersselaerspleyn (2001-2065) 1st survey (2000)",
       "source_database": "database",
       "calculation": "forrescalc 0.0.0.9000",
-      "height_model": "forresheights commit 519e84bf1207f4feb81bbda344e06c342e6a0aa5",
+      "height_model": "forresheights commit 215ddb060e40ecfec41ef4044395809b6f04104a",
       "schema": {
         "fields": [
           {
             "name": "plottype",
             "type": "string",
             "description": "CP:  circular plot; CA: core area",
-            "extra_info": {}
+            "extra_info": null
           },
           {
             "name": "plot_id",
             "type": "integer",
             "description": "unique sample plot id",
-            "extra_info": {}
+            "extra_info": null
           },
           {
             "name": "year",
@@ -295,31 +295,31 @@
               "enum": ["5 - 10 cm", "10 - 15 cm", "15 - 20 cm", "20 - 25 cm", "25 - 30 cm", "30 - 35 cm", "35 - 40 cm", "40 - 45 cm", "45 - 50 cm", "50 - 55 cm", "55 - 60 cm", "60 - 65 cm", "65 - 70 cm", "70 - 75 cm", "75 - 80 cm", "80 - 85 cm", "85 - 90 cm", "90 - 95 cm", "95 - 100 cm", "100 - 105 cm", "105 - 110 cm", "110 - 115 cm", "115 - 120 cm", "120 - 125 cm", "125 - 130 cm", "130 - 135 cm", "135 - 140 cm", "140 - 145 cm", "145 - 150 cm", "150 - 155 cm", "155 - 160 cm", "160 - 165 cm", "165 - 170 cm", "170 - 175 cm", "175 - 180 cm", "180 - 185 cm", "185 - 190 cm", "190 - 195 cm", "195 - 200 cm", "200 - 205 cm", "205 - 210 cm", "210 - 215 cm", "215 - 220 cm", "220 - 225 cm", "225 - 230 cm", "230 - 235 cm", "235 - 240 cm", "240 - 245 cm", "245 cm +"]
             },
             "description": "diameter class per 5 cm (5 - 10 cm, 10 - 15 cm, …, 155 - 160 cm)",
-            "extra_info": {}
+            "extra_info": null
           },
           {
             "name": "stem_number_alive_ha",
             "type": "number",
             "description": "number of living stems per ha (1/ha) - small stems excluded (dbh < 5 cm)",
-            "extra_info": {}
+            "extra_info": null
           },
           {
             "name": "stem_number_dead_ha",
             "type": "number",
             "description": "number of dead stems per ha (1/ha) - small stems excluded (dbh < 5 cm)",
-            "extra_info": {}
+            "extra_info": null
           },
           {
             "name": "basal_area_alive_m2_ha",
             "type": "number",
             "description": "basal area of living trees per ha (m²/ha) - small trees excluded (dbh < 5 cm)",
-            "extra_info": {}
+            "extra_info": null
           },
           {
             "name": "basal_area_dead_m2_ha",
             "type": "number",
             "description": "basal area of standing deadwood per ha (m²/ha) - small trees excluded (dbh < 5 cm)",
-            "extra_info": {}
+            "extra_info": null
           },
           {
             "name": "vol_alive_m3_ha",
@@ -366,20 +366,20 @@
       "attention": "plot 11000 (core area Kersselaerspleyn) has different tresholds for standing trees (L+D); see p. 78 in the monitoring report  https://purews.inbo.be/ws/portalfiles/portal/41050863/Vandekerkhove_etal_2021_MonitoringProgrammeOnStrictForestReservesFlanders.pdf",
       "source_database": "database",
       "calculation": "forrescalc 0.0.0.9000",
-      "height_model": "forresheights commit 519e84bf1207f4feb81bbda344e06c342e6a0aa5",
+      "height_model": "forresheights commit 215ddb060e40ecfec41ef4044395809b6f04104a",
       "schema": {
         "fields": [
           {
             "name": "plottype",
             "type": "string",
             "description": "CP:  circular plot; CA: core area",
-            "extra_info": {}
+            "extra_info": null
           },
           {
             "name": "plot_id",
             "type": "integer",
             "description": "unique sample plot id",
-            "extra_info": {}
+            "extra_info": null
           },
           {
             "name": "year",
@@ -480,20 +480,20 @@
       "attention": "plot 11000 (core area Kersselaerspleyn) has different tresholds for standing trees (L+D); see p. 78 in the monitoring report  https://purews.inbo.be/ws/portalfiles/portal/41050863/Vandekerkhove_etal_2021_MonitoringProgrammeOnStrictForestReservesFlanders.pdf",
       "source_database": "database",
       "calculation": "forrescalc 0.0.0.9000",
-      "height_model": "forresheights commit 519e84bf1207f4feb81bbda344e06c342e6a0aa5",
+      "height_model": "forresheights commit 215ddb060e40ecfec41ef4044395809b6f04104a",
       "schema": {
         "fields": [
           {
             "name": "plottype",
             "type": "string",
             "description": "CP:  circular plot; CA: core area",
-            "extra_info": {}
+            "extra_info": null
           },
           {
             "name": "plot_id",
             "type": "integer",
             "description": "unique sample plot id",
-            "extra_info": {}
+            "extra_info": null
           },
           {
             "name": "year",
@@ -571,7 +571,7 @@
             "name": "vol_deadw_m3_ha",
             "type": "number",
             "description": "total volume deadwood per ha (m³/ha) -  lying + standing",
-            "extra_info": {}
+            "extra_info": null
           },
           {
             "name": "stems_per_tree",
@@ -600,19 +600,19 @@
             "name": "forest_reserve",
             "type": "string",
             "description": "name of forest reserve",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "plot_id",
             "type": "integer",
             "description": "unique sample plot id",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "plottype",
             "type": "string",
             "description": "CP:  circular plot; CA: core area",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "period",
@@ -624,7 +624,7 @@
             "name": "survey_number",
             "type": "integer",
             "description": "1, 2, 3 or 4: indicating first, second, ... subsequent survey on the same location",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "year_dendro",
@@ -636,37 +636,37 @@
             "name": "survey_trees",
             "type": "boolean",
             "description": "TRUE: there was a dendro survey",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "survey_deadw",
             "type": "boolean",
             "description": "TRUE: there was a deadwood survey",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "survey_veg",
             "type": "boolean",
             "description": "TRUE: there was a vegetation survey",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "survey_reg",
             "type": "boolean",
             "description": "TRUE: there was a regeneration survey",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "game_impact_veg",
             "type": "boolean",
             "description": "TRUE: game impact on vegetation was registered (browsing)",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "game_impact_reg",
             "type": "boolean",
             "description": "TRUE: game impact on regeneration was registered (rubbing damage)",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "data_processed",
