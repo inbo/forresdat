@@ -1,42 +1,6 @@
 {
   "resources": [
     {
-      "name": "q_plot_type",
-      "path": "q_plot_type.csv",
-      "profile": "tabular-data-resource",
-      "format": "csv",
-      "mediatype": "text/csv",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "ID",
-            "type": "integer"
-          },
-          {
-            "name": "Value1",
-            "type": "string"
-          },
-          {
-            "name": "Value2",
-            "type": "string"
-          },
-          {
-            "name": "Value3",
-            "type": "string"
-          },
-          {
-            "name": "OrderField",
-            "type": "integer"
-          },
-          {
-            "name": "Active",
-            "type": "integer"
-          }
-        ]
-      }
-    },
-    {
       "name": "qalive_dead",
       "path": "qalive_dead.csv",
       "profile": "tabular-data-resource",
@@ -44,7 +8,7 @@
       "mediatype": "text/csv",
       "encoding": "utf-8",
       "description": "status alive or dead",
-      "extra_info": null,
+      "extra_info": {},
       "source_database": "MDB_BR_X8_inbo2020_20240613",
       "schema": {
         "fields": [
@@ -52,37 +16,37 @@
             "name": "ID",
             "type": "integer",
             "description": "unique code",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value1",
             "type": "string",
             "description": "meaning of the code in Dutch",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value2",
             "type": "string",
             "description": "meaning of the code in English",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value3",
             "type": "string",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "OrderField",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "Active",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           }
         ]
       }
@@ -103,37 +67,37 @@
             "name": "ID",
             "type": "integer",
             "description": "unique code",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value1",
             "type": "string",
             "description": "meaning of the code in Dutch",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value2",
             "type": "string",
             "description": "meaning of the code in English",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value3",
             "type": "string",
             "description": "value between 0 and 1 used to calculate reduced crown volume according to the indicated reduction in branch length",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "OrderField",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "Active",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           }
         ]
       }
@@ -146,7 +110,7 @@
       "mediatype": "text/csv",
       "encoding": "utf-8",
       "description": "browse index",
-      "extra_info": null,
+      "extra_info": {},
       "source_database": "MDB_BR_X8_inbo2020_20240613",
       "schema": {
         "fields": [
@@ -154,37 +118,37 @@
             "name": "ID",
             "type": "integer",
             "description": "unique code",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value1",
             "type": "string",
             "description": "meaning of the code in Dutch",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value2",
             "type": "string",
             "description": "meaning of the code in English",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value3",
             "type": "string",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "OrderField",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "Active",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           }
         ]
       }
@@ -197,7 +161,7 @@
       "mediatype": "text/csv",
       "encoding": "utf-8",
       "description": "remark on tree or shoot level f.e. \t\r\nfrost damage, tree with dead top, ...",
-      "extra_info": null,
+      "extra_info": {},
       "source_database": "MDB_BR_X8_inbo2020_20240613",
       "schema": {
         "fields": [
@@ -205,37 +169,37 @@
             "name": "ID",
             "type": "integer",
             "description": "unique code",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value1",
             "type": "string",
             "description": "meaning of the code in Dutch",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value2",
             "type": "string",
             "description": "meaning of the code in English",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value3",
             "type": "string",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "OrderField",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "Active",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           }
         ]
       }
@@ -256,37 +220,37 @@
             "name": "ID",
             "type": "integer",
             "description": "unique code",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value1",
             "type": "string",
             "description": "extended Londo scale (Londo, 1984)",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value2",
             "type": "string",
             "description": "Londo scale transformed into values between 0 and 1, used to calculate mean cover",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value3",
             "type": "string",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "OrderField",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "Active",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           }
         ]
       }
@@ -307,37 +271,37 @@
             "name": "ID",
             "type": "integer",
             "description": "unique code",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value1",
             "type": "string",
             "description": "meaning of the code in Dutch",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value2",
             "type": "string",
             "description": "meaning of the code in English",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value3",
             "type": "string",
             "description": "value between 0 and 1 used to calculate reduced crown volume according to the indicated reduction in crown volume",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "OrderField",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "Active",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           }
         ]
       }
@@ -350,7 +314,7 @@
       "mediatype": "text/csv",
       "encoding": "utf-8",
       "description": "decaystage",
-      "extra_info": null,
+      "extra_info": {},
       "source_database": "MDB_BR_X8_inbo2020_20240613",
       "schema": {
         "fields": [
@@ -364,37 +328,37 @@
             "name": "ID",
             "type": "integer",
             "description": "unique code",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value1",
             "type": "string",
             "description": "meaning of the code in Dutch",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value2",
             "type": "string",
             "description": "meaning of the code in English",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value3",
             "type": "string",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "OrderField",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "Active",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           }
         ]
       }
@@ -415,37 +379,37 @@
             "name": "ID",
             "type": "integer",
             "description": "unique code",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value1",
             "type": "string",
             "description": "heightclass as a height interval f.e. \"30 - 50 cm\"",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value2",
             "type": "string",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "Value3",
             "type": "string",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "OrderField",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "Active",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           }
         ]
       }
@@ -458,7 +422,7 @@
       "mediatype": "text/csv",
       "encoding": "utf-8",
       "description": "species list used in the vegetation survey",
-      "extra_info": null,
+      "extra_info": {},
       "source_database": "MDB_BR_X8_inbo2020_20240613",
       "schema": {
         "fields": [
@@ -466,19 +430,19 @@
             "name": "ID",
             "type": "integer",
             "description": "unique code",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value1",
             "type": "string",
             "description": "Dutch name",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value2",
             "type": "string",
             "description": "Scientific name",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value3",
@@ -489,14 +453,14 @@
           {
             "name": "OrderField",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "Active",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           }
         ]
       }
@@ -509,7 +473,7 @@
       "mediatype": "text/csv",
       "encoding": "utf-8",
       "description": "individual tree or coppice",
-      "extra_info": null,
+      "extra_info": {},
       "source_database": "MDB_BR_X8_inbo2020_20240613",
       "schema": {
         "fields": [
@@ -517,37 +481,37 @@
             "name": "ID",
             "type": "integer",
             "description": "unique code",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value1",
             "type": "string",
             "description": "meaning of the code in Dutch",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value2",
             "type": "string",
             "description": "meaning of the code in English",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value3",
             "type": "string",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "OrderField",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "Active",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           }
         ]
       }
@@ -560,7 +524,7 @@
       "mediatype": "text/csv",
       "encoding": "utf-8",
       "description": "intact tree or snag",
-      "extra_info": null,
+      "extra_info": {},
       "source_database": "MDB_BR_X8_inbo2020_20240613",
       "schema": {
         "fields": [
@@ -568,37 +532,37 @@
             "name": "ID",
             "type": "integer",
             "description": "unique code",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value1",
             "type": "string",
             "description": "meaning of the code in Dutch",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value2",
             "type": "string",
             "description": "meaning of the code in English",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value3",
             "type": "string",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "OrderField",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "Active",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           }
         ]
       }
@@ -625,37 +589,37 @@
             "name": "ID",
             "type": "integer",
             "description": "unique code",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value1",
             "type": "string",
             "description": "meaning of the code in Dutch",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value2",
             "type": "string",
             "description": "meaning of the code in English",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value3",
             "type": "string",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "OrderField",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "Active",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           }
         ]
       }
@@ -682,37 +646,37 @@
             "name": "ID",
             "type": "integer",
             "description": "unique code",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value1",
             "type": "string",
             "description": "meaning of the code in Dutch",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value2",
             "type": "string",
             "description": "meaning of the code in English",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value3",
             "type": "string",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "OrderField",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "Active",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           }
         ]
       }
@@ -739,37 +703,37 @@
             "name": "ID",
             "type": "integer",
             "description": "unique code",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value1",
             "type": "string",
             "description": "meaning of the code in Dutch",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value2",
             "type": "string",
             "description": "meaning of the code in English",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value3",
             "type": "string",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "OrderField",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "Active",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           }
         ]
       }
@@ -796,37 +760,37 @@
             "name": "ID",
             "type": "integer",
             "description": "unique code",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value1",
             "type": "string",
             "description": "meaning of the code in Dutch",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value2",
             "type": "string",
             "description": "meaning of the code in English",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value3",
             "type": "string",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "OrderField",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "Active",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           }
         ]
       }
@@ -853,37 +817,37 @@
             "name": "ID",
             "type": "integer",
             "description": "unique code",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value1",
             "type": "string",
             "description": "meaning of the code in Dutch",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value2",
             "type": "string",
             "description": "meaning of the code in English",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value3",
             "type": "string",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "OrderField",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "Active",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           }
         ]
       }
@@ -910,37 +874,37 @@
             "name": "ID",
             "type": "integer",
             "description": "unique code",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value1",
             "type": "string",
             "description": "meaning of the code in Dutch",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value2",
             "type": "string",
             "description": "meaning of the code in English",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value3",
             "type": "string",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "OrderField",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "Active",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           }
         ]
       }
@@ -953,7 +917,7 @@
       "mediatype": "text/csv",
       "encoding": "utf-8",
       "description": "number classes used instead of an exact count of the seedlings",
-      "extra_info": null,
+      "extra_info": {},
       "source_database": "MDB_BR_X8_inbo2020_20240613",
       "schema": {
         "fields": [
@@ -961,37 +925,37 @@
             "name": "ID",
             "type": "integer",
             "description": "unique code",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value1",
             "type": "string",
             "description": "number class f.e. \"11-20\"",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value2",
             "type": "string",
             "description": "mid value of the number class used to calculate approximate mean number",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value3",
             "type": "string",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "OrderField",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "Active",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           }
         ]
       }
@@ -1004,7 +968,7 @@
       "mediatype": "text/csv",
       "encoding": "utf-8",
       "description": "circular plot versus core area",
-      "extra_info": null,
+      "extra_info": {},
       "source_database": "MDB_BR_X8_inbo2020_20240613",
       "schema": {
         "fields": [
@@ -1012,37 +976,37 @@
             "name": "ID",
             "type": "integer",
             "description": "unique code",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value1",
             "type": "string",
             "description": "meaning of the code in Dutch",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value2",
             "type": "string",
             "description": "meaning of the code in English",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value3",
             "type": "string",
             "description": "abbreviation",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "OrderField",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "Active",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           }
         ]
       }
@@ -1055,7 +1019,7 @@
       "mediatype": "text/csv",
       "encoding": "utf-8",
       "description": "tree species list used in the dendro and regeneration survey",
-      "extra_info": null,
+      "extra_info": {},
       "source_database": "MDB_BR_X8_inbo2020_20240613",
       "schema": {
         "fields": [
@@ -1063,19 +1027,19 @@
             "name": "ID",
             "type": "integer",
             "description": "unique code",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value1",
             "type": "string",
             "description": "Dutch name",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value2",
             "type": "string",
             "description": "Scientific name",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value3",
@@ -1086,14 +1050,14 @@
           {
             "name": "OrderField",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "Active",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           }
         ]
       }
@@ -1114,37 +1078,37 @@
             "name": "ID",
             "type": "integer",
             "description": "unique code",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value1",
             "type": "string",
             "description": "meaning of the code in Dutch",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value2",
             "type": "string",
             "description": "meaning of the code in English",
-            "extra_info": null
+            "extra_info": {}
           },
           {
             "name": "Value3",
             "type": "string",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "OrderField",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           },
           {
             "name": "Active",
             "type": "integer",
-            "description": null,
-            "extra_info": null
+            "description": {},
+            "extra_info": {}
           }
         ]
       }
