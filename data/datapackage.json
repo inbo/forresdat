@@ -1,0 +1,40 @@
+{
+  "resources": [
+    {
+      "name": "q_plot_type",
+      "path": "q_plot_type.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "ID",
+            "type": "integer"
+          },
+          {
+            "name": "Value1",
+            "type": "string"
+          },
+          {
+            "name": "Value2",
+            "type": "string"
+          },
+          {
+            "name": "Value3",
+            "type": "string"
+          },
+          {
+            "name": "OrderField",
+            "type": "integer"
+          },
+          {
+            "name": "Active",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ]
+}
