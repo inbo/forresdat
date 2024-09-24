@@ -35,6 +35,1119 @@
           }
         ]
       }
+    },
+    {
+      "name": "qalive_dead",
+      "path": "qalive_dead.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "status alive or dead",
+      "extra_info": null,
+      "source_database": "MDB_BR_X8_inbo2020_20240613",
+      "schema": {
+        "fields": [
+          {
+            "name": "ID",
+            "type": "integer",
+            "description": "unique code",
+            "extra_info": null
+          },
+          {
+            "name": "Value1",
+            "type": "string",
+            "description": "meaning of the code in Dutch",
+            "extra_info": null
+          },
+          {
+            "name": "Value2",
+            "type": "string",
+            "description": "meaning of the code in English",
+            "extra_info": null
+          },
+          {
+            "name": "Value3",
+            "type": "string",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "OrderField",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "Active",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "qbranch_lenght_reduction",
+      "path": "qbranch_lenght_reduction.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "percentage of branch length reduction",
+      "extra_info": "used to correct the crown volume for a seriously reduced crown",
+      "source_database": "MDB_BR_X8_inbo2020_20240613",
+      "schema": {
+        "fields": [
+          {
+            "name": "ID",
+            "type": "integer",
+            "description": "unique code",
+            "extra_info": null
+          },
+          {
+            "name": "Value1",
+            "type": "string",
+            "description": "meaning of the code in Dutch",
+            "extra_info": null
+          },
+          {
+            "name": "Value2",
+            "type": "string",
+            "description": "meaning of the code in English",
+            "extra_info": null
+          },
+          {
+            "name": "Value3",
+            "type": "string",
+            "description": "value between 0 and 1 used to calculate reduced crown volume according to the indicated reduction in branch length",
+            "extra_info": null
+          },
+          {
+            "name": "OrderField",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "Active",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "qbrows_index",
+      "path": "qbrows_index.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "browse index",
+      "extra_info": null,
+      "source_database": "MDB_BR_X8_inbo2020_20240613",
+      "schema": {
+        "fields": [
+          {
+            "name": "ID",
+            "type": "integer",
+            "description": "unique code",
+            "extra_info": null
+          },
+          {
+            "name": "Value1",
+            "type": "string",
+            "description": "meaning of the code in Dutch",
+            "extra_info": null
+          },
+          {
+            "name": "Value2",
+            "type": "string",
+            "description": "meaning of the code in English",
+            "extra_info": null
+          },
+          {
+            "name": "Value3",
+            "type": "string",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "OrderField",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "Active",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "qcommonremark",
+      "path": "qcommonremark.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "remark on tree or shoot level f.e. \t\r\nfrost damage, tree with dead top, ...",
+      "extra_info": null,
+      "source_database": "MDB_BR_X8_inbo2020_20240613",
+      "schema": {
+        "fields": [
+          {
+            "name": "ID",
+            "type": "integer",
+            "description": "unique code",
+            "extra_info": null
+          },
+          {
+            "name": "Value1",
+            "type": "string",
+            "description": "meaning of the code in Dutch",
+            "extra_info": null
+          },
+          {
+            "name": "Value2",
+            "type": "string",
+            "description": "meaning of the code in English",
+            "extra_info": null
+          },
+          {
+            "name": "Value3",
+            "type": "string",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "OrderField",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "Active",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "qcover_herbs",
+      "path": "qcover_herbs.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "herb cover according to the Londo scale",
+      "extra_info": "extended Londo scale (Londo, 1984)",
+      "source_database": "MDB_BR_X8_inbo2020_20240613",
+      "schema": {
+        "fields": [
+          {
+            "name": "ID",
+            "type": "integer",
+            "description": "unique code",
+            "extra_info": null
+          },
+          {
+            "name": "Value1",
+            "type": "string",
+            "description": "extended Londo scale (Londo, 1984)",
+            "extra_info": null
+          },
+          {
+            "name": "Value2",
+            "type": "string",
+            "description": "Londo scale transformed into values between 0 and 1, used to calculate mean cover",
+            "extra_info": null
+          },
+          {
+            "name": "Value3",
+            "type": "string",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "OrderField",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "Active",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "qcrown_vol_redu",
+      "path": "qcrown_vol_redu.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "percentage of crown volume reduction",
+      "extra_info": "used to correct the crown volume for a seriously reduced crown",
+      "source_database": "MDB_BR_X8_inbo2020_20240613",
+      "schema": {
+        "fields": [
+          {
+            "name": "ID",
+            "type": "integer",
+            "description": "unique code",
+            "extra_info": null
+          },
+          {
+            "name": "Value1",
+            "type": "string",
+            "description": "meaning of the code in Dutch",
+            "extra_info": null
+          },
+          {
+            "name": "Value2",
+            "type": "string",
+            "description": "meaning of the code in English",
+            "extra_info": null
+          },
+          {
+            "name": "Value3",
+            "type": "string",
+            "description": "value between 0 and 1 used to calculate reduced crown volume according to the indicated reduction in crown volume",
+            "extra_info": null
+          },
+          {
+            "name": "OrderField",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "Active",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "qdecaystage",
+      "path": "qdecaystage.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "decaystage",
+      "extra_info": null,
+      "source_database": "MDB_BR_X8_inbo2020_20240613",
+      "schema": {
+        "fields": [
+          {
+            "name": "MasterID",
+            "type": "integer",
+            "description": "unique code referring to the master lookuplist, in this case \"qAliveDead\"",
+            "extra_info": "11: alive; 12:  dead"
+          },
+          {
+            "name": "ID",
+            "type": "integer",
+            "description": "unique code",
+            "extra_info": null
+          },
+          {
+            "name": "Value1",
+            "type": "string",
+            "description": "meaning of the code in Dutch",
+            "extra_info": null
+          },
+          {
+            "name": "Value2",
+            "type": "string",
+            "description": "meaning of the code in English",
+            "extra_info": null
+          },
+          {
+            "name": "Value3",
+            "type": "string",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "OrderField",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "Active",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "qheight_class_regeneration",
+      "path": "qheight_class_regeneration.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "height classes used to classify the rejuvenation",
+      "extra_info": "helps to identify between established rejuvenation and seedlings",
+      "source_database": "MDB_BR_X8_inbo2020_20240613",
+      "schema": {
+        "fields": [
+          {
+            "name": "ID",
+            "type": "integer",
+            "description": "unique code",
+            "extra_info": null
+          },
+          {
+            "name": "Value1",
+            "type": "string",
+            "description": "heightclass as a height interval f.e. \"30 - 50 cm\"",
+            "extra_info": null
+          },
+          {
+            "name": "Value2",
+            "type": "string",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "Value3",
+            "type": "string",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "OrderField",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "Active",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "qherb_species240810",
+      "path": "qherb_species240810.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "species list used in the vegetation survey",
+      "extra_info": null,
+      "source_database": "MDB_BR_X8_inbo2020_20240613",
+      "schema": {
+        "fields": [
+          {
+            "name": "ID",
+            "type": "integer",
+            "description": "unique code",
+            "extra_info": null
+          },
+          {
+            "name": "Value1",
+            "type": "string",
+            "description": "Dutch name",
+            "extra_info": null
+          },
+          {
+            "name": "Value2",
+            "type": "string",
+            "description": "Scientific name",
+            "extra_info": null
+          },
+          {
+            "name": "Value3",
+            "type": "string",
+            "description": "TaxonID used in the Flemish database \"Flora databank\" containing distribution data and species-specific characteristics of the flora of Flanders",
+            "extra_info": "see https://flora.inbo.be/Pages/Common/Default.aspx"
+          },
+          {
+            "name": "OrderField",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "Active",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "qind_shoot_cop",
+      "path": "qind_shoot_cop.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "individual tree or coppice",
+      "extra_info": null,
+      "source_database": "MDB_BR_X8_inbo2020_20240613",
+      "schema": {
+        "fields": [
+          {
+            "name": "ID",
+            "type": "integer",
+            "description": "unique code",
+            "extra_info": null
+          },
+          {
+            "name": "Value1",
+            "type": "string",
+            "description": "meaning of the code in Dutch",
+            "extra_info": null
+          },
+          {
+            "name": "Value2",
+            "type": "string",
+            "description": "meaning of the code in English",
+            "extra_info": null
+          },
+          {
+            "name": "Value3",
+            "type": "string",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "OrderField",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "Active",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "qintact_snag",
+      "path": "qintact_snag.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "intact tree or snag",
+      "extra_info": null,
+      "source_database": "MDB_BR_X8_inbo2020_20240613",
+      "schema": {
+        "fields": [
+          {
+            "name": "ID",
+            "type": "integer",
+            "description": "unique code",
+            "extra_info": null
+          },
+          {
+            "name": "Value1",
+            "type": "string",
+            "description": "meaning of the code in Dutch",
+            "extra_info": null
+          },
+          {
+            "name": "Value2",
+            "type": "string",
+            "description": "meaning of the code in English",
+            "extra_info": null
+          },
+          {
+            "name": "Value3",
+            "type": "string",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "OrderField",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "Active",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "qiufroheight",
+      "path": "qiufroheight.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "heightclass according to iufro classes, used at tree level",
+      "extra_info": "upper, mid and lower canopy",
+      "source_database": "MDB_BR_X8_inbo2020_20240613",
+      "schema": {
+        "fields": [
+          {
+            "name": "MasterID",
+            "type": "integer",
+            "description": "unique code referring to the master lookuplist, in this case \"qAliveDead\"",
+            "extra_info": "11: alive; 12:  dead"
+          },
+          {
+            "name": "ID",
+            "type": "integer",
+            "description": "unique code",
+            "extra_info": null
+          },
+          {
+            "name": "Value1",
+            "type": "string",
+            "description": "meaning of the code in Dutch",
+            "extra_info": null
+          },
+          {
+            "name": "Value2",
+            "type": "string",
+            "description": "meaning of the code in English",
+            "extra_info": null
+          },
+          {
+            "name": "Value3",
+            "type": "string",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "OrderField",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "Active",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "qiufroheight_shoots",
+      "path": "qiufroheight_shoots.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "heightclass according to iufro classes, used at shoot level",
+      "extra_info": "upper, mid and lower canopy",
+      "source_database": "MDB_BR_X8_inbo2020_20240613",
+      "schema": {
+        "fields": [
+          {
+            "name": "MasterID",
+            "type": "integer",
+            "description": "unique code referring to the master lookuplist, in this case \"qAliveDead\"",
+            "extra_info": "11: alive; 12:  dead"
+          },
+          {
+            "name": "ID",
+            "type": "integer",
+            "description": "unique code",
+            "extra_info": null
+          },
+          {
+            "name": "Value1",
+            "type": "string",
+            "description": "meaning of the code in Dutch",
+            "extra_info": null
+          },
+          {
+            "name": "Value2",
+            "type": "string",
+            "description": "meaning of the code in English",
+            "extra_info": null
+          },
+          {
+            "name": "Value3",
+            "type": "string",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "OrderField",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "Active",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "qiufrosocialstatus",
+      "path": "qiufrosocialstatus.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "social status according to iufro classes, used at tree level",
+      "extra_info": "pre-dominant, co-dominant, suppressed",
+      "source_database": "MDB_BR_X8_inbo2020_20240613",
+      "schema": {
+        "fields": [
+          {
+            "name": "MasterID",
+            "type": "integer",
+            "description": "unique code referring to the master lookuplist, in this case \"qAliveDead\"",
+            "extra_info": "11: alive; 12:  dead"
+          },
+          {
+            "name": "ID",
+            "type": "integer",
+            "description": "unique code",
+            "extra_info": null
+          },
+          {
+            "name": "Value1",
+            "type": "string",
+            "description": "meaning of the code in Dutch",
+            "extra_info": null
+          },
+          {
+            "name": "Value2",
+            "type": "string",
+            "description": "meaning of the code in English",
+            "extra_info": null
+          },
+          {
+            "name": "Value3",
+            "type": "string",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "OrderField",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "Active",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "qiufrosocialstatus_shoots",
+      "path": "qiufrosocialstatus_shoots.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "social status according to iufro classes, used at shoot level",
+      "extra_info": "pre-dominant, co-dominant, suppressed",
+      "source_database": "MDB_BR_X8_inbo2020_20240613",
+      "schema": {
+        "fields": [
+          {
+            "name": "MasterID",
+            "type": "integer",
+            "description": "unique code referring to the master lookuplist, in this case \"qAliveDead\"",
+            "extra_info": "11: alive; 12:  dead"
+          },
+          {
+            "name": "ID",
+            "type": "integer",
+            "description": "unique code",
+            "extra_info": null
+          },
+          {
+            "name": "Value1",
+            "type": "string",
+            "description": "meaning of the code in Dutch",
+            "extra_info": null
+          },
+          {
+            "name": "Value2",
+            "type": "string",
+            "description": "meaning of the code in English",
+            "extra_info": null
+          },
+          {
+            "name": "Value3",
+            "type": "string",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "OrderField",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "Active",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "qiufrovitality",
+      "path": "qiufrovitality.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "vitality according to iufro classes, used at tree level",
+      "extra_info": "vigourous, normal, decling",
+      "source_database": "MDB_BR_X8_inbo2020_20240613",
+      "schema": {
+        "fields": [
+          {
+            "name": "MasterID",
+            "type": "integer",
+            "description": "unique code referring to the master lookuplist, in this case \"qAliveDead\"",
+            "extra_info": "11: alive; 12:  dead"
+          },
+          {
+            "name": "ID",
+            "type": "integer",
+            "description": "unique code",
+            "extra_info": null
+          },
+          {
+            "name": "Value1",
+            "type": "string",
+            "description": "meaning of the code in Dutch",
+            "extra_info": null
+          },
+          {
+            "name": "Value2",
+            "type": "string",
+            "description": "meaning of the code in English",
+            "extra_info": null
+          },
+          {
+            "name": "Value3",
+            "type": "string",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "OrderField",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "Active",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "qiufrovitality_shoots",
+      "path": "qiufrovitality_shoots.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "vitality according to iufro classes, used at shoot level",
+      "extra_info": "vigourous, normal, decling",
+      "source_database": "MDB_BR_X8_inbo2020_20240613",
+      "schema": {
+        "fields": [
+          {
+            "name": "MasterID",
+            "type": "integer",
+            "description": "unique code referring to the master lookuplist, in this case \"qAliveDead\"",
+            "extra_info": "11: alive; 12:  dead"
+          },
+          {
+            "name": "ID",
+            "type": "integer",
+            "description": "unique code",
+            "extra_info": null
+          },
+          {
+            "name": "Value1",
+            "type": "string",
+            "description": "meaning of the code in Dutch",
+            "extra_info": null
+          },
+          {
+            "name": "Value2",
+            "type": "string",
+            "description": "meaning of the code in English",
+            "extra_info": null
+          },
+          {
+            "name": "Value3",
+            "type": "string",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "OrderField",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "Active",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "qnumber_regeneration_classes",
+      "path": "qnumber_regeneration_classes.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "number classes used instead of an exact count of the seedlings",
+      "extra_info": null,
+      "source_database": "MDB_BR_X8_inbo2020_20240613",
+      "schema": {
+        "fields": [
+          {
+            "name": "ID",
+            "type": "integer",
+            "description": "unique code",
+            "extra_info": null
+          },
+          {
+            "name": "Value1",
+            "type": "string",
+            "description": "number class f.e. \"11-20\"",
+            "extra_info": null
+          },
+          {
+            "name": "Value2",
+            "type": "string",
+            "description": "mid value of the number class used to calculate approximate mean number",
+            "extra_info": null
+          },
+          {
+            "name": "Value3",
+            "type": "string",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "OrderField",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "Active",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "qplot_type",
+      "path": "qplot_type.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "circular plot versus core area",
+      "extra_info": null,
+      "source_database": "MDB_BR_X8_inbo2020_20240613",
+      "schema": {
+        "fields": [
+          {
+            "name": "ID",
+            "type": "integer",
+            "description": "unique code",
+            "extra_info": null
+          },
+          {
+            "name": "Value1",
+            "type": "string",
+            "description": "meaning of the code in Dutch",
+            "extra_info": null
+          },
+          {
+            "name": "Value2",
+            "type": "string",
+            "description": "meaning of the code in English",
+            "extra_info": null
+          },
+          {
+            "name": "Value3",
+            "type": "string",
+            "description": "abbreviation",
+            "extra_info": null
+          },
+          {
+            "name": "OrderField",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "Active",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "qspecies",
+      "path": "qspecies.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "tree species list used in the dendro and regeneration survey",
+      "extra_info": null,
+      "source_database": "MDB_BR_X8_inbo2020_20240613",
+      "schema": {
+        "fields": [
+          {
+            "name": "ID",
+            "type": "integer",
+            "description": "unique code",
+            "extra_info": null
+          },
+          {
+            "name": "Value1",
+            "type": "string",
+            "description": "Dutch name",
+            "extra_info": null
+          },
+          {
+            "name": "Value2",
+            "type": "string",
+            "description": "Scientific name",
+            "extra_info": null
+          },
+          {
+            "name": "Value3",
+            "type": "string",
+            "description": "TaxonID used in the Flemish database \"Flora databank\" containing distribution data and species-specific characteristics of the flora of Flanders",
+            "extra_info": "see https://flora.inbo.be/Pages/Common/Default.aspx"
+          },
+          {
+            "name": "OrderField",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "Active",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "qvdagn_vfm",
+      "path": "qvdagn_vfm.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "indicates how the volume of lying deadwood has to becalculated",
+      "extra_info": "if the lying deadwood is an intact tree, tariffs are used instead of the build-in calculation of FieldMap",
+      "source_database": "MDB_BR_X8_inbo2020_20240613",
+      "schema": {
+        "fields": [
+          {
+            "name": "ID",
+            "type": "integer",
+            "description": "unique code",
+            "extra_info": null
+          },
+          {
+            "name": "Value1",
+            "type": "string",
+            "description": "meaning of the code in Dutch",
+            "extra_info": null
+          },
+          {
+            "name": "Value2",
+            "type": "string",
+            "description": "meaning of the code in English",
+            "extra_info": null
+          },
+          {
+            "name": "Value3",
+            "type": "string",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "OrderField",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "Active",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          }
+        ]
+      }
     }
   ]
 }

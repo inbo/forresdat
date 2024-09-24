@@ -1,0 +1,6 @@
+MasterID,ID,Value1,Value2,Value3,OrderField,Active
+11,10,B - bovenetage,Upper canopy,,,1
+11,20,M - middenetage,Mid-canopy,,,1
+11,30,O - onderetage,Lower canopy,,,1
+12,40,NVT - dood,NA - dead,,,1
+11,50,NVT - stoof,NA - stool,,,1

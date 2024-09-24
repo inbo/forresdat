@@ -1,0 +1,4 @@
+ID,Value1,Value2,Value3,OrderField,Active
+100,Geen vraatschade,No browsing,,,1
+110,Vraatschade waarneembaar (minder 1/20),Browsing observed (less than 1/20),,,1
+120,Vraatschade duidelijk (meer dan 1/20),Browsing explicit (more than 1/20),,,1

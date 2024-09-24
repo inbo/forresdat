@@ -1,0 +1,6 @@
+ID,Value1,Value2,Value3,OrderField,Active
+10,NVT,not applicable,0,,1
+20,10 - 40 % : 25 % kroonvolumereductie,10 - 40 % : 25 % CrownVolumeReductio,0.25,,1
+30,40 - 60 % : 50 % kroonvolumereductie,40 - 60 % : 50 % CrownVolumeReductio,0.5,,1
+40,60 - 90 % : 75 % kroonvolumereductie,60 - 90 % : 75 % CrownVolumereductio,0.75,,1
+50,> 90 % : 100 % kroonvolumereductie,> 90 % : 100 % CrownVolumeReduction,1,,1

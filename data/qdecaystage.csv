@@ -1,0 +1,9 @@
+MasterID,ID,Value1,Value2,Value3,OrderField,Active
+12,10,"1+ :  recent, nog knoppen en bladeren","1+: very recent, still buds and leaves",,,1
+12,11,"1 : max 2 j, fijne takjes, schors intact","1: max 2y,still finebranches,bark intact",,,1
+12,12,"2 : opp verteerd, schors los, max 1cm","2: superficial decay, bark loose,max 1cm",,,1
+12,13,"3 : matig verteerd,schors, enkele cm","3: moderate decay, knife penetrate cm's",,,1
+12,14,"4 : grotendeels verteerd, stam vermolmd","4: advanced decay, stem mostly mould",,,1
+12,15,5 : resten in strooisellaag,"5: full decay, remains in litter layer",,,1
+11,16,NVT - levend,NA - Alive,,,1
+12,17,NVT - stoof,NA - stool,,,1

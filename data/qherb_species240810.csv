@@ -1,0 +1,1414 @@
+ID,Value1,Value2,Value3,OrderField,Active
+1,Aalbes,Ribes rubrum L.,7195,,1
+2,Aangebrande orchis,Orchis ustulata L.,6597,,1
+3,Aardaker,Lathyrus tuberosus L.,6083,,1
+4,Aardbeiganzerik,Potentilla sterilis (L.) Garcke,7010,,1
+5,Aardbeiklaver,Trifolium fragiferum L.,8013,,1
+6,Aarddistel,Cirsium acaule Scop.,4919,,1
+7,Aardpeer,Helianthus tuberosus L.,5781,,1
+8,Aarvederkruid,Myriophyllum spicatum L.,6477,,1
+9,Absintalsem,Artemisia absinthium L.,4260,,1
+10,Adderwortel,Polygonum bistorta L.,6913,,1
+11,Adelaarsvaren,Pteridium aquilinum (L.) Kuhn,7058,,1
+12,Agrostis scabra Willd.,Agrostis scabra Willd.,3977,,1
+13,Akkerandoorn,Stachys arvensis (L.) L.,7817,,1
+14,Akkerboterbloem,Ranunculus arvensis L.,7113,,1
+15,Akkerdistel,Cirsium arvense (L.) Scop.,4920,,1
+16,Akkerdoornzaad,Torilis arvensis (Huds.) Link,7971,,1
+17,Akkerdravik,Bromus arvensis L.,4486,,1
+18,Akkerereprijs,Veronica agrestis L.,8159,,1
+19,Akkergeelster,Gagea villosa (Bieb.) Duby,5614,,1
+20,Akkerhoornbloem,Cerastium arvense L.,4816,,1
+21,Akkerkers,Rorippa sylvestris (L.) Besser,7215,,1
+22,Akkerklokje,Campanula rapunculoides L.,4613,,1
+23,Akkerkool,Lapsana communis L.,6057,,1
+24,Akkerleeuwenbek,Misopates orontium (L.) Rafin.,6419,,1
+25,Akkermelkdistel,Sonchus arvensis L.,7748,,1
+26,Akkermunt,Mentha arvensis L.,6368,,1
+27,Akkervergeet-mij-nietje,Myosotis arvensis (L.) Hill,6457,,1
+28,Akkerviltkruid,Filago arvensis L.,5564,,1
+29,Akkerviooltje,Viola arvensis Murray,8234,,1
+30,Akkerwalstro,Galium spurium L.,5661,,1
+31,Akkerwinde,Convolvulus arvensis L.,4985,,1
+32,Alpenandoorn,Stachys alpina L.,7815,,1
+33,Alpenbes,Ribes alpinum L.,7192,,1
+34,Alpenrus,Juncus alpinoarticulatus Chaix,5981,,1
+35,Amandelwilg,Salix triandra L.,7426,,1
+36,Amandelwolfsmelk,Euphorbia amygdaloides L.,5473,,1
+37,Amerikaans krentenboompje,Amelanchier lamarckii F.G. Schroeder,4103,,1
+38,Amerikaanse eik,Quercus rubra L.,7102,,1
+39,Amerikaanse kruidkers,Lepidium virginicum L.,6122,,1
+40,Amerikaanse vogelkers,Prunus serotina Ehrh.,7039,,1
+41,Appel (wild + gekweekt),Malus sylvestris (L.) Mill.,6296,,1
+42,Armbloemige waterbies,Eleocharis quinqueflora (F.X. Hartm.) O.,5328,,1
+43,Asperge,Asparagus officinalis L.,4287,,1
+44,Avondkoekoeksbloem,Silene latifolia Poiret subsp. alba (Mil,7666,,1
+45,Baardgras,Polypogon monspeliensis (L.) Desf.,6935,,1
+46,Baccharis halimifolia L.,Baccharis halimifolia L.,4387,,1
+47,Basterdklaver,Trifolium hybridum L.,8017,,1
+48,Basterdwederik species,Epilobium species,5368,,1
+49,Beekpunge,Veronica beccabunga L.,8165,,1
+50,Beemdgras species,Poa species+C1363,6876,,1
+51,Beemdkamgras,Cynosurus cristatus L.,5121,,1
+52,Beemdkroon,Knautia arvensis (L.) Coulter,6020,,1
+53,Beemdlangbloem,Festuca pratensis Huds.,5547,,1
+54,Beemdooievaarsbek,Geranium pratense L.,5701,,1
+55,Beenbreek,Narthecium ossifragum (L.) Huds.,6493,,1
+56,Behaard breukkruid,Herniaria hirsuta L.,5815,,1
+57,Behaarde boterbloem,Ranunculus sardous Crantz,7139,,1
+58,Beklierde basterdwederik,Epilobium ciliatum Rafin.,5358,,1
+59,Beklierde duizendknoop,Polygonum lapathifolium L.,6919,,1
+60,Beklierde ogentroost,Euphrasia officinalis L.,5507,,1
+61,Bergbasterdwederik,Epilobium montanum L.,5363,,1
+62,Bergbeemdgras,Poa chaixii Vill.,6867,,1
+63,Bergdravik,Bromus erectus Huds.,4494,,1
+64,Bergerwt,Astragalus cicer L.,4332,,1
+65,Berghertshooi,Hypericum montanum L.,5909,,1
+66,Bergklokje,Campanula rhomboidalis L.,4615,,1
+67,Bergnachtorchis,Platanthera chlorantha (Cust.) Reichenb.,6863,,1
+68,Berk,Betula tremula/alba,4429,,1
+69,Bermooievaarsbek,Geranium pyrenaicum Burm. f.,5704,,1
+70,Betonie,Stachys officinalis (L.) Trev.,7820,,1
+71,Beuk,Fagus sylvatica L.,5523,,1
+72,Beursjesganzenvoet,Chenopodium chenopodioides (L.) Aell.,4867,,1
+73,Beverneltorkruid,Oenanthe pimpinelloides L.,6548,,1
+74,Bevertjes,Briza media L.,4482,,1
+75,Bezemkruiskruid,Senecio inaequidens DC.,7610,,1
+76,Biestarwegras,Elymus farctus (Viv.) Runemark ex Melder,5344,,1
+77,Biezenknoppen,Juncus conglomeratus L.,5995,,1
+78,Bijeorchis,Ophrys apifera Huds.,6581,,1
+79,Bijvoet,Artemisia vulgaris L.,4276,,1
+80,Bilzekruid,Hyoscyamus niger L.,5895,,1
+81,Bitter barbarakruid,Barbarea intermedia Boreau,4394,,1
+82,Bittere veldkers,Cardamine amara L.,4636,,1
+83,Bittere wilg,Salix purpurea L.,7417,,1
+84,Bitterzoet,Solanum dulcamara L.,7717,,1
+85,Blaartrekkende boterbloem,Ranunculus sceleratus L.,7140,,1
+86,Blaassilene,Silene vulgaris (Moench) Garcke,7678,,1
+87,Blaasvaren,Cystopteris fragilis (L.) Bernh.,5140,,1
+88,Blaaszegge,Carex vesicaria L.,4739,,1
+89,Bladgreppelrus,Juncus foliosus Desf.,5999,,1
+90,Blauw glidkruid,Scutellaria galericulata L.,7570,,1
+91,Blauw kweldergras,Puccinellia fasciculata (Torr.) E.P. Bic,7069,,1
+92,Blauw walstro,Sherardia arvensis L.,7646,,1
+93,Blauwe bosbes,Vaccinium myrtillus L.,8109,,1
+94,Blauwe bremraap,Orobanche purpurea Jacq.,6628,,1
+95,Blauwe druifjes,Muscari botryoides (L.) Mill.,6450,,1
+96,Blauwe knoop,Succisa pratensis Moench,7855,,1
+97,Blauwe monnikskap,Aconitum napellus L.,3929,,1
+98,Blauwe zeedistel,Eryngium maritimum L.,5457,,1
+99,Blauwe zegge,Carex panicea L.,4717,,1
+100,Blauwgras,Sesleria caerulea (L.) Ard.,7633,,1
+101,Blazenstruik,Colutea arborescens L.,4964,,1
+102,Bleek bosvogeltje,Cephalanthera damasonium (Mill.) Druce,4808,,1
+103,Bleek kweldergras,Puccinellia capillaris (Liljebl.) Jansen,7066,,1
+104,Bleekgeel blaasjeskruid,Utricularia ochroleuca R. Hartm.,8102,,1
+105,Bleekgele droogbloem,Gnaphalium luteoalbum L.,5738,,1
+106,Bleekgele hennepnetel,Galeopsis segetum Neck.,5631,,1
+107,Bleeksporig bosviooltje,Viola riviniana Reichenb.,8250,,1
+108,Bleke basterdwederik,Epilobium roseum Schreb.,5367,,1
+109,Bleke en ijle bermzegge,Carex divulsa Stokes,4681,,1
+110,Bleke klaproos,Papaver dubium L.,6674,,1
+111,Bleke morgenster,Tragopogon dubius Scop.,7985,,1
+112,Bleke zegge,Carex pallescens L.,4716,,1
+113,Bloedzuring,Rumex sanguineus L.,7352,,1
+114,Blonde zegge,Carex hostiana DC.,4698,,1
+115,Bochtig havikskruid,Hieracium maculatum Schrank,5835,,1
+116,Bochtige klaver,Trifolium medium L.,8021,,1
+117,Bochtige smele,Deschampsia flexuosa (L.) Trin.,5192,,1
+118,Boerenwormkruid,Tanacetum vulgare L.,7887,,1
+119,Bokkeorchis,Himantoglossum hircinum (L.) Spreng.,5850,,1
+120,Boksdoorn,Lycium barbarum L.,6253,,1
+121,Bolderik,Agrostemma githago L.,3985,,1
+122,Bolletjesraket,Rapistrum rugosum (L.) All.,7156,,1
+123,Bont kroonkruid,Securigera varia (L.) Lassen,5013,,1
+124,Bonte krokus,Crocus vernus (L.) Hill,5088,,1
+125,Bonte paardenstaart,Equisetum variegatum Schleich.,5397,,1
+126,Borstelbies,Scirpus setaceus L.,7540,,1
+127,Borstelgras,Nardus stricta L.,6492,,1
+128,Borstelkrans,Clinopodium vulgare L.,7492,,1
+129,Bosaardbei,Fragaria vesca L.,5584,,1
+130,Bosandoorn,Stachys sylvatica L.,7824,,1
+131,Bosanemoon,Anemone nemorosa L.,4147,,1
+132,Bosbies,Scirpus sylvaticus L.,7542,,1
+133,Bosbingelkruid,Mercurialis perennis L.,6397,,1
+134,Bosboterbloem,Ranunculus serpens Schrank,7141,,1
+135,Bosdroogbloem,Gnaphalium sylvaticum L.,5740,,1
+136,Bosereprijs,Veronica montana L.,8174,,1
+137,Bosgeelster,Gagea lutea (L.) Ker-Gawl.,5610,,1
+138,Bosgierstgras,Milium effusum L.,6405,,1
+139,Boshavikskruid,Hieracium sabaudum L.,5841,,1
+140,Boshyacint,Hyacinthoides non-scripta (L.) Chouard e,7522,,1
+141,Boskers,Prunus avium (L.) L.,7028,,1
+142,Bosklit,Arctium nemorosum Lej.,4221,,1
+143,Boskortsteel,Brachypodium sylvaticum (Huds.) Beauv.,4470,,1
+144,Boskruiskruid,Senecio sylvaticus L.,7617,,1
+145,Boslathyrus,Lathyrus sylvestris L.,6082,,1
+146,Bosmuur,Stellaria nemorum L.,7834,,1
+147,Bosooievaarsbek,Geranium sylvaticum L.,5709,,1
+148,Bosorchis,Dactylorhiza fuchsii (Druce) So¢,5147,,1
+149,Bospaardenstaart,Equisetum sylvaticum L.,5395,,1
+150,Bosrank,Clematis vitalba L.,4944,,1
+151,Bosroos,Rosa arvensis Huds.,7218,,1
+152,Bostulp,Tulipa sylvestris L.,8069,,1
+153,Bosveldkers,Cardamine flexuosa With.,4638,,1
+154,Bosvergeet-mij-nietje,Myosotis sylvatica Ehrh. ex Hoffmann,6468,,1
+155,Bosviooltje,Viola riviniana/reichenbachiana,8248,,1
+156,Boswederik,Lysimachia nemorum L.,6270,,1
+157,Boswilg,Salix caprea L.,7396,,1
+158,Boszegge,Carex sylvatica Huds.,4734,,1
+159,Bottelroos,Rosa villosa L.,7253,,1
+160,Bouchon's amarant,Amaranthus bouchonii Thell.,4069,,1
+161,Braam (Gewone),Rubus 'fruticosus' groep,7278,,1
+162,Brave hendrik,Chenopodium bonus-henricus L.,4863,,1
+163,Brede lathyrus,Lathyrus latifolius L.,6072,,1
+164,Brede orchis,Dactylorhiza fistulosa (Moench) H. Bauma,5156,,1
+165,Brede stekelvaren,Dryopteris dilatata (Hoffm.) A. Gray,5273,,1
+166,Brede waterpest,Elodea canadensis Michaux,5335,,1
+167,Brede wespeorchis,Epipactis helleborine (L.) Crantz,5377,,1
+168,Brede wolfsmelk,Euphorbia platyphyllos L.,5495,,1
+169,Breed fakkelgras,Koeleria pyramidata (Lam.) Beauv.,6028,,1
+170,Breed klokje,Campanula latifolia L.,4607,,1
+171,Breed wollegras,Eriophorum latifolium Hoppe,5430,,1
+172,Bruin cypergras,Cyperus fuscus L.,5131,,1
+173,Bruine snavelbies,Rhynchospora fusca (L.) Ait. f.,7190,,1
+174,Bruinrode wespeorchis,Epipactis atrorubens (Hoffmann) Besser,5376,,1
+175,Bultkroos,Lemna gibba L.,6095,,1
+176,Buntgras,Corynephorus canescens (L.) Beauv.,5028,,1
+177,Campanula portenschlagiana Schult.,Campanula portenschlagiana Schult.,4611,,1
+178,Canadees vlotgras,Glyceria canadensis (Michaux) Trin.,5727,,1
+179,Canadese fijnstraal,Conyza canadensis (L.) Cronq.,5421,,1
+180,Canadese guldenroede,Solidago canadensis L.,7739,,1
+181,Canadese rus,Juncus canadensis J. Gay ex Laharpe,5992,,1
+182,Chinese bruidssluier,Fallopia aubertii (L. Henry) Holub,6910,,1
+183,Chinese naaldaar,Setaria faberi W. Herrmann,7636,,1
+184,Christoffelkruid,Actaea spicata L.,3936,,1
+185,Cineraria,Senecio cineraria DC.,7604,,1
+186,Cipreswolfsmelk,Euphorbia cyparissias L.,5477,,1
+187,Citroengele honingklaver,Melilotus officinalis Lam.,6355,,1
+188,Cornus sericea L.,Cornus sericea L.,5007,,1
+189,Corsicaanse den,Pinus nigra,6828,,1
+190,Cotoneaster dielsianus Pritzel,Cotoneaster dielsianus Pritzel,5034,,1
+191,Cotoneaster rehderi Pojark.,Cotoneaster rehderi Pojark.,5042,,1
+192,Cotoneaster salicifolius Franch.,Cotoneaster salicifolius Franch.,5043,,1
+193,Cotoneaster simonsii Baker,Cotoneaster simonsii Baker,5044,,1
+194,Cotoneaster sternianus (Turr.) Boom,Cotoneaster sternianus (Turr.) Boom,5046,,1
+195,Cyperzegge,Carex bohemica Schreb.,4668,,1
+196,Dagkoekoeksbloem,Silene dioica (L.) Clairv.,7664,,1
+197,Dalkruid,Maianthemum bifolium (L.) F.W. Schmidt,6286,,1
+198,Damastbloem,Hesperis matronalis L.,5817,,1
+199,Daslook,Allium ursinum L.,4031,,1
+200,Dauwbraam,Rubus caesius L.,7265,,1
+201,Dauwnetel,Galeopsis speciosa Mill.,5633,,1
+202,Deens lepelblad,Cochlearia danica L.,4952,,1
+203,Dennenorchis,Goodyera repens (L.) R. Brown,5743,,1
+204,Dennenwolfsklauw,Huperzia selago (L.) Bernh. ex Schrank e,6262,,1
+205,Dicht havikskruid,Hieracium lachenalii C.C. Gmel.,5846,,1
+206,Dicht langbaardgras,Vulpia fasciculata (Forssk.) Fritsch,8264,,1
+207,Dichtbloemige duivekervel,Fumaria densiflora DC.,5600,,1
+208,Dichtbloemige kruidkers,Lepidium densiflorum Schrad.,6113,,1
+209,Dichte bermzegge,Carex muricata L.,4707,,1
+210,Dittrichia viscosa (L.) W. Greuter,Dittrichia viscosa (L.) W. Greuter,5247,,1
+211,Doffe ereprijs,Veronica opaca Fries,8176,,1
+212,Dolik,Lolium temulentum L.,6205,,1
+213,Dolle kervel,Chaerophyllum temulum L.,4847,,1
+214,Donderkruid,Inula conyzae (Griesselich) Meikle,5940,,1
+215,Donkere ooievaarsbek,Geranium phaeum L.,5700,,1
+216,Donkergroene basterdwederik,Epilobium obscurum Schreb.,5364,,1
+217,Donkersporig bosviooltje,Viola reichenbachiana Jord. ex Boreau,8249,,1
+218,Donzige klit,Arctium tomentosum Mill.,4224,,1
+219,Doorgroeid fonteinkruid,Potamogeton perfoliatus L.,6982,,1
+220,Doorgroeiende boerenkers,Thlaspi perfoliatum L.,7948,,1
+221,Doornappel,Datura stramonium L.,5179,,1
+222,Doorschijnend sterrenkroos,Callitriche truncata Guss. subsp. occide,4583,,1
+223,Doorwas,Bupleurum rotundifolium L.,4540,,1
+224,Dotterbloem,Caltha palustris L.,4589,,1
+225,Douglas,Pseudotsuga menziesii,7053,,1
+226,Douglaspluimspirea,Spiraea douglasii Hook.,7799,,1
+227,Draadereprijs,Veronica filiformis Smith,8169,,1
+228,Draadgentiaan,Cicendia filiformis (L.) Delarbre,4904,,1
+229,Draadklaver,Trifolium filiforme L.,8022,,1
+230,Draadrus,Juncus filiformis L.,5998,,1
+231,Draadzegge,Carex lasiocarpa Ehrh.,4701,,1
+232,Dreps,Bromus secalinus L.,4515,,1
+233,Driebloemige nachtschade,Solanum triflorum Nutt.,7731,,1
+234,Driedelige waterranonkel,Ranunculus tripartitus DC.,7145,,1
+235,Driedistel,Carlina vulgaris L.,4748,,1
+236,Driehoornig walstro,Galium tricornutum Dandy,5664,,1
+237,Driekantige bies,Scirpus triqueter L.,7543,,1
+238,Driekleurig viooltje,Viola tricolor L.,8252,,1
+239,Drienerfmuur,Moehringia trinervia (L.) Clairv.,6421,,1
+240,Drienervige zegge,Carex trinervis Degl.,4736,,1
+241,Drietallig glaskroos,Elatine triandra Schkuhr,5320,,1
+242,Drijvend fonteinkruid,Potamogeton natans L.,6978,,1
+243,Drijvende egelskop,Sparganium angustifolium Michaux,7771,,1
+244,Drijvende waterweegbree,Luronium natans (L.) Rafin.,6236,,1
+245,Dubbelkelk,Picris echioides L.,6807,,1
+246,Dubbelloof,Blechnum spicant (L.) Roth,4453,,1
+247,Duifkruid,Scabiosa columbaria L.,7504,,1
+248,Duindoorn,Hippophae rhamnoides L.,5855,,1
+249,Duindravik,Bromus thominei Hardouin,4499,,1
+250,Duinfakkelgras,Koeleria albescens DC.,6025,,1
+251,Duinlangbaardgras en gewimperd langbaardg,Vulpia ciliata Dum.,8263,,1
+252,Duinpaardebloem,Taraxacum Wiggers sectie Erythrosperma (,7895,,1
+253,Duinroosje,Rosa pimpinellifolia L.,7240,,1
+254,Duinrus,Juncus anceps Laharpe,5983,,1
+255,Duinviooltje,Viola curtisii E. Forster,8240,,1
+256,Duinvogelmuur,Stellaria pallida (Dum.) Pir‚,7837,,1
+257,Duinzwenkgras,Festuca juncifolia St-Amans,5539,,1
+258,Duist,Alopecurus myosuroides Huds.,4041,,1
+259,Duits viltkruid,Filago vulgaris Lam.,5571,,1
+260,Duitse dot,Salix dasyclados Wimm.,7403,,1
+261,Duitse gentiaan,Gentianella germanica (Willd.) B”rner,5687,,1
+262,Duizendknoopfonteinkruid,Potamogeton polygonifolius Pourr.,6983,,1
+263,Dunstaart,Parapholis strigosa (Dum.) C.E. Hubbard,6686,,1
+264,Dwergbloem,Centunculus minimus L.,4128,,1
+265,Dwerggras,Mibora minima (L.) Desv.,6402,,1
+266,Dwergkroos,"Lemna minuta Humb., Bonpl. et Kunth",6097,,1
+267,Dwergrus,Juncus pygmaeus L.C.M. Rich.,6003,,1
+268,Dwergviltkruid,Filago minima (Smith) Pers.,5567,,1
+269,Dwergvlas,Radiola linoides Roth,7105,,1
+270,Dwergzegge,Carex viridula s.l.,4741,,1
+271,Echt bitterkruid,Picris hieracioides L.,6808,,1
+272,Echt duizendguldenkruid,Centaurium erythraea Rafn,4802,,1
+273,Echt lepelblad,Cochlearia officinalis L.,4953,,1
+274,Echte guldenroede,Solidago virgaurea L.,7744,,1
+275,Echte heemst,Althaea officinalis L.,4054,,1
+276,Echte kamille,Matricaria recutita L.,6317,,1
+277,Echte koekoeksbloem,Lychnis flos-cuculi L.,6250,,1
+278,Echte kruisdistel,Eryngium campestre L.,5455,,1
+279,Echte valeriaan,Valeriana repens Host,8122,,1
+280,Eekhoorngras,Vulpia bromoides (L.) S.F. Gray,8260,,1
+281,Eenarig wollegras,Eriophorum vaginatum L.,5432,,1
+282,Eenbes,Paris quadrifolia L.,6692,,1
+283,Eenbloemig parelgras,Melica uniflora Retz.,6350,,1
+284,Eenjarige hardbloem,Scleranthus annuus L.,7547,,1
+285,Eenstijlige meidoorn,Crataegus monogyna Jacq.,5066,,1
+286,Egelantier,Rosa rubiginosa L.,7242,,1
+287,Egelboterbloem,Ranunculus flammula L.,7122,,1
+288,Eikvaren,Polypodium vulgare L.,6889,,1
+289,Eironde leeuwenbek,Kickxia spuria (L.) Dum.,6019,,1
+290,Eivormige waterbies,Eleocharis ovata (Roth.) Roem. et Schult,5323,,1
+291,Elzenzegge,Carex elongata L.,4689,,1
+292,Engels gras,Armeria maritima Willd.,4241,,1
+293,Engels raaigras,Lolium perenne L.,6199,,1
+294,Engels slijkgras,Spartina townsendii H. et J. Groves,7783,,1
+295,Engelse alant,Inula britannica L.,5939,,1
+296,Eragrostis curvula (Schrad.) Nees,Eragrostis curvula (Schrad.) Nees,5402,,1
+297,Es (Gewone),Fraxinus excelsior L.,5590,,1
+298,Es/Esdoorn,F. excelsior/A. pseudoplatanus,,,1
+299,Esdoorn (Gewone),Acer pseudoplatanus L.,3914,,1
+300,Esdoornganzenvoet,Chenopodium hybridum L.,4875,,1
+301,Esparcette,Onobrychis viciifolia Scop.,6566,,1
+302,Europese lork,Lariks deciduas,6059,,1
+303,Fijn goudscherm,Bupleurum tenuissimum L.,4543,,1
+304,Fijn hoornblad,Ceratophyllum submersum L.,4834,,1
+305,Fijn schapegras,Festuca filiformis Pourr.,5535,,1
+306,Fijne kervel,Anthriscus caucalis Bieb.,4177,,1
+307,Fijne ooievaarsbek,Geranium columbinum L.,5691,,1
+308,Fijne waterranonkel,Ranunculus aquatilis L.,7111,,1
+309,Fijnspar,Picaea abies,6804,,1
+310,Fioringras,Agrostis stolonifera L.,3982,,1
+311,Fladderiep,Ulmus laevis Pallas,8083,,1
+312,Florentijns havikskruid,Hieracium piloselloides Vill.,5840,,1
+313,Fluitenkruid,Anthriscus sylvestris (L.) Hoffmann,4180,,1
+314,Fraai duizendguldenkruid,Centaurium pulchellum (Sw.) Druce,4804,,1
+315,Fraai hertshooi,Hypericum pulchrum L.,5911,,1
+316,Fraaie vrouwenmantel,Alchemilla mollis (Buser) Rothm.,4006,,1
+317,Framboos,Rubus idaeus L.,7284,,1
+318,Franse aardkastanje,Conopodium majus (Gouan) Loret,4974,,1
+319,Franse silene,Silene gallica L.,7665,,1
+320,Franse veldbies,Luzula forsteri (Smith) DC.,6239,,1
+321,Galega,Galega officinalis L.,5625,,1
+322,Galigaan,Cladium mariscus (L.) Pohl,4933,,1
+323,Gaspeldoorn,Ulex europaeus L.,8078,,1
+324,Gebogen driehoeksvaren,Gymnocarpium dryopteris (L.) Newman,5759,,1
+325,Geel cypergras,Cyperus flavescens L.,5130,,1
+326,Geel nagelkruid,Geum urbanum L.,5717,,1
+327,Geel viltkruid,Filago lutescens Jord.,5566,,1
+328,Geel walstro,Galium verum L.,5667,,1
+329,Geel zonneroosje,Helianthemum nummularium (L.) Mill.,5789,,1
+330,Geelgroene vrouwenmantel,Alchemilla xanthochlora Rothm.,4011,,1
+331,Geelgroene zegge,Carex demissa Vahl ex Hartm.,4711,,1
+332,Geelhartje,Linum catharticum L.,6173,,1
+333,Geelrode naaldaar,Setaria pumila (Poiret) Roem. et Schult.,7639,,1
+334,Gegolfd fonteinkruid,Potamogeton zizii Koch ex Roth,6991,,1
+335,Gehoornde klaverzuring,Oxalis corniculata L.,6646,,1
+336,Gekielde dravik,Bromus carinatus Hook. Et Arnott,4489,,1
+337,Geknikte vossenstaart,Alopecurus geniculatus L.,4040,,1
+338,Gekroesd fonteinkruid,Potamogeton crispus L.,6974,,1
+339,Gekroesde melkdistel,Sonchus asper (L.) Hill,7749,,1
+340,Gekweekte peer,Pyrus communis L.,7090,,1
+341,Gelderse roos,Viburnum opulus L.,8193,,1
+342,Gele anemoon,Anemone ranunculoides L.,4149,,1
+343,Gele dovenetel,Lamium galeobdolon (L.) L.,5624,,1
+344,Gele ganzebloem,Chrysanthemum segetum L.,4902,,1
+345,Gele helmbloem,Pseudofumaria lutea (L.) Borkh.,7049,,1
+346,Gele hoornpapaver,Glaucium flavum Crantz,5719,,1
+347,Gele kamille,Anthemis tinctoria L.,4173,,1
+348,Gele kornoelje,Cornus mas,5005,,1
+349,Gele lis,Iris pseudacorus L.,5959,,1
+350,Gele monnikskap,Aconitum lycoctonum L. subsp. vulparia (,3932,,1
+351,Gele morgenster,Tragopogon pratensis L.,7990,,1
+352,Gele plomp,Nuphar lutea (L.) Smith,6522,,1
+353,Gele waterkers,Rorippa amphibia (L.) Besser,7207,,1
+354,Gele zegge,Carex flava L.,4692,,1
+355,Gelobde maanvaren,Botrychium lunaria (L.) Swartz,4460,,1
+356,Gelobde melde,Atriplex laciniata L.,4345,,1
+357,Genadekruid,Gratiola officinalis L.,5745,,1
+358,Geoord helmkruid,Scrophularia auriculata L.,7559,,1
+359,Geoorde veldsla,Valerianella rimosa Bast.,8118,,1
+360,Geoorde wilg,Salix aurita L.,7393,,1
+361,Geoorde zuring,Rumex thyrsiflorus Fingerh.,7356,,1
+362,Gerande schijnspurrie,Spergularia media (L.) C. Presl subsp. a,7788,,1
+363,Geschubde niervaren,Dryopteris affinis (Lowe) Fraser-Jenkins,5268,,1
+364,Gespleten hennepnetel,Galeopsis bifida Boenningh.,5627,,1
+365,Gesteeld glaskroos,Elatine hexandra (Lapierre) DC.,5317,,1
+366,Gesteeld sterrenkroos,Callitriche brutia Petagna,4575,,1
+367,Gesteelde zoutmelde,Halimione pedunculata (L.) Aell.,4351,,1
+368,Gestreepte klaver,Trifolium striatum L.,8041,,1
+369,Gestreepte leeuwenbek,Linaria repens (L.) Mill.,6162,,1
+370,Gestreepte witbol,Holcus lanatus L.,5862,,1
+371,Getand vlotgras,Glyceria declinata Br‚b.,5730,,1
+372,Getande veldsla,Valerianella dentata (L.) Pollich,8115,,1
+373,Geum macrophyllum Willd.,Geum macrophyllum Willd.,5714,,1
+374,Gevinde kortsteel,Brachypodium pinnatum (L.) Beauv.,4468,,1
+375,Gevlekt longkruid,Pulmonaria officinalis L.,7081,,1
+376,Gevlekt zonneroosje,Tuberaria guttata (L.) Fourr.,8065,,1
+377,Gevlekte aronskelk,Arum maculatum L.,4281,,1
+378,Gevlekte dovenetel,Lamium maculatum L.,6046,,1
+379,Gevlekte orchis,Dactylorhiza maculata (L.) So¢,5151,,1
+380,Gevlekte rupsklaver,Medicago arabica (L.) Huds.,6323,,1
+381,Gevlekte scheerling,Conium maculatum L.,4972,,1
+382,Gevleugeld helmkruid,Scrophularia umbrosa Dum.,7564,,1
+383,Gevleugeld hertshooi,Hypericum tetrapterum Fries,5912,,1
+384,Gevleugeld sterrenkroos,Callitriche stagnalis Scop.,4582,,1
+385,Gewone addertong,Ophioglossum vulgatum L.,6580,,1
+386,Gewone agrimonie,Agrimonia eupatoria L.,3966,,1
+387,Gewone berenklauw,Heracleum sphondylium L.,5806,,1
+388,Gewone bermzegge,Carex spicata Huds.,4731,,1
+389,Gewone brem,Cytisus scoparius (L.) Link,5144,,1
+390,Gewone brunel,Prunella vulgaris L.,7026,,1
+391,Gewone dophei,Erica tetralix L.,5417,,1
+392,Gewone duivekervel,Fumaria officinalis L.,5603,,1
+393,Gewone en smalle rolklaver,Lotus corniculatus L.,6219,,1
+394,Gewone engelwortel,Angelica sylvestris L.,4157,,1
+395,Gewone ereprijs,Veronica chamaedrys L.,8168,,1
+396,Gewone hennepnetel,Galeopsis tetrahit L.,5634,,1
+397,Gewone hoornbloem,Cerastium fontanum Baumg.,4823,,1
+398,Gewone kropaar,Dactylis glomerata L.,5162,,1
+399,Gewone melkdistel,Sonchus oleraceus L.,7750,,1
+400,Gewone ossentong,Anchusa officinalis L.,4136,,1
+401,Gewone pastinaak en brandpastinaak,Pastinaca sativa L.,6706,,1
+402,Gewone raket,Sisymbrium officinale (L.) Scop.,7699,,1
+403,Gewone reigersbek,Erodium cicutarium (L.) L'H‚rit.,5435,,1
+404,Gewone salomonszegel,Polygonatum multiflorum (L.) All.,6943,,1
+405,Gewone sering,Syringa vulgaris L.,7872,,1
+406,Gewone smeerwortel,Symphytum officinale L.,7862,,1
+407,Gewone spurrie,Spergula arvensis L.,7784,,1
+408,Gewone steenraket,Erysimum cheiranthoides L.,5460,,1
+409,Gewone veldbies,Luzula campestris (L.) DC.,6238,,1
+410,Gewone veldsla,Valerianella locusta (L.) Laterr.,8117,,1
+411,Gewone vleugeltjesbloem,Polygala vulgaris L.,6902,,1
+412,Gewone vogelmelk,Ornithogalum umbellatum L.,6611,,1
+413,Gewone waterbies,Eleocharis palustris (L.) Roem. et Schul,5326,,1
+414,Gewone waternavel,Hydrocotyle vulgaris L.,5890,,1
+415,Gewone zoutmelde,Halimione portulacoides (L.) Aell.,4353,,1
+416,Gewoon barbarakruid,Barbarea vulgaris R. Brown,4400,,1
+417,Gewoon biggekruid,Hypochoeris radicata L.,5916,,1
+418,Gewoon duizendblad,Achillea millefolium L.,3922,,1
+419,Gewoon handjesgras,Cynodon dactylon (L.) Pers.,5116,,1
+420,Gewoon herderstasje,Capsella bursa-pastoris (L.) Med.,4624,,1
+421,Gewoon kweldergras,Puccinellia maritima (Huds.) Parl.,7070,,1
+422,Gewoon langbaardgras,Vulpia myuros (L.) C.C. Gmel.,8267,,1
+423,Gewoon reukgras,Anthoxanthum odoratum L.,4175,,1
+424,Gewoon robertskruid,Geranium robertianum L.,5705,,1
+425,Gewoon sneeuwklokje,Galanthus nivalis L.,5617,,1
+426,Gewoon sterrenkroos,Callitriche platycarpa Ktz.,4580,,1
+427,Gewoon struisgras,Agrostis capillaris L.,3972,,1
+428,Gewoon struisriet,Calamagrostis epigejos (L.) Roth,4557,,1
+429,Gewoon timoteegras,Phleum pratense L.,6768,,1
+430,Gewoon vingerhoedskruid,Digitalis purpurea L.,5224,,1
+431,Gewoon wilgenroosje,Epilobium angustifolium L.,4852,,1
+432,Gipskruid,Gypsophila muralis L.,5762,,1
+433,Glad biggekruid,Hypochoeris glabra L.,5914,,1
+434,Glad parelzaad,Lithospermum officinale L.,6186,,1
+435,Glad vingergras,Digitaria ischaemum (Schreb. ex Schweigg,5214,,1
+436,Glad walstro,Galium mollugo L.,5650,,1
+437,Gladde ereprijs,Veronica polita Fries,8179,,1
+438,Gladde iep,Ulmus minor Mill.,8084,,1
+439,Gladde witbol,Holcus mollis L.,5863,,1
+440,Glansbesnachtschade,Solanum physalifolium Rusby,7721,,1
+441,Glanshaver,Arrhenatherum elatius (L.) Beauv. ex J.,4257,,1
+442,Glanzend kruiskruid,Senecio squalidus L.,7616,,1
+443,Glanzig fonteinkruid,Potamogeton lucens L.,6976,,1
+444,Goudgele honingklaver,Melilotus altissimus Thuill.,6352,,1
+445,Goudhaver,Trisetum flavescens (L.) Beauv.,8053,,1
+446,Goudzuring,Rumex maritimus L.,7340,,1
+447,Gras species,Gras species,,,1
+448,Grasklokje,Campanula rotundifolia L.,4616,,1
+449,Graslathyrus,Lathyrus nissolia L.,6077,,1
+450,Grasmuur,Stellaria graminea L.,7828,,1
+451,Grauwe abeel,Populus canescens,6954,,1
+452,Grauwe els,Alnus incana (L.) Moench,4035,,1
+453,Grauwe wilg,Salix 'cinerea' groep,7398,,1
+454,Greppelrus,Juncus bufonius L.,5989,,1
+455,Grijskruid,Berteroa incana (L.) DC.,4417,,1
+456,Grijze mosterd,Hirschfeldia incana (L.) LagrŠze-Fossat,5860,,1
+457,Groene amarant,Amaranthus hybridus L.,4079,,1
+458,Groene munt,Mentha spicata L.,6378,,1
+459,Groene naaldaar,Setaria viridis (L.) Beauv.,7644,,1
+460,Groene nachtorchis,Coeloglossum viride (L.) Hartm.,4957,,1
+461,Groene wespeorchis,Epipactis phyllanthes G.E. Smith,5386,,1
+462,Groenknolorchis,Liparis loeselii (L.) L.C.M. Rich.,6178,,1
+463,Grof hoornblad,Ceratophyllum demersum L.,4832,,1
+464,Grondster,Illecebrum verticillatum L.,5931,,1
+465,Groot blaasjeskruid,Utricularia vulgaris L.,8104,,1
+466,Groot bronkruid,Montia fontana L.,6440,,1
+467,Groot glaskruid,Parietaria officinalis L.,6690,,1
+468,Groot heksenkruid,Circaea lutetiana L.,4916,,1
+469,Groot hoefblad,"Petasites hybridus (L.) Gaertn., B. Mey.",6726,,1
+470,Groot kaasjeskruid,Malva sylvestris L.,6305,,1
+471,Groot koeienoog,Telekia speciosa (Schreb.) Baumg.,7917,,1
+472,Groot moerasscherm,Apium nodiflorum (L.) Lag.,4197,,1
+473,Groot nimfkruid,Najas marina L.,6481,,1
+474,Groot spiegelklokje,Legousia speculum-veneris (L.) Chaix,6094,,1
+475,Groot springzaad,Impatiens noli-tangere L.,5936,,1
+476,Groot streepzaad,Crepis biennis L.,5072,,1
+477,Groot warkruid,Cuscuta europaea L.,5103,,1
+478,Grote bevernel,Pimpinella major (L.) Huds.,6816,,1
+479,Grote bosaaardbei,Fragaria moschata Weston,5582,,1
+480,Grote boterbloem,Ranunculus lingua L.,7128,,1
+481,Grote brandnetel,Urtica dioica L.,8094,,1
+482,Grote bremraap,Orobanche rapum-genistae Thuill.,6630,,1
+483,Grote centaurie,Centaurea scabiosa L.,4796,,1
+484,Grote egelskop,Sparganium erectum L.,7776,,1
+485,Grote engelwortel,Angelica archangelica L.,4155,,1
+486,Grote ereprijs,Veronica persica Poiret,8178,,1
+487,Grote kaardenbol,Dipsacus fullonum L.,5240,,1
+488,Grote kattenstaart,Lythrum salicaria L.,6279,,1
+489,Grote keverorchis,Listera ovata (L.) R. Brown,6184,,1
+490,Grote klaproos,Papaver rhoeas L.,6678,,1
+491,Grote klit,Arctium lappa L.,4218,,1
+492,Grote kroosvaren,Azolla filiculoides Lam.,4385,,1
+493,Grote leeuwenbek,Antirrhinum majus L.,4185,,1
+494,Grote leeuwenklauw,Aphanes arvensis L.,4192,,1
+495,Grote lisdodde,Typha latifolia L.,8075,,1
+496,Grote maagdenpalm,Vinca major L.,8227,,1
+497,Grote muggeorchis,Gymnadenia conopsea (L.) R. Brown,5756,,1
+498,Grote muur,Stellaria holostea L.,7829,,1
+499,Grote pimpernel,Sanguisorba officinalis L.,7477,,1
+500,Grote ratelaar,Rhinanthus angustifolius C.C. Gmel.,7177,,1
+501,Grote stekelnoot,Xanthium orientale L.,8280,,1
+502,Grote teunisbloem,Oenothera glazioviana Micheli,6553,,1
+503,Grote tijm,Thymus pulegioides L.,7957,,1
+504,Grote veldbies,Luzula sylvatica (Huds.) Gaudin,6247,,1
+505,Grote vossenstaart,Alopecurus pratensis L.,4042,,1
+506,Grote watereppe,Sium latifolium L.,7707,,1
+507,Grote waternavel,Hydrocotyle ranunculoides L. f.,5888,,1
+508,Grote waterranonkel,Ranunculus peltatus Schrank,7134,,1
+509,Grote waterweegbree,Alisma plantago-aquatica L.,4014,,1
+510,Grote wederik,Lysimachia vulgaris L.,6275,,1
+511,Grote weegbree,Plantago major L.,6849,,1
+512,Grote windhalm,Apera spica-venti (L.) Beauv.,4190,,1
+513,Grote wolfsklauw,Lycopodium clavatum L.,6258,,1
+514,Grote zandkool,Diplotaxis tenuifolia (L.) DC.,5237,,1
+515,Grove den,Pinus sylvestris L.,6832,,1
+516,Grove varkenskers,Coronopus squamatus (Forssk.) Aschers.,5016,,1
+517,Gulden boterbloem,Ranunculus auricomus L.,7114,,1
+518,Gulden sleutelbloem,Primula veris L.,7019,,1
+519,Haagbeuk,Carpinus betulus L.,4749,,1
+520,Haagwinde,Calystegia sepium (L.) R. Brown,4592,,1
+521,Haaksterrenkroos,Callitriche hamulata Ktz. ex Koch,4577,,1
+522,Haarfonteinkruid,Potamogeton trichoides Cham. et Schlecht,6987,,1
+523,Handjesereprijs,Veronica triphyllos L.,8189,,1
+524,Hanenpoot,Echinochloa crus-galli (L.) Beauv.,5286,,1
+525,Hangende zegge,Carex pendula Huds.,4719,,1
+526,Harig knopkruid,Galinsoga quadriradiata Ruiz et Pav.,5637,,1
+527,Harig vingergras,Digitaria sanguinalis (L.) Scop.,5215,,1
+528,Harig wilgenroosje,Epilobium hirsutum L.,5361,,1
+529,Harige ratelaar,Rhinanthus alectorolophus (Scop.) Pollic,7176,,1
+530,Harlekijn,Orchis morio L.,6592,,1
+531,Hartgespan,Leonurus cardiaca L.,6108,,1
+532,Hazelaar,Corylus avellana L.,5025,,1
+533,Hazenpootje,Trifolium arvense L.,8005,,1
+534,Hazezegge,Carex ovalis Good.,4714,,1
+535,Heelbeen,Holosteum umbellatum L.,5866,,1
+536,Heelblaadjes,Pulicaria dysenterica (L.) Bernh.,7074,,1
+537,Heelkruid,Sanicula europaea L.,7479,,1
+538,Heen,Scirpus maritimus L.,7538,,1
+539,Heermoes,Equisetum arvense L.,5389,,1
+540,Heesterganzerik,Potentilla fruticosa L.,6997,,1
+541,Heggendoornzaad,Torilis japonica (Houtt.) DC.,7972,,1
+542,Heggenduizendknoop,Fallopia dumetorum (L.) Holub,6917,,1
+543,Heggenrank,Bryonia dioica Jacq.,4523,,1
+544,Heggenwikke,Vicia sepium L.,8213,,1
+545,Heidekartelblad,Pedicularis sylvatica L.,6714,,1
+546,Heidespurrie,Spergula morisonii Boreau,7785,,1
+547,Heksenmelk,Euphorbia esula L.,5482,,1
+548,Helm,Ammophila arenaria (L.) Link,4111,,1
+549,Hemelboom,Aillanthus altissima (Mill.) Swingle,3988,,1
+550,Hemelsleutel,Sedum telephium L.,7591,,1
+551,Hengel,Melampyrum pratense L.,6343,,1
+552,Hennegras,Calamagrostis canescens (Weber) Roth,4556,,1
+553,Hennepnetel species,Galeopsis species,5632,,1
+554,Hennepvreter,Orobanche ramosa L.,6629,,1
+555,Herfstadonis,Adonis annua L.,3943,,1
+556,Herfstalsem,Artemisia verlotiorum Lamotte,4275,,1
+557,Herfstschroeforchis,Spiranthes spiralis (L.) Chevall.,7811,,1
+558,Herfsttijloos,Colchicum autumnale L.,4960,,1
+559,Herik,Sinapis arvensis L.,7688,,1
+560,Hertshoornweegbree,Plantago coronopus L.,6846,,1
+561,Hertsmunt,Mentha longifolia L.,6371,,1
+562,Hoenderbeet,Lamium amplexicaule L.,6045,,1
+563,Hoge cyperzegge,Carex pseudocyperus L.,4723,,1
+564,Hoge fijnstraal,Conyza sumatrensis (Retz.) E. Walker,4991,,1
+565,Hokjespeul,Astragalus glycyphyllos L.,4333,,1
+566,Holpijp,Equisetum fluviatile L.,5390,,1
+567,Hommelorchis,Ophrys fuciflora (F.W. Schmidt) Moench,6582,,1
+568,Hondsdraf,Glechoma hederacea L.,5723,,1
+569,Hondskruid,Anacamptis pyramidalis (L.) L.C.M. Rich.,4118,,1
+570,Hondspeterselie,Aethusa cynapium L.,3962,,1
+571,Hondsroos,Rosa 'canina' groep,7225,,1
+572,Hondstarwegras,Elymus caninus (L.) L.,5343,,1
+573,Hondsviooltje,Viola canina L.,8237,,1
+574,Hongaars havikskruid,Hieracium bauhinii Schult. ex Besser,5837,,1
+575,Hongaarse raket,Sisymbrium altissimum L.,7694,,1
+576,Honingorchis,Herminium monorchis (L.) R. Brown,5810,,1
+577,Hoog struisgras,Agrostis gigantea Roth,3974,,1
+578,Hop,Humulus lupulus L.,5884,,1
+579,Hopboom,Ptelea trifoliata L.,7057,,1
+580,Hopklaver,Medicago lupulina L.,6327,,1
+581,Hulst,Ilex aquifolium L.,5927,,1
+582,Hyssop,Hyssopus officinalis L.,5921,,1
+583,IJle dravik,Bromus sterilis L.,4519,,1
+584,IJle zegge,Carex remota Jusl. ex L.,4727,,1
+585,Ijzerhard,Verbena officinalis L.,8149,,1
+586,Ingesneden dovenetel,Lamium hybridum Vill.,6047,,1
+587,Italiaans raaigras,Lolium multiflorum Lam.,6198,,1
+588,Italiaanse aronskelk,Arum italicum Mill.,4280,,1
+589,Jakobskruiskruid,Senecio jacobaea L.,7611,,1
+590,Japanse duizendknoop,Fallopia japonica (Houtt.) Ronse Decraen,6916,,1
+591,Japanse lork,Lariks kaempferi,6060,,1
+592,Jeneverbes,Juniperus communis L.,6012,,1
+593,Kaal breukkruid,Herniaria glabra L.,5814,,1
+594,Kaal knopkruid,Galinsoga parviflora Cav.,5636,,1
+595,Kale gierst,Panicum dichotomiflorum Michaux,6661,,1
+596,Kale jonker,Cirsium palustre (Huds.) Druce,4925,,1
+597,Kale vrouwenmantel,Alchemilla glabra Neygenf.,4003,,1
+598,Kalkbedstro,Asperula cynanchica L.,4292,,1
+599,Kalketrip,Centaurea calcitrapa L.,4778,,1
+600,Kalkwalstro,Galium pumilum Murray,5657,,1
+601,Kalmia angustifolia L.,Kalmia angustifolia L.,6014,,1
+602,Kalmoes,Acorus calamus L.,3933,,1
+603,Kamvaren,Dryopteris cristata (L.) A. Gray,5270,,1
+604,Kandelaartje,Saxifraga tridactylites L.,7500,,1
+605,Kantig hertshooi,Hypericum dubium Leers,5900,,1
+606,Kantige basterdwederik,Epilobium tetragonum L.,5369,,1
+607,Karwijselie,Selinum carvifolia (L.) L.,7597,,1
+608,Karwijvarkenskervel,Peucedanum carvifolia Vill.,6738,,1
+609,Kattedoorn,Ononis spinosa L.,6574,,1
+610,Katwilg,Salix viminalis L.,7428,,1
+611,Kegelsilene,Silene conica L.,7661,,1
+612,Kerspruim,Prunus cerasifera Ehrh.,7030,,1
+613,Kievitsbloem,Fritillaria meleagris L.,5595,,1
+614,Kikkerbeet,Hydrocharis morsus-ranae L.,5891,,1
+615,Klavervreter,Orobanche minor Smith,6626,,1
+616,Kleefkruid,Galium aparine L.,5639,,1
+617,Klein blaasjeskruid,Utricularia minor L.,8101,,1
+618,Klein bronkruid,Montia minor C.C. Gmel.,6439,,1
+619,Klein fonteinkruid,Potamogeton berchtoldii Fieb.,6971,,1
+620,Klein glaskroos,Elatine hydropiper L.,5318,,1
+621,Klein glaskruid,Parietaria judaica L.,6689,,1
+622,Klein glidkruid,Scutellaria minor Huds.,7571,,1
+623,Klein hoefblad,Tussilago farfara L.,8072,,1
+624,Klein kaasjeskruid,Malva neglecta Wallr.,6300,,1
+625,Klein kroos,Lemna minor L.,6096,,1
+626,Klein kruiskruid,Senecio vulgaris L.,7620,,1
+627,Klein liefdegras,Eragrostis minor Host,5404,,1
+628,Klein nimfkruid,Najas minor All.,6482,,1
+629,Klein robertskruid,Geranium purpureum Vill.,5702,,1
+630,Klein slijkgras,Spartina maritima (Curt.) Fernald,7781,,1
+631,Klein spiegelklokje,Legousia hybrida (L.) Delarbre,6092,,1
+632,Klein springzaad,Impatiens parviflora DC.,5937,,1
+633,Klein sterrenkroos,Callitriche palustris L.,4579,,1
+634,Klein streepzaad,Crepis capillaris (L.) Wallr.,5073,,1
+635,Klein tasjeskruid,Teesdalia nudicaulis (L.) R. Brown,7914,,1
+636,Klein timoteegras,Phleum bertolonii DC.,6766,,1
+637,Klein vlooiekruid,Pulicaria vulgaris Gaertn.,7076,,1
+638,Klein vogelpootje,Ornithopus perpusillus L.,6615,,1
+639,Klein warkruid,Cuscuta epithymum (L.) L.,5102,,1
+640,Klein wintergroen,Pyrola minor L.,7087,,1
+641,Klein zeegras,Zostera noltii Hornem.,8301,,1
+642,Kleine bevernel,Pimpinella saxifraga L.,6820,,1
+643,Kleine biesvaren,Isoetes echinospora Durieu,5964,,1
+644,Kleine brandnetel,Urtica urens L.,8097,,1
+645,Kleine duizendknoop,Polygonum minus Huds.,6925,,1
+646,Kleine egelskop,Sparganium emersum Rehm.,7774,,1
+647,Kleine kaardenbol,Dipsacus pilosus L.,5242,,1
+648,Kleine klaver,Trifolium dubium Sibth.,8011,,1
+649,Kleine klit,Arctium minus (Hill) Bernh.,4219,,1
+650,Kleine leeuwenbek,Chaenorrhinum minus (L.) Lange,4841,,1
+651,Kleine leeuwenklauw,Aphanes inexspectata W. Lippert,4193,,1
+652,Kleine leeuwentand,Leontodon saxatilis Lam.,6106,,1
+653,Kleine lisdodde,Typha angustifolia L.,8074,,1
+654,Kleine maagdenpalm,Vinca minor L.,8228,,1
+655,Kleine maanvaren,Botrychium simplex Hitchc.,4462,,1
+656,Kleine majer,Amaranthus blitum L.,4068,,1
+657,Kleine ooievaarsbek,Geranium pusillum L.,5703,,1
+658,Kleine pimpernel,Sanguisorba minor Scop.,7474,,1
+659,Kleine ratelaar,Rhinanthus minor L.,7178,,1
+660,Kleine roos,Rosa micrantha Borrer ex Smith,7236,,1
+661,Kleine ruit,Thalictrum minus L.,7931,,1
+662,Kleine rupsklaver,Medicago minima (L.) L.,6329,,1
+663,Kleine schorseneer,Scorzonera humilis L.,7557,,1
+664,Kleine steentijm,Acinos arvensis (Lam.) Dandy,7488,,1
+665,Kleine teunisbloem,Oenothera parviflora L.,6555,,1
+666,Kleine valeriaan,Valeriana dioica L.,8121,,1
+667,Kleine varkenskers,Coronopus didymus (L.) Smith,5014,,1
+668,Kleine veenbes,Vaccinium oxycoccos L.,6653,,1
+669,Kleine veldkers,Cardamine hirsuta L.,4639,,1
+670,Kleine watereppe,Berula erecta (Huds.) Coville,4419,,1
+671,Kleine waterranonkel,Ranunculus trichophyllus Chaix,7107,,1
+672,Kleine wolfsklauw,Diphasiastrum tristachyum (Pursh) Holub,6264,,1
+673,Kleine wolfsmelk,Euphorbia exigua L.,5484,,1
+674,Kleine zandkool,Diplotaxis muralis (L.) DC.,5235,,1
+675,Kleine zonnedauw,Drosera intermedia Hayne,5261,,1
+676,Kleinste egelskop,Sparganium natans L.,7777,,1
+677,Kleverig kruiskruid,Senecio viscosus L.,7619,,1
+678,Kleverige ogentroost,Parentucellia viscosa (L.) Caruel,6688,,1
+679,Kleverige reigersbek,Erodium lebelii Jord.,5436,,1
+680,Klimop,Hedera helix L.,5770,,1
+681,Klimopbremraap,Orobanche hederae Duby,6624,,1
+682,Klimopereprijs,Veronica hederifolia L.,8170,,1
+683,Klimopklokje,Wahlenbergia hederacea (L.) Reichenb.,8269,,1
+684,Klimopwaterranonkel,Ranunculus hederaceus L.,7126,,1
+685,Klokjesgentiaan,Gentiana pneumonanthe L.,5683,,1
+686,Kluwenhoornbloem,Cerastium glomeratum Thuill.,4824,,1
+687,Kluwenzuring,Rumex conglomeratus Murray,7335,,1
+688,Knikkend nagelkruid,Geum rivale L.,5715,,1
+689,Knikkend tandzaad,Bidens cernua L.,4432,,1
+690,Knikkende distel,Carduus nutans L.,4658,,1
+691,Knolbeemdgras,Poa bulbosa L.,6866,,1
+692,Knolboterbloem,Ranunculus bulbosus L.,7117,,1
+693,Knolcyperus,Cyperus esculentus L.,5129,,1
+694,Knollathyrus,Lathyrus linifolius (Reichard) B„ssler,6073,,1
+695,Knolrus,Juncus bulbosus L.,5991,,1
+696,Knolsteenbreek,Saxifraga granulata L.,7495,,1
+697,Knolvossenstaart,Alopecurus bulbosus Gouan,4039,,1
+698,Knoopkruid,Centaurea L. subgenus Jacea,4785,,1
+699,Knopbies,Schoenus nigricans L.,7516,,1
+700,Knopherik,Raphanus raphanistrum L.,7146,,1
+701,Knopig doornzaad,Torilis nodosa (L.) Gaertn.,7974,,1
+702,Knopig helmkruid,Scrophularia nodosa L.,7560,,1
+703,Koekruid,Vaccaria hispanica (Mill.) Rauschert,8105,,1
+704,Kogelbies,Scirpus holoschoenus L.,7533,,1
+705,Kokardebloem,Gaillardia x grandiflora Van Houtte,5616,,1
+706,Kompassla,Lactuca serriola L.,6035,,1
+707,Koninginnenkruid,Eupatorium cannabinum L.,5470,,1
+708,Koningskaars,Verbascum thapsus L.,8141,,1
+709,Koningsvaren,Osmunda regalis L.,6638,,1
+710,Koprus,Juncus capitatus Weigel,5993,,1
+711,Koraalmeidoorn,Crataegus rhipidophylla Gandoger,5069,,1
+712,Korenbloem,Centaurea cyanus L.,4779,,1
+713,Korenschijnspurrie,Delia segetalis (L.) Dum.,7792,,1
+714,Korensla,Arnoseris minima (L.) Schweigg. et K”rte,4250,,1
+715,Korrelganzenvoet,Chenopodium polyspermum L.,4879,,1
+716,Kraagroos,Rosa agrestis Savi,7217,,1
+717,Kraailook,Allium vineale L.,4032,,1
+718,Kraakwilg,Salix 'fragilis' groep,7410,,1
+719,Krabbescheer,Stratiotes aloides L.,7848,,1
+720,Kranskarwij,Carum verticillatum (L.) Koch,4757,,1
+721,Kransmuur,Polycarpon tetraphyllum (L.) L.,6884,,1
+722,Kransnaaldaar,Setaria verticillata (L.) Beauv.,7642,,1
+723,Kranssalie,Salvia verticillata L.,7460,,1
+724,Kransvederkruid,Myriophyllum verticillatum L.,6478,,1
+725,Kromhals,Anchusa arvensis (L.) Bieb.,4134,,1
+726,Kroontjeskruid,Euphorbia helioscopia L.,5487,,1
+727,Kruidvlier,Sambucus ebulus L.,7465,,1
+728,Kruipbrem,Genista pilosa L.,5678,,1
+729,Kruipend moerasscherm,Apium repens (Jacq.) Lag.,4198,,1
+730,Kruipend stalkruid,Ononis repens L.,6573,,1
+731,Kruipend zenegroen,Ajuga reptans L.,3998,,1
+732,Kruipende boterbloem,Ranunculus repens L.,7138,,1
+733,Kruipertje,Hordeum murinum L.,5875,,1
+734,Kruipganzerik,Potentilla anglica Laichard.,6993,,1
+735,Kruipwilg,Salix repens L.,7419,,1
+736,Kruisbes,Ribes uva-crispa L.,7199,,1
+737,Kruisbladige wolfsmelk,Euphorbia lathyrus L.,5490,,1
+738,Kruisbladwalstro,Cruciata laevipes Opiz,5089,,1
+739,Kruismuur,"Moenchia erecta (L.) Gaertn., B. Mey. et",6422,,1
+740,Kruldistel,Carduus crispus L.,4654,,1
+741,Krulzuring,Rumex crispus L.,7336,,1
+742,Kuifhyacint,Muscari comosum (L.) Mill.,6451,,1
+743,Kuifvleugeltjesbloem,Polygala comosa Schkuhr,6896,,1
+744,Kustmelde,Atriplex glabriuscula Edmondst.,4342,,1
+745,Kweek,Elymus repens (L.) Gould.,5345,,1
+746,Kweekdravik,Bromus inermis Leyss.,4500,,1
+747,Kwelderzegge,Carex extensa Good.,4691,,1
+748,Kwispelgerst,Hordeum jubatum L.,5872,,1
+749,Laksteeltje,Catapodium marinum (L.) C.E. Hubbard,5197,,1
+750,Lamsoor,Limonium vulgare Mill.,6150,,1
+751,Lancetbladige basterdwederik,Epilobium lanceolatum Seb. et Mauri,5362,,1
+752,Lange ereprijs,Veronica longifolia L.,8173,,1
+753,Lange zonnedauw,Drosera longifolia L.,5262,,1
+754,Langgenaald langbaardgras,Vulpia membranacea (L.) Dum.,8266,,1
+755,Langstengelig fonteinkruid,Potamogeton praelongus Wulfen,6984,,1
+756,Late guldenroede,Solidago gigantea Ait.,7740,,1
+757,Lathyruswikke,Vicia lathyroides L.,8203,,1
+758,Laurierwilg,Salix pentandra L.,7414,,1
+759,Lavendelhei,Andromeda polifolia L.,4139,,1
+760,Lelietje-van-dalen,Convallaria majalis L.,4982,,1
+761,Lenteklokje,Leucojum vernum L.,6132,,1
+762,Lepidium heterophyllum Benth.,Lepidium heterophyllum Benth.,6115,,1
+763,Lidrus,Equisetum palustre L.,5392,,1
+764,Lidsteng,Hippuris vulgaris L.,5859,,1
+765,Liesgras,Glyceria maxima (Hartm.) Holmberg,5729,,1
+766,Lievevrouwebedstro,Galium odoratum (L.) Scop.,5651,,1
+767,Liggend bergvlas,Thesium humifusum DC.,7938,,1
+768,Liggend hertshooi,Hypericum humifusum L.,5904,,1
+769,Liggend walstro,Galium saxatile L.,5659,,1
+770,Liggende ganzerik,Potentilla supina L.,7011,,1
+771,Liggende klaver,Trifolium campestre Schreb.,8008,,1
+772,Liggende leeuwenbek,Linaria supina (L.) Chazelles,6165,,1
+773,Liggende majer,Amaranthus deflexus L.,4075,,1
+774,Liggende vetmuur,Sagina procumbens L.,7375,,1
+775,Liggende vleugeltjesbloem,Polygala serpyllifolia Hose,6899,,1
+776,Lijsterbes (Wilde),Sorbus aucuparia L.,7760,,1
+777,Lonicera nitida Wils.,Lonicera nitida Wils.,6209,,1
+778,Loogkruid,Salsola kali L.,7449,,1
+779,Look-zonder-look,Alliaria petiolata (Bieb.) Cavara et Gra,4016,,1
+780,Loos blaasjeskruid,Utricularia australis R. Brown,8099,,1
+781,Lork species,Lariks species,6061,,1
+782,Luzerne,Medicago sativa L.,6335,,1
+783,Maarts viooltje,Viola odorata L.,8245,,1
+784,Madelieffiijnstraal,Erigeron annuus (L.) Desf.,5420,,1
+785,Madeliefje,Bellis perennis L.,4408,,1
+786,Mahonia,Mahonia aquifolium (Pursh) Nutt.,6284,,1
+787,Malrove,Marrubium vulgare L.,6312,,1
+788,Mannagras,Glyceria fluitans (L.) R. Brown,5728,,1
+789,Mannetjesereprijs,Veronica officinalis L.,8175,,1
+790,Mannetjesorchis,Orchis mascula (L.) L.,6590,,1
+791,Mannetjesvaren,Dryopteris filix-mas (L.) Schott,5275,,1
+792,Mantelanjer,Petrorhagia prolifera (L.) P.W. Ball et,6731,,1
+793,Maretak,Viscum album L.,8255,,1
+794,Margriet,Leucanthemum vulgare Lam.,6126,,1
+795,Mattenbies,Scirpus lacustris L.,7536,,1
+796,Meidoorn species,Crataegus species,5070,,1
+797,Melganzenvoet,Chenopodium album L.,4859,,1
+798,Melige toorts,Verbascum lychnitis L.,8135,,1
+799,Melkeppe,Peucedanum palustre (L.) Moench,6745,,1
+800,Melkkruid,Glaux maritima L.,5721,,1
+801,Melkviooltje,Viola lactea Smith,8243,,1
+802,Middelste ganzerik,Potentilla intermedia L.,6999,,1
+803,Middelste klit,Arctium pubens Bab.,4222,,1
+804,Middelste teunisbloem,Oenothera biennis L.,6551,,1
+805,Mierikswortel,"Armoracia rusticana Gaertn., B. Mey. et",4246,,1
+806,Mispel,Mespilus germanica L.,6399,,1
+807,Moederkruid,Tanacetum parthenium (L.) Schultz-Bip.,7885,,1
+808,Moerasandijvie,Senecio congestus (R. Brown) DC.,7605,,1
+809,Moerasandoorn,Stachys palustris L.,7821,,1
+810,Moerasbasterdwederik,Epilobium palustre L.,5365,,1
+811,Moerasbeemdgras,Poa palustris L.,6872,,1
+812,Moerasdroogbloem,Gnaphalium uliginosum L.,5741,,1
+813,Moeraseik,Quercus palustris L.,7097,,1
+814,Moerasgamander,Teucrium scordium L.,7925,,1
+815,Moerashertshooi,Hypericum elodes L.,5901,,1
+816,Moeraskartelblad,Pedicularis palustris L.,6712,,1
+817,Moeraskers,Rorippa palustris (L.) Besser,7212,,1
+818,Moeraskruiskruid,Senecio paludosus L.,7613,,1
+819,Moeraslathyrus,Lathyrus palustris L.,6079,,1
+820,Moerasmelkdistel,Sonchus palustris L.,7751,,1
+821,Moerasmuur,Stellaria alsine Grimm,7840,,1
+822,Moerasooievaarsbek,Geranium palustre L.,5699,,1
+823,Moerasorchis,Orchis palustris Jacq.,6593,,1
+824,Moeraspaardebloem,Taraxacum Wiggers sectie Palustria (Lind,7900,,1
+825,Moerasrolklaver,Lotus pedunculatus Cav.,6223,,1
+826,Moerassmele,Deschampsia setacea (Huds.) Hack.,5193,,1
+827,Moerasspirea,Filipendula ulmaria (L.) Maxim.,5574,,1
+828,Moerasstreepzaad,Crepis paludosa (L.) Moench,5076,,1
+829,Moerasstruisgras,Agrostis canina L.,3971,,1
+830,Moerasvaren,Thelypteris palustris Schott,7934,,1
+831,Moerasvergeet-mij-nietje,Myosotis scorpioides L.,6462,,1
+832,Moerasviooltje,Viola palustris L.,8246,,1
+833,Moeraswalstro,Galium palustre L.,5652,,1
+834,Moeraswederik,Lysimachia thyrsiflora L.,6274,,1
+835,Moerasweegbree,Baldellia ranunculoides (L.) Parl.,4389,,1
+836,Moeraswespeorchis,Epipactis palustris (L.) Crantz,5385,,1
+837,Moeraswolfsklauw,Lycopodiella inundata (L.) Holub,6260,,1
+838,Moeraszegge,Carex acutiformis Ehrh.,4662,,1
+839,Moeraszoutgras,Triglochin palustre L.,8046,,1
+840,Moeraszuring,Rumex palustris Smith,7345,,1
+841,Moesdistel,Cirsium oleraceum (L.) Scop.,4924,,1
+842,Moeslook,Allium oleraceum L.,4022,,1
+843,Mosbloempje,Crassula tillaea Lester-Garland,5060,,1
+844,Mottekruid,Verbascum blattaria L.,8131,,1
+845,Muisdoorn,Ruscus aculeatus L.,7364,,1
+846,Muizenoor,Hieracium pilosella L.,5839,,1
+847,Muizenstaart,Myosurus minimus L.,6469,,1
+848,Muskuskaasjeskruid,Malva moschata L.,6299,,1
+849,Muskuskruid,Adoxa moschatellina L.,3946,,1
+850,Muurbloem,Erysimum cheiri (L.) Crantz,5461,,1
+851,Muurbloemmosterd,Coincya monensis (L.) Greuter et Burdet,4958,,1
+852,Muurduivekervel,Fumaria muralis Sond. ex Koch,5602,,1
+853,Muurfijnstraal,Erigeron karvinskianus DC.,5422,,1
+854,Muurganzenvoet,Chenopodium murale L.,4877,,1
+855,Muurhavikskruid,Hieracium murorum L.,5836,,1
+856,Muurleeuwenbek,"Cymbalaria muralis Gaertn., B. Mey. et S",5114,,1
+857,Muurpeper,Sedum acre L.,7575,,1
+858,Muursla,Mycelis muralis (L.) Dum.,6454,,1
+859,Muurvaren,Asplenium ruta-muraria L.,4303,,1
+860,Naakte lathyrus,Lathyrus aphaca L.,6069,,1
+861,Naaldekervel,Scandix pecten-veneris L.,7509,,1
+862,Naaldwaterbies,Eleocharis acicularis (L.) Roem. et Schu,5321,,1
+863,Nachtkoekoeksbloem,Silene noctiflora L.,7668,,1
+864,Nachtsilene,Silene nutans L.,7670,,1
+865,Nerfamarant,Amarathus blitoides S. Watson,4067,,1
+866,Noordse streepvaren,Asplenium septentrionale (L.) Hoffmann,4305,,1
+867,Noorse esdoorn,Acer platanoides L.,3913,,1
+868,Noorse ganzerik,Potentilla norvegica L.,7003,,1
+869,Oenothera deflexa Gates,Oenothera deflexa Gates,6552,,1
+870,Oeverdistel,Cirsium rivulare (Jacq.) All.,4926,,1
+871,Oeverkruid,Littorella uniflora (L.) Aschers.,6190,,1
+872,Oeverzegge,Carex riparia Curt.,4728,,1
+873,Onbekend loofhout,Loofhout species,,,1
+874,Onbekend naaldhout,Naaldhout species,,,1
+875,Onbekende boomsoort,Onbekende boomsoort,,,1
+876,Onbekende kruidsoort,Kruidsoort species,,,1
+877,Onderaardse klaver,Trifolium subterraneum L.,8042,,1
+878,Ondergedoken moerasscherm,Apium inundatum (L.) Reichenb. f.,4196,,1
+879,Ongelijkbladig fonteinkruid,Potamogeton gramineus L.,6975,,1
+880,Oostenrijkse en Pyreneese raket,Sisymbrium austriacum Jacq.,7695,,1
+881,Oostenrijkse kers,Rorippa austriaca (Crantz) Besser,7208,,1
+882,Oosterse karmozijnbes,Phytolacca esculenta Van Houtte,6802,,1
+883,Oosterse raket,Sisymbrium orientale L.,7700,,1
+884,Oot,Avena fatua L.,4370,,1
+885,Opstijgende steentijm,Calamintha ascendens Jord.,4551,,1
+886,Oranje havikskruid,Hieracium aurantiacum L.,5826,,1
+887,Oranjelelie,Lilium bulbiferum L. subsp. croceum (Cha,6140,,1
+888,Overblijvende hardbloem,Scleranthus perennis L.,7549,,1
+889,Overblijvende ossentong,Pentaglottis sempervirens (L.) Tausch ex,6718,,1
+890,Paarbladig fonteinkruid,Groenlandia densa (L.) Fourr.,5749,,1
+891,Paarbladig goudveil,Chrysosplenium oppositifolium L.,4898,,1
+892,Paardebloem,Taraxacum Wiggers sectie Subvulgaria Chr,7906,,1
+893,Paardebloemstreepzaad,Crepis polymorpha Pourr.,5082,,1
+894,Paardekastanje,Aesculus hippocastanum,3957,,1
+895,Paarse dovenetel,Lamium purpureum L.,6048,,1
+896,Paarse schubwortel,Lathraea clandestina L.,6065,,1
+897,Padderus,Juncus subnodulosus Schrank,6006,,1
+898,Papegaaiekruid,Amaranthus retroflexus L.,4088,,1
+899,Parelvederkruid,Myriophyllum aquaticum (Velloso) Verdc.,6474,,1
+900,Parnassia,Parnassia palustris L.,6694,,1
+901,Peen,Daucus carota L.,5181,,1
+902,Penningkruid,Lysimachia nummularia L.,6271,,1
+903,Penseelbladige waterranonkel,Ranunculus penicillatus (Dum.) Bab.,7136,,1
+904,Peperkers,Lepidium latifolium L.,6116,,1
+905,Perzikbladig viooltje,Viola persicifolia Schreb.,8247,,1
+906,Perzikkruid,Polygonum persicaria L.,6929,,1
+907,Pijlkruid,Sagittaria sagittifolia L.,7379,,1
+908,Pijlkruidkers,Cardaria draba (L.) Desv.,4631,,1
+909,Pijpbloem,Aristolochia clematitis L.,4238,,1
+910,Pijpenstrootje,Molinia caerulea (L.) Moench,6425,,1
+911,Pijptorkruid,Oenanthe fistulosa L.,6544,,1
+912,Pilvaren,Pilularia globulifera L.,6813,,1
+913,Pilzegge,Carex pilulifera L.,4720,,1
+914,Pinksterbloem,Cardamine pratensis L.,4644,,1
+915,Pitrus,Juncus effusus L.,5996,,1
+916,Plat beemdgras,Poa compressa L.,6868,,1
+917,Plat blaasjeskruid,Utricularia intermedia Hayne,8100,,1
+918,Plat fonteinkruid,Potamogeton compressus L.,6973,,1
+919,Platte bies,Blysmus compressus (L.) Panzer ex Link,7527,,1
+920,Platte rus,Juncus compressus Jacq.,5994,,1
+921,Pluimzegge,Carex paniculata L.,4715,,1
+922,Poelruit,Thalictrum flavum L.,7929,,1
+923,Polei,Mentha pulegium L.,6374,,1
+924,Pontische rododendron,Rhododendron ponticum L.,7185,,1
+925,Poppenorchis,Aceras anthropophorum (L.) Ait. f.,3918,,1
+926,Populier species,Populus species,6959,,1
+927,Prachtklokje,Campanula persicifolia L.,4610,,1
+928,Priemkruid,Subularia aquatica L.,7853,,1
+929,Puntig fonteinkruid,Potamogeton friesii Rupr.,6977,,1
+930,Puntkroos,Lemna trisulca L.,6099,,1
+931,Purperochis,Orchis purpurea Huds.,6594,,1
+932,Rankende duivekervel,Fumaria capreolata L.,5599,,1
+933,Rankende helmbloem,Ceratocapnos claviculata (L.) Lid‚n,4814,,1
+934,Rapunzelklokje,Campanula rapunculus L.,4614,,1
+935,Ratelpopulier,Populus tremula L.,6960,,1
+936,Rechte driehoeksvaren,Gymnocarpium robertianum (Hoffmann) Newm,5760,,1
+937,Rechte ganzerik,Potentilla recta L.,7005,,1
+938,Reukeloze kamille,Matricaria maritima L.,6314,,1
+939,Reuzenbalsemien,Impatiens glandulifera Royle,5935,,1
+940,Reuzenberenklauw,Heracleum mantegazzianum Somm. et Lev.,5803,,1
+941,Reuzenpaardenstaart,Equisetum telmateia Ehrh.,5396,,1
+942,Reuzenzwenkgras,Festuca gigantea (L.) Vill.,5536,,1
+943,Ribes odoratum H.L. Wendl.,Ribes odoratum H.L. Wendl.,7193,,1
+944,Ribes sanguineum Pursh,Ribes sanguineum Pursh,7196,,1
+945,Ribes spicatum E. Robson,Ribes spicatum E. Robson,7198,,1
+946,Ridderzuring,Rumex obtusifolius L.,7341,,1
+947,Riempjes,Corrigiola litoralis L.,5017,,1
+948,Riet,Phragmites australis (Cav.) Steud.,6773,,1
+949,Rietgras,Phalaris arundinacea L.,6750,,1
+950,Rietorchis,Dactylorhiza praetermissa (Druce) So¢,5157,,1
+951,Rietzwenkgras,Festuca arundinacea Schreb.,5533,,1
+952,Rijsbes,Vaccinium uliginosum L.,8111,,1
+953,Rijstgras,Leersia oryzoides (L.) Swartz,6090,,1
+954,Rimpelroos,Rosa rugosa Thunb.,7243,,1
+955,Ringelwikke,Vicia hirsuta (L.) S.F. Gray,8201,,1
+956,Rivierfonteinkruid,Potamogeton nodosus Poiret,6979,,1
+957,Rivierkruiskruid,Senecio sarracenicus L.,7607,,1
+958,Robinia (Gewone),Robinia pseudoacacia L.,7203,,1
+959,Rode aardebeispinazie,Chenopodium foliosum Aschers.,4870,,1
+960,Rode bosbes,Vaccinium vitis-idaea L.,8112,,1
+961,Rode dophei,Erica cinerea L.,5415,,1
+962,Rode ganzenvoet,Chenopodium rubrum L.,4884,,1
+963,Rode kamperfoelie,Lonicera xylosteum L.,6214,,1
+964,Rode klaver,Trifolium pratense L.,8031,,1
+965,Rode kornoelje,Cornus sanguinea L.,5006,,1
+966,Rode ogentroost,Odontites vernus (Bellardi) Dum.,6539,,1
+967,Rode schijnspurrie,Spergularia rubra (L.) J. et C. Presl,7789,,1
+968,Rode spoorbloem,Centranthus ruber (L.) DC.,4806,,1
+969,Rond wintergroen,Pyrola rotundifolia L.,7088,,1
+970,Ronde ooievaarsbek,Geranium rotundifolium L.,5706,,1
+971,Ronde zegge,Carex diandra Schrank,4679,,1
+972,Ronde zonnedauw,Drosera rotundifolia L.,5263,,1
+973,Rood en blauw guichelheil,Anagallis arvensis L.,4127,,1
+974,Rood peperboompje,Daphne mezereum L.,5172,,1
+975,Rood zwenkgras,Festuca rubra L.,5555,,1
+976,Rosa multiflora Thunb. ex Murray,Rosa multiflora Thunb. ex Murray,7237,,1
+977,Rosa pseudoscabriuscula,Rosa pseudoscabriuscula,7241,,1
+978,Rosse vossenstaart,Alopecurus aequalis Sobol.,4038,,1
+979,Rossig fonteinkruid,Potamogeton alpinus Balb.,6970,,1
+980,Rossige wilg,Salix atrocinerea Brot.,7392,,1
+981,Roze vetkruid,Sedum spurium Bieb.,7590,,1
+982,Rozenkransje,Antennaria dioica (L.) Gaertn.,4160,,1
+983,Rozetsteenkers,Cardaminopsis arenosa (L.) Hayek,4648,,1
+984,Rubus laciniatus Willd.,Rubus laciniatus Willd.,7288,,1
+985,Ruig hertshooi,Hypericum hirsutum L.,5902,,1
+986,Ruig klokje,Campanula trachelium L.,4618,,1
+987,Ruig viooltje,Viola hirta L.,8241,,1
+988,Ruig zoutkruid,Bassia hirsuta (L.) Aschers.,4402,,1
+989,Ruige anjer,Dianthus armeria L.,5203,,1
+990,Ruige klaproos,Papaver argemone L.,6670,,1
+991,Ruige leeuwentand,Leontodon hispidus L.,6104,,1
+992,Ruige scheefkelk,Arabis hirsuta (L.) Scop.,4210,,1
+993,Ruige veldbies,Luzula pilosa (L.) Willd.,6245,,1
+994,Ruige weegbree,Plantago media L.,6851,,1
+995,Ruige zegge,Carex hirta L.,4696,,1
+996,Ruw beemdgras,Poa trivialis L.,6877,,1
+997,Ruw parelzaad,Lithospermum arvense L.,4527,,1
+998,Ruw vergeet-mij-nietje,Myosotis ramosissima Rochel ex Schult.,6463,,1
+999,Ruw walstro,Galium uliginosum L.,5665,,1
+1000,Ruwe berk,Betula pendula Roth,4427,,1
+1001,Ruwe bies,Scirpus tabernaemontani C.C. Gmel.,7537,,1
+1002,Ruwe dravik,Bromus ramosus Huds.,4506,,1
+1003,Ruwe iep,Ulmus glabra Huds.,8082,,1
+1004,Ruwe klaver,Trifolium scabrum L.,8036,,1
+1005,Ruwe smeerwortel,Symphytum 'asperum' groep,7860,,1
+1006,Ruwe smele,Deschampsia cespitosa (L.) Beauv.,5191,,1
+1007,Sachalinse duizendknoop,Fallopia sachalinensis (F. Schmidt Petro,6931,,1
+1008,Schaafstro,Equisetum hyemale L.,5391,,1
+1009,Schaduwgras,Poa nemoralis L.,6869,,1
+1010,Schaduwkruiskruid,"Senecio ovatus (Gaertn., B. Mey. et Sche",7612,,1
+1011,Schapezuring,Rumex acetosella L.,7332,,1
+1012,Schedefonteinkruid,Potamogeton pectinatus L.,6981,,1
+1013,Schedegeelster,Gagea spathacea (Hayne) Salisb.,5613,,1
+1014,Schermhavikskruid,Hieracium umbellatum L.,5844,,1
+1015,Schermscheefbloem,Iberis umbellata L.,5926,,1
+1016,Scherpe boterbloem,Ranunculus acris L.,7109,,1
+1017,Scherpe fijnstraal,Erigeron acer L.,5419,,1
+1018,Scherpe zegge,Carex acuta L.,4663,,1
+1019,Scheve hoornbloem,Cerastium diffusum Pers.,4819,,1
+1020,Schietwilg,Salix alba L.,7391,,1
+1021,Schijfkamille,Matricaria discoidea DC.,6313,,1
+1022,Schijnaardbei,Duchesnea indica (Andrews) Focke,5280,,1
+1023,Schildereprijs,Veronica scutellata L.,8184,,1
+1024,Schildzaad,Alyssum alyssoides (L.) L.,4057,,1
+1025,Schorrekruid,Suaeda maritima (L.) Dum.,7850,,1
+1026,Schorrezoutgras,Triglochin maritimum L.,8045,,1
+1027,Schraallandpaardebloem,Taraxacum Wiggers sectie Spectabilia (Da,7904,,1
+1028,Schubvaren,Ceterach officinarum Willd.,4837,,1
+1029,Schubzegge,Carex lepidocarpa Tausch,4702,,1
+1030,Sedum sarmentosum Bunge,Sedum sarmentosum Bunge,7586,,1
+1031,Selderij,Apium graveolens L.,4195,,1
+1032,Sierlijke vetmuur,Sagina nodosa (L.) Fenzl,7374,,1
+1033,Sikkelklaver,Medicago falcata L.,6325,,1
+1034,Sikkelkruid,Falcaria vulgaris Bernh.,5525,,1
+1035,Sint-janskruid,Hypericum perforatum L.,5910,,1
+1036,Slangekruid,Echium vulgare L.,5305,,1
+1037,Slangelook,Allium scorodoprasum L.,4027,,1
+1038,Slangewortel,Calla palustris L.,4573,,1
+1039,Slank wollegras,Eriophorum gracile Koch ex Roth,5429,,1
+1040,Slanke gentiaan,Gentianella uliginosa (Willd.) B”rner,5689,,1
+1041,Slanke sleutelbloem,Primula elatior (L.) Hill,7017,,1
+1042,Slanke waterbies,Eleocharis uniglumis (Link) Schult.,5327,,1
+1043,Slanke waterkers,Nasturtium microphyllum (Boenningh.) Rei,7210,,1
+1044,Slanke waterweegbree,Alisma lanceolatum With.,4013,,1
+1045,Slanke zegge,Carex strigosa Huds.,4732,,1
+1046,Sleedoorn,Prunus spinosa L.,7042,,1
+1047,Slijkgroen,Limosella aquatica L.,6151,,1
+1048,Slijkzegge,Carex limosa L.,4703,,1
+1049,Slipbladige ooievaarsbek,Geranium dissectum L.,5692,,1
+1050,Slofhak,Anthoxanthum aristatum Boiss.,4174,,1
+1051,Smal fakkelgras,Koeleria macrantha (Ledeb.) Schult.,6026,,1
+1052,Smal streepzaad,Crepis tectorum L.,5081,,1
+1053,Smal tandzaad,Bidens connata Muhlenb. ex Willd.,4433,,1
+1054,Smal vlieszaad,Corispermum leptopterum (Aschers.) Iljin,5002,,1
+1055,Smalle aster,Aster lanceolatus Willd.,4316,,1
+1056,Smalle beukvaren,Phegopteris connectilis (Michaux) Watt,6757,,1
+1057,Smalle raai,Galeopsis angustifolia Ehrh. ex Hoffmann,5628,,1
+1058,Smalle stekelvaren,Dryopteris carthusiana (Vill.) H.P. Fuch,5269,,1
+1059,Smalle waterpest,Elodea nuttallii (Planch) St John,5336,,1
+1060,Smalle waterweegbree,Alisma gramineum Lej.,4012,,1
+1061,Smalle weegbree,Plantago lanceolata L.,6848,,1
+1062,Snavelruppia,Ruppia maritima L.,7362,,1
+1063,Snavelzegge,Carex rostrata Stokes,4729,,1
+1064,Sneeuwbes,Symphoricarpos albus (L.) S.F. Blake,7866,,1
+1065,Sofiekruid,Descurainia sophia (L.) Webb ex Prantl,5195,,1
+1066,Soldaatje,Orchis militaris L.,6591,,1
+1067,Sorbaria tomentosa (Lindl.) Rehdr.,Sorbaria tomentosa (Lindl.) Rehdr.,7758,,1
+1068,Spaanse aak,Acer campestre L.,3909,,1
+1069,Spaanse ruiter,Cirsium dissectum (L.) Hill,4921,,1
+1070,Spaanse zuring,Rumex scutatus L.,7353,,1
+1071,Spatelkruiskruid,Senecio helenitis (L.) Schinz et Thell.,7608,,1
+1072,Speenkruid,Ranunculus ficaria L.,7121,,1
+1073,Speerdistel,Cirsium vulgare (Savi) Ten.,4929,,1
+1074,Spekwortel,Tamus communis L.,7879,,1
+1075,Spiesleeuwenbek,Kickxia elatine (L.) Dum.,6017,,1
+1076,Spiesmelde,Atriplex prostrata Boucher ex DC.,4355,,1
+1077,Spinaziezuring,Rumex patientia L.,7346,,1
+1078,Spinnneorchis,Ophrys sphegodes Mill.,6586,,1
+1079,Spiraalruppia,Ruppia cirrhosa (Petagna) Grande,7361,,1
+1080,Spits fonteinkruid,Potamogeton acutifolius Link,6969,,1
+1081,Spits havikskruid,Hieracium lactucella Wallr.,5833,,1
+1082,Sporkehout,Frangula alnus Mill.,7169,,1
+1083,Stalkaars,Verbascum densiflorum Bertol.,8133,,1
+1084,Steenanjer,Dianthus deltoides L.,5207,,1
+1085,Steenbreekvaren,Asplenium trichomanes L.,4308,,1
+1086,Steeneppe,Sison amomum L.,7690,,1
+1087,Steenhoornbloem,Cerastium pumilum Curt.,4827,,1
+1088,Steenkruidkers,Lepidium ruderale L.,6119,,1
+1089,Steentijmereprijs,Veronica acinifolia L.,8158,,1
+1090,Stekelbrem,Genista anglica L.,5676,,1
+1091,Stekelvaren species,Dryopteris carthusiana/dilatata,,,1
+1092,Stekende bies,Scirpus pungens Vahl,7539,,1
+1093,Stekende wolfsklauw,Lycopodium annotinum L.,6257,,1
+1094,Stengelloze sleutelbloem,Primula vulgaris Huds.,7020,,1
+1095,Stengelomvattend havikskruid,Hieracium amplexicaule L.,5824,,1
+1096,Sterzegge,Carex echinata Murray,4687,,1
+1097,Stijf barbarakruid,Barbarea stricta Andrz.,4396,,1
+1098,Stijf hardgras,Catapodium rigidum (L.) C.E. Hubbard,5198,,1
+1099,Stijf havikskruid,Hieracium laevigatum Willd.,5834,,1
+1100,Stijf vergeet-mij-nietje,Myosotis stricta Link ex Roem. et Schult,6467,,1
+1101,Stijve dravik,Bromus diandrus Roth,4492,,1
+1102,Stijve klaverzuring,Oxalis fontana Bunge,6649,,1
+1103,Stijve naaldvaren,Polystichum aculeatum (L.) Roth,6938,,1
+1104,Stijve ogentroost,Euphrasia stricta L.,5510,,1
+1105,Stijve waterranonkel,Ranunculus circinatus Sibth.,7118,,1
+1106,Stijve windhalm,Apera interrupta (L.) Beauv.,4188,,1
+1107,Stijve zegge,Carex elata All.,4688,,1
+1108,Stijve zonnebloem,Helianthus laetiflorus Pers.,5777,,1
+1109,Stinkend streepzaad,Crepis foetida L.,5074,,1
+1110,Stinkende alant,Dittrichia graveolens L. Greuter,5245,,1
+1111,Stinkende ballote,Ballota nigra L.,4390,,1
+1112,Stinkende ganzenvoet,Chenopodium vulvaria L.,4888,,1
+1113,Stinkende gouwe,Chelidonium majus L.,4856,,1
+1114,Stinkende kamille,Anthemis cotula L.,4168,,1
+1115,Stippelganzenvoet,Chenopodium ficifolium Smith,4869,,1
+1116,Stippelvaren,Oreopteris limbosperma (Bellardi ex All.,6598,,1
+1117,Stippelzegge,Carex punctata Gaudin,4725,,1
+1118,Stofzaad,Monotropa hypopitys L.,6435,,1
+1119,Stomp fonteinkruid,Potamogeton obtusifolius Mert. et Koch,6980,,1
+1120,Stomp kweldergras,Puccinellia distans (L.) Parl.,7067,,1
+1121,Stomp vlotgras,Glyceria notata Chevall.,5731,,1
+1122,Stomphoekig sterrenkroos,Callitriche obtusangula Le Gall,4578,,1
+1123,Straatgras,Poa annua L.,6865,,1
+1124,Straatliefdegras,Eragrostis pilosa (L.) Beauv.,5408,,1
+1125,Strandbiet (en biet),Beta vulgaris L.,4423,,1
+1126,Strandduizendguldenkruid,Centaurium littorale (D. Turn.) Gilm.,4803,,1
+1127,Strandkweek,Elymus athericus (Link) Kergu‚len,5340,,1
+1128,Strandmelde,Atriplex littoralis L.,4346,,1
+1129,Struikhei,Calluna vulgaris (L.) Hull,4587,,1
+1130,Struisvaren,Matteuccia struthiopteris (L.) Tod.,6320,,1
+1131,Tamarix gallica L.,Tamarix gallica L.,7876,,1
+1132,Tamme kastanje,Castanea sativa Mill.,4762,,1
+1133,Tandjesgras,Danthonia decumbens (L.) DC.,5169,,1
+1134,Taxus,Taxus baccata L.,7912,,1
+1135,Teer guichelheil,Anagallis tenella (L.) L.,4131,,1
+1136,Teer vederkruid,Myriophyllum alterniflorum DC.,6473,,1
+1137,Tenger fonteinkruid,Potamogeton pusillus L.,6985,,1
+1138,Tengere distel,Carduus tenuiflorus Curt.,4661,,1
+1139,Tengere rus,Juncus tenuis Willd.,6008,,1
+1140,Tengere veldmuur,Minuartia hybrida (Vill.) Schischkin,6411,,1
+1141,Tengere vetmuur,Sagina apetala Ard.,7372,,1
+1142,Tijmereprijs,Veronica serpyllifolia L.,8185,,1
+1143,Tongvaren,Asplenium scolopendrium L.,4304,,1
+1144,Torenkruid,Arabis glabra (L.) Bernh.,4207,,1
+1145,Tormentil,Potentilla erecta (L.) R„uschel,6996,,1
+1146,Trekrus,Juncus squarrosus L.,6005,,1
+1147,Trilgraszegge,Carex brizoides L.,4669,,1
+1148,Tripmadam,Sedum rupestre L.,7584,,1
+1149,Trosdravik,Bromus racemosus L.,4511,,1
+1150,Trosvlier,Sambucus racemosa L.,7469,,1
+1151,Tuinbingelkruid,Mercurialis annua L.,6396,,1
+1152,Tuinjudaspenning,Lunaria annua L.,6228,,1
+1153,Tuinwolfsmelk,Euphorbia peplus L.,5494,,1
+1154,Tweehuizige zegge,Carex dioica L.,4682,,1
+1155,Tweenervige zegge,Carex binervis Smith,4667,,1
+1156,Tweerijige zegge,Carex disticha Huds.,4684,,1
+1157,Tweestijlige meidoorn,Crataegus laevigata (Poiret) DC.,5062,,1
+1158,Uitstaande melde,Atriplex patula L.,4349,,1
+1159,Valkruid,Arnica montana L.,4248,,1
+1160,Valse kamille,Anthemis arvensis L.,4166,,1
+1161,Valse salie,Teucrium scorodonia L.,7926,,1
+1162,Valse voszegge,Carex cuprina (S ndor ex Heuffel) Nendtv,4673,,1
+1163,Valse wingerd,Parthenocissus inserta (A. Kerner) Frits,6697,,1
+1164,Valse zandzegge,Carex reichenbachii Bonnet,4726,,1
+1165,Varkensgras,Polygonum aviculare L.,6911,,1
+1166,Vaste lupine,Lupinus polyphyllus Lindl.,6233,,1
+1167,Vederesdoorn,Acer negundo L.,3912,,1
+1168,Veelbloemige veldbies,Luzula multiflora (Ehrh.) Lej.,6244,,1
+1169,Veelkleurig vergeet-mij-nietje,Myosotis discolor Pers.,6459,,1
+1170,Veelstengelige waterbies,Eleocharis multicaulis (Smith) Desv.,5322,,1
+1171,Veelwortelig kroos,Spirodela polyrhiza (L.) Schleid.,7812,,1
+1172,Veenbies s.l.,Scirpus cespitosus L.,7530,,1
+1173,Veenbloembies,Scheuchzeria palustris L.,7511,,1
+1174,Veenmosorchis,Hammarbya paludosa (L.) O. Kuntze,5767,,1
+1175,Veenorchis,Dactylorhiza sphagnicola (H”ppner) Avery,5160,,1
+1176,Veenpluis,Eriophorum polystachion L.,5428,,1
+1177,Veenwortel,Polygonum amphibium L.,6906,,1
+1178,Veerdelig tandzaad,Bidens tripartita L.,4442,,1
+1179,Veldbeemdgras,Poa pratensis L.,6875,,1
+1180,Veldereprijs,Veronica arvensis L.,8163,,1
+1181,Veldgentiaan,Gentianella campestris (L.) B”rner,5685,,1
+1182,Veldgerst,Hordeum secalinum Schreb.,5876,,1
+1183,Veldhondstong,Cynoglossum officinale L.,5119,,1
+1184,Veldkruidkers,Lepidium campestre (L.) R. Brown,6112,,1
+1185,Veldlathyrus,Lathyrus pratensis L.,6080,,1
+1186,Veldrus,Juncus acutiflorus Ehrh. ex Hoffmann,5980,,1
+1187,Veldsalie,Salvia pratensis L.,7456,,1
+1188,Veldzuring,Rumex acetosa L.,7331,,1
+1189,Verfbrem,Genista tinctoria L.,5680,,1
+1190,Verspreidbladig goudveil,Chrysosplenium alternifolium L.,4897,,1
+1191,Vertakte leeuwentand,Leontodon autumnalis L.,6101,,1
+1192,Vertakte maanvaren,Botrychium matricariifolium (A. Braun ex,4461,,1
+1193,Vetblad,Pinguicula vulgaris L.,6825,,1
+1194,Vierzadige wikke,Vicia tetrasperma (L.) Schreb.,8219,,1
+1195,Vijfdelig kaasjeskruid,Malva alcea L.,6297,,1
+1196,Vijfvingerkruid,Potentilla reptans L.,7006,,1
+1197,Viltganzerik,Potentilla argentea L.,6995,,1
+1198,Viltig kruiskruid,Senecio erucifolius L.,7606,,1
+1199,Viltige basterdwederik,Epilobium parviflorum Schreb.,5366,,1
+1200,Viltige hoornbloem,Cerastium tomentosum L.,4830,,1
+1201,Viltige spirea,Spiraea tomentosa L.,7803,,1
+1202,Viltroos,Rosa tomentosa Smith,7251,,1
+1203,Vingerhelmbloem,Corydalis solida (L.) Clairv.,5023,,1
+1204,Vingerzegge,Carex digitata L.,4680,,1
+1205,Vlakke dwergmispel,Cotoneaster horizontalis Decaisne,5038,,1
+1206,Vlasbekje,Linaria vulgaris Mill.,6167,,1
+1207,Vlasdolik,Lolium remotum Schrank,6201,,1
+1208,Vlashuttentut,Camelina alyssum (Mill.) Thell.,4598,,1
+1209,Vlaswarkruid,Cuscuta epilinum Weihe,5101,,1
+1210,Vleeskleurige orchis,Dactylorhiza incarnata (L.) So¢,5149,,1
+1211,Vliegeorchis,Ophrys insectifera L.,6583,,1
+1212,Vlier (Gewone),Sambucus nigra L.,7467,,1
+1213,Vlinderstruik,Buddleja davidii Franch.,4525,,1
+1214,Vlottende bies,Scirpus fluitans L.,7532,,1
+1215,Vlottende waterranonkel,Ranunculus fluitans Lam.,7123,,1
+1216,Vlozegge,Carex pulicaris L.,4724,,1
+1217,"Voederwikke, vergeten wikke en smalle wik",Vicia sativa L.,8211,,1
+1218,Vogelkers,Prunus padus L.,7037,,1
+1219,Vogelmuur,Stellaria media (L.) Vill.,7832,,1
+1220,Vogelnestje,Neottia nidus-avis (L.) L.C.M. Rich.,6498,,1
+1221,Vogelwikke,Vicia cracca L.,8198,,1
+1222,Voorjaarsganzerik,Potentilla neumanniana Reichenb.,7012,,1
+1223,Voorjaarszegge,Carex caryophyllea Latourr.,4670,,1
+1224,Voszegge,Carex vulpina L.,4742,,1
+1225,Vreemde ereprijs,Veronica peregrina L.,8177,,1
+1226,Vroeg havikskruid,Hieracium glaucinum Jord.,5831,,1
+1227,Vroege ereprijs,Veronica praecox All.,8181,,1
+1228,Vroege haver,Aira praecox L.,3993,,1
+1229,Vroegeling,Erophila verna (L.) Chevall.,5446,,1
+1230,Vuurdoorn,Pyracantha coccinea Roem.,7083,,1
+1231,Waardzegge,Carex divisa Huds.,4685,,1
+1232,Walstrobremraap,Orobanche caryophyllacea Smith,6620,,1
+1233,Wantseorchis,Orchis coriophora L.,6588,,1
+1234,Wateraardbei,Comarum palustre L.,7004,,1
+1235,Watercrassula,Crassula helmsii (T. Kirk) Cock.,5058,,1
+1236,Waterdrieblad,Menyanthes trifoliata L.,6395,,1
+1237,Waterereprijs,Veronica anagallis-aquatica L.,8161,,1
+1238,Watergentiaan,Nymphoides peltata (S.G. Gmel.) O. Kuntz,6526,,1
+1239,Watergras,Catabrosa aquatica (L.) Beauv.,4764,,1
+1240,Waterkruiskruid,Senecio aquaticus Hill,7603,,1
+1241,Waterlepeltje,Ludwigia palustris (L.) S. Elliott,6225,,1
+1242,Waterlobelia,Lobelia dortmanna L.,6191,,1
+1243,Watermunt,Mentha aquatica L.,6366,,1
+1244,Watermuur,Myosoton aquaticum (L.) Moench,7827,,1
+1245,Waterpeper,Polygonum hydropiper L.,6918,,1
+1246,Waterpostelein,Lythrum portula (L.) D.A. Webb,6278,,1
+1247,Waterpunge,Samolus valerandi L.,7472,,1
+1248,Waterscheerling,Cicuta virosa L.,4914,,1
+1249,Waterteunisbloem,Ludwigia grandiflora (Michaux) Greuter e,6224,,1
+1250,Watertorkruid,Oenanthe aquatica (L.) Poiret,6542,,1
+1251,Waterviolier,Hottonia palustris L.,5882,,1
+1252,Waterzuring,Rumex hydrolapathum Huds.,7339,,1
+1253,Weegbreefonteinkruid,Potamogeton coloratus Hornem.,6972,,1
+1254,Wegdistel,Onopordum acanthium L.,6576,,1
+1255,Wegedoorn,Rhamnus catharticus L.,7168,,1
+1256,Weidehavikskruid,Hieracium caespitosum Dum.,5829,,1
+1257,Weidekervel,Silaum silaus (L.) Schinz et Thell.,7656,,1
+1258,Weidekerveltorkruid,Oenanthe silaifolia Bieb.,6549,,1
+1259,Weideklokje,Campanula patula L.,4609,,1
+1260,Welriekende agrimonie,Agrimonia procera Wallr.,3967,,1
+1261,Welriekende ganzenvoet,Chenopodium ambrosioides L.,4860,,1
+1262,Welriekende nachtorchis,Platanthera bifolia (L.) L.C.M. Rich.,6862,,1
+1263,Welriekende salomonszegel,Polygonatum odoratum (Mill.) Druce,6944,,1
+1264,Wijdbloeiende rus,Juncus tenageia L. f.,6007,,1
+1265,Wijfjesvaren,Athyrium filix-femina (L.) Roth,4340,,1
+1266,Wijnruit,Ruta graveolens L.,7366,,1
+1267,Wild kattekruid,Nepeta cataria L.,6500,,1
+1268,Wilde bertram,Achillea ptarmica L.,3924,,1
+1269,Wilde chicorei,Cichorium intybus L.,4911,,1
+1270,Wilde gagel,Myrica gale L.,6471,,1
+1271,Wilde kamperfoelie,Lonicera periclymenum L.,6210,,1
+1272,Wilde kardinaalsmuts,Euonymus europaeus L.,5513,,1
+1273,Wilde liguster,Ligustrum vulgare L.,6139,,1
+1274,Wilde marjolein,Origanum vulgare L.,6602,,1
+1275,Wilde narcis,Narcissus pseudonarcissus L.,6488,,1
+1276,Wilde peer,Pyrus pyraster (L.) Duroi,7091,,1
+1277,Wilde peterselie,Petroselinum segetum (L.) Koch,6734,,1
+1278,Wilde reseda,Reseda lutea L.,7160,,1
+1279,Wilde ridderspoor,Consolida regalis S.F. Gray,4980,,1
+1280,Wilde sorgo,Sorghum halepense (L.) Pers.,7769,,1
+1281,Wilde tijm,Thymus serpyllum L.,7958,,1
+1282,Wilg breedbladige species,Salix spp. (broad leaves),,,1
+1283,Wilg smalbladige species,Salix spp. (small leaves),,,1
+1284,Wilg species,Salix spec,7425,,1
+1285,wilgsla,Lactuca saligna L.,6033,,1
+1286,Winterakoniet,Eranthis hyemalis (L.) Salisb.,5413,,1
+1287,Wintereik,Quercus petraea Lieblein,7098,,1
+1288,Winterlinde,Tilia cordata Mill.,7962,,1
+1289,Wit bosvogeltje,Cephalanthera longifolia (L.) Fritsch,4809,,1
+1290,Wit hongerbloempje,Draba muralis L.,5256,,1
+1291,Wit vetkruid,Sedum album L.,7576,,1
+1292,Witte abeel,Populus alba,6950,,1
+1293,Witte amarant,Amaranthus albus L.,4064,,1
+1294,Witte dovenetel,Lamium album L.,6044,,1
+1295,Witte en grauwe abeel,Populus alba (+ P. x canescens),6949,,1
+1296,Witte engbloem,Vincetoxicum hirundinaria Med.,8230,,1
+1297,Witte honingklaver,Melilotus albus Med.,6351,,1
+1298,Witte klaver,Trifolium repens L.,8032,,1
+1299,Witte klaverzuring,Oxalis acetosella L.,6644,,1
+1300,Witte krodde,Thlaspi arvense L.,7942,,1
+1301,Witte munt + hybriden,Mentha 'suaveolens' groep,6382,,1
+1302,Witte paardekastanje,Aesculus hippocastanum L.,3957,,1
+1303,Witte rapunzel,Phyteuma spicatum L.,6799,,1
+1304,Witte snavelbies,Rhynchospora alba (L.) Vahl,7189,,1
+1305,Witte veldbies,Luzula luzuloides (Lam.) Dandy et Wilmot,6240,,1
+1306,Witte waterkers,Nasturtium officinale R. Brown,7211,,1
+1307,Witte waterlelie,Nymphaea alba L.,6529,,1
+1308,Witte waterranonkel,Ranunculus ololeucos Lloyd,7130,,1
+1309,Witte winterpostelein,Claytonia perfoliata Donn ex Willd.,4936,,1
+1310,Wolfskers,Atropa bella-donna L.,4361,,1
+1311,Wolfspoot,Lycopus europaeus L.,6266,,1
+1312,Wollige distel,Cirsium eriophorum (L.) Scop.,4922,,1
+1313,Wollige sneeuwbal,Viburnum lantana L.,8192,,1
+1314,Wondklaver,Anthyllis vulneraria L.,4182,,1
+1315,Wortelloos kroos,Wolffia arrhiza (L.) Hork. ex Wimm.,8275,,1
+1316,Wouw,Reseda luteola L.,7159,,1
+1317,Wrangwortel,Helleborus viridis L.,5797,,1
+1318,Zaagblad,Serratula tinctoria L.,7624,,1
+1319,Zacht vetkruid,Sedum sexangulare L.,7587,,1
+1320,Zachte berk,Betula alba L.,4428,,1
+1321,Zachte dravik,Bromus hordeaceus L.,4497,,1
+1322,Zachte duizendknoop,Polygonum mite Schrank,6926,,1
+1323,Zachte haver,Avenula pubescens (Huds.) Dum.,4381,,1
+1324,Zachte ooievaarsbek,Geranium molle L.,5697,,1
+1325,Zachte wikke,Vicia villosa Roth,8222,,1
+1326,Zandambrosia,Ambrosia coronopifolia Torr. et A. Gray,4100,,1
+1327,Zandblauwtje,Jasione montana L.,5971,,1
+1328,Zanddoddengras,Phleum arenarium L.,6762,,1
+1329,Zandduizendknoop,Polygonum oxyspermum C.A. Mey. et Bunge,6928,,1
+1330,Zandhaver,Elymus arenarius (L.) Hochst.,5339,,1
+1331,Zandhoornbloem,Cerastium semidecandrum L.,4828,,1
+1332,Zandmuur,Arenaria serpyllifolia L.,4231,,1
+1333,Zandraket,Arabidopsis thaliana (L.) Heynh.,4203,,1
+1334,Zandstruisgras,Agrostis vinealis Schreb.,3983,,1
+1335,Zandzegge,Carex arenaria L.,4666,,1
+1336,Zannichellia,Zannichellia palustris L.,8291,,1
+1337,Zeealsem,Artemisia maritima L.,4270,,1
+1338,Zeegerst,Hordeum marinum Huds.,5874,,1
+1339,Zeegroene ganzenvoet,Chenopodium glaucum L.,4872,,1
+1340,Zeegroene muur,Stellaria palustris Retz.,7838,,1
+1341,Zeegroene rus,Juncus inflexus L.,6001,,1
+1342,Zeegroene zegge,Carex flacca Schreb.,4694,,1
+1343,Zeekool,Crambe maritima L.,5056,,1
+1344,Zeekraal,Salicornia 'europaea' groep,7381,,1
+1345,Zeelathyrus,Lathyrus japonicus Willd. subsp. maritim,6071,,1
+1346,Zeepkruid,Saponaria officinalis L.,7484,,1
+1347,Zeepostelein,Honckenya peploides (L.) Ehrh.,5867,,1
+1348,Zeeraket,Cakile maritima Scop.,4549,,1
+1349,Zeerus,Juncus maritimus Lam.,6002,,1
+1350,Zeevenkel,Crithmum maritimum L.,5083,,1
+1351,Zeevetmuur,Sagina maritima G. Don,7373,,1
+1352,Zeeweegbree,Plantago maritima L.,6850,,1
+1353,Zeewinde,Calystegia soldanella (L.) R. Brown,4594,,1
+1354,Zeewolfsmelk,Euphorbia paralias L.,5493,,1
+1355,Zegge spec,Carex spec,4730,,1
+1356,Zevenblad,Aegopodium podagraria L.,3954,,1
+1357,Zevenster,Trientalis europaea L.,8000,,1
+1358,Zilt torkruid,Oenanthe lachenalii C.C. Gmel.,6546,,1
+1359,Zilte greppelrus,Juncus ambiguus Guss.,5984,,1
+1360,Zilte rus,Juncus gerardii Loisel.,6000,,1
+1361,Zilte schijnspurrie,Spergularia marina (L.) Besser,7791,,1
+1362,Zilte waterranonkel,Ranunculus baudotii Godr.,7116,,1
+1363,Zilte zegge,Carex distans L.,4683,,1
+1364,Zilverhaver,Aira caryophyllea L.,3990,,1
+1365,Zilverschoon,Potentilla anserina L.,6994,,1
+1366,Zinkboerenkers (en bosboerenkers),Thlaspi caerulescens J. et C. Presl,7944,,1
+1367,Zoete wolfsmelk,Euphorbia dulcis L.,5480,,1
+1368,Zomeradonis,Adonis aestivalis L.,3942,,1
+1369,Zomeralsem,Artemisia annua L.,4262,,1
+1370,Zomerbitterling,Blackstonia perfoliata (L.) Huds.,4450,,1
+1371,Zomereik,Quercus robur L.,7101,,1
+1372,Zomerklokje,Leucojum aestivum L.,6130,,1
+1373,Zomerlinde,Tilia 'platyphyllos' groep,7963,,1
+1374,Zomerschroeforchis,Spiranthes aestivalis (Poiret) L.C.M. Ri,7809,,1
+1375,Zomprus,Juncus articulatus L.,5982,,1
+1376,Zompvergeet-mij-nietje,Myosotis cespitosa C.F. Schultz,6460,,1
+1377,Zompzegge,Carex canescens L.,4674,,1
+1378,Zuid-Afrikaanse gierst,Panicum schinzii Hack.,6667,,1
+1379,Zulte,Aster tripolium L.,4327,,1
+1380,Zuring species,Rumex species,7354,,1
+1381,Zuurbes,Berberis vulgaris L.,4414,,1
+1382,Zwaluwtong,Fallopia convolvulus (L.) µ. L”ve,6915,,1
+1383,Zwanebloem,Butomus umbellatus L.,4545,,1
+1384,Zwart tandzaad,Bidens frondosa L.,4437,,1
+1385,Zwartblauwe rapunzel,Phyteuma nigrum F.W. Schmidt,6796,,1
+1386,Zwarte bes,Ribes nigrum L.,7194,,1
+1387,Zwarte dreps,Bromus grossus Desf. ex DC.,4496,,1
+1388,Zwarte els,Alnus glutinosa (L.) Gaertn.,4034,,1
+1389,Zwarte mosterd,Brassica nigra (L.) Koch,4473,,1
+1390,Zwarte nachtschade s.l.,Solanum nigrum L.,7720,,1
+1391,Zwarte populier,Populus nigra L. var. nigra,6958,,1
+1392,Zwarte toorts,Verbascum nigrum L.,8136,,1
+1393,Walnoot,Juglans regia L.,5978,,1
+1394,Zwarte walnoot,Juglans nigra,5977,,1
+1395,Zwarte zegge,Carex nigra (L.) Reichard,4708,,1
+1396,Zwartsteel,Asplenium adiantum-nigrum L.,4299,,1
+1397,Zwenkdravik,Bromus tectorum L.,4520,,1
+1398,Veenmos spec,Spaghnum spec,889,,1
+1399,Sterrekroos spec,Callitriche spec,4581,,1
+1400,Struisgras spec,Agrostis spec,3980,,1
+1401,Veldbies spec,Luzula spec,6246,,1
+1402,Elsbes,Sorbus torminalis L.,7765,,1
+1403,Zaailing naaldhout spec,Softwood species,,,1
+1404,Zwenkgras spec,Festuca spec,5557,,1
+1405,Witte esdoorn,Acer saccharinum,3916,,1
+1406,Duizendknoop spec,Polygonum spec,6932,,1
+1407,Hertshooi spec,Hypericum spec,5913,,1
+1408,Laurierkers,Prunus laurocerasus L.,7034,,1
+1409,Bosvogelmelk,Ornithogalum pyrenaicum L.,6607,,1
+1410,Liguster species,Ligustrum spec,6138,,1
+1411,Kruiskruid spec,Senecio spec,,,1
+1412,Bermzegge spec,,,,1
+1413,Steeneik,,,,1

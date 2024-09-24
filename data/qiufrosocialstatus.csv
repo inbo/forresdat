@@ -1,0 +1,6 @@
+MasterID,ID,Value1,Value2,Value3,OrderField,Active
+11,10,A - achterblijvend,A - dominated-suppressed,,,1
+11,20,M - meegroeiend,M - co-dominant,,,1
+11,30,V - voorgroeiend,V - pre-dominant,,,1
+12,40,NVT - dood,NA - dead,,,1
+11,50,NVT - stoof,,,,1

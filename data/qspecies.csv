@@ -1,0 +1,111 @@
+ID,Value1,Value2,Value3,OrderField,Active
+1,Amandelwilg,Salix triandra L.,7426,,1
+2,Amerikaans krentenboompje,Amelanchier lamarckii F.G. Schroed,4103,,1
+3,Amerikaanse eik,Quercus rubra L.,7102,,1
+4,Amerikaanse vogelkers,Prunus serotina Ehrh.,7039,,1
+5,Appel (wild + gekweekt),Malus species,6294,,1
+6,Berk,Betula tremula/alba,4429,,1
+7,Beuk,Fagus sylvatica L.,5523,,1
+8,Bittere wilg,Salix purpurea L.,7417,,1
+9,Boskers,Prunus avium (L.) L.,7028,,1
+10,Cornus sericea L.,Cornus sericea L.,5007,,1
+11,Corsicaanse den,Pinus nigra,6828,,1
+12,Douglas,Pseudotsuga menziesii,7053,,1
+13,Eenstijlige meidoorn,Crataegus monogyna Jacq.,5066,,1
+14,Es (gewone),Fraxinus excelsior L.,5590,,1
+15,Es/Esdoorn,F. excelsior/A. pseudoplatanus,,,1
+16,Esdoorn (gewone),Acer pseudoplatanus L.,3914,,1
+17,Europese lork,Larix deciduas,6059,,1
+18,Fijnspar,Picea abies,6804,,1
+19,Fladderiep,Ulmus laevis Pallas,8083,,1
+20,Gelderse roos,Viburnum opulus L.,8193,,1
+21,Gele kornoelje,Cornus mas,5005,,1
+22,Geoorde wilg,Salix aurita L.,7393,,1
+23,Gladde iep,Ulmus minor Mill.,8084,,1
+24,Grauwe abeel,Populus canescens,6954,,1
+25,Grauwe wilg,Salix 'cinerea' groep,7398,,1
+26,Grove den,Pinus sylvestris L.,6832,,1
+27,Haagbeuk,Carpinus betulus L.,4749,,1
+28,Hazelaar,Corylus avellana L.,5025,,1
+29,Hemelboom,Aillanthus altissima (Mill.) Swing,3988,,1
+30,Hopboom,Ptelea trifoliata L.,7057,,1
+31,Hulst,Ilex aquifolium L.,5927,,1
+32,Japanse lork,Larix kaempferi,6060,,1
+33,Jeneverbes,Juniperus communis,6012,,1
+34,Katwilg,Salix viminalis L.,7428,,1
+35,Koraalmeidoorn,Crataegus rhipidophylla Gandoger,5069,,1
+36,Kraakwilg,Salix 'fragilis' groep,7410,,1
+37,Kruidvlier,Sambucus ebulus L.,7465,,1
+38,Kruipwilg,Salix repens L.,7419,,1
+39,Lijsterbes,Sorbus aucuparia L.,7760,,1
+40,Lork species,Larix species,6061,,1
+41,Meidoorn species,Crataegus species,5070,,1
+42,Mispel,Mespilus germanica L.,6399,,1
+43,Moeraseik,Quercus palustris L.,7097,,1
+44,Noorse esdoorn,Acer platanoides L.,3913,,1
+45,Okkernoot,Juglans regia,5978,,1
+46,Onbekend loofhout,Hardwood species,,,1
+47,Onbekend naaldhout,Softwood species,,,1
+48,Onbekende boomsoort,Unknown species,,,1
+49,Oosterse karmozijnbes,Phytolacca esculenta Van Houtte,6802,,1
+50,Paardekastanje,Aesculus hippocastanum,3957,,1
+51,Populier species,Populus species,6959,,1
+52,Ratelpopulier,Populus tremula L.,6960,,1
+53,Robinia (gewone),Robinia pseudoacacia L.,7203,,1
+54,Rode kornoelje,Cornus sanguinea L.,5006,,1
+55,Rood peperboompje,Daphne mezereum L.,5172,,1
+56,Rossige wilg,Salix atrocinerea Brot.,7392,,1
+57,Ruwe berk,Betula pendula Roth,4427,,1
+58,Ruwe iep,Ulmus glabra Huds.,8082,,1
+59,Sleedoorn,Prunus spinosa L.,7042,,1
+60,Sneeuwbes,Symphoricarpos albus (L.) S.F. Bla,7866,,1
+61,Spaanse aak,Acer campestre L.,3909,,1
+62,Spaanse ruiter,Cirsium dissectum,4921,,1
+63,Sporkehout,Frangula alnus Mill.,7169,,1
+64,Tamme kastanje,Castanea sativa Mill.,4762,,1
+65,Taxus,Taxus baccata L.,7912,,1
+66,Trosvlier,Sambucus racemosa L.,7469,,1
+67,Tweestijlige meidoorn,Crataegus laevigata (Poiret) DC.,5062,,1
+68,Vederesdoorn,Acer negundo L.,3912,,1
+69,Vlier,Sambucus nigra L.,7467,,1
+70,Vlinderstruik,Buddleja davidii Franch.,4525,,1
+71,Vogelkers,Prunus padus L.,7037,,1
+72,Vuurdoorn,Pyracantha coccinea Roem.,7083,,1
+73,Wegedoorn,Rhamnus catharticus L.,7168,,1
+74,Wilde kardinaalsmuts,Euonymus europaeus L.,5513,,1
+75,Wilde liguster,Ligustrum vulgare L.,6139,,1
+76,Wilde peer,Pyrus pyraster (L.) Duroi,7091,,1
+77,Wilg breedbladige species,Salix spp. (broad leaves),,,1
+78,Wilg smalbladige species,Salix spp. (small leaves),,,1
+79,Wilg species,Salix spec,7425,,1
+80,Wintereik,Quercus petraea Lieblein,7098,,1
+81,Winterlinde,Tilia cordata Mill.,7962,,1
+82,Witte abeel,Populus alba,6950,,1
+83,Witte els (grauwe),Alnus incana (L.) Moench,4035,,1
+84,Witte en grauwe abeel,Populus alba (+ P. x canescens),6949,,1
+85,Wollige sneeuwbal,Viburnum lantana L.,8192,,1
+86,Zachte berk,Betula alba L.,4428,,1
+87,Zomereik,Quercus robur L.,7101,,1
+88,Zomerlinde,Tilia 'platyphyllos' groep,7963,,1
+89,Zwarte els,Alnus glutinosa (L.) Gaertn.,4034,,1
+90,Zwarte populier,Populus nigra L. var. nigra,6958,,1
+91,Zwarte walnoot,Juglans nigra,5977,,1
+92,Schietwilg,Salix alba L.,7391,,1
+93,Tulpenboom,Liriodendron tulipifera,6183,,1
+100,Laurierkers,Prunus laurocerasus L.,7034,,1
+101,Zeeden,Pinus pinaster,6829,,1
+102,Weymouthden,Pinus strobus,6831,,1
+103,Sitkaspar,Picea sitchensis,6805,,1
+104,Hemlockspar (Thuja),Tsuga,8064,,1
+105,Cipres species,Cipres species,,,1
+106,Plataan species,Platanus species,6859,,1
+107,Kers species,Prunus species,7041,,1
+108,Reuzenzilverspar,Abies grandis,3903,,1
+109,Linde species,Tilia species,7965,,1
+110,Inlandse eik,Quercus robur/petraea,,,1
+111,Liguster species,Ligustrum species,6138,,1
+112,Hartbladige els - Italiaanse els,Alnus cordata,4033,,1
+113,Witte esdoorn,Acer saccharinum,3916,,1
+114,Steeneik,,,,1
+1000,braak (unstocked),unstocked,,,1
+2000,dood (dead forest),dead forest,,,1
