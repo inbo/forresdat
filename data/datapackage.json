@@ -1158,6 +1158,57 @@
       }
     },
     {
+      "name": "qtotal_cover",
+      "path": "qtotal_cover.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "total cover according to the Londo scale - for each vegetation layer as a whole",
+      "extra_info": "used for moss layer, herb layer, shrub layer, tree layer, waterlayer",
+      "source_database": "MDB_BR_X8_inbo2020_20240613",
+      "schema": {
+        "fields": [
+          {
+            "name": "ID",
+            "type": "integer",
+            "description": "unique code",
+            "extra_info": null
+          },
+          {
+            "name": "Value1",
+            "type": "string",
+            "description": "Londo scale (Londo, 1984)",
+            "extra_info": null
+          },
+          {
+            "name": "Value2",
+            "type": "string",
+            "description": "Londo scale transformed into values between 0 and 1, used to calculate mean cover",
+            "extra_info": null
+          },
+          {
+            "name": "Value3",
+            "type": "string",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "OrderField",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "Active",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          }
+        ]
+      }
+    },
+    {
       "name": "qvdagn_vfm",
       "path": "qvdagn_vfm.csv",
       "profile": "tabular-data-resource",
