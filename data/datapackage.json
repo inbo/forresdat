@@ -9,8 +9,8 @@
       "encoding": "utf-8",
       "description": "Information about the surveys conducted in the plot, per period, along with the corresponding survey number and year of survey",
       "extra_info": "Possible surveys include those of trees, deadwood, regeneration, vegetation and game impact",
-      "source_database": "MDB_BR_X8_inbo2020_20240613",
-      "calculation": "forrescalc 0.0.1",
+      "source_database": null,
+      "calculation": null,
       "height_model": null,
       "schema": {
         "fields": [
@@ -91,6 +91,12 @@
             "type": "boolean",
             "description": "TRUE: data processing is finished",
             "extra_info": "including data control and creation of height models"
+          },
+          {
+            "name": "survey_lis",
+            "type": "boolean",
+            "description": null,
+            "extra_info": null
           }
         ]
       }
