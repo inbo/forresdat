@@ -639,8 +639,8 @@
       "encoding": "utf-8",
       "description": "Information about the surveys conducted in the plot, per period, along with the corresponding survey number and year of survey",
       "extra_info": "Possible surveys include those of trees, deadwood, regeneration, vegetation and game impact",
-      "source_database": null,
-      "calculation": null,
+      "source_database": "MDB_BR_X8_inbo2020_20250123",
+      "calculation": "forrescalc 0.0.2",
       "height_model": null,
       "schema": {
         "fields": [
