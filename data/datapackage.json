@@ -2174,8 +2174,8 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "description": [],
-      "extra_info": [],
+      "description": "rejuvenation characteristics per species and height class for the entire core area",
+      "extra_info": "number and percentage of subplots where species in respective height class occurs, mean number of rejuvenation, percentage of rubbing damage",
       "source_database": "MDB_BR_X8_inbo2020_20250123",
       "calculation": "forrescalc 0.0.2",
       "height_model": null,
@@ -2183,59 +2183,87 @@
         "fields": [
           {
             "name": "plottype",
-            "type": "string"
+            "type": "string",
+            "description": "CP:  circular plot; CA: core area",
+            "extra_info": null
           },
           {
             "name": "plot_id",
-            "type": "integer"
+            "type": "integer",
+            "description": "unique sample plot id",
+            "extra_info": null
           },
           {
             "name": "period",
-            "type": "integer"
+            "type": "integer",
+            "description": "period: \"1\" for 1st decade (2000-2010), \"2\" for 2nd decade (2011-2020), \"3\" for 3th decade (2021-2030)",
+            "extra_info": null
           },
           {
             "name": "year",
-            "type": "integer"
+            "type": "integer",
+            "description": "year of regeneration survey",
+            "extra_info": null
           },
           {
             "name": "height_class",
-            "type": "integer"
+            "type": "integer",
+            "description": "height class code (main classes: 1000: 0-30cm, 2000: 30-50cm, 3000: 50-200cm, 4000: > 200cm)",
+            "extra_info": "see table \"qheight_class_regeneration\""
           },
           {
             "name": "species",
-            "type": "integer"
+            "type": "integer",
+            "description": "tree species code",
+            "extra_info": "see table \"qspecies\""
           },
           {
             "name": "nr_of_subplots_with_regeneration",
-            "type": "integer"
+            "type": "integer",
+            "description": "number of subplots where the species (in specific heightclass) occurs",
+            "extra_info": null
           },
           {
             "name": "perc_subplots_with_regeneration",
-            "type": "number"
+            "type": "number",
+            "description": "percentage of subplots where the species  (in specific heightclass) occurs",
+            "extra_info": null
           },
           {
             "name": "approx_nr_regeneration_ha",
-            "type": "number"
+            "type": "number",
+            "description": "mean number per hectare of rejuvenation (DBH < 5 cm)",
+            "extra_info": "calculated based on exact numbers or (if not available) mid values of the frequency classes (see qnumber_regeneration_classes: Value2)"
           },
           {
             "name": "approx_rubbing_damage_perc",
-            "type": "number"
+            "type": "number",
+            "description": null,
+            "extra_info": null
           },
           {
             "name": "rubbing_damage_number_ha",
-            "type": "number"
+            "type": "number",
+            "description": null,
+            "extra_info": null
           },
           {
             "name": "mean_number_of_regeneration_ha",
-            "type": "number"
+            "type": "number",
+            "description": "mean number per hectare of rejuvenation (DBH < 5 cm)",
+            "extra_info": "mean calculated from min and max of frequency classes, using log transformation"
           },
           {
             "name": "lci_number_of_regeneration_ha",
-            "type": "number"
+            "type": "number",
+            "description": "lower confidence interval (lci) of number per hectare of rejuvenation",
+            "extra_info": "lci calculated from min and max of frequency classes, using log transformation"
           },
           {
             "name": "uci_number_of_regeneration_ha",
-            "type": "number"
+            "type": "number",
+            "description": "upper confidence interval (uci) of number per hectare of rejuvenation",
+            "extra_info": "uci calculated from min and max of frequency classes, using log transformation"
           }
         ]
       }
@@ -2771,8 +2799,8 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "description": [],
-      "extra_info": [],
+      "description": "rejuvenation values on plot level (or subplot level in case of core area) per species",
+      "extra_info": "number of rejuvenation, percentage of rubbing damage",
       "source_database": "MDB_BR_X8_inbo2020_20250123",
       "calculation": "forrescalc 0.0.2",
       "height_model": null,
