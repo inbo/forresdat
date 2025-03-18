@@ -631,6 +631,278 @@
       }
     },
     {
+      "name": "kerss_ca_5_30cm_by_diam_plot",
+      "path": "kerss_ca_5_30cm_by_diam_plot.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": [],
+      "extra_info": [],
+      "source_database": null,
+      "calculation": null,
+      "height_model": null,
+      "schema": {
+        "fields": [
+          {
+            "name": "plot_id",
+            "type": "number",
+            "description": "unique sample plot id",
+            "extra_info": null
+          },
+          {
+            "name": "year",
+            "type": "number",
+            "description": "year of dendro survey (year of growing season)",
+            "extra_info": "f.e. march 2020 becomes 2019 (start of growing season is set to May 1)"
+          },
+          {
+            "name": "period",
+            "type": "number",
+            "description": "period: \"1\" for 1st decade (2000-2010)",
+            "extra_info": null
+          },
+          {
+            "name": "dbh_class_cm",
+            "type": "string",
+            "description": "diameter class per 5 or 10 cm (5 - 10 cm, 10 - 20 cm, 20 - 30 cm)",
+            "extra_info": null
+          },
+          {
+            "name": "stem_number_ha",
+            "type": "number",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "basal_area_alive_m2_ha",
+            "type": "number",
+            "description": "basal area of living trees per ha (m²/ha) - small trees excluded (dbh < 5 cm)",
+            "extra_info": "rough estimate based on mid-point of diameter classes (resp. 7,5, 15 and 25 cm)"
+          },
+          {
+            "name": "vol_alive_m3_ha",
+            "type": "number",
+            "description": "standing volume of living trees per ha (m³/ha): tree bole + crown volume calculated using species specific volume functions based on diameter at breast height;  only trees with diameter at breast height between 5 - 30 cm",
+            "extra_info": "rough estimate based on tariffs with only one entrance using mid-point of diameter classes (resp. 7,5, 15 and 25 cm); source: Dagnelie et al., Berben; see table \"tblTarieven_1ing\" and \"tblTarieven_1ingKroon\"; volume up to a top diameter of 7 cm"
+          },
+          {
+            "name": "vol_bole_alive_m3_ha",
+            "type": "number",
+            "description": "volume of tree bole (m³/ha) calculated using species specific volume functions based on diameter at breast height;  only trees with diameter at breast height between 5 - 30 cm",
+            "extra_info": "rough estimate based on tariffs with only one entrance using mid-point of diameter classes (resp. 7,5, 15 and 25 cm); source: Dagnelie et al., Berben; see table \"tblTarieven_1ing\"; volume up to a top diameter of 7 cm"
+          }
+        ]
+      }
+    },
+    {
+      "name": "kerss_ca_5_30cm_by_diam_spec",
+      "path": "kerss_ca_5_30cm_by_diam_spec.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": [],
+      "extra_info": [],
+      "source_database": null,
+      "calculation": null,
+      "height_model": null,
+      "schema": {
+        "fields": [
+          {
+            "name": "plot_id",
+            "type": "number",
+            "description": "unique sample plot id",
+            "extra_info": null
+          },
+          {
+            "name": "year",
+            "type": "number",
+            "description": "year of dendro survey (year of growing season)",
+            "extra_info": "f.e. march 2020 becomes 2019 (start of growing season is set to May 1)"
+          },
+          {
+            "name": "period",
+            "type": "number",
+            "description": "period: \"1\" for 1st decade (2000-2010)",
+            "extra_info": null
+          },
+          {
+            "name": "species",
+            "type": "number",
+            "description": "tree species code",
+            "extra_info": "see table \"qspecies\""
+          },
+          {
+            "name": "dbh_class_cm",
+            "type": "string",
+            "description": "diameter class per 5 or 10 cm (5 - 10 cm, 10 - 20 cm, 20 - 30 cm)",
+            "extra_info": null
+          },
+          {
+            "name": "stem_number_ha",
+            "type": "number",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "basal_area_alive_m2_ha",
+            "type": "number",
+            "description": "basal area of living trees per ha (m²/ha) - small trees excluded (dbh < 5 cm)",
+            "extra_info": "rough estimate based on mid-point of diameter classes (resp. 7,5, 15 and 25 cm)"
+          },
+          {
+            "name": "vol_alive_m3_ha",
+            "type": "number",
+            "description": "standing volume of living trees per ha (m³/ha): tree bole + crown volume calculated using species specific volume functions based on diameter at breast height;  only trees with diameter at breast height between 5 - 30 cm",
+            "extra_info": "rough estimate based on tariffs with only one entrance using mid-point of diameter classes (resp. 7,5, 15 and 25 cm); source: Dagnelie et al., Berben; see table \"tblTarieven_1ing\" and \"tblTarieven_1ingKroon\"; volume up to a top diameter of 7 cm"
+          },
+          {
+            "name": "vol_bole_alive_m3_ha",
+            "type": "number",
+            "description": "volume of tree bole (m³/ha) calculated using species specific volume functions based on diameter at breast height;  only trees with diameter at breast height between 5 - 30 cm",
+            "extra_info": "rough estimate based on tariffs with only one entrance using mid-point of diameter classes (resp. 7,5, 15 and 25 cm); source: Dagnelie et al., Berben; see table \"tblTarieven_1ing\"; volume up to a top diameter of 7 cm"
+          }
+        ]
+      }
+    },
+    {
+      "name": "kerss_ca_5_30cm_by_plot",
+      "path": "kerss_ca_5_30cm_by_plot.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": [],
+      "extra_info": [],
+      "source_database": null,
+      "calculation": null,
+      "height_model": null,
+      "schema": {
+        "fields": [
+          {
+            "name": "plot_id",
+            "type": "number",
+            "description": "unique sample plot id",
+            "extra_info": null
+          },
+          {
+            "name": "year",
+            "type": "number",
+            "description": "year of dendro survey (year of growing season)",
+            "extra_info": "f.e. march 2020 becomes 2019 (start of growing season is set to May 1)"
+          },
+          {
+            "name": "period",
+            "type": "number",
+            "description": "period: \"1\" for 1st decade (2000-2010)",
+            "extra_info": null
+          },
+          {
+            "name": "number_of_trees_ha",
+            "type": "number",
+            "description": "number of living individuals per ha (1/ha)",
+            "extra_info": "coppice is considered as one tree"
+          },
+          {
+            "name": "stem_number_ha",
+            "type": "number",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "basal_area_alive_m2_ha",
+            "type": "number",
+            "description": "basal area of living trees per ha (m²/ha) - small trees excluded (dbh < 5 cm)",
+            "extra_info": "rough estimate based on mid-point of diameter classes (resp. 7,5, 15 and 25 cm)"
+          },
+          {
+            "name": "vol_alive_m3_ha",
+            "type": "number",
+            "description": "standing volume of living trees per ha (m³/ha): tree bole + crown volume calculated using species specific volume functions based on diameter at breast height;  only trees with diameter at breast height between 5 - 30 cm",
+            "extra_info": "rough estimate based on tariffs with only one entrance using mid-point of diameter classes (resp. 7,5, 15 and 25 cm); source: Dagnelie et al., Berben; see table \"tblTarieven_1ing\" and \"tblTarieven_1ingKroon\"; volume up to a top diameter of 7 cm"
+          },
+          {
+            "name": "vol_bole_alive_m3_ha",
+            "type": "number",
+            "description": "volume of tree bole (m³/ha) calculated using species specific volume functions based on diameter at breast height;  only trees with diameter at breast height between 5 - 30 cm",
+            "extra_info": "rough estimate based on tariffs with only one entrance using mid-point of diameter classes (resp. 7,5, 15 and 25 cm); source: Dagnelie et al., Berben; see table \"tblTarieven_1ing\"; volume up to a top diameter of 7 cm"
+          }
+        ]
+      }
+    },
+    {
+      "name": "kerss_ca_5_30cm_by_plot_species",
+      "path": "kerss_ca_5_30cm_by_plot_species.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": [],
+      "extra_info": [],
+      "source_database": null,
+      "calculation": null,
+      "height_model": null,
+      "schema": {
+        "fields": [
+          {
+            "name": "plot_id",
+            "type": "number",
+            "description": "unique sample plot id",
+            "extra_info": null
+          },
+          {
+            "name": "year",
+            "type": "number",
+            "description": "year of dendro survey (year of growing season)",
+            "extra_info": "f.e. march 2020 becomes 2019 (start of growing season is set to May 1)"
+          },
+          {
+            "name": "period",
+            "type": "number",
+            "description": "period: \"1\" for 1st decade (2000-2010)",
+            "extra_info": null
+          },
+          {
+            "name": "species",
+            "type": "number",
+            "description": "tree species code",
+            "extra_info": "see table \"qspecies\""
+          },
+          {
+            "name": "number_of_trees_ha",
+            "type": "number",
+            "description": "number of living individuals per ha (1/ha)",
+            "extra_info": "coppice is considered as one tree"
+          },
+          {
+            "name": "stem_number_ha",
+            "type": "number",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "basal_area_alive_m2_ha",
+            "type": "number",
+            "description": "basal area of living trees per ha (m²/ha) - small trees excluded (dbh < 5 cm)",
+            "extra_info": "rough estimate based on mid-point of diameter classes (resp. 7,5, 15 and 25 cm)"
+          },
+          {
+            "name": "vol_alive_m3_ha",
+            "type": "number",
+            "description": "standing volume of living trees per ha (m³/ha): tree bole + crown volume calculated using species specific volume functions based on diameter at breast height;  only trees with diameter at breast height between 5 - 30 cm",
+            "extra_info": "rough estimate based on tariffs with only one entrance using mid-point of diameter classes (resp. 7,5, 15 and 25 cm); source: Dagnelie et al., Berben; see table \"tblTarieven_1ing\" and \"tblTarieven_1ingKroon\"; volume up to a top diameter of 7 cm"
+          },
+          {
+            "name": "vol_bole_alive_m3_ha",
+            "type": "number",
+            "description": "volume of tree bole (m³/ha) calculated using species specific volume functions based on diameter at breast height;  only trees with diameter at breast height between 5 - 30 cm",
+            "extra_info": "rough estimate based on tariffs with only one entrance using mid-point of diameter classes (resp. 7,5, 15 and 25 cm); source: Dagnelie et al., Berben; see table \"tblTarieven_1ing\"; volume up to a top diameter of 7 cm"
+          }
+        ]
+      }
+    },
+    {
       "name": "plotinfo",
       "path": "plotinfo.csv",
       "profile": "tabular-data-resource",
