@@ -1146,6 +1146,47 @@
       }
     },
     {
+      "name": "link_plotid_subarea",
+      "path": "link_plotid_subarea.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "link between plotid's used in fieldmap and the forest reserves subarea's",
+      "extra_info": null,
+      "source_database": null,
+      "calculation": null,
+      "height_model": null,
+      "schema": {
+        "fields": [
+          {
+            "name": "forest_reserve_fieldmap",
+            "type": "string",
+            "description": "name of the site as recorded in the fieldmap database",
+            "extra_info": "f.e. Kluisbos"
+          },
+          {
+            "name": "plot_id",
+            "type": "number",
+            "description": "unique sample plot id",
+            "extra_info": null
+          },
+          {
+            "name": "SiteName",
+            "type": "string",
+            "description": "alternative name of the site",
+            "extra_info": "f.e. Kluisbos"
+          },
+          {
+            "name": "SubArea",
+            "type": "string",
+            "description": "name of the subsite",
+            "extra_info": "f.e. Kluisbos SFR / Kluisbos Communal Forest"
+          }
+        ]
+      }
+    },
+    {
       "name": "link_wildcard_fieldmap",
       "path": "link_wildcard_fieldmap.csv",
       "profile": "tabular-data-resource",
