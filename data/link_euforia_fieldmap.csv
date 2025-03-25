@@ -1,0 +1,38 @@
+institute,res_ID_inst,reserve_name,plottype,forest_reserve_fieldmap,forest_reserve_FM_adjusted,LPI_ID / SPI_ID
+INBO,1,Zonienwoud-Joseph Zwaenepoel reservaat_OldCore_CA,CA,Zoniën KERN_1983,Zoniën KERN_1983,11000
+INBO,1,Zonienwoud-Joseph Zwaenepoel reservaat_OldCore_CP,CP,Zoniën KERN_1983,Zoniën KERN_1983,11 plots van 2001-2065
+INBO,1,Zonienwoud-Joseph Zwaenepoel reservaat_1stExtension_CP,CP,Zoniën UITBR_1995,Zoniën UITBR_1995,rest van 2001-2065
+INBO,1,Zonienwoud-Joseph Zwaenepoel reservaat_2ndExtension_CP,CP,Zoniën UITBR_2010,Zoniën UITBR_2010,rest van 2101-2186
+INBO,1,Zonienwoud-Joseph Zwaenepoel reservaat_Haras_CA,CA,Zoniën HARRAS_1995,Zoniën HARRAS_1995,21000
+INBO,1,Zonienwoud-Joseph Zwaenepoel reservaat_Haras_CP,CP,Zoniën HARRAS_1995,Zoniën HARRAS_1995,22 plots van 2101-2186
+INBO,2,Wijnendalebos_CA,CA,Wijnendalebos,Wijnendalebos,71000
+INBO,2,Wijnendalebos_CP,CP,Wijnendalebos,Wijnendalebos,401-523
+INBO,3,Everzwijnbad_CA,CA,Everzwijnbad,Everzwijnbad,81000
+INBO,3,Everzwijnbad_CP,CP,Everzwijnbad,Everzwijnbad,101-148
+INBO,4,Withoefse heide_CP,CP,Withoefse heide,Withoefse heide,200-229
+INBO,5,Hannecart_CA,CA,Hannecart,Hannecart,31000
+INBO,6,Walenbos_MesotrophicAlnion_CA,CA,Walenbos KV1,Walenbos KV1,51000
+INBO,6,Walenbos_OligotrophicAlnion_CA,CA,Walenbos OT,Walenbos OT,'53000
+INBO,7,Rodebos_FagoQuercetum_CA,CA,Rodebos KV1,Rodebos KV1,41000
+INBO,7,Rodebos_Fagion-AlnoPadion_CA,CA,Rodebos KV2,Rodebos KV2,43000
+INBO,8,Heirnisse_CA,CA,Heirnisse,Heirnisse,91000
+INBO,8,Heirnisse_CP,CP,Heirnisse,Heirnisse,701-768
+INBO,9,Jansheideberg_CA,CA,Jansheideberg,Jansheideberg,101000
+INBO,9,Jansheideberg_CP,CP,Jansheideberg,Jansheideberg,801-833
+INBO,10,Coolhembos_Alnion_CA,CA,Coolhem A,Coolhem A,171100
+INBO,10,Coolhembos_Quercion-Alnion_CA,CA,Coolhem Q,Coolhem Q,171200
+INBO,11,Bos Terrijst_CA,CA,Bos Terrijst,Bos Terrijst,111000
+INBO,11,Bos Terrijst_CP,CP,Bos Terrijst,Bos Terrijst,841-890
+INBO,12,Pruikenmakers_CA,CA,Pruikemakers,Pruikemakers,121000
+INBO,12,Pruikenmakers_CP,CP,Pruikemakers,Pruikemakers,901-966
+INBO,13,Liedekerke _CP,CP,Liedekerke,Liedekerke,1003-1065
+INBO,13,Liedekerke_Transect,CA,Liedekerke TR,Liedekerke TR,131000
+INBO,14,Sevendonk_Alnion_CA,CA,Sevendonck A,Sevendonck A,141100
+INBO,14,Sevendonk_Alnion _CP,CP,Sevendonck,Sevendonck A,deel van 1101-1178
+INBO,14,Sevendonk_Quercion_CA,CA,Sevendonck Q,Sevendonck Q,141200
+INBO,14,Sevendonk_Quercion_CP,CP,Sevendonck,Sevendonck Q,deel van 1101-1178
+INBO,15,Muizenbos_CA,CA,Muizenbos,Muizenbos,151000
+INBO,15,Muizenbos_CP,CP,Muizenbos,Muizenbos,1201-1246
+INBO,16,Ename_CP,CP,Ename,Ename,deel van 1301-1358 (18 plots)
+INBO,17,Kluisbos_CP,CP,Kluisbos,Kluisbos,deel van 1501-1628 (1501-1573)
+INBO,18,Kolmont_CP,CP,Kolmont,Kolmont,1701-1732

@@ -631,6 +631,125 @@
       }
     },
     {
+      "name": "info_euforia",
+      "path": "info_euforia.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "info on forest type as included in the EUFORIA network metadata table",
+      "extra_info": "on the level of a forest reserve subsite",
+      "source_database": null,
+      "calculation": null,
+      "height_model": null,
+      "schema": {
+        "fields": [
+          {
+            "name": "forest_reserve_FM_adjusted",
+            "type": "string",
+            "description": "idem, with distinction made for alnus and quercus part of site Sevendonck",
+            "extra_info": null
+          },
+          {
+            "name": "forest_reserve",
+            "type": "string",
+            "description": "name of the site as recorded in the fieldmap database",
+            "extra_info": null
+          },
+          {
+            "name": "plottype",
+            "type": "string",
+            "description": "CP:  circular plot; CA: core area",
+            "extra_info": null
+          },
+          {
+            "name": "updated_EUFORIA",
+            "type": "string",
+            "description": "last update of the EUFORIA metadata table",
+            "extra_info": null
+          },
+          {
+            "name": "institute",
+            "type": "string",
+            "description": "name of research institute",
+            "extra_info": "INBO"
+          },
+          {
+            "name": "res_ID_inst",
+            "type": "number",
+            "description": "unique site id as submitted to EUFORIA network",
+            "extra_info": "same as SITE_ID (going from 1 to 18)"
+          },
+          {
+            "name": "reserve_name_euforia",
+            "type": "string",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "reserve_area_ha",
+            "type": "string",
+            "description": "area of the site",
+            "extra_info": null
+          },
+          {
+            "name": "primeval_YN",
+            "type": "string",
+            "description": "primeval/primary character of the forest of the subsite",
+            "extra_info": "Can by Y (Yes), N (No), Part (partly). Important: this refers to the inventory plots, not to the whole reserve"
+          },
+          {
+            "name": "year_reserve",
+            "type": "string",
+            "description": "year of establisment as a strict reserve",
+            "extra_info": null
+          },
+          {
+            "name": "year_abandonment",
+            "type": "string",
+            "description": "year of abandonment of management",
+            "extra_info": "management in the buffer zone not taken into account"
+          },
+          {
+            "name": "latitude",
+            "type": "string",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "longitude",
+            "type": "string",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "m_ann_temp",
+            "type": "string",
+            "description": "mean annual temperature",
+            "extra_info": null
+          },
+          {
+            "name": "m_ann_prec",
+            "type": "string",
+            "description": "mean annual precipitation",
+            "extra_info": null
+          },
+          {
+            "name": "For_typ_1",
+            "type": "string",
+            "description": "1st forest type present on the subsite, using European Forest Types classification",
+            "extra_info": "Categories and types for sustainable forest management reporting and policy. EEA Technical report No 9/2006"
+          },
+          {
+            "name": "For_typ_2",
+            "type": "string",
+            "description": "2nd forest type present on the subsite, using European Forest Types classification",
+            "extra_info": "Categories and types for sustainable forest management reporting and policy. EEA Technical report No 9/2006"
+          }
+        ]
+      }
+    },
+    {
       "name": "kerss_ca_5_30cm_by_diam_plot",
       "path": "kerss_ca_5_30cm_by_diam_plot.csv",
       "profile": "tabular-data-resource",
@@ -898,6 +1017,207 @@
             "type": "number",
             "description": "volume of tree bole (m³/ha) calculated using species specific volume functions based on diameter at breast height;  only trees with diameter at breast height between 5 - 30 cm",
             "extra_info": "rough estimate based on tariffs with only one entrance using mid-point of diameter classes (resp. 7,5, 15 and 25 cm); source: Dagnelie et al., Berben; see table \"tblTarieven_1ing\"; volume up to a top diameter of 7 cm"
+          }
+        ]
+      }
+    },
+    {
+      "name": "link_euforia_fieldmap",
+      "path": "link_euforia_fieldmap.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "link between fieldmap and EUFORIA database",
+      "extra_info": "on the level of a forest reserve subsite",
+      "source_database": null,
+      "calculation": null,
+      "height_model": null,
+      "schema": {
+        "fields": [
+          {
+            "name": "institute",
+            "type": "string",
+            "description": "name of research institute",
+            "extra_info": "INBO"
+          },
+          {
+            "name": "res_ID_inst",
+            "type": "number",
+            "description": "unique site id as submitted to EUFORIA network",
+            "extra_info": "same as SITE_ID (going from 1 to 18)"
+          },
+          {
+            "name": "reserve_name",
+            "type": "string",
+            "description": "name of subsite as submitted to EUFORIA network",
+            "extra_info": "f.e. Zonienwoud-Joseph Zwaenepoel reservaat_1stExtension_CP"
+          },
+          {
+            "name": "plottype",
+            "type": "string",
+            "description": "CP:  circular plot; CA: core area",
+            "extra_info": null
+          },
+          {
+            "name": "forest_reserve_fieldmap",
+            "type": "string",
+            "description": "name of the site as recorded in the fieldmap database",
+            "extra_info": "f.e. Zoniën UITBR_1995"
+          },
+          {
+            "name": "forest_reserve_FM_adjusted",
+            "type": "string",
+            "description": "idem, with distinction made for alnus and quercus part of site Sevendonck",
+            "extra_info": null
+          },
+          {
+            "name": "LPI_ID / SPI_ID",
+            "type": "string",
+            "description": "plot id's of large and/or small plots located in the subsite",
+            "extra_info": "purely descriptive"
+          }
+        ]
+      }
+    },
+    {
+      "name": "link_euforia_wildcard",
+      "path": "link_euforia_wildcard.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "link between EUFORIA and wildcard database",
+      "extra_info": "on the level of a forest reserve subsite",
+      "source_database": null,
+      "calculation": null,
+      "height_model": null,
+      "schema": {
+        "fields": [
+          {
+            "name": "SITE_ID",
+            "type": "number",
+            "description": "unique site id as submitted in the context of the wildcard project",
+            "extra_info": "same as res_ID_inst (going from 1 to 18)"
+          },
+          {
+            "name": "SITE_NAME",
+            "type": "string",
+            "description": "name of the site as submitted in the context of the wildcard project",
+            "extra_info": "f.e. Zonienwoud-Joseph Zwaenepoel reservaat"
+          },
+          {
+            "name": "WILDCARD_sub_ID",
+            "type": "string",
+            "description": "name of subsite as submitted in the context of the wildcard project",
+            "extra_info": "f.e. 1stExtension"
+          },
+          {
+            "name": "composed_site_id",
+            "type": "string",
+            "description": "id composed of institute, SITE_ID, SITE_NAME and WILDCARD_sub_ID",
+            "extra_info": "f.e. INBO__1__Zonienwoud-Joseph Zwaenepoel reservaat__1stExtension"
+          },
+          {
+            "name": "institute",
+            "type": "string",
+            "description": "name of research institute",
+            "extra_info": "INBO"
+          },
+          {
+            "name": "res_ID_inst",
+            "type": "number",
+            "description": "unique site id as submitted to EUFORIA network",
+            "extra_info": "same as SITE_ID (going from 1 to 18)"
+          },
+          {
+            "name": "reserve_name",
+            "type": "string",
+            "description": "name of subsite as submitted to EUFORIA network",
+            "extra_info": "f.e. Zonienwoud-Joseph Zwaenepoel reservaat_1stExtension_CP"
+          },
+          {
+            "name": "plottype",
+            "type": "string",
+            "description": "CP:  circular plot; CA: core area",
+            "extra_info": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "link_wildcard_fieldmap",
+      "path": "link_wildcard_fieldmap.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "link between fieldmap and wildcard database",
+      "extra_info": "on the level of a forest reserve subsite",
+      "source_database": null,
+      "calculation": null,
+      "height_model": null,
+      "schema": {
+        "fields": [
+          {
+            "name": "SITE_ID",
+            "type": "number",
+            "description": "unique site id as submitted in the context of the wildcard project",
+            "extra_info": "same as res_ID_inst (going from 1 to 18)"
+          },
+          {
+            "name": "SITE_NAME",
+            "type": "string",
+            "description": "name of the site as submitted in the context of the wildcard project",
+            "extra_info": "f.e. Zonienwoud-Joseph Zwaenepoel reservaat"
+          },
+          {
+            "name": "WILDCARD_sub_ID",
+            "type": "string",
+            "description": "name of subsite as submitted in the context of the wildcard project",
+            "extra_info": "f.e. 1stExtension"
+          },
+          {
+            "name": "composed_site_id",
+            "type": "string",
+            "description": "id composed of institute, SITE_ID, SITE_NAME and WILDCARD_sub_ID",
+            "extra_info": "f.e. INBO__1__Zonienwoud-Joseph Zwaenepoel reservaat__1stExtension"
+          },
+          {
+            "name": "forest_reserve_fieldmap",
+            "type": "string",
+            "description": "name of the site as recorded in the fieldmap database",
+            "extra_info": "f.e. Zoniën UITBR_1995"
+          },
+          {
+            "name": "forest_reserve_FM_adjusted",
+            "type": "string",
+            "description": "idem, with distinction made for alnus and quercus part of site Sevendonck",
+            "extra_info": null
+          },
+          {
+            "name": "plottype",
+            "type": "string",
+            "description": "CP:  circular plot; CA: core area",
+            "extra_info": null
+          },
+          {
+            "name": "LPI_ID / SPI_ID",
+            "type": "string",
+            "description": "plot id's of large and/or small plots located in the subsite",
+            "extra_info": "purely descriptive"
+          },
+          {
+            "name": "comment",
+            "type": "string",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "subarea",
+            "type": "string",
+            "description": null,
+            "extra_info": null
           }
         ]
       }

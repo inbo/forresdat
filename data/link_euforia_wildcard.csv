@@ -1,0 +1,38 @@
+SITE_ID,SITE_NAME,WILDCARD_sub_ID,composed_site_id,institute,res_ID_inst,reserve_name,plottype
+1,Zonienwoud-Joseph Zwaenepoel reservaat,OldCore,INBO__1__Zonienwoud-Joseph Zwaenepoel reservaat__OldCore,INBO,1,Zonienwoud-Joseph Zwaenepoel reservaat_OldCore_CA,CA
+1,Zonienwoud-Joseph Zwaenepoel reservaat,OldCore,INBO__1__Zonienwoud-Joseph Zwaenepoel reservaat__OldCore,INBO,1,Zonienwoud-Joseph Zwaenepoel reservaat_OldCore_CP,CP
+1,Zonienwoud-Joseph Zwaenepoel reservaat,1stExtension,INBO__1__Zonienwoud-Joseph Zwaenepoel reservaat__1stExtension,INBO,1,Zonienwoud-Joseph Zwaenepoel reservaat_1stExtension_CP,CP
+1,Zonienwoud-Joseph Zwaenepoel reservaat,2ndExtension,INBO__1__Zonienwoud-Joseph Zwaenepoel reservaat__2ndExtension,INBO,1,Zonienwoud-Joseph Zwaenepoel reservaat_2ndExtension_CP,CP
+1,Zonienwoud-Joseph Zwaenepoel reservaat,Haras,INBO__1__Zonienwoud-Joseph Zwaenepoel reservaat__Haras,INBO,1,Zonienwoud-Joseph Zwaenepoel reservaat_Haras_CA,CA
+1,Zonienwoud-Joseph Zwaenepoel reservaat,Haras,INBO__1__Zonienwoud-Joseph Zwaenepoel reservaat__Haras,INBO,1,Zonienwoud-Joseph Zwaenepoel reservaat_Haras_CP,CP
+2,Wijnendalebos,NA,INBO__2__Wijnendalebos__NA,INBO,2,Wijnendalebos_CA,CA
+2,Wijnendalebos,NA,INBO__2__Wijnendalebos__NA,INBO,2,Wijnendalebos_CP,CP
+3,Everzwijnbad,NA,INBO__3__Everzwijnbad__NA,INBO,3,Everzwijnbad_CA,CA
+3,Everzwijnbad,NA,INBO__3__Everzwijnbad__NA,INBO,3,Everzwijnbad_CP,CP
+4,Withoefse heide,NA,INBO__4__Withoefse heide__NA,INBO,4,Withoefse heide_CP,CP
+5,Hannecart,NA,INBO__5__Hannecart__NA,INBO,5,Hannecart_CA,CA
+6,Walenbos,MesotrophicAlnion,INBO__6__Walenbos__MesotrophicAlnion,INBO,6,Walenbos_MesotrophicAlnion_CA,CA
+6,Walenbos,OligotrophicAlnion,INBO__6__Walenbos__OligotrophicAlnion,INBO,6,Walenbos_OligotrophicAlnion_CA,CA
+7,Rodebos,FagoQuercetum,INBO__7__Rodebos__FagoQuercetum,INBO,7,Rodebos_FagoQuercetum_CA,CA
+7,Rodebos,Fagion-AlnoPadion,INBO__7__Rodebos__Fagion-AlnoPadion,INBO,7,Rodebos_Fagion-AlnoPadion_CA,CA
+8,Heirnisse,NA,INBO__8__Heirnisse__NA,INBO,8,Heirnisse_CA,CA
+8,Heirnisse,NA,INBO__8__Heirnisse__NA,INBO,8,Heirnisse_CP,CP
+9,Jansheideberg,NA,INBO__9__Jansheideberg__NA,INBO,9,Jansheideberg_CA,CA
+9,Jansheideberg,NA,INBO__9__Jansheideberg__NA,INBO,9,Jansheideberg_CP,CP
+10,Coolhembos,Alnion,INBO__10__Coolhembos__Alnion,INBO,10,Coolhembos_Alnion_CA,CA
+10,Coolhembos,Quercion-Alnion,INBO__10__Coolhembos__Quercion-Alnion,INBO,10,Coolhembos_Quercion-Alnion_CA,CA
+11,Bos Terrijst,NA,INBO__11__Bos Terrijst__NA,INBO,11,Bos Terrijst_CA,CA
+11,Bos Terrijst,NA,INBO__11__Bos Terrijst__NA,INBO,11,Bos Terrijst_CP,CP
+12,Pruikenmakers,NA,INBO__12__Pruikenmakers__NA,INBO,12,Pruikenmakers_CA,CA
+12,Pruikenmakers,NA,INBO__12__Pruikenmakers__NA,INBO,12,Pruikenmakers_CP,CP
+13,Liedekerke,NA,INBO__13__Liedekerke__NA,INBO,13,Liedekerke _CP,CP
+13,Liedekerke,NA,INBO__13__Liedekerke__NA,INBO,13,Liedekerke_Transect,CA
+14,Sevendonk,Alnion,INBO__14__Sevendonk__Alnion,INBO,14,Sevendonk_Alnion_CA,CA
+14,Sevendonk,Alnion,INBO__14__Sevendonk__Alnion,INBO,14,Sevendonk_Alnion _CP,CP
+14,Sevendonk,Quercion,INBO__14__Sevendonk__Quercion,INBO,14,Sevendonk_Quercion_CA,CA
+14,Sevendonk,Quercion,INBO__14__Sevendonk__Quercion,INBO,14,Sevendonk_Quercion_CP,CP
+15,Muizenbos,NA,INBO__15__Muizenbos__NA,INBO,15,Muizenbos_CA,CA
+15,Muizenbos,NA,INBO__15__Muizenbos__NA,INBO,15,Muizenbos_CP,CP
+16,Ename,NA,INBO__16__Ename__NA,INBO,16,Ename_CP,CP
+17,Kluisbos,NA,INBO__17__Kluisbos__NA,INBO,17,Kluisbos_CP,CP
+18,Kolmont,NA,INBO__18__Kolmont__NA,INBO,18,Kolmont_CP,CP
