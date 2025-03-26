@@ -1,38 +1,38 @@
-forest_reserve_FM_adjusted,forest_reserve,plottype,updated_EUFORIA,institute,res_ID_inst,reserve_name_euforia,reserve_area_ha,primeval_YN,year_reserve,year_abandonment,latitude,longitude,m_ann_temp,m_ann_prec,For_typ_1,For_typ_2
-Zoniën KERN_1983,Zoniën KERN_1983,CA,27.01.2025,INBO,1,Zonienwoud-Joseph Zwaenepoel reservaat_OldCore_CA,235.0,N,1995,1983,5075244,442024,10.5,850,6.2 Atlantic and subatlantic lowland beech forest,
-Zoniën KERN_1983,Zoniën KERN_1983,CP,27.01.2025,INBO,1,Zonienwoud-Joseph Zwaenepoel reservaat_OldCore_CP,235.0,N,1995,1983,5075244,442024,10.5,850,6.2 Atlantic and subatlantic lowland beech forest,
-Zoniën HARRAS_1995,Zoniën HARRAS_1995,CP,27.01.2025,INBO,1,Zonienwoud-Joseph Zwaenepoel reservaat_Haras_CP,235.0,N,1995,1993,5075244,442024,10.5,850,5.1 Pedunculate oak–hornbeam forest,
-Zoniën HARRAS_1995,Zoniën HARRAS_1995,CA,27.01.2025,INBO,1,Zonienwoud-Joseph Zwaenepoel reservaat_Haras_CA,235.0,N,1995,1993,5075244,442024,10.5,850,5.1 Pedunculate oak–hornbeam forest,
-Zoniën UITBR_1995,Zoniën UITBR_1995,CP,27.01.2025,INBO,1,Zonienwoud-Joseph Zwaenepoel reservaat_1stExtension_CP,235.0,N,1995,1993,5075244,442024,10.5,850,6.2 Atlantic and subatlantic lowland beech forest,5.1 Pedunculate oak–hornbeam forest
-Zoniën UITBR_2010,Zoniën UITBR_2010,CP,27.01.2025,INBO,1,Zonienwoud-Joseph Zwaenepoel reservaat_2ndExtension_CP,235.0,N,2010,2008,5075244,442024,10.5,850,6.2 Atlantic and subatlantic lowland beech forest,5.1 Pedunculate oak–hornbeam forest
-Wijnendalebos,Wijnendalebos,CA,29.01.2024,INBO,2,Wijnendalebos_CA,65.0,N,1996,2001,5106778,303957,10.5,850,4.1 Acidophilous oakwood,6.2 Atlantic and subatlantic lowland beech forest
-Wijnendalebos,Wijnendalebos,CP,29.01.2024,INBO,2,Wijnendalebos_CP,65.0,N,1996,2001,5106778,303957,10.5,850,4.1 Acidophilous oakwood,6.2 Atlantic and subatlantic lowland beech forest
-Everzwijnbad,Everzwijnbad,CA,29.01.2024,INBO,3,Everzwijnbad_CA,27.5,N,1995,1995,5079821,467850,10.5,850,5.1 Pedunculate oak–hornbeam forest,6.2 Atlantic and subatlantic lowland beech forest
-Everzwijnbad,Everzwijnbad,CP,29.01.2024,INBO,3,Everzwijnbad_CP,27.5,N,1995,1995,5079821,467850,10.5,850,5.1 Pedunculate oak–hornbeam forest,6.2 Atlantic and subatlantic lowland beech forest
-Withoefse heide,Withoefse heide,CP,29.01.2024,INBO,4,Withoefse heide_CP,30,N,1994,1943,51370867,4448374,10.5,920,2.5 Mixed Scots pine‑birch forest,4.2 Oak‑birch forest
-Hannecart,Hannecart,CA,29.01.2024,INBO,5,Hannecart_CA,12,N,1989,1985,51131385,2702939,9.5,800,13.1 Alder forest,5.9 Other mesophytic deciduous forests
-Walenbos KV1,Walenbos KV1,CA,27.01.2025,INBO,6,Walenbos_MesotrophicAlnion_CA,300,N,1989,1985,50928134,4866585,10.5,850,11.2 Alder swamp forest,12.1 Riparian forest
-Walenbos OT,Walenbos OT,CA,27.01.2025,INBO,6,Walenbos_OligotrophicAlnion_CA,300,N,1989,1985,50925637,486777,10.5,850,11.2 Alder swamp forest,11.3 Birch swamp forest
-Rodebos KV1,Rodebos KV1,CA,27.01.2025,INBO,7,Rodebos_FagoQuercetum_CA,90,N,1989,1985,50772389,462009,10.5,850,5.1 Pedunculate oak–hornbeam forest,6.2 Atlantic and subatlantic lowland beech forest
-Rodebos KV2,Rodebos KV2,CA,27.01.2025,INBO,7,Rodebos_Fagion-AlnoPadion_CA,90,N,1989,1985,50771523,462080,10.5,850,5.1 Pedunculate oak–hornbeam forest,12.1 Riparian forest
-Heirnisse,Heirnisse,CA,29.01.2024,INBO,8,Heirnisse_CA,64,N,1996,2008,51168502,399849,10,800,13.1 Alder forest,12.2 Fluvial forest
-Heirnisse,Heirnisse,CP,29.01.2024,INBO,8,Heirnisse_CP,64.0,N,1996,2008,51067776,303957,10.0,800,13.1 Alder forest,4.1 Acidophilous oakwood
-Jansheideberg,Jansheideberg,CA,29.01.2024,INBO,9,Jansheideberg_CA,26,N,1996,1994,50704045,427743,10.3,875,6.2 Atlantic and subatlantic lowland beech forest,5.1 Pedunculate oak–hornbeam forest
-Jansheideberg,Jansheideberg,CP,29.01.2024,INBO,9,Jansheideberg_CP,26.0,N,1996,1994,50704045,427743,10.3,875,6.2 Atlantic and subatlantic lowland beech forest,5.1 Pedunculate oak–hornbeam forest
-Coolhem A,Coolhem A,CA,24.01.2022,INBO,10,Coolhembos_Alnion_CA,85,N,1995,1993,51075117,431384,10.7,850,11.2 Alder swamp forest,11.2 Alder swamp forest
-Coolhem Q,Coolhem Q,CA,24.01.2022,INBO,10,Coolhembos_Quercion-Alnion_CA,85,N,1995,1993,50771523,462080,10.7,850,11.2 Alder swamp forest,4.1 Acidophilous oakwood
-Bos Terrijst,Bos Terrijst,CA,24.01.2022,INBO,11,Bos Terrijst_CA,49.0,N,1996,2003,5071711,408377,10.5,850,6.2 Atlantic and subatlantic lowland beech forest,5.1 Pedunculate oak–hornbeam forest
-Bos Terrijst,Bos Terrijst,CP,24.01.2022,INBO,11,Bos Terrijst_CP,49.0,N,1996,2003,5071711,408377,10.5,850,6.2 Atlantic and subatlantic lowland beech forest,5.1 Pedunculate oak–hornbeam forest
-Pruikemakers,Pruikemakers,CA,24.01.2022,INBO,12,Pruikenmakers_CA,39.0,N,1995,2002,5079865,471500,10.5,850,5.1 Pedunculate oak–hornbeam forest,6.2 Atlantic and subatlantic lowland beech forest
-Pruikemakers,Pruikemakers,CP,24.01.2022,INBO,12,Pruikenmakers_CP,39.0,N,1995,2002,5079865,471500,10.5,850,5.1 Pedunculate oak–hornbeam forest,6.2 Atlantic and subatlantic lowland beech forest
-Liedekerke,Liedekerke,CP,24.01.2022,INBO,13,Liedekerke _CP,21.0,N,2003,1972,5086589,411342,10.5,825,4.1 Acidophilous oakwood,12.1 Riparian forest
-Liedekerke TR,Liedekerke TR,CA,24.01.2022,INBO,13,Liedekerke_Transect,21.0,N,2003,1972,5086589,411342,10.5,825,4.1 Acidophilous oakwood,12.1 Riparian forest
-Sevendonck A,Sevendonck A,CA,27.01.2025,INBO,14,Sevendonk_Alnion_CA,52.0,N,1997,1995,5127624,493689,10.5,875,11.2 Alder swamp forest,11.2 Alder swamp forest
-Sevendonck Q,Sevendonck Q,CA,27.01.2025,INBO,14,Sevendonk_Quercion_CA,52.0,N,1997,1995,5127624,493689,10.5,875,4.2 Oak‑birch forest,4.2 Oak‑birch forest
-Sevendonck A,Sevendonck,CP,27.01.2025,INBO,14,Sevendonk_Alnion _CP,52.0,N,1997,1995,5127624,493689,10.5,875,11.2 Alder swamp forest,4.2 Oak‑birch forest
-Sevendonck Q,Sevendonck,CP,27.01.2025,INBO,14,Sevendonk_Quercion_CP,52.0,N,1997,1995,5127624,493689,10.5,875,4.2 Oak‑birch forest,11.2 Alder swamp forest
-Muizenbos,Muizenbos,CA,24.01.2022,INBO,15,Muizenbos_CA,34.0,N,1997,1997,5119724,456693,10.6,880,5.3 Ashwood and oak‑ash forest,5.3 Ashwood and oak‑ash forest
-Muizenbos,Muizenbos,CP,24.01.2022,INBO,15,Muizenbos_CP,34.0,N,1997,1997,5119724,456693,10.6,880,5.3 Ashwood and oak‑ash forest,4.1 Acidophilous oakwood
-Ename,Ename,CP,24.01.2022,INBO,16,Ename_CP,20.0,N,1990,2000,5086017,364927,10.5,855,6.2 Atlantic and subatlantic lowland beech forest,5.1 Pedunculate oak–hornbeam forest
-Kluisbos,Kluisbos,CP,24.01.2022,INBO,17,Kluisbos_CP,50.0,N,2006,2005,5119724,456693,10.5,855,6.2 Atlantic and subatlantic lowland beech forest,12.1 Riparian forest
-Kolmont,Kolmont,CP,24.01.2022,INBO,18,Kolmont_CP,20.0,N,1995,1991,5079926,542524,10.0,850,5.1 Pedunculate oak–hornbeam forest,6.2 Atlantic and subatlantic lowland beech forest
+forest_reserve_FM_adjusted,plottype,updated_EUFORIA,institute,res_ID_inst,reserve_name_euforia,reserve_area_ha,primeval_YN,year_reserve,year_abandonment,latitude,longitude,m_ann_temp,m_ann_prec,For_typ_1,For_typ_2,forest_reserve_fieldmap
+Zoniën KERN_1983,CA,27.01.2025,INBO,1,Zonienwoud-Joseph Zwaenepoel reservaat_OldCore_CA,235.0,N,1995,1983,5075244,442024,10.5,850,6.2 Atlantic and subatlantic lowland beech forest,,Zoniën KERN_1983
+Zoniën KERN_1983,CP,27.01.2025,INBO,1,Zonienwoud-Joseph Zwaenepoel reservaat_OldCore_CP,235.0,N,1995,1983,5075244,442024,10.5,850,6.2 Atlantic and subatlantic lowland beech forest,,Zoniën KERN_1983
+Zoniën HARRAS_1995,CP,27.01.2025,INBO,1,Zonienwoud-Joseph Zwaenepoel reservaat_Haras_CP,235.0,N,1995,1993,5075244,442024,10.5,850,5.1 Pedunculate oak–hornbeam forest,,Zoniën HARRAS_1995
+Zoniën HARRAS_1995,CA,27.01.2025,INBO,1,Zonienwoud-Joseph Zwaenepoel reservaat_Haras_CA,235.0,N,1995,1993,5075244,442024,10.5,850,5.1 Pedunculate oak–hornbeam forest,,Zoniën HARRAS_1995
+Zoniën UITBR_1995,CP,27.01.2025,INBO,1,Zonienwoud-Joseph Zwaenepoel reservaat_1stExtension_CP,235.0,N,1995,1993,5075244,442024,10.5,850,6.2 Atlantic and subatlantic lowland beech forest,5.1 Pedunculate oak–hornbeam forest,Zoniën UITBR_1995
+Zoniën UITBR_2010,CP,27.01.2025,INBO,1,Zonienwoud-Joseph Zwaenepoel reservaat_2ndExtension_CP,235.0,N,2010,2008,5075244,442024,10.5,850,6.2 Atlantic and subatlantic lowland beech forest,5.1 Pedunculate oak–hornbeam forest,Zoniën UITBR_2010
+Wijnendalebos,CA,29.01.2024,INBO,2,Wijnendalebos_CA,65.0,N,1996,2001,5106778,303957,10.5,850,4.1 Acidophilous oakwood,6.2 Atlantic and subatlantic lowland beech forest,Wijnendalebos
+Wijnendalebos,CP,29.01.2024,INBO,2,Wijnendalebos_CP,65.0,N,1996,2001,5106778,303957,10.5,850,4.1 Acidophilous oakwood,6.2 Atlantic and subatlantic lowland beech forest,Wijnendalebos
+Everzwijnbad,CA,29.01.2024,INBO,3,Everzwijnbad_CA,27.5,N,1995,1995,5079821,467850,10.5,850,5.1 Pedunculate oak–hornbeam forest,6.2 Atlantic and subatlantic lowland beech forest,Everzwijnbad
+Everzwijnbad,CP,29.01.2024,INBO,3,Everzwijnbad_CP,27.5,N,1995,1995,5079821,467850,10.5,850,5.1 Pedunculate oak–hornbeam forest,6.2 Atlantic and subatlantic lowland beech forest,Everzwijnbad
+Withoefse heide,CP,29.01.2024,INBO,4,Withoefse heide_CP,30,N,1994,1943,51370867,4448374,10.5,920,2.5 Mixed Scots pine‑birch forest,4.2 Oak‑birch forest,Withoefse heide
+Hannecart,CA,29.01.2024,INBO,5,Hannecart_CA,12,N,1989,1985,51131385,2702939,9.5,800,13.1 Alder forest,5.9 Other mesophytic deciduous forests,Hannecart
+Walenbos KV1,CA,27.01.2025,INBO,6,Walenbos_MesotrophicAlnion_CA,300,N,1989,1985,50928134,4866585,10.5,850,11.2 Alder swamp forest,12.1 Riparian forest,Walenbos KV1
+Walenbos OT,CA,27.01.2025,INBO,6,Walenbos_OligotrophicAlnion_CA,300,N,1989,1985,50925637,486777,10.5,850,11.2 Alder swamp forest,11.3 Birch swamp forest,Walenbos OT
+Rodebos KV1,CA,27.01.2025,INBO,7,Rodebos_FagoQuercetum_CA,90,N,1989,1985,50772389,462009,10.5,850,5.1 Pedunculate oak–hornbeam forest,6.2 Atlantic and subatlantic lowland beech forest,Rodebos KV1
+Rodebos KV2,CA,27.01.2025,INBO,7,Rodebos_Fagion-AlnoPadion_CA,90,N,1989,1985,50771523,462080,10.5,850,5.1 Pedunculate oak–hornbeam forest,12.1 Riparian forest,Rodebos KV2
+Heirnisse,CA,29.01.2024,INBO,8,Heirnisse_CA,64,N,1996,2008,51168502,399849,10,800,13.1 Alder forest,12.2 Fluvial forest,Heirnisse
+Heirnisse,CP,29.01.2024,INBO,8,Heirnisse_CP,64.0,N,1996,2008,51067776,303957,10.0,800,13.1 Alder forest,4.1 Acidophilous oakwood,Heirnisse
+Jansheideberg,CA,29.01.2024,INBO,9,Jansheideberg_CA,26,N,1996,1994,50704045,427743,10.3,875,6.2 Atlantic and subatlantic lowland beech forest,5.1 Pedunculate oak–hornbeam forest,Jansheideberg
+Jansheideberg,CP,29.01.2024,INBO,9,Jansheideberg_CP,26.0,N,1996,1994,50704045,427743,10.3,875,6.2 Atlantic and subatlantic lowland beech forest,5.1 Pedunculate oak–hornbeam forest,Jansheideberg
+Coolhem A,CA,24.01.2022,INBO,10,Coolhembos_Alnion_CA,85,N,1995,1993,51075117,431384,10.7,850,11.2 Alder swamp forest,11.2 Alder swamp forest,Coolhem A
+Coolhem Q,CA,24.01.2022,INBO,10,Coolhembos_Quercion-Alnion_CA,85,N,1995,1993,50771523,462080,10.7,850,11.2 Alder swamp forest,4.1 Acidophilous oakwood,Coolhem Q
+Bos Terrijst,CA,24.01.2022,INBO,11,Bos Terrijst_CA,49.0,N,1996,2003,5071711,408377,10.5,850,6.2 Atlantic and subatlantic lowland beech forest,5.1 Pedunculate oak–hornbeam forest,Bos Terrijst
+Bos Terrijst,CP,24.01.2022,INBO,11,Bos Terrijst_CP,49.0,N,1996,2003,5071711,408377,10.5,850,6.2 Atlantic and subatlantic lowland beech forest,5.1 Pedunculate oak–hornbeam forest,Bos Terrijst
+Pruikemakers,CA,24.01.2022,INBO,12,Pruikenmakers_CA,39.0,N,1995,2002,5079865,471500,10.5,850,5.1 Pedunculate oak–hornbeam forest,6.2 Atlantic and subatlantic lowland beech forest,Pruikemakers
+Pruikemakers,CP,24.01.2022,INBO,12,Pruikenmakers_CP,39.0,N,1995,2002,5079865,471500,10.5,850,5.1 Pedunculate oak–hornbeam forest,6.2 Atlantic and subatlantic lowland beech forest,Pruikemakers
+Liedekerke,CP,24.01.2022,INBO,13,Liedekerke _CP,21.0,N,2003,1972,5086589,411342,10.5,825,4.1 Acidophilous oakwood,12.1 Riparian forest,Liedekerke
+Liedekerke TR,CA,24.01.2022,INBO,13,Liedekerke_Transect,21.0,N,2003,1972,5086589,411342,10.5,825,4.1 Acidophilous oakwood,12.1 Riparian forest,Liedekerke TR
+Sevendonck A,CA,27.01.2025,INBO,14,Sevendonk_Alnion_CA,52.0,N,1997,1995,5127624,493689,10.5,875,11.2 Alder swamp forest,11.2 Alder swamp forest,Sevendonck A
+Sevendonck Q,CA,27.01.2025,INBO,14,Sevendonk_Quercion_CA,52.0,N,1997,1995,5127624,493689,10.5,875,4.2 Oak‑birch forest,4.2 Oak‑birch forest,Sevendonck Q
+Sevendonck A,CP,27.01.2025,INBO,14,Sevendonk_Alnion _CP,52.0,N,1997,1995,5127624,493689,10.5,875,11.2 Alder swamp forest,4.2 Oak‑birch forest,Sevendonck
+Sevendonck Q,CP,27.01.2025,INBO,14,Sevendonk_Quercion_CP,52.0,N,1997,1995,5127624,493689,10.5,875,4.2 Oak‑birch forest,11.2 Alder swamp forest,Sevendonck
+Muizenbos,CA,24.01.2022,INBO,15,Muizenbos_CA,34.0,N,1997,1997,5119724,456693,10.6,880,5.3 Ashwood and oak‑ash forest,5.3 Ashwood and oak‑ash forest,Muizenbos
+Muizenbos,CP,24.01.2022,INBO,15,Muizenbos_CP,34.0,N,1997,1997,5119724,456693,10.6,880,5.3 Ashwood and oak‑ash forest,4.1 Acidophilous oakwood,Muizenbos
+Ename,CP,24.01.2022,INBO,16,Ename_CP,20.0,N,2000,1990,5086017,364927,10.5,855,6.2 Atlantic and subatlantic lowland beech forest,5.1 Pedunculate oak–hornbeam forest,Ename
+Kluisbos,CP,24.01.2022,INBO,17,Kluisbos_CP,50.0,N,2006,2005,5119724,456693,10.5,855,6.2 Atlantic and subatlantic lowland beech forest,12.1 Riparian forest,Kluisbos
+Kolmont,CP,24.01.2022,INBO,18,Kolmont_CP,20.0,N,1995,1991,5079926,542524,10.0,850,5.1 Pedunculate oak–hornbeam forest,6.2 Atlantic and subatlantic lowland beech forest,Kolmont

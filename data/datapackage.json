@@ -651,12 +651,6 @@
             "extra_info": null
           },
           {
-            "name": "forest_reserve",
-            "type": "string",
-            "description": "name of the site as recorded in the fieldmap database",
-            "extra_info": null
-          },
-          {
             "name": "plottype",
             "type": "string",
             "description": "CP:  circular plot; CA: core area",
@@ -745,6 +739,12 @@
             "type": "string",
             "description": "2nd forest type present on the subsite, using European Forest Types classification",
             "extra_info": "Categories and types for sustainable forest management reporting and policy. EEA Technical report No 9/2006"
+          },
+          {
+            "name": "forest_reserve_fieldmap",
+            "type": "string",
+            "description": null,
+            "extra_info": null
           }
         ]
       }
@@ -1175,13 +1175,13 @@
             "name": "SiteName",
             "type": "string",
             "description": "alternative name of the site",
-            "extra_info": "f.e. Kluisbos"
+            "extra_info": "name as used in the shapefile (f.e. Kluisbos)"
           },
           {
             "name": "SubArea",
             "type": "string",
             "description": "name of the subsite",
-            "extra_info": "f.e. Kluisbos SFR / Kluisbos Communal Forest"
+            "extra_info": "used in the shapefile (f.e. Kluisbos SFR / Kluisbos Communal Forest)"
           }
         ]
       }
