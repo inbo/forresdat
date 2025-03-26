@@ -1853,6 +1853,41 @@
       }
     },
     {
+      "name": "q_pnv",
+      "path": "q_pnv.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "list of codes of potential natural vegetation with their Dutch and English name",
+      "extra_info": null,
+      "source_database": null,
+      "calculation": null,
+      "height_model": null,
+      "schema": {
+        "fields": [
+          {
+            "name": "Code",
+            "type": "string",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "Nederlandse naam",
+            "type": "string",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "English name",
+            "type": "string",
+            "description": null,
+            "extra_info": null
+          }
+        ]
+      }
+    },
+    {
       "name": "qalive_dead",
       "path": "qalive_dead.csv",
       "profile": "tabular-data-resource",
@@ -4478,6 +4513,323 @@
             "type": "number",
             "description": "Visual Sky",
             "extra_info": "Source: gsheet with info on circular plots"
+          }
+        ]
+      }
+    },
+    {
+      "name": "strata_soil",
+      "path": "strata_soil.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "soil unit, texture, moisture class, ….",
+      "extra_info": null,
+      "source_database": null,
+      "calculation": null,
+      "height_model": null,
+      "schema": {
+        "fields": [
+          {
+            "name": "Unieknr",
+            "type": "number",
+            "description": "to distinguish between possible subplots",
+            "extra_info": "plot 11000 is divided in 6 transects with different soil type"
+          },
+          {
+            "name": "plot_id",
+            "type": "number",
+            "description": "unique sample plot id",
+            "extra_info": null
+          },
+          {
+            "name": "SiteName",
+            "type": "string",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "SubArea",
+            "type": "string",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "forest_reserve_fieldmap",
+            "type": "string",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "soil_unit",
+            "type": "string",
+            "description": "soil unit according to \"World Reference Base for Soil Resources\" (WRB) on scale 1:40,000",
+            "extra_info": "f.e. Eutric Gleyic Cambisols (Loamic, Colluvic)"
+          },
+          {
+            "name": "reference_soil_group",
+            "type": "string",
+            "description": "cfr WRB Soil Units 40k",
+            "extra_info": "f.e. Cambisols"
+          },
+          {
+            "name": "rsg_pq_cod",
+            "type": "string",
+            "description": "cfr WRB Soil Units 40k",
+            "extra_info": "f.e. CM-gl.eu"
+          },
+          {
+            "name": "pq_code",
+            "type": "string",
+            "description": "cfr WRB Soil Units 40k",
+            "extra_info": "f.e. gl.eu"
+          },
+          {
+            "name": "pq1",
+            "type": "string",
+            "description": "cfr WRB Soil Units 40k",
+            "extra_info": "f.e. Gleyic"
+          },
+          {
+            "name": "pq2",
+            "type": "string",
+            "description": "cfr WRB Soil Units 40k",
+            "extra_info": "f.e. Eutric"
+          },
+          {
+            "name": "pq3",
+            "type": "string",
+            "description": "cfr WRB Soil Units 40k",
+            "extra_info": null
+          },
+          {
+            "name": "sq_drainag",
+            "type": "string",
+            "description": "cfr WRB Soil Units 40k",
+            "extra_info": "f.e. Endogleyic"
+          },
+          {
+            "name": "sq_texture",
+            "type": "string",
+            "description": "cfr WRB Soil Units 40k",
+            "extra_info": "f.e. Loamic"
+          },
+          {
+            "name": "sq_morphol",
+            "type": "string",
+            "description": "cfr WRB Soil Units 40k",
+            "extra_info": "f.e. Colluvic"
+          },
+          {
+            "name": "sq_fertili",
+            "type": "string",
+            "description": "cfr WRB Soil Units 40k",
+            "extra_info": "f.e. Eutric"
+          },
+          {
+            "name": "belgisch_bodemtype",
+            "type": "string",
+            "description": "soil unit according to Belgian soil system (from digital soil map of Flanders)",
+            "extra_info": "f.e. Ldp"
+          },
+          {
+            "name": "belgisch_bodemdistrict",
+            "type": "string",
+            "description": "Belgian soil district according to digital soil map of Flanders",
+            "extra_info": "f.e. Schelde-Dender interfluvium"
+          },
+          {
+            "name": "bodemkaart_streek",
+            "type": "string",
+            "description": "Belgian soil region according to digital soil map of Flanders",
+            "extra_info": "f.e. Zandleemstreek"
+          },
+          {
+            "name": "bodemtype_ruw",
+            "type": "string",
+            "description": "rough soil type, descriptive according to digital soil map of Flanders",
+            "extra_info": "f.e. Vochtig zandleem"
+          },
+          {
+            "name": "bodemtype",
+            "type": "string",
+            "description": "soil type cfr. Belgian soil system",
+            "extra_info": "f.e. Ldp"
+          },
+          {
+            "name": "bodemserie_c",
+            "type": "string",
+            "description": "cfr. Belgian soil system",
+            "extra_info": "f.e. Ldp"
+          },
+          {
+            "name": "bodemserie",
+            "type": "string",
+            "description": "cfr. Belgian soil system",
+            "extra_info": "f.e. Matig natte zandleembodem zonder profiel"
+          },
+          {
+            "name": "Substr_V_c",
+            "type": "string",
+            "description": "cfr. Belgian soil system",
+            "extra_info": null
+          },
+          {
+            "name": "SubstraatV",
+            "type": "string",
+            "description": "cfr. Belgian soil system",
+            "extra_info": null
+          },
+          {
+            "name": "Textuur_c",
+            "type": "string",
+            "description": "cfr. Belgian soil system",
+            "extra_info": "f.e. L"
+          },
+          {
+            "name": "Textuur",
+            "type": "string",
+            "description": "cfr. Belgian soil system",
+            "extra_info": "f.e. zandleem"
+          },
+          {
+            "name": "Drainage_c",
+            "type": "string",
+            "description": "cfr. Belgian soil system",
+            "extra_info": "f.e. d"
+          },
+          {
+            "name": "Drainage",
+            "type": "string",
+            "description": "cfr. Belgian soil system",
+            "extra_info": "f.e. matig nat, matig gleyig"
+          },
+          {
+            "name": "Profontw_c",
+            "type": "string",
+            "description": "cfr. Belgian soil system",
+            "extra_info": "f.e. p"
+          },
+          {
+            "name": "Profontw",
+            "type": "string",
+            "description": "cfr. Belgian soil system",
+            "extra_info": "f.e. zonder profielontwikkeling"
+          },
+          {
+            "name": "Fase_c",
+            "type": "integer",
+            "description": "cfr. Belgian soil system",
+            "extra_info": null
+          },
+          {
+            "name": "Fase",
+            "type": "string",
+            "description": "cfr. Belgian soil system",
+            "extra_info": null
+          },
+          {
+            "name": "Varimoma_c",
+            "type": "string",
+            "description": "cfr. Belgian soil system",
+            "extra_info": null
+          },
+          {
+            "name": "Varimoma",
+            "type": "string",
+            "description": "cfr. Belgian soil system",
+            "extra_info": null
+          },
+          {
+            "name": "Variprof_c",
+            "type": "string",
+            "description": "cfr. Belgian soil system",
+            "extra_info": null
+          },
+          {
+            "name": "Variprof",
+            "type": "string",
+            "description": "cfr. Belgian soil system",
+            "extra_info": null
+          },
+          {
+            "name": "Serie_c",
+            "type": "string",
+            "description": "cfr. Belgian soil system",
+            "extra_info": null
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "description": "cfr. Belgian soil system",
+            "extra_info": null
+          },
+          {
+            "name": "Subserie_c",
+            "type": "string",
+            "description": "cfr. Belgian soil system",
+            "extra_info": null
+          },
+          {
+            "name": "Subserie",
+            "type": "string",
+            "description": "cfr. Belgian soil system",
+            "extra_info": null
+          },
+          {
+            "name": "Type_c",
+            "type": "string",
+            "description": "cfr. Belgian soil system",
+            "extra_info": null
+          },
+          {
+            "name": "Type",
+            "type": "string",
+            "description": "cfr. Belgian soil system",
+            "extra_info": null
+          },
+          {
+            "name": "Subtype_c",
+            "type": "string",
+            "description": "cfr. Belgian soil system",
+            "extra_info": null
+          },
+          {
+            "name": "Subtype",
+            "type": "string",
+            "description": "cfr. Belgian soil system",
+            "extra_info": null
+          },
+          {
+            "name": "Uitleg_tit",
+            "type": "string",
+            "description": "title of the extended infomation on the soil type",
+            "extra_info": "f.e. bodemserie Ldp en complex LdP in de Zandleemstreek"
+          },
+          {
+            "name": "Uitleg",
+            "type": "string",
+            "description": "extended infomation on the soil type",
+            "extra_info": null
+          },
+          {
+            "name": "Type_class",
+            "type": "string",
+            "description": "according to digital soil map of Flanders",
+            "extra_info": "f.e. Rest van Vlaanderen"
+          },
+          {
+            "name": "Bodtypstr",
+            "type": "string",
+            "description": "according to digital soil map of Flanders",
+            "extra_info": "f.e. Ldp-ZLS"
+          },
+          {
+            "name": "PNV",
+            "type": "integer",
+            "description": "code of the potential natural vegetation (see table \"q_pnv\")",
+            "extra_info": "https://www.vlaanderen.be/datavindplaats/catalogus/potentieel-natuurlijke-vegetatie-2001"
           }
         ]
       }
