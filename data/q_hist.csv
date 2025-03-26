@@ -1,0 +1,10 @@
+Code,Omschrijving,Description
+B,bos,forest
+B/l,loofbos,deciduous forest
+B/n,naaldbos,coniferous forest
+B/g,gemengd bos,mixed forest
+A,akker,agricultural land
+G,grasland/weide,meadow
+H,heide,heathland
+V,vijver/meer/moeras,pond/lake/swamp
+H/B,verbossende heide/verheidend bos,afforesting heathland/forest developing towards heathland

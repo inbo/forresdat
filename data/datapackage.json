@@ -631,6 +631,154 @@
       }
     },
     {
+      "name": "dominant_tree",
+      "path": "dominant_tree.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "dominant tree species based on either tree number or basal area",
+      "extra_info": "derived from dendrometric survey",
+      "source_database": null,
+      "calculation": null,
+      "height_model": null,
+      "schema": {
+        "fields": [
+          {
+            "name": "plot_id",
+            "type": "number",
+            "description": "unique sample plot id",
+            "extra_info": null
+          },
+          {
+            "name": "period",
+            "type": "number",
+            "description": "period: \"1\" for 1st decade (2000-2010), \"2\" for 2nd decade (2011-2020), \"3\" for 3th decade (2021-2030)",
+            "extra_info": "\"0\" only occurs for dendro data in plot 11000 (1986)"
+          },
+          {
+            "name": "year",
+            "type": "number",
+            "description": "year of dendro survey (year of growing season)",
+            "extra_info": "f.e. march 2020 becomes 2019 (start of growing season is set to May 1)"
+          },
+          {
+            "name": "MaxTreeNumberSpeciesID",
+            "type": "number",
+            "description": "tree species code of most frequent species in the plot based on tree number",
+            "extra_info": "see table \"qspecies\""
+          },
+          {
+            "name": "MaxTreeNumberSpeciesName",
+            "type": "string",
+            "description": "Dutch name of most frequent species in the plot based on tree number",
+            "extra_info": null
+          },
+          {
+            "name": "MaxTreeNumber",
+            "type": "number",
+            "description": "tree number of most frequent species in the plot (1/ha)",
+            "extra_info": null
+          },
+          {
+            "name": "Perc_MaxTreeNumber",
+            "type": "number",
+            "description": "share of most frequent species in total tree  number (%)",
+            "extra_info": null
+          },
+          {
+            "name": "MaxBasalAreaSpeciesID",
+            "type": "number",
+            "description": "tree species code of most frequent species in the plot based on basal area",
+            "extra_info": "see table \"qspecies\""
+          },
+          {
+            "name": "MaxBasalAreaSpeciesName",
+            "type": "string",
+            "description": "Dutch name of most frequent species in the plot based on basal area",
+            "extra_info": null
+          },
+          {
+            "name": "MaxBasalArea",
+            "type": "number",
+            "description": "basal area of most frequent species in the plot (m²/ha)",
+            "extra_info": null
+          },
+          {
+            "name": "Perc_MaxBasalArea",
+            "type": "number",
+            "description": "share of most frequent species in total basal area (%)",
+            "extra_info": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "forest_reserve_management",
+      "path": "forest_reserve_management.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "year of establisment as a strict reserve, last commercial intervention and year of abandonment of management",
+      "extra_info": "data taken from methodology report (DOI: https://doi.org/10.21436/inbor114075052)",
+      "source_database": null,
+      "calculation": null,
+      "height_model": null,
+      "schema": {
+        "fields": [
+          {
+            "name": "forest_reserve_fieldmap",
+            "type": "string",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "plottype",
+            "type": "string",
+            "description": "CP:  circular plot; CA: core area",
+            "extra_info": null
+          },
+          {
+            "name": "reserve_name_euforia",
+            "type": "string",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "reserve_establishment_yr",
+            "type": "number",
+            "description": "year of establisment as a strict reserve",
+            "extra_info": null
+          },
+          {
+            "name": "reserve_unmanaged_since",
+            "type": "integer",
+            "description": "year of abandonment of management",
+            "extra_info": "only applies to the part in current zero management; management in the buffer zone not taken into account"
+          },
+          {
+            "name": "plots_unmanaged_since",
+            "type": "integer",
+            "description": "year of abandonment of management in the inventory plots",
+            "extra_info": "only applies to the part in current zero management"
+          },
+          {
+            "name": "last_commercial_intervention",
+            "type": "string",
+            "description": "year of last commercial intervention",
+            "extra_info": "only applies to the part in current zero management"
+          },
+          {
+            "name": "attention",
+            "type": "string",
+            "description": "extra info f.e. when a reserve is (partially) managed",
+            "extra_info": "(Kluisbos, Ename, De Heide)"
+          }
+        ]
+      }
+    },
+    {
       "name": "info_euforia",
       "path": "info_euforia.csv",
       "profile": "tabular-data-resource",
@@ -745,6 +893,212 @@
             "type": "string",
             "description": null,
             "extra_info": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "info_survey",
+      "path": "info_survey.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "info on which type of survey, plotsize, tresholds, date and year of survey, …",
+      "extra_info": null,
+      "source_database": null,
+      "calculation": null,
+      "height_model": null,
+      "schema": {
+        "fields": [
+          {
+            "name": "forest_reserve",
+            "type": "string",
+            "constraints": {
+              "enum": ["Zoniën KERN_1983", "Bauwensplots", "Bos Terrijst", "Coolhem A", "Coolhem Q", "De heide", "Ename", "Everzwijnbad", "Hannecart", "Heirnisse", "Jansheideberg", "Kluisbos", "Kolmont", "Liedekerke", "Liedekerke TR", "Muizenbos", "Pruikemakers", "Rodebos KV1", "Rodebos KV2", "Sevendonck", "Sevendonck A", "Sevendonck Q", "Walenbos KV1", "Walenbos MT", "Walenbos OT", "Wijnendalebos", "Withoefse heide", "Withoefse heide T", "Zoniën HARRAS_1995", "Zoniën UITBR_1995", "Zoniën UITBR_2010", "Kersselaerspley", "Zwaenepoel"]
+            },
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "plot_id",
+            "type": "number",
+            "description": "unique sample plot id",
+            "extra_info": null
+          },
+          {
+            "name": "plottype",
+            "type": "string",
+            "description": "CP:  circular plot; CA: core area",
+            "extra_info": null
+          },
+          {
+            "name": "plottype_txt",
+            "type": "string",
+            "description": "type of inventory plots",
+            "extra_info": "f.e. circular nested plots"
+          },
+          {
+            "name": "survey_trees",
+            "type": "boolean",
+            "description": "TRUE: there was a dendro survey",
+            "extra_info": null
+          },
+          {
+            "name": "survey_deadw",
+            "type": "boolean",
+            "description": "TRUE: there was a deadwood survey",
+            "extra_info": null
+          },
+          {
+            "name": "survey_lis",
+            "type": "boolean",
+            "description": "TRUE: there was a line intersect used to measure lying deadwood",
+            "extra_info": null
+          },
+          {
+            "name": "survey_reg",
+            "type": "boolean",
+            "description": "TRUE: there was a regeneration survey",
+            "extra_info": null
+          },
+          {
+            "name": "survey_veg",
+            "type": "boolean",
+            "description": "TRUE: there was a vegetation survey",
+            "extra_info": null
+          },
+          {
+            "name": "data_processed",
+            "type": "boolean",
+            "description": "TRUE: data processing is finished",
+            "extra_info": "including data control and creation of height models"
+          },
+          {
+            "name": "period",
+            "type": "number",
+            "description": "period: \"1\" for 1st decade (2000-2010), \"2\" for 2nd decade (2011-2020), \"3\" for 3th decade (2021-2030)",
+            "extra_info": "\"0\" only occurs for dendro data in plot 11000 (1986)"
+          },
+          {
+            "name": "survey_number",
+            "type": "integer",
+            "description": "1, 2, 3 or 4: indicating first, second, ... subsequent survey on the same location",
+            "extra_info": null
+          },
+          {
+            "name": "year_dendro",
+            "type": "integer",
+            "description": "year of dendro survey (year of growing season)",
+            "extra_info": "f.e. march 2020 becomes 2019 (start of growing season is set to May 1)"
+          },
+          {
+            "name": "date_dendro",
+            "type": "date",
+            "description": "date of dendro survey",
+            "extra_info": null
+          },
+          {
+            "name": "rA1_m",
+            "type": "number",
+            "description": "only for circular plots: radius of A1 subplot",
+            "extra_info": null
+          },
+          {
+            "name": "rA2_m",
+            "type": "number",
+            "description": "only for circular plots: radius of A2 subplot",
+            "extra_info": null
+          },
+          {
+            "name": "rA3_m",
+            "type": "number",
+            "description": "only for circular plots: radius of A3 subplot",
+            "extra_info": null
+          },
+          {
+            "name": "rA4_m",
+            "type": "number",
+            "description": "only for circular plots: radius of A4 subplot",
+            "extra_info": null
+          },
+          {
+            "name": "LengthCoreArea_m",
+            "type": "integer",
+            "description": "only for core area's: length of the core area",
+            "extra_info": null
+          },
+          {
+            "name": "WidthCoreArea_m",
+            "type": "integer",
+            "description": "only for core area's: width of the core area",
+            "extra_info": null
+          },
+          {
+            "name": "CoreArea_ha",
+            "type": "number",
+            "description": "only for core area's: surface of the core area",
+            "extra_info": null
+          },
+          {
+            "name": "TresHoldDBH_A3_alive_mm",
+            "type": "integer",
+            "description": "diameter treshold for living trees in A3 subplot (mm)",
+            "extra_info": null
+          },
+          {
+            "name": "TresHoldDBH_A3_dead_mm",
+            "type": "integer",
+            "description": "diameter treshold for dead standing trees in A3 subplot (mm)",
+            "extra_info": null
+          },
+          {
+            "name": "TresHoldDBH_A4_alive_mm",
+            "type": "integer",
+            "description": "diameter treshold for living trees in A4 subplot (mm)",
+            "extra_info": null
+          },
+          {
+            "name": "TresHoldDBH_A4_dead_mm",
+            "type": "integer",
+            "description": "diameter treshold for dead standing trees in A4 subplot (mm)",
+            "extra_info": null
+          },
+          {
+            "name": "TresHoldDBH_CoreArea_dead_mm",
+            "type": "integer",
+            "description": "diameter treshold for dead standing trees in the core area (mm)",
+            "extra_info": null
+          },
+          {
+            "name": "TresHoldDBH_CoreArea_alive_mm",
+            "type": "integer",
+            "description": "diameter treshold for living trees in the core area (mm)",
+            "extra_info": null
+          },
+          {
+            "name": "TresHoldDiam_Deadw_A4_mm",
+            "type": "integer",
+            "description": "diameter treshold for lying deadwood in the circular plot (mm)",
+            "extra_info": null
+          },
+          {
+            "name": "TresHoldDiam_Deadw_CoreArea_mm",
+            "type": "integer",
+            "description": "diameter treshold for lying deadwood in the core area (mm)",
+            "extra_info": null
+          },
+          {
+            "name": "plotsize_dendro",
+            "type": "string",
+            "description": "descriptive plot size of dendro survey",
+            "extra_info": "f.e. Radius: r1 = 2.25 m / r2 = 4.50 m / r3 = 9.00 m / r4 = 18.00 m"
+          },
+          {
+            "name": "plotsize_veg",
+            "type": "string",
+            "description": "descriptive plot size of vegetation survey",
+            "extra_info": "f.e. 16 x 16 m"
           }
         ]
       }
@@ -1359,6 +1713,105 @@
             "name": "survey_lis",
             "type": "boolean",
             "description": null,
+            "extra_info": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "plots_excluded_from_network",
+      "path": "plots_excluded_from_network.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "list of plots that aren't part of monitoring network anymore",
+      "extra_info": null,
+      "source_database": null,
+      "calculation": null,
+      "height_model": null,
+      "schema": {
+        "fields": [
+          {
+            "name": "forest_reserve",
+            "type": "string",
+            "description": "name of forest reserve",
+            "extra_info": null
+          },
+          {
+            "name": "plot_id",
+            "type": "number",
+            "description": "unique sample plot id",
+            "extra_info": null
+          },
+          {
+            "name": "info",
+            "type": "string",
+            "description": "reason why no longer in network",
+            "extra_info": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "q_foresttypes",
+      "path": "q_foresttypes.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": [],
+      "extra_info": [],
+      "source_database": null,
+      "calculation": null,
+      "height_model": null,
+      "schema": {
+        "fields": [
+          {
+            "name": "Code",
+            "type": "string"
+          },
+          {
+            "name": "Type",
+            "type": "string"
+          },
+          {
+            "name": "Category",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "q_hist",
+      "path": "q_hist.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "list of codes of historical landuse with their meaning",
+      "extra_info": null,
+      "source_database": null,
+      "calculation": null,
+      "height_model": null,
+      "schema": {
+        "fields": [
+          {
+            "name": "Code",
+            "type": "string",
+            "description": "unique code of the historical landuse",
+            "extra_info": null
+          },
+          {
+            "name": "Omschrijving",
+            "type": "string",
+            "description": "meaning of the code in Dutch",
+            "extra_info": null
+          },
+          {
+            "name": "Description",
+            "type": "string",
+            "description": "meaning of the code in English",
             "extra_info": null
           }
         ]
@@ -3310,6 +3763,686 @@
             "type": "number",
             "description": "upper confidence interval (lci) of percentage of seedlings impacted by browsing or fraying (roedeer)",
             "extra_info": "calculated based on 'rubbing_damage_nr_seedlings' and 'uci_number_seedlings'"
+          }
+        ]
+      }
+    },
+    {
+      "name": "strata_climate",
+      "path": "strata_climate.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "mean annual and monthly precipitation and temperature",
+      "extra_info": "Source: http://www.worldclim.org/ ; Version 1.3, downloaded July 2009",
+      "source_database": null,
+      "calculation": null,
+      "height_model": null,
+      "schema": {
+        "fields": [
+          {
+            "name": "plot_id",
+            "type": "number",
+            "description": "unique sample plot id",
+            "extra_info": null
+          },
+          {
+            "name": "Regen_jaar",
+            "type": "number",
+            "description": "mean annual precipitation (mm)",
+            "extra_info": "Source: http://www.worldclim.org/ ; Version 1.3, downloaded July 2009"
+          },
+          {
+            "name": "Regen_jan",
+            "type": "number",
+            "description": "mean monthly precipitation in January (mm)",
+            "extra_info": null
+          },
+          {
+            "name": "Regen_feb",
+            "type": "number",
+            "description": "mean monthly precipitation in February (mm)",
+            "extra_info": null
+          },
+          {
+            "name": "Regen_maa",
+            "type": "number",
+            "description": "mean monthly precipitation in March (mm)",
+            "extra_info": null
+          },
+          {
+            "name": "Regen_apr",
+            "type": "number",
+            "description": "mean monthly precipitation in April (mm)",
+            "extra_info": null
+          },
+          {
+            "name": "Regen_mei",
+            "type": "number",
+            "description": "mean monthly precipitation in May (mm)",
+            "extra_info": null
+          },
+          {
+            "name": "Regen_jun",
+            "type": "number",
+            "description": "mean monthly precipitation in June (mm)",
+            "extra_info": null
+          },
+          {
+            "name": "Regen_jul",
+            "type": "number",
+            "description": "mean monthly precipitation in July (mm)",
+            "extra_info": null
+          },
+          {
+            "name": "Regen_aug",
+            "type": "number",
+            "description": "mean monthly precipitation in August (mm)",
+            "extra_info": null
+          },
+          {
+            "name": "Regen_sep",
+            "type": "number",
+            "description": "mean monthly precipitation in September (mm)",
+            "extra_info": null
+          },
+          {
+            "name": "Regen_okt",
+            "type": "number",
+            "description": "mean monthly precipitation in October (mm)",
+            "extra_info": null
+          },
+          {
+            "name": "Regen_nov",
+            "type": "number",
+            "description": "mean monthly precipitation in  November (mm)",
+            "extra_info": null
+          },
+          {
+            "name": "Regen_dec",
+            "type": "number",
+            "description": "mean monthly precipitation in December (mm)",
+            "extra_info": null
+          },
+          {
+            "name": "Temp_jaar",
+            "type": "number",
+            "description": "mean annual temperature (° C)",
+            "extra_info": null
+          },
+          {
+            "name": "Temp_jan",
+            "type": "number",
+            "description": "mean monthly temperature in January (mm)",
+            "extra_info": null
+          },
+          {
+            "name": "Temp_feb",
+            "type": "number",
+            "description": "mean monthly temperature in February (mm)",
+            "extra_info": null
+          },
+          {
+            "name": "Temp_maa",
+            "type": "number",
+            "description": "mean monthly temperature in March (mm)",
+            "extra_info": null
+          },
+          {
+            "name": "Temp_apr",
+            "type": "number",
+            "description": "mean monthly temperature in April (mm)",
+            "extra_info": null
+          },
+          {
+            "name": "Temp_mei",
+            "type": "number",
+            "description": "mean monthly temperature in May (mm)",
+            "extra_info": null
+          },
+          {
+            "name": "Temp_jun",
+            "type": "number",
+            "description": "mean monthly temperature in June (mm)",
+            "extra_info": null
+          },
+          {
+            "name": "Temp_jul",
+            "type": "number",
+            "description": "mean monthly temperature in July (mm)",
+            "extra_info": null
+          },
+          {
+            "name": "Temp_aug",
+            "type": "number",
+            "description": "mean monthly temperature in August (mm)",
+            "extra_info": null
+          },
+          {
+            "name": "Temp_sep",
+            "type": "number",
+            "description": "mean monthly temperature in September (mm)",
+            "extra_info": null
+          },
+          {
+            "name": "Temp_okt",
+            "type": "number",
+            "description": "mean monthly temperature in October (mm)",
+            "extra_info": null
+          },
+          {
+            "name": "Temp_nov",
+            "type": "number",
+            "description": "mean monthly temperature in  November (mm)",
+            "extra_info": null
+          },
+          {
+            "name": "Temp_dec",
+            "type": "number",
+            "description": "mean monthly temperature in December (mm)",
+            "extra_info": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "strata_history",
+      "path": "strata_history.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "historical landuse and rough, descriptive time indication of forest age",
+      "extra_info": "https://www.vlaanderen.be/datavindplaats/catalogus/bosleeftijd-opname-1771-2001-actualisatie-2021",
+      "source_database": null,
+      "calculation": null,
+      "height_model": null,
+      "schema": {
+        "fields": [
+          {
+            "name": "plot_id",
+            "type": "number",
+            "description": "unique sample plot id",
+            "extra_info": null
+          },
+          {
+            "name": "Ferrariska",
+            "type": "string",
+            "description": "map sheet of the ferraris map",
+            "extra_info": null
+          },
+          {
+            "name": "Vander_Mae",
+            "type": "string",
+            "description": "map sheet of the vandermaelen map",
+            "extra_info": null
+          },
+          {
+            "name": "Gkadkaart",
+            "type": "string",
+            "description": "map sheet of the old land registry",
+            "extra_info": null
+          },
+          {
+            "name": "Ferr_t",
+            "type": "number",
+            "description": "recording year of ferraris map",
+            "extra_info": "around 1775"
+          },
+          {
+            "name": "Ferr",
+            "type": "string",
+            "description": "see table \"q_hist\"",
+            "extra_info": null
+          },
+          {
+            "name": "C1",
+            "type": "number",
+            "description": "\"1\" for forest on ferraris map, \"0\" for other landuse",
+            "extra_info": null
+          },
+          {
+            "name": "VDM_t",
+            "type": "number",
+            "description": "recording year of vandermaelen map",
+            "extra_info": "around 1850"
+          },
+          {
+            "name": "VDM",
+            "type": "string",
+            "description": "see table \"q_hist\"",
+            "extra_info": null
+          },
+          {
+            "name": "C2",
+            "type": "number",
+            "description": "\"1\" for forest on vandermaelen map, \"0\" for other landuse",
+            "extra_info": null
+          },
+          {
+            "name": "Gkad_t",
+            "type": "number",
+            "description": "recording year of old land registry",
+            "extra_info": "around 1850"
+          },
+          {
+            "name": "Gkad",
+            "type": "string",
+            "description": "see table \"q_hist\"",
+            "extra_info": null
+          },
+          {
+            "name": "C3",
+            "type": "number",
+            "description": "\"1\" for forest on old land registry, \"0\" for other landuse",
+            "extra_info": null
+          },
+          {
+            "name": "DG1_t",
+            "type": "number",
+            "description": "recording year of  first Dépôt de la Guerre topographic map",
+            "extra_info": "around 1860-1870"
+          },
+          {
+            "name": "DG1",
+            "type": "string",
+            "description": "see table \"q_hist\"",
+            "extra_info": null
+          },
+          {
+            "name": "C4",
+            "type": "number",
+            "description": "\"1\" for forest on first Dépôt de la Guerre topographic map, \"0\" for other landuse",
+            "extra_info": null
+          },
+          {
+            "name": "DG2_t",
+            "type": "number",
+            "description": "recording year of  second Dépôt de la Guerre topographic map",
+            "extra_info": "around 1880-1900"
+          },
+          {
+            "name": "DG2",
+            "type": "string",
+            "description": "see table \"q_hist\"",
+            "extra_info": null
+          },
+          {
+            "name": "C5",
+            "type": "number",
+            "description": "\"1\" for forest on second Dépôt de la Guerre topographic map, \"0\" for other landuse",
+            "extra_info": null
+          },
+          {
+            "name": "DG3_t",
+            "type": "number",
+            "description": "recording year of  third Dépôt de la Guerre topographic map",
+            "extra_info": "around 1900-1950"
+          },
+          {
+            "name": "DG3",
+            "type": "string",
+            "description": "see table \"q_hist\"",
+            "extra_info": null
+          },
+          {
+            "name": "C6",
+            "type": "number",
+            "description": "\"1\" for forest on third Dépôt de la Guerre topographic map, \"0\" for other landuse",
+            "extra_info": null
+          },
+          {
+            "name": "MGI_t",
+            "type": "number",
+            "description": "recording year of MGI map (Military Geographic Institute)",
+            "extra_info": "around 1960"
+          },
+          {
+            "name": "MGI",
+            "type": "string",
+            "description": "see table \"q_hist\"",
+            "extra_info": null
+          },
+          {
+            "name": "C7",
+            "type": "number",
+            "description": "\"1\" for forest on MGI map, \"0\" for other landuse",
+            "extra_info": null
+          },
+          {
+            "name": "NGI1_t",
+            "type": "number",
+            "description": "recording year of first NGI map (National Geographic Institute of Belgium)",
+            "extra_info": "around 1993"
+          },
+          {
+            "name": "NGI1",
+            "type": "string",
+            "description": "see table \"q_hist\"",
+            "extra_info": null
+          },
+          {
+            "name": "C8",
+            "type": "number",
+            "description": "\"1\" for forest on first NGI map, \"0\" for other landuse",
+            "extra_info": null
+          },
+          {
+            "name": "BSKT_t",
+            "type": "number",
+            "description": "recording year of first Flemish forest map (named \"Boskartering\")",
+            "extra_info": "around 2001"
+          },
+          {
+            "name": "BSKT",
+            "type": "string",
+            "description": "see table \"q_hist\"",
+            "extra_info": null
+          },
+          {
+            "name": "C9",
+            "type": "number",
+            "description": "\"1\" for forest on first Flemish forest map, \"0\" for other landuse",
+            "extra_info": null
+          },
+          {
+            "name": "NGI2_t",
+            "type": "number",
+            "description": "recording year of second NGI  map",
+            "extra_info": "around 2009"
+          },
+          {
+            "name": "NGI2",
+            "type": "string",
+            "description": "see table \"q_hist\"",
+            "extra_info": "B/l"
+          },
+          {
+            "name": "C10",
+            "type": "number",
+            "description": "\"1\" for forest on second NGI map, \"0\" for other landuse",
+            "extra_info": "1"
+          },
+          {
+            "name": "hist_uitgebreid",
+            "type": "string",
+            "description": "extended forest history of the plot in code format (\"1\"  for forest, \"0\" for other landuse)",
+            "extra_info": "1010011111"
+          },
+          {
+            "name": "hist_beknopt",
+            "type": "string",
+            "description": "compact forest history of the plot in code format (\"1\"  for forest, \"0\" for other landuse), based on ferraris, vandermaelen, DG3 and the Flemish forest map of  2001",
+            "extra_info": "'1011"
+          },
+          {
+            "name": "boslftd_cde",
+            "type": "number",
+            "description": "code for field \"boslftd\" (1 to 4)",
+            "extra_info": "3"
+          },
+          {
+            "name": "boslftd",
+            "type": "string",
+            "description": "rough, descriptive time indication of forest age",
+            "extra_info": "f.e. forest formed between 1850 en +/- 1930"
+          }
+        ]
+      }
+    },
+    {
+      "name": "strata_location",
+      "path": "strata_location.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "info on coördinates, municipality, province, IFBL- and UTM-grid",
+      "extra_info": null,
+      "source_database": null,
+      "calculation": null,
+      "height_model": null,
+      "schema": {
+        "fields": [
+          {
+            "name": "plot_id",
+            "type": "number",
+            "description": "unique sample plot id",
+            "extra_info": null
+          },
+          {
+            "name": "XY_co",
+            "type": "string",
+            "description": "info on the Lambert coordinate system used",
+            "extra_info": "f.e. Belge_Lambert_1972 - EPSG:31370"
+          },
+          {
+            "name": "XLambert72",
+            "type": "number",
+            "description": "X-coordinate according to Lambert72",
+            "extra_info": null
+          },
+          {
+            "name": "YLambert72",
+            "type": "number",
+            "description": "Y-coordinate according to Lambert72",
+            "extra_info": null
+          },
+          {
+            "name": "Z_m_TAW",
+            "type": "number",
+            "description": "height above sea level",
+            "extra_info": null
+          },
+          {
+            "name": "LatLon_co",
+            "type": "string",
+            "description": "info on the WGS coordinate system used",
+            "extra_info": "f.e. GCS_WGS_1984 - EPSG:4326"
+          },
+          {
+            "name": "XLon_wgs84",
+            "type": "number",
+            "description": "longitude according to WGS84",
+            "extra_info": null
+          },
+          {
+            "name": "YLat_wgs84",
+            "type": "number",
+            "description": "latitude according to WGS84",
+            "extra_info": null
+          },
+          {
+            "name": "Provincie",
+            "type": "string",
+            "description": "province",
+            "extra_info": "Oost-Vlaanderen"
+          },
+          {
+            "name": "Gemeente",
+            "type": "string",
+            "description": "municipality",
+            "extra_info": "Oudenaarde"
+          },
+          {
+            "name": "Deelgemeen",
+            "type": "string",
+            "description": "sub-municipality",
+            "extra_info": "Mater"
+          },
+          {
+            "name": "IFBL_kwa_1",
+            "type": "string",
+            "description": "IFBL grid",
+            "extra_info": "f.e. e3-21-33"
+          },
+          {
+            "name": "UTM1",
+            "type": "string",
+            "description": "UTM grid",
+            "extra_info": "f.e. ES4432"
+          },
+          {
+            "name": "Topokaart",
+            "type": "string",
+            "description": "sheet of topographic map",
+            "extra_info": "f.e. 30/1"
+          },
+          {
+            "name": "survey_Y1",
+            "type": "number",
+            "description": "year of 1st survey",
+            "extra_info": "Source: shapefile with info on all plots, indicative"
+          },
+          {
+            "name": "survey_Y2",
+            "type": "number",
+            "description": "year of 2nd survey, \"0\" when there was no 2nd survey",
+            "extra_info": "Source: shapefile with info on all plots, indicative"
+          },
+          {
+            "name": "survey_Y3",
+            "type": "number",
+            "description": "year of 3th survey, \"0\" when there was no 3th survey",
+            "extra_info": "Source: shapefile with info on all plots, indicative"
+          },
+          {
+            "name": "survey_Y4",
+            "type": "number",
+            "description": "year of 4th survey, \"0\" when there was no 4th survey",
+            "extra_info": "Source: shapefile with info on all plots, indicative"
+          },
+          {
+            "name": "survey_Y5",
+            "type": "number",
+            "description": "year of 5th survey, \"0\" when there was no 5th survey",
+            "extra_info": "Source: shapefile with info on all plots, indicative"
+          }
+        ]
+      }
+    },
+    {
+      "name": "strata_remaining",
+      "path": "strata_remaining.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "other strata covering management, EUNIS category, PNV Bohn, habitat type and cover",
+      "extra_info": null,
+      "source_database": null,
+      "calculation": null,
+      "height_model": null,
+      "schema": {
+        "fields": [
+          {
+            "name": "plot_id",
+            "type": "number",
+            "description": "unique sample plot id",
+            "extra_info": null
+          },
+          {
+            "name": "forest_reserve_fieldmap",
+            "type": "string",
+            "description": "name of the site as recorded in the fieldmap database",
+            "extra_info": "f.e. Kluisbos"
+          },
+          {
+            "name": "SiteName",
+            "type": "string",
+            "description": "alternative name of the site",
+            "extra_info": "name as used in the shapefile (f.e. Kluisbos)"
+          },
+          {
+            "name": "SubArea",
+            "type": "string",
+            "description": "name of the subsite",
+            "extra_info": "used in the shapefile (f.e. Kluisbos SFR / Kluisbos Communal Forest)"
+          },
+          {
+            "name": "Management",
+            "type": "string",
+            "description": "management (English), all plots",
+            "extra_info": "Source: shapefile with info on all plots (f.e. unmanaged)"
+          },
+          {
+            "name": "Beheer",
+            "type": "string",
+            "description": "management (Dutch), all circular plots",
+            "extra_info": "Source: shapefile with info on all plots (f.e. 0-beheer)"
+          },
+          {
+            "name": "Management_type",
+            "type": "string",
+            "description": "other description of management (English), only circular plots",
+            "extra_info": "Source: gsheet with info on circular plots (f.e. Non-intervention)"
+          },
+          {
+            "name": "plot_unmanaged_since",
+            "type": "number",
+            "description": "year of abandonment of management, only circular plots",
+            "extra_info": "Source: gsheet with info on circular plots"
+          },
+          {
+            "name": "reserve_unmanaged_since",
+            "type": "integer",
+            "description": null,
+            "extra_info": "1990"
+          },
+          {
+            "name": "reserve_establishment_yr",
+            "type": "number",
+            "description": "year of establisment as a strict reserve",
+            "extra_info": "1990"
+          },
+          {
+            "name": "last_commercial_intervention",
+            "type": "string",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "EUNIS_EEA_category",
+            "type": "number",
+            "description": "category of European forest type (see table \"q_foresttype\")",
+            "extra_info": "Source: gsheet with info on circular plots"
+          },
+          {
+            "name": "EUNIS_EEA_foresttype",
+            "type": "string",
+            "description": "European forest type (see table \"q_foresttype\")",
+            "extra_info": "Source: gsheet with info on circular plots"
+          },
+          {
+            "name": "PNV_Bohn",
+            "type": "string",
+            "description": "Potential Natural Vegetation according to Bohn et al. 2003",
+            "extra_info": "https://is.muni.cz/el/1431/podzim2012/Bi9420/um/Bohn_etal2004_Map-Nat-Veg-Europe.pdf"
+          },
+          {
+            "name": "Habtype",
+            "type": "string",
+            "description": "habitat type according to Natura 2000",
+            "extra_info": "Source: gsheet with info on circular plots (f.e. 9130)"
+          },
+          {
+            "name": "S1_fisheyedate",
+            "type": "datetime",
+            "description": "Date of fish eye recording",
+            "extra_info": "Source: gsheet with info on circular plots"
+          },
+          {
+            "name": "LAI_1ste",
+            "type": "number",
+            "description": "Leaf Area Index (ratio leaf area/ground area)",
+            "extra_info": "Source: gsheet with info on circular plots"
+          },
+          {
+            "name": "VisSky_1st",
+            "type": "number",
+            "description": "Visual Sky",
+            "extra_info": "Source: gsheet with info on circular plots"
           }
         ]
       }
