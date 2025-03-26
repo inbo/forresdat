@@ -1541,6 +1541,59 @@
       }
     },
     {
+      "name": "link_plotid_wildcard",
+      "path": "link_plotid_wildcard.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "link between plotid's used in fieldmap and wildcard database",
+      "extra_info": null,
+      "source_database": null,
+      "calculation": null,
+      "height_model": null,
+      "schema": {
+        "fields": [
+          {
+            "name": "plot_id",
+            "type": "number",
+            "description": "unique sample plot id",
+            "extra_info": null
+          },
+          {
+            "name": "forest_reserve_fieldmap",
+            "type": "string",
+            "description": "name of the site as recorded in the fieldmap database",
+            "extra_info": "f.e. Zoniën UITBR_1995"
+          },
+          {
+            "name": "SITE_ID",
+            "type": "number",
+            "description": "unique site id as submitted in the context of the wildcard project",
+            "extra_info": "same as res_ID_inst (going from 1 to 18)"
+          },
+          {
+            "name": "SITE_NAME",
+            "type": "string",
+            "description": "name of the site as submitted in the context of the wildcard project",
+            "extra_info": "f.e. Zonienwoud-Joseph Zwaenepoel reservaat"
+          },
+          {
+            "name": "WILDCARD_sub_ID",
+            "type": "string",
+            "description": "name of subsite as submitted in the context of the wildcard project",
+            "extra_info": "f.e. 1stExtension"
+          },
+          {
+            "name": "composed_site_id",
+            "type": "string",
+            "description": "id composed of institute, SITE_ID, SITE_NAME and WILDCARD_sub_ID",
+            "extra_info": "f.e. INBO__1__Zonienwoud-Joseph Zwaenepoel reservaat__1stExtension"
+          }
+        ]
+      }
+    },
+    {
       "name": "link_wildcard_fieldmap",
       "path": "link_wildcard_fieldmap.csv",
       "profile": "tabular-data-resource",
