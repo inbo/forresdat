@@ -1754,6 +1754,41 @@
       }
     },
     {
+      "name": "q_foresttype",
+      "path": "q_foresttype.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "list of European forest types",
+      "extra_info": null,
+      "source_database": null,
+      "calculation": null,
+      "height_model": null,
+      "schema": {
+        "fields": [
+          {
+            "name": "Code",
+            "type": "string",
+            "description": "code of European forest type",
+            "extra_info": null
+          },
+          {
+            "name": "Type",
+            "type": "string",
+            "description": "European forest type",
+            "extra_info": "Categories and types for sustainable forest management reporting and policy. EEA Technical report No 9/2006"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "description": "European forest types - categories",
+            "extra_info": null
+          }
+        ]
+      }
+    },
+    {
       "name": "q_foresttypes",
       "path": "q_foresttypes.csv",
       "profile": "tabular-data-resource",
