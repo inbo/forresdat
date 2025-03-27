@@ -779,6 +779,71 @@
       }
     },
     {
+      "name": "herblayer_by_plot",
+      "path": "herblayer_by_plot.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "raw data of vegetation sampling",
+      "extra_info": "coverage of each species, info on browsing (per plot or subplot in case of core area)",
+      "source_database": "MDB_BR_X8_inbo2020_20250123",
+      "calculation": "forrescalc 0.0.2",
+      "height_model": null,
+      "schema": {
+        "fields": [
+          {
+            "name": "plot_id",
+            "type": "integer",
+            "description": "unique sample plot id",
+            "extra_info": null
+          },
+          {
+            "name": "subplot_id",
+            "type": "integer",
+            "description": "id of subplot (1 for circular plots)",
+            "extra_info": "corea area's are divided in subplots of 10 x 10 m²"
+          },
+          {
+            "name": "period",
+            "type": "integer",
+            "description": "period: \"1\" for 1st decade (2000-2010), \"2\" for 2nd decade (2011-2020), \"3\" for 3th decade (2021-2030)",
+            "extra_info": null
+          },
+          {
+            "name": "date_vegetation",
+            "type": "date",
+            "description": "date of recording of specific species, possibly different for spring flora",
+            "extra_info": null
+          },
+          {
+            "name": "year",
+            "type": "integer",
+            "description": "year, derived from date_vegetation (possibly different for spring flora)",
+            "extra_info": null
+          },
+          {
+            "name": "species",
+            "type": "integer",
+            "description": "species code",
+            "extra_info": "see table \"qherb_species240810\""
+          },
+          {
+            "name": "coverage_class_average_perc",
+            "type": "number",
+            "description": "coverage  estimated using Londo scale and transformed into  midpoint value of the cover class",
+            "extra_info": null
+          },
+          {
+            "name": "browse_index_id",
+            "type": "integer",
+            "description": "100: No browsing; 110: Browsing observed (< 5%); 120: Browsing explicit (> 5%)",
+            "extra_info": "recorded since 2015; see table \"qbrows_index\""
+          }
+        ]
+      }
+    },
+    {
       "name": "info_euforia",
       "path": "info_euforia.csv",
       "profile": "tabular-data-resource",
