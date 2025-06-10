@@ -16,12 +16,6 @@
       "schema": {
         "fields": [
           {
-            "name": "forest_reserve",
-            "type": "string",
-            "description": null,
-            "extra_info": null
-          },
-          {
             "name": "plot_id",
             "type": "integer",
             "description": "unique sample plot id",
