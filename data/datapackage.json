@@ -236,12 +236,6 @@
             "type": "number",
             "description": "volume of lying deadwood per ha (m³/ha);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
             "extra_info": "volume is calculated using Smalian’s formula"
-          },
-          {
-            "name": "vol_log_m3_ha_min40cm",
-            "type": "number",
-            "description": "volume of lying deadwood per ha (m³/ha);  only heavy deadwood (diameter > 40 cm)",
-            "extra_info": "only available for core area Zoniën KERN_1983 (survey numbers 3 and 4)"
           }
         ]
       }
@@ -314,12 +308,6 @@
             "type": "number",
             "description": "volume of lying deadwood per ha (m³/ha);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
             "extra_info": "volume is calculated using Smalian’s formula"
-          },
-          {
-            "name": "vol_log_m3_ha_min40cm",
-            "type": "number",
-            "description": "volume of lying deadwood per ha (m³/ha);  only heavy deadwood (diameter > 40 cm)",
-            "extra_info": "only available for core area Zoniën KERN_1983 (survey numbers 3 and 4)"
           }
         ]
       }
@@ -425,18 +413,6 @@
             "type": "number",
             "description": "volume of lying deadwood per ha (m³/ha);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
             "extra_info": "volume is calculated using Smalian’s formula"
-          },
-          {
-            "name": "vol_deadw_m3_ha",
-            "type": "number",
-            "description": "total volume deadwood per ha (m³/ha) -  lying + standing",
-            "extra_info": null
-          },
-          {
-            "name": "vol_log_m3_ha_min40cm",
-            "type": "number",
-            "description": "volume of lying deadwood per ha (m³/ha);  only heavy deadwood (diameter > 40 cm)",
-            "extra_info": "only available for core area Zoniën KERN_1983 (survey numbers 3 and 4)"
           }
         ]
       }
@@ -548,18 +524,6 @@
             "type": "number",
             "description": "volume of lying deadwood per ha (m³/ha);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
             "extra_info": "volume is calculated using Smalian’s formula"
-          },
-          {
-            "name": "vol_deadw_m3_ha",
-            "type": "number",
-            "description": "total volume deadwood per ha (m³/ha) -  lying + standing",
-            "extra_info": null
-          },
-          {
-            "name": "vol_log_m3_ha_min40cm",
-            "type": "number",
-            "description": "volume of lying deadwood per ha (m³/ha);  only heavy deadwood (diameter > 40 cm)",
-            "extra_info": "only available for core area Zoniën KERN_1983 (survey numbers 3 and 4)"
           }
         ]
       }
@@ -587,7 +551,7 @@
           },
           {
             "name": "plot_id",
-            "type": "number",
+            "type": "integer",
             "description": "unique sample plot id",
             "extra_info": null
           },
@@ -674,12 +638,6 @@
             "type": "number",
             "description": "mean number of stems per tree",
             "extra_info": "additional info for coppice"
-          },
-          {
-            "name": "vol_log_m3_ha_min40cm",
-            "type": "number",
-            "description": "volume of lying deadwood per ha (m³/ha);  only heavy deadwood (diameter > 40 cm)",
-            "extra_info": "only available for core area Zoniën KERN_1983 (survey numbers 3 and 4)"
           }
         ]
       }
@@ -707,7 +665,7 @@
           },
           {
             "name": "plot_id",
-            "type": "number",
+            "type": "integer",
             "description": "unique sample plot id",
             "extra_info": null
           },
@@ -794,12 +752,6 @@
             "type": "number",
             "description": "mean number of stems per tree",
             "extra_info": "additional info for coppice"
-          },
-          {
-            "name": "vol_log_m3_ha_min40cm",
-            "type": "number",
-            "description": "volume of lying deadwood per ha (m³/ha);  only heavy deadwood (diameter > 40 cm)",
-            "extra_info": "only available for core area Zoniën KERN_1983 (survey numbers 3 and 4)"
           }
         ]
       }
