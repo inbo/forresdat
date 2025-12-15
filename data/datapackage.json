@@ -3083,34 +3083,40 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "description": [],
-      "extra_info": [],
+      "description": "Indicates the angle at which the log was recorded in the line intersect survey",
+      "extra_info": null,
       "source_database": "MDB_BR_X8_inbo2020_20250311",
       "schema": {
         "fields": [
           {
             "name": "ID",
-            "type": "integer"
+            "type": "integer",
+            "description": "unique code"
           },
           {
             "name": "Value1",
-            "type": "string"
+            "type": "string",
+            "description": "angle interval"
           },
           {
             "name": "Value2",
-            "type": "string"
+            "type": "string",
+            "description": "mid value of angle interval, used to calculate deadwood volume using a line intersect survey"
           },
           {
             "name": "Value3",
-            "type": "string"
+            "type": "string",
+            "description": null
           },
           {
             "name": "OrderField",
-            "type": "integer"
+            "type": "integer",
+            "description": null
           },
           {
             "name": "Active",
-            "type": "integer"
+            "type": "integer",
+            "description": null
           }
         ]
       }
