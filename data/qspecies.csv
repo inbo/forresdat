@@ -4,7 +4,7 @@ ID,Value1,Value2,Value3,OrderField,Active
 3,Amerikaanse eik,Quercus rubra L.,7102,,1
 4,Amerikaanse vogelkers,Prunus serotina Ehrh.,7039,,1
 5,Appel (wild + gekweekt),Malus species,6294,,1
-6,Berk,Betula tremula/alba,4429,,1
+6,Berk,Betula pendula/pubescens,4429,,1
 7,Beuk,Fagus sylvatica L.,5523,,1
 8,Bittere wilg,Salix purpurea L.,7417,,1
 9,Boskers,Prunus avium (L.) L.,7028,,1
@@ -84,7 +84,7 @@ ID,Value1,Value2,Value3,OrderField,Active
 83,Witte els (grauwe),Alnus incana (L.) Moench,4035,,1
 84,Witte en grauwe abeel,Populus alba (+ P. x canescens),6949,,1
 85,Wollige sneeuwbal,Viburnum lantana L.,8192,,1
-86,Zachte berk,Betula alba L.,4428,,1
+86,Zachte berk,Betula pubescens L.,4428,,1
 87,Zomereik,Quercus robur L.,7101,,1
 88,Zomerlinde,Tilia 'platyphyllos' groep,7963,,1
 89,Zwarte els,Alnus glutinosa (L.) Gaertn.,4034,,1
