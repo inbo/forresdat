@@ -1992,7 +1992,7 @@
           {
             "name": "survey_lis",
             "type": "boolean",
-            "description": null,
+            "description": "TRUE: there was a Line Intersect Survey (LIS) for lying deadwood",
             "extra_info": null
           }
         ]
