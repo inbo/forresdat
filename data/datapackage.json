@@ -186,7 +186,7 @@
       "attention": null,
       "source_database": null,
       "calculation": null,
-      "height_model": null,
+      "height_model": "forresheights commit 88b711cc7aa1614c838735d11d5dc64ec646987e",
       "schema": {
         "fields": [
           {
@@ -197,13 +197,13 @@
           },
           {
             "name": "plot_id",
-            "type": "integer",
+            "type": "number",
             "description": "unique sample plot id",
             "extra_info": null
           },
           {
             "name": "year",
-            "type": "integer",
+            "type": "number",
             "description": "year of dendro survey (year of growing season)",
             "extra_info": "f.e. march 2020 becomes 2019 (start of growing season is set to May 1)"
           },
@@ -238,10 +238,28 @@
             "extra_info": "volume is calculated using Smalian’s formula"
           },
           {
-            "name": "vol_log_m3_ha_min40cm",
+            "name": "vol_log_above30cm_m3_ha",
+            "type": "number",
+            "description": "volume of lying deadwood per ha (m³/ha);  only heavy deadwood (diameter ≥ 30 cm)",
+            "extra_info": "since implementation of LIS, full inventory is restricted to logs with diamerer ≥ 30 cm"
+          },
+          {
+            "name": "vol_log_above40cm_m3_ha",
             "type": "number",
             "description": "volume of lying deadwood per ha (m³/ha);  only heavy deadwood (diameter > 40 cm)",
             "extra_info": "only available for core area Zoniën KERN_1983 (survey numbers 3 and 4)"
+          },
+          {
+            "name": "vol_LIS_m3_ha",
+            "type": "number",
+            "description": "volume of lying deadwood per ha (m³/ha) using Line Intersect Survey (LIS);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
+            "extra_info": null
+          },
+          {
+            "name": "vol_LIS_10_30cm_m3_ha",
+            "type": "number",
+            "description": "volume of lying deadwood per ha (m³/ha) using Line Intersect Survey (LIS); fragments with intersect diameter ≥ 10 cm",
+            "extra_info": null
           }
         ]
       }
@@ -258,7 +276,7 @@
       "attention": null,
       "source_database": null,
       "calculation": null,
-      "height_model": null,
+      "height_model": "forresheights commit 88b711cc7aa1614c838735d11d5dc64ec646987e",
       "schema": {
         "fields": [
           {
@@ -269,13 +287,13 @@
           },
           {
             "name": "plot_id",
-            "type": "integer",
+            "type": "number",
             "description": "unique sample plot id",
             "extra_info": null
           },
           {
             "name": "year",
-            "type": "integer",
+            "type": "number",
             "description": "year of dendro survey (year of growing season)",
             "extra_info": "f.e. march 2020 becomes 2019 (start of growing season is set to May 1)"
           },
@@ -316,10 +334,28 @@
             "extra_info": "volume is calculated using Smalian’s formula"
           },
           {
-            "name": "vol_log_m3_ha_min40cm",
+            "name": "vol_log_above30cm_m3_ha",
+            "type": "number",
+            "description": "volume of lying deadwood per ha (m³/ha);  only heavy deadwood (diameter ≥ 30 cm)",
+            "extra_info": "since implementation of LIS, full inventory is restricted to logs with diamerer ≥ 30 cm"
+          },
+          {
+            "name": "vol_log_above40cm_m3_ha",
             "type": "number",
             "description": "volume of lying deadwood per ha (m³/ha);  only heavy deadwood (diameter > 40 cm)",
             "extra_info": "only available for core area Zoniën KERN_1983 (survey numbers 3 and 4)"
+          },
+          {
+            "name": "vol_LIS_m3_ha",
+            "type": "number",
+            "description": "volume of lying deadwood per ha (m³/ha) using Line Intersect Survey (LIS);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
+            "extra_info": null
+          },
+          {
+            "name": "vol_LIS_10_30cm_m3_ha",
+            "type": "number",
+            "description": "volume of lying deadwood per ha (m³/ha) using Line Intersect Survey (LIS); fragments with intersect diameter ≥ 10 cm",
+            "extra_info": null
           }
         ]
       }
@@ -334,9 +370,9 @@
       "description": "dendrometric values of living trees and deadwood per plot and diameter class",
       "extra_info": "number of trees, basal area, volume, …",
       "attention": "plot 11000 (core area Kersselaerspleyn) has different tresholds for standing trees (L+D); volume of lying deadwood per diameter class is unknown for circular plots Kersselaerspleyn (2001-2065) 1st survey (2000)",
-      "source_database": "MDB_BR_X8_inbo2020_20250123",
-      "calculation": null,
-      "height_model": null,
+      "source_database": "MDB_BR_X8_inbo2020_20250311",
+      "calculation": "forrescalc 0.0.2",
+      "height_model": "forresheights commit 88b711cc7aa1614c838735d11d5dc64ec646987e",
       "schema": {
         "fields": [
           {
@@ -347,13 +383,13 @@
           },
           {
             "name": "plot_id",
-            "type": "integer",
+            "type": "number",
             "description": "unique sample plot id",
             "extra_info": null
           },
           {
             "name": "year",
-            "type": "integer",
+            "type": "number",
             "description": "year of dendro survey (year of growing season)",
             "extra_info": "f.e. march 2020 becomes 2019 (start of growing season is set to May 1)"
           },
@@ -425,12 +461,6 @@
             "type": "number",
             "description": "volume of lying deadwood per ha (m³/ha);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
             "extra_info": "volume is calculated using Smalian’s formula"
-          },
-          {
-            "name": "vol_deadw_m3_ha",
-            "type": "number",
-            "description": "total volume deadwood per ha (m³/ha) -  lying + standing",
-            "extra_info": null
           }
         ]
       }
@@ -445,9 +475,9 @@
       "description": "dendrometric values of living trees and deadwood per plot, species and diameter class",
       "extra_info": "number of trees, basal area, volume, …",
       "attention": "plot 11000 (core area Kersselaerspleyn) has different tresholds for standing trees (L+D); volume of lying deadwood per diameter class is unknown for circular plots Kersselaerspleyn (2001-2065) 1st survey (2000)",
-      "source_database": "MDB_BR_X8_inbo2020_20250123",
-      "calculation": null,
-      "height_model": null,
+      "source_database": "MDB_BR_X8_inbo2020_20250311",
+      "calculation": "forrescalc 0.0.2",
+      "height_model": "forresheights commit 88b711cc7aa1614c838735d11d5dc64ec646987e",
       "schema": {
         "fields": [
           {
@@ -458,13 +488,13 @@
           },
           {
             "name": "plot_id",
-            "type": "integer",
+            "type": "number",
             "description": "unique sample plot id",
             "extra_info": null
           },
           {
             "name": "year",
-            "type": "integer",
+            "type": "number",
             "description": "year of dendro survey (year of growing season)",
             "extra_info": "f.e. march 2020 becomes 2019 (start of growing season is set to May 1)"
           },
@@ -542,12 +572,6 @@
             "type": "number",
             "description": "volume of lying deadwood per ha (m³/ha);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
             "extra_info": "volume is calculated using Smalian’s formula"
-          },
-          {
-            "name": "vol_deadw_m3_ha",
-            "type": "number",
-            "description": "total volume deadwood per ha (m³/ha) -  lying + standing",
-            "extra_info": null
           }
         ]
       }
@@ -562,9 +586,9 @@
       "description": "dendrometric values of living trees and deadwood on plot level",
       "extra_info": "number of tree species, number of trees, basal area, volume …",
       "attention": "plot 11000 (core area Kersselaerspleyn) has different tresholds for standing trees (L+D); see p. 78 in the monitoring report  https://purews.inbo.be/ws/portalfiles/portal/41050863/Vandekerkhove_etal_2021_MonitoringProgrammeOnStrictForestReservesFlanders.pdf",
-      "source_database": "MDB_BR_X8_inbo2020_20250123",
-      "calculation": null,
-      "height_model": null,
+      "source_database": "MDB_BR_X8_inbo2020_20250311",
+      "calculation": "forrescalc 0.0.2",
+      "height_model": "forresheights commit 88b711cc7aa1614c838735d11d5dc64ec646987e",
       "schema": {
         "fields": [
           {
@@ -581,7 +605,7 @@
           },
           {
             "name": "year",
-            "type": "integer",
+            "type": "number",
             "description": "year of dendro survey (year of growing season)",
             "extra_info": "f.e. march 2020 becomes 2019 (start of growing season is set to May 1)"
           },
@@ -652,22 +676,34 @@
             "extra_info": "volume is calculated using Smalian’s formula (except for circular plots Kersselaerspleyn (2001-2065) 1st survey (2000):  volume of fallen trees is based on tariffs, and if necessary cut of at border of the plot)"
           },
           {
-            "name": "vol_deadw_m3_ha",
-            "type": "number",
-            "description": "total volume deadwood per ha (m³/ha) -  lying + standing",
-            "extra_info": "vol_log_m3_ha + vol_dead_standing_m3_ha"
-          },
-          {
             "name": "stems_per_tree",
             "type": "number",
             "description": "mean number of stems per tree",
             "extra_info": "additional info for coppice"
           },
           {
-            "name": "vol_log_m3_ha_min40cm",
+            "name": "vol_log_above30cm_m3_ha",
             "type": "number",
-            "description": "volume of lying deadwood per ha (m³/ha);  only heavy deadwood (diameter > 40 cm)",
+            "description": "volume of lying deadwood per ha (m³/ha);  only heavy deadwood (diameter ≥ 30 cm)",
+            "extra_info": "since implementation of LIS, full inventory is restricted to logs with diamerer ≥ 30 cm"
+          },
+          {
+            "name": "vol_log_above40cm_m3_ha",
+            "type": "number",
+            "description": "volume of lying deadwood per ha (m³/ha);  only heavy deadwood (diameter ≥ 40 cm)",
             "extra_info": "only available for core area Zoniën KERN_1983 (survey numbers 3 and 4)"
+          },
+          {
+            "name": "vol_LIS_m3_ha",
+            "type": "number",
+            "description": "volume of lying deadwood per ha (m³/ha) using Line Intersect Survey (LIS);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
+            "extra_info": null
+          },
+          {
+            "name": "vol_LIS_10_30cm_m3_ha",
+            "type": "number",
+            "description": "volume of lying deadwood per ha (m³/ha) using Line Intersect Survey (LIS); fragments with intersect diameter ≥ 10 cm",
+            "extra_info": null
           }
         ]
       }
@@ -682,9 +718,9 @@
       "description": "dendrometric values of living trees and deadwood per plot and per species",
       "extra_info": "number of trees, basal area, volume, mean number of stems per tree (info on copppice), …",
       "attention": "plot 11000 (core area Kersselaerspleyn) has different tresholds for standing trees (L+D); see p. 78 in the monitoring report  https://purews.inbo.be/ws/portalfiles/portal/41050863/Vandekerkhove_etal_2021_MonitoringProgrammeOnStrictForestReservesFlanders.pdf",
-      "source_database": "MDB_BR_X8_inbo2020_20250123",
-      "calculation": null,
-      "height_model": null,
+      "source_database": "MDB_BR_X8_inbo2020_20250311",
+      "calculation": "forrescalc 0.0.2",
+      "height_model": "forresheights commit 88b711cc7aa1614c838735d11d5dc64ec646987e",
       "schema": {
         "fields": [
           {
@@ -701,7 +737,7 @@
           },
           {
             "name": "year",
-            "type": "integer",
+            "type": "number",
             "description": "year of dendro survey (year of growing season)",
             "extra_info": "f.e. march 2020 becomes 2019 (start of growing season is set to May 1)"
           },
@@ -772,22 +808,34 @@
             "extra_info": "volume is calculated using Smalian’s formula (except for circular plots Kersselaerspleyn (2001-2065) 1st survey (2000):  volume of fallen trees is based on tariffs, and if necessary cut of at border of the plot)"
           },
           {
-            "name": "vol_deadw_m3_ha",
-            "type": "number",
-            "description": "total volume deadwood per ha (m³/ha) -  lying + standing",
-            "extra_info": null
-          },
-          {
             "name": "stems_per_tree",
             "type": "number",
             "description": "mean number of stems per tree",
             "extra_info": "additional info for coppice"
           },
           {
-            "name": "vol_log_m3_ha_min40cm",
+            "name": "vol_log_above30cm_m3_ha",
+            "type": "number",
+            "description": "volume of lying deadwood per ha (m³/ha);  only heavy deadwood (diameter ≥ 30 cm)",
+            "extra_info": "since implementation of LIS, full inventory is restricted to logs with diamerer ≥ 30 cm"
+          },
+          {
+            "name": "vol_log_above40cm_m3_ha",
             "type": "number",
             "description": "volume of lying deadwood per ha (m³/ha);  only heavy deadwood (diameter > 40 cm)",
             "extra_info": "only available for core area Zoniën KERN_1983 (survey numbers 3 and 4)"
+          },
+          {
+            "name": "vol_LIS_m3_ha",
+            "type": "number",
+            "description": "volume of lying deadwood per ha (m³/ha) using Line Intersect Survey (LIS);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
+            "extra_info": null
+          },
+          {
+            "name": "vol_LIS_10_30cm_m3_ha",
+            "type": "number",
+            "description": "volume of lying deadwood per ha (m³/ha) using Line Intersect Survey (LIS); fragments with intersect diameter ≥ 10 cm",
+            "extra_info": null
           }
         ]
       }
