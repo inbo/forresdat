@@ -370,7 +370,7 @@
       "description": "dendrometric values of living trees and deadwood per plot and diameter class",
       "extra_info": "number of trees, basal area, volume, …",
       "attention": "plot 11000 (core area Kersselaerspleyn) has different tresholds for standing trees (L+D); volume of lying deadwood per diameter class is unknown for circular plots Kersselaerspleyn (2001-2065) 1st survey (2000)",
-      "source_database": "MDB_BR_X8_inbo2020_20250311",
+      "source_database": "MDB_BR_22_inbo2026_20251014",
       "calculation": "forrescalc 0.0.2",
       "height_model": "forresheights commit 88b711cc7aa1614c838735d11d5dc64ec646987e",
       "schema": {
@@ -475,7 +475,7 @@
       "description": "dendrometric values of living trees and deadwood per plot, species and diameter class",
       "extra_info": "number of trees, basal area, volume, …",
       "attention": "plot 11000 (core area Kersselaerspleyn) has different tresholds for standing trees (L+D); volume of lying deadwood per diameter class is unknown for circular plots Kersselaerspleyn (2001-2065) 1st survey (2000)",
-      "source_database": "MDB_BR_X8_inbo2020_20250311",
+      "source_database": "MDB_BR_22_inbo2026_20251014",
       "calculation": "forrescalc 0.0.2",
       "height_model": "forresheights commit 88b711cc7aa1614c838735d11d5dc64ec646987e",
       "schema": {
@@ -586,7 +586,7 @@
       "description": "dendrometric values of living trees and deadwood on plot level",
       "extra_info": "number of tree species, number of trees, basal area, volume …",
       "attention": "plot 11000 (core area Kersselaerspleyn) has different tresholds for standing trees (L+D); see p. 78 in the monitoring report  https://purews.inbo.be/ws/portalfiles/portal/41050863/Vandekerkhove_etal_2021_MonitoringProgrammeOnStrictForestReservesFlanders.pdf",
-      "source_database": "MDB_BR_X8_inbo2020_20250311",
+      "source_database": "MDB_BR_22_inbo2026_20251014",
       "calculation": "forrescalc 0.0.2",
       "height_model": "forresheights commit 88b711cc7aa1614c838735d11d5dc64ec646987e",
       "schema": {
@@ -718,7 +718,7 @@
       "description": "dendrometric values of living trees and deadwood per plot and per species",
       "extra_info": "number of trees, basal area, volume, mean number of stems per tree (info on copppice), …",
       "attention": "plot 11000 (core area Kersselaerspleyn) has different tresholds for standing trees (L+D); see p. 78 in the monitoring report  https://purews.inbo.be/ws/portalfiles/portal/41050863/Vandekerkhove_etal_2021_MonitoringProgrammeOnStrictForestReservesFlanders.pdf",
-      "source_database": "MDB_BR_X8_inbo2020_20250311",
+      "source_database": "MDB_BR_22_inbo2026_20251014",
       "calculation": "forrescalc 0.0.2",
       "height_model": "forresheights commit 88b711cc7aa1614c838735d11d5dc64ec646987e",
       "schema": {
