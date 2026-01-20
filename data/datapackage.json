@@ -1954,7 +1954,7 @@
       "encoding": "utf-8",
       "description": "Information about the surveys conducted in the plot, per period, along with the corresponding survey number and year of survey",
       "extra_info": "Possible surveys include those of trees, deadwood, regeneration, vegetation and game impact",
-      "source_database": "MDB_BR_X8_inbo2020_20250311",
+      "source_database": "MDB_BR_22_inbo2026_20251014",
       "calculation": "forrescalc 0.0.2",
       "height_model": null,
       "schema": {
@@ -2041,6 +2041,96 @@
             "name": "survey_lis",
             "type": "boolean",
             "description": "TRUE: there was a Line Intersect Survey (LIS) for lying deadwood",
+            "extra_info": null
+          },
+          {
+            "name": "r_A1",
+            "type": "number",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "r_A2",
+            "type": "number",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "r_A3",
+            "type": "number",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "r_A4",
+            "type": "number",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "dbh_min_a3",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "dbh_min_a3_dead",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "dbh_min_a4",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "dbh_min_a4_dead",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "dbh_min_core_area",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "dbh_min_core_area_dead",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "diam_min_a4_logs",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "diam_min_core_area_logs",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "length_core_area_m",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "width_core_area_m",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "core_area_ha",
+            "type": "number",
+            "description": null,
             "extra_info": null
           }
         ]
