@@ -1007,25 +1007,25 @@
             "name": "reserve_establishment_yr",
             "type": "number",
             "description": "year of establisment as a strict reserve",
-            "extra_info": null
+            "extra_info": "Source: Vandekerkhove K. et al. (2024). DOI: https://doi.org/10.21436/inbor.114075052"
           },
           {
             "name": "reserve_unmanaged_since",
             "type": "integer",
-            "description": "year of abandonment of management",
-            "extra_info": "only applies to the part in current zero management; management in the buffer zone not taken into account"
+            "description": "year of abandonment of management in the reserve as a whole",
+            "extra_info": "Source: Vandekerkhove K. et al. (2024). DOI: https://doi.org/10.21436/inbor.114075052; only applies to the part in current zero management; management in the buffer zone not taken into account"
           },
           {
             "name": "plots_unmanaged_since",
             "type": "integer",
             "description": "year of abandonment of management in the inventory plots",
-            "extra_info": "only applies to the part in current zero management"
+            "extra_info": "Source: expert judgement Kris Vandekerkhove; only applies to the part in current zero management"
           },
           {
             "name": "last_commercial_intervention",
             "type": "string",
             "description": "year of last commercial intervention",
-            "extra_info": "only applies to the part in current zero management"
+            "extra_info": "Source: Vandekerkhove K. et al. (2024). DOI: https://doi.org/10.21436/inbor.114075052; only applies to the part in current zero management"
           },
           {
             "name": "attention",
@@ -1237,9 +1237,6 @@
           {
             "name": "forest_reserve",
             "type": "string",
-            "constraints": {
-              "enum": ["Zoniën KERN_1983", "Bauwensplots", "Bos Terrijst", "Coolhem A", "Coolhem Q", "De heide", "Ename", "Everzwijnbad", "Hannecart", "Heirnisse", "Jansheideberg", "Kluisbos", "Kolmont", "Liedekerke", "Liedekerke TR", "Muizenbos", "Pruikemakers", "Rodebos KV1", "Rodebos KV2", "Sevendonck", "Sevendonck A", "Sevendonck Q", "Walenbos KV1", "Walenbos MT", "Walenbos OT", "Wijnendalebos", "Withoefse heide", "Withoefse heide T", "Zoniën HARRAS_1995", "Zoniën UITBR_1995", "Zoniën UITBR_2010", "Kersselaerspley", "Zwaenepoel"]
-            },
             "description": null,
             "extra_info": null
           },
@@ -1305,21 +1302,15 @@
           },
           {
             "name": "survey_number",
-            "type": "integer",
+            "type": "number",
             "description": "1, 2, 3 or 4: indicating first, second, ... subsequent survey on the same location",
             "extra_info": null
           },
           {
             "name": "year_dendro",
-            "type": "integer",
+            "type": "number",
             "description": "year of dendro survey (year of growing season)",
             "extra_info": "f.e. march 2020 becomes 2019 (start of growing season is set to May 1)"
-          },
-          {
-            "name": "date_dendro",
-            "type": "date",
-            "description": "date of dendro survey",
-            "extra_info": null
           },
           {
             "name": "rA1_m",
@@ -1347,13 +1338,13 @@
           },
           {
             "name": "LengthCoreArea_m",
-            "type": "integer",
+            "type": "number",
             "description": "only for core area's: length of the core area",
             "extra_info": null
           },
           {
             "name": "WidthCoreArea_m",
-            "type": "integer",
+            "type": "number",
             "description": "only for core area's: width of the core area",
             "extra_info": null
           },
@@ -1365,50 +1356,38 @@
           },
           {
             "name": "TresHoldDBH_A3_alive_mm",
-            "type": "integer",
+            "type": "number",
             "description": "diameter treshold for living trees in A3 subplot (mm)",
             "extra_info": null
           },
           {
             "name": "TresHoldDBH_A3_dead_mm",
-            "type": "integer",
+            "type": "number",
             "description": "diameter treshold for dead standing trees in A3 subplot (mm)",
             "extra_info": null
           },
           {
             "name": "TresHoldDBH_A4_alive_mm",
-            "type": "integer",
+            "type": "number",
             "description": "diameter treshold for living trees in A4 subplot (mm)",
             "extra_info": null
           },
           {
             "name": "TresHoldDBH_A4_dead_mm",
-            "type": "integer",
+            "type": "number",
             "description": "diameter treshold for dead standing trees in A4 subplot (mm)",
             "extra_info": null
           },
           {
             "name": "TresHoldDBH_CoreArea_dead_mm",
-            "type": "integer",
+            "type": "number",
             "description": "diameter treshold for dead standing trees in the core area (mm)",
             "extra_info": null
           },
           {
             "name": "TresHoldDBH_CoreArea_alive_mm",
-            "type": "integer",
+            "type": "number",
             "description": "diameter treshold for living trees in the core area (mm)",
-            "extra_info": null
-          },
-          {
-            "name": "TresHoldDiam_Deadw_A4_mm",
-            "type": "integer",
-            "description": "diameter treshold for lying deadwood in the circular plot (mm)",
-            "extra_info": null
-          },
-          {
-            "name": "TresHoldDiam_Deadw_CoreArea_mm",
-            "type": "integer",
-            "description": "diameter treshold for lying deadwood in the core area (mm)",
             "extra_info": null
           },
           {
@@ -1422,6 +1401,18 @@
             "type": "string",
             "description": "descriptive plot size of vegetation survey",
             "extra_info": "f.e. 16 x 16 m"
+          },
+          {
+            "name": "TresHoldDiam_Logs_A4_mm",
+            "type": "number",
+            "description": "diameter treshold for lying deadwood in the circular plot (mm)",
+            "extra_info": null
+          },
+          {
+            "name": "TresHoldDiam_Logs_CoreArea_mm",
+            "type": "number",
+            "description": "diameter treshold for lying deadwood in the core area (mm)",
+            "extra_info": null
           }
         ]
       }
@@ -2192,7 +2183,7 @@
       "mediatype": "text/csv",
       "encoding": "utf-8",
       "description": "list of plots that aren't part of monitoring network anymore",
-      "extra_info": null,
+      "extra_info": "important when calculating statistics on the reserve level",
       "source_database": null,
       "calculation": null,
       "height_model": null,
@@ -4961,9 +4952,9 @@
           },
           {
             "name": "plot_unmanaged_since",
-            "type": "number",
+            "type": "integer",
             "description": "year of abandonment of management, only circular plots",
-            "extra_info": "Source: gsheet with info on circular plots"
+            "extra_info": "Source: gsheet with info on circular plots (expert judgement Kris Vandekerkhove)"
           },
           {
             "name": "reserve_unmanaged_since",

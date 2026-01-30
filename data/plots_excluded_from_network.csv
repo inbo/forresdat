@@ -1,8 +1,12 @@
 forest_reserve,plot_id,info
-Wijnendale,400,op pad
-Wijnendale,424,op pad
-Wijnendale,426,op pad
-Wijnendale,482,kap tvv open ruimte
+Withoefse heide,201,"te groot grid uitgezet, niet meegenomen in monitoring"
+Withoefse heide,202,"te groot grid uitgezet, niet meegenomen in monitoring"
+Withoefse heide,203,"te groot grid uitgezet, niet meegenomen in monitoring"
+Withoefse heide,208,"te groot grid uitgezet, niet meegenomen in monitoring"
+Wijnendalebos,400,op pad
+Wijnendalebos,424,op pad
+Wijnendalebos,426,op pad
+Wijnendalebos,482,kap tvv open ruimte
 Heirnisse,701,exotenbeheer (2004 en 2008) na eerste meting
 Heirnisse,707,exotenbeheer (2004 en 2008) na eerste meting
 Heirnisse,709,exotenbeheer (2004 en 2008) na eerste meting
@@ -15,4 +19,5 @@ Heirnisse,759,exotenbeheer (2004 en 2008) na eerste meting
 Heirnisse,760,exotenbeheer (2004 en 2008) na eerste meting
 Sevendonck,1137,kap tvv open ruimte (2023)
 Sevendonck,1140,kap tvv open ruimte (2023)
+Withoefse heide T,61000,enkel periode 1 opgemeten; smal transect
 Liedekerke,,reeds uit moederdb

@@ -419,36 +419,37 @@ plot_id,forest_reserve_fieldmap,SiteName,SubArea,Management,Beheer,Management_ty
 964,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,3.115,0.066
 965,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,2.998,0.05
 966,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,2.584,0.088
-1003,Liedekerke,Liedekerkebos,SFR,unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.348,0.125
-1004,Liedekerke,Liedekerkebos,SFR,unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.855,0.085
-1005,Liedekerke,Liedekerkebos,SFR,unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.451,0.107
-1008,Liedekerke,Liedekerkebos,SFR,unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.176,0.133
-1009,Liedekerke,Liedekerkebos,SFR,unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.255,0.123
-1011,Liedekerke,Liedekerkebos,SFR,unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,3.315,0.092
-1018,Liedekerke,Liedekerkebos,SFR,unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-18T00:00:00Z,2.291,0.11
-1019,Liedekerke,Liedekerkebos,SFR,unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-18T00:00:00Z,2.546,0.107
-1022,Liedekerke,Liedekerkebos,SFR,unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-18T00:00:00Z,2.151,0.124
-1023,Liedekerke,Liedekerkebos,SFR,unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-18T00:00:00Z,2.597,0.1
-1024,Liedekerke,Liedekerkebos,SFR,unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.649,0.111
-1026,Liedekerke,Liedekerkebos,SFR,unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-18T00:00:00Z,2.04,0.12
-1027,Liedekerke,Liedekerkebos,SFR,unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-18T00:00:00Z,2.484,0.12
-1028,Liedekerke,Liedekerkebos,SFR,unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-18T00:00:00Z,2.44,0.114
-1029,Liedekerke,Liedekerkebos,SFR,unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-18T00:00:00Z,3.113,0.107
-1032,Liedekerke,Liedekerkebos,SFR,unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-18T00:00:00Z,2.451,0.116
-1035,Liedekerke,Liedekerkebos,SFR,unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.769,0.112
-1037,Liedekerke,Liedekerkebos,SFR,unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.384,0.121
-1041,Liedekerke,Liedekerkebos,SFR,unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.332,0.094
-1044,Liedekerke,Liedekerkebos,SFR,unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-18T00:00:00Z,3.29,0.11
-1046,Liedekerke,Liedekerkebos,SFR,unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.263,0.115
-1051,Liedekerke,Liedekerkebos,SFR,unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.117,0.117
-1052,Liedekerke,Liedekerkebos,SFR,unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.355,0.093
-1053,Liedekerke,Liedekerkebos,SFR,unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.088,0.123
-1058,Liedekerke,Liedekerkebos,SFR,unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.613,0.092
-1059,Liedekerke,Liedekerkebos,SFR,unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.49,0.101
-1060,Liedekerke,Liedekerkebos,SFR,unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.135,0.115
-1062,Liedekerke,Liedekerkebos,SFR,unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.633,0.107
-1063,Liedekerke,Liedekerkebos,SFR,unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.025,0.136
-1065,Liedekerke,Liedekerkebos,SFR,unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.148,0.125
+1003,Liedekerke,Liedekerkebos,"SFR (Plot 3 Van Den Meersschaut (1997))
+SFR (Plot 3 Van Den Meersschaut (1997))",unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.348,0.125
+1004,Liedekerke,Liedekerkebos,SFR (Plot 4 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.855,0.085
+1005,Liedekerke,Liedekerkebos,SFR (Plot 5 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.451,0.107
+1008,Liedekerke,Liedekerkebos,SFR (Plot 8 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.176,0.133
+1009,Liedekerke,Liedekerkebos,SFR (Plot 9 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.255,0.123
+1011,Liedekerke,Liedekerkebos,SFR (Plot 11 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,3.315,0.092
+1018,Liedekerke,Liedekerkebos,SFR (Plot 18 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-18T00:00:00Z,2.291,0.11
+1019,Liedekerke,Liedekerkebos,SFR (Plot 19 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-18T00:00:00Z,2.546,0.107
+1022,Liedekerke,Liedekerkebos,SFR (Plot 22 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-18T00:00:00Z,2.151,0.124
+1023,Liedekerke,Liedekerkebos,SFR (Plot 23 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-18T00:00:00Z,2.597,0.1
+1024,Liedekerke,Liedekerkebos,SFR (Plot 24 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.649,0.111
+1026,Liedekerke,Liedekerkebos,SFR (Plot 26 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-18T00:00:00Z,2.04,0.12
+1027,Liedekerke,Liedekerkebos,SFR (Plot 27 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-18T00:00:00Z,2.484,0.12
+1028,Liedekerke,Liedekerkebos,SFR (Plot 28 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-18T00:00:00Z,2.44,0.114
+1029,Liedekerke,Liedekerkebos,SFR (Plot 29 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-18T00:00:00Z,3.113,0.107
+1032,Liedekerke,Liedekerkebos,SFR (Plot 32 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-18T00:00:00Z,2.451,0.116
+1035,Liedekerke,Liedekerkebos,SFR (Plot 35 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.769,0.112
+1037,Liedekerke,Liedekerkebos,SFR (Plot 37 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.384,0.121
+1041,Liedekerke,Liedekerkebos,SFR (Plot 41 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.332,0.094
+1044,Liedekerke,Liedekerkebos,SFR (Plot 44 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-18T00:00:00Z,3.29,0.11
+1046,Liedekerke,Liedekerkebos,SFR (Plot 46 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.263,0.115
+1051,Liedekerke,Liedekerkebos,SFR (Plot 51 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.117,0.117
+1052,Liedekerke,Liedekerkebos,SFR (Plot 52 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.355,0.093
+1053,Liedekerke,Liedekerkebos,SFR (Plot 53 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.088,0.123
+1058,Liedekerke,Liedekerkebos,SFR (Plot 58 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.613,0.092
+1059,Liedekerke,Liedekerkebos,SFR (Plot 59 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.49,0.101
+1060,Liedekerke,Liedekerkebos,SFR (Plot 60 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.135,0.115
+1062,Liedekerke,Liedekerkebos,SFR (Plot 62 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.633,0.107
+1063,Liedekerke,Liedekerkebos,SFR (Plot 63 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.025,0.136
+1065,Liedekerke,Liedekerkebos,SFR (Plot 65 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.148,0.125
 1101,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,2.067,0.119
 1102,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,2.282,0.105
 1103,Sevendonck,Sevendonck,Oak forest SFR,unmanaged,0-beheer,Non-intervention,1987,1995,1997,1994,11,11.2,T,91E0,,2.692,0.1
@@ -698,134 +699,134 @@ plot_id,forest_reserve_fieldmap,SiteName,SubArea,Management,Beheer,Management_ty
 1450,De heide,Meerdaalwoud,De Heide (stand 8),coppice with standards,Bestand 8 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot8,,,1999,,5,5.1,F3,9160,,0,0
 1451,De heide,Meerdaalwoud,De Heide (stand 8),coppice with standards,Bestand 8 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot8,,,1999,,5,5.1,F3,9160,,0,0
 1452,De heide,Meerdaalwoud,De Heide (stand 8),coppice with standards,Bestand 8 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot8,,,1999,,5,5.1,F3,9160,,0,0
-1501,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1502,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1503,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1504,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1505,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1506,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1507,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1508,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1509,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1510,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1511,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1512,Kluisbos,Kluisbos,Kluisbos Communal Forest,unmanaged,0-beheer,Non-intervention,2005,,,1990's,6,6.2,F5a,9130,,0,0
-1513,Kluisbos,Kluisbos,Kluisbos Communal Forest,unmanaged,0-beheer,Non-intervention,2005,,,1990's,6,6.2,F5a,9130,,0,0
-1514,Kluisbos,Kluisbos,Kluisbos Communal Forest,unmanaged,0-beheer,Non-intervention,2005,,,1990's,6,6.2,F5a,9130,,0,0
-1515,Kluisbos,Kluisbos,Kluisbos Communal Forest,unmanaged,0-beheer,Non-intervention,2005,,,1990's,6,6.2,F5a,9130,,0,0
-1516,Kluisbos,Kluisbos,Kluisbos Communal Forest,unmanaged,0-beheer,Non-intervention,2005,,,1990's,6,6.2,F5a,9130,,0,0
-1517,Kluisbos,Kluisbos,Kluisbos Communal Forest,unmanaged,0-beheer,Non-intervention,2005,,,1990's,6,6.2,F5a,9130,,0,0
-1518,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1519,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1520,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1521,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1522,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1523,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1524,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1525,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1526,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1527,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1528,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1529,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1530,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1531,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1532,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1533,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1534,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1535,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1536,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1537,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1538,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1539,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1540,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1541,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1542,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1543,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1544,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1545,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1546,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1547,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1548,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1549,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1550,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1551,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1552,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1553,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1554,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1555,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1556,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1557,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1558,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1559,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1560,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1561,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1562,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1563,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1564,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1565,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1566,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1567,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1568,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1569,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1570,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1571,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1572,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1573,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2005,2006,1990's,6,6.2,F5a,9130,,0,0
-1574,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1575,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1576,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1577,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1578,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1579,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1580,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1581,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1582,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1583,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1584,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1585,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1586,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1587,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1588,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1589,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1590,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1591,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1592,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1593,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1594,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1595,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1596,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1597,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1598,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1599,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1600,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1601,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1602,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1603,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1604,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1605,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1606,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1607,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1608,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1609,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1610,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1611,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1612,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1613,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1614,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1615,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1616,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1617,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1618,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1619,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1620,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1621,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1622,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1623,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1624,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1625,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1626,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1627,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
-1628,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,2016-2017,6,6.2,F5a,9130,,0,0
+1501,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1502,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1503,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1504,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1505,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1506,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1507,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1508,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1509,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1510,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1511,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1512,Kluisbos,Kluisbos,Kluisbos Communal Forest,unmanaged,0-beheer,Non-intervention,2005,,,??,6,6.2,F5a,9130,,0,0
+1513,Kluisbos,Kluisbos,Kluisbos Communal Forest,unmanaged,0-beheer,Non-intervention,2005,,,??,6,6.2,F5a,9130,,0,0
+1514,Kluisbos,Kluisbos,Kluisbos Communal Forest,unmanaged,0-beheer,Non-intervention,2005,,,??,6,6.2,F5a,9130,,0,0
+1515,Kluisbos,Kluisbos,Kluisbos Communal Forest,unmanaged,0-beheer,Non-intervention,2005,,,??,6,6.2,F5a,9130,,0,0
+1516,Kluisbos,Kluisbos,Kluisbos Communal Forest,unmanaged,0-beheer,Non-intervention,2005,,,??,6,6.2,F5a,9130,,0,0
+1517,Kluisbos,Kluisbos,Kluisbos Communal Forest,unmanaged,0-beheer,Non-intervention,2005,,,??,6,6.2,F5a,9130,,0,0
+1518,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1519,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1520,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1521,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1522,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1523,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1524,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1525,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1526,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1527,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1528,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1529,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1530,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1531,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1532,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1533,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1534,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1535,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1536,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1537,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1538,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1539,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1540,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1541,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1542,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1543,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1544,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1545,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1546,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1547,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1548,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1549,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1550,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1551,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1552,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1553,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1554,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1555,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1556,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1557,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1558,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1559,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1560,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1561,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1562,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1563,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1564,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1565,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1566,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1567,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1568,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1569,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1570,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1571,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1572,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1573,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1574,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1575,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1576,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1577,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1578,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1579,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1580,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1581,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1582,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1583,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1584,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1585,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1586,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1587,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1588,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1589,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1590,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1591,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1592,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1593,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1594,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1595,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1596,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1597,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1598,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1599,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1600,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1601,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1602,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1603,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1604,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1605,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1606,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1607,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1608,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1609,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1610,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1611,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1612,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1613,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1614,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1615,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1616,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1617,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1618,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1619,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1620,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1621,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1622,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1623,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1624,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1625,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1626,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1627,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1628,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
 1701,Kolmont,Kolmontbos,SFR,unmanaged,0-beheer,Non-intervention,1960,1991,1995,over 100 yrs,5,5.1,F3,9160,,0,0
 1702,Kolmont,Kolmontbos,SFR,unmanaged,0-beheer,Non-intervention,1960,1991,1995,over 100 yrs,5,5.1,F3,9160,,0,0
 1703,Kolmont,Kolmontbos,SFR,unmanaged,0-beheer,Non-intervention,1960,1991,1995,over 100 yrs,5,5.1,F3,9160,,0,0
