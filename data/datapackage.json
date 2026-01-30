@@ -5329,7 +5329,7 @@
           },
           {
             "name": "PNV",
-            "type": "integer",
+            "type": "string",
             "description": "code of the potential natural vegetation (see table \"q_pnv\")",
             "extra_info": "https://www.vlaanderen.be/datavindplaats/catalogus/potentieel-natuurlijke-vegetatie-2001"
           }
