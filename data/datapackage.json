@@ -5318,7 +5318,7 @@
           {
             "name": "Kaartbldnr",
             "type": "string",
-            "description": null,
+            "description": "according to digital soil map of Flanders",
             "extra_info": null
           }
         ]
