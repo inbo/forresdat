@@ -1,5 +1,4 @@
 plot_id,forest_reserve_fieldmap,SiteName,SubArea,Management,Beheer,Management_type,plot_unmanaged_since,reserve_unmanaged_since,reserve_establishment_yr,last_commercial_intervention,EUNIS_EEA_category,EUNIS_EEA_foresttype,PNV_Bohn,Habtype,S1_fisheyedate,LAI_1ste,VisSky_1st
-0,,,,unmanaged,0-beheer,,,,,,,,,,,,
 101,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,2.651,0.091
 102,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,2.694,0.063
 103,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,2.944,0.058
@@ -1027,8 +1026,6 @@ SFR (Plot 3 Van Den Meersschaut (1997))",unmanaged,0-beheer,Non-intervention,197
 141100,Sevendonck A,Sevendonck,Alder forest SFR,unmanaged,0-beheer,,,1987,1997,1986,,,,,,,
 141200,Sevendonck Q,Sevendonck,Oak forest SFR,unmanaged,0-beheer,,,1995,1997,1994,,,,,,,
 151000,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,,,1997,1997,1997,,,,,,,
-155000,,Muizenbos,SFR,mowed path,gemaaid pad,,,,,,,,,,,,
-155000,,Muizenbos,SFR,coppice with standards,middelhout,,,,,,,,,,,,
 155000,,Muizenbos,SFR,unmanaged,0-beheer,,,,,,,,,,,,
 156000,,Muizenbos,SFR,unmanaged,0-beheer,,,,,,,,,,,,
 171100,Coolhem A,Coolhembos,Alder forest,unmanaged,0-beheer,,,1993,1995,1993,,,,,,,

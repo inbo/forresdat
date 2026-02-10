@@ -5046,24 +5046,6 @@
             "extra_info": null
           },
           {
-            "name": "SiteName",
-            "type": "string",
-            "description": null,
-            "extra_info": null
-          },
-          {
-            "name": "SubArea",
-            "type": "string",
-            "description": null,
-            "extra_info": null
-          },
-          {
-            "name": "forest_reserve_fieldmap",
-            "type": "string",
-            "description": null,
-            "extra_info": null
-          },
-          {
             "name": "soil_unit",
             "type": "string",
             "description": "soil unit according to \"World Reference Base for Soil Resources\" (WRB) on scale 1:40,000",
@@ -5221,7 +5203,7 @@
           },
           {
             "name": "Fase_c",
-            "type": "integer",
+            "type": "string",
             "description": "cfr. Belgian soil system",
             "extra_info": null
           },
@@ -5293,13 +5275,13 @@
           },
           {
             "name": "Subtype_c",
-            "type": "integer",
+            "type": "string",
             "description": "cfr. Belgian soil system",
             "extra_info": null
           },
           {
             "name": "Subtype",
-            "type": "integer",
+            "type": "string",
             "description": "cfr. Belgian soil system",
             "extra_info": null
           },
@@ -5332,6 +5314,12 @@
             "type": "string",
             "description": "code of the potential natural vegetation (see table \"q_pnv\")",
             "extra_info": "https://www.vlaanderen.be/datavindplaats/catalogus/potentieel-natuurlijke-vegetatie-2001"
+          },
+          {
+            "name": "Kaartbldnr",
+            "type": "string",
+            "description": null,
+            "extra_info": null
           }
         ]
       }
