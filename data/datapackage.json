@@ -5293,13 +5293,13 @@
           },
           {
             "name": "Subtype_c",
-            "type": "string",
+            "type": "integer",
             "description": "cfr. Belgian soil system",
             "extra_info": null
           },
           {
             "name": "Subtype",
-            "type": "string",
+            "type": "integer",
             "description": "cfr. Belgian soil system",
             "extra_info": null
           },
