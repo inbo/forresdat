@@ -282,32 +282,32 @@
           {
             "name": "vol_log_m3_ha",
             "type": "number",
-            "description": "volume of lying deadwood per ha (m³/ha);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
-            "extra_info": "volume is calculated using Smalian’s formula"
+            "description": "volume of lying deadwood per ha (m³/ha) based on a Full Area Survey (FAS);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
+            "extra_info": "volume is calculated using the conical frustum method"
           },
           {
             "name": "vol_log_above30cm_m3_ha",
             "type": "number",
-            "description": "volume of lying deadwood per ha (m³/ha);  only heavy deadwood (diameter ≥ 30 cm)",
-            "extra_info": "since implementation of LIS, full inventory is restricted to logs with diamerer ≥ 30 cm"
+            "description": "volume of lying deadwood per ha (m³/ha) based on a Full Area Survey (FAS);  only heavy deadwood (diameter ≥ 30 cm)",
+            "extra_info": "since implementation of LIS, full inventory is restricted to logs with diameter ≥ 30 cm"
           },
           {
             "name": "vol_log_above40cm_m3_ha",
             "type": "number",
-            "description": "volume of lying deadwood per ha (m³/ha);  only heavy deadwood (diameter > 40 cm)",
+            "description": "volume of lying deadwood per ha (m³/ha) based on a Full Area Survey (FAS);  only heavy deadwood (diameter > 40 cm)",
             "extra_info": "only available for core area Zoniën KERN_1983 (survey numbers 3 and 4)"
           },
           {
-            "name": "vol_LIS_m3_ha",
+            "name": "vol_lis_m3_ha",
             "type": "number",
             "description": "volume of lying deadwood per ha (m³/ha) using Line Intersect Survey (LIS);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
-            "extra_info": null
+            "extra_info": "volume is calculated applying the De Vries formula for Line Intersect Sampling (De Vries,  1973)"
           },
           {
-            "name": "vol_LIS_10_30cm_m3_ha",
+            "name": "vol_lis_10_30cm_m3_ha",
             "type": "number",
-            "description": "volume of lying deadwood per ha (m³/ha) using Line Intersect Survey (LIS); fragments with intersect diameter ≥ 10 cm",
-            "extra_info": null
+            "description": "volume of lying deadwood per ha (m³/ha) using Line Intersect Survey (LIS); fragments with intersect diameter < 30 cm",
+            "extra_info": "volume is calculated applying the De Vries formula for Line Intersect Sampling (De Vries,  1973)"
           }
         ]
       }
@@ -378,32 +378,32 @@
           {
             "name": "vol_log_m3_ha",
             "type": "number",
-            "description": "volume of lying deadwood per ha (m³/ha);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
-            "extra_info": "volume is calculated using Smalian’s formula"
+            "description": "volume of lying deadwood per ha (m³/ha) based on a Full Area Survey (FAS);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
+            "extra_info": "volume is calculated using the conical frustum method"
           },
           {
             "name": "vol_log_above30cm_m3_ha",
             "type": "number",
-            "description": "volume of lying deadwood per ha (m³/ha);  only heavy deadwood (diameter ≥ 30 cm)",
-            "extra_info": "since implementation of LIS, full inventory is restricted to logs with diamerer ≥ 30 cm"
+            "description": "volume of lying deadwood per ha (m³/ha) based on a Full Area Survey (FAS);  only heavy deadwood (diameter ≥ 30 cm)",
+            "extra_info": "since implementation of LIS, full inventory is restricted to logs with diameter ≥ 30 cm"
           },
           {
             "name": "vol_log_above40cm_m3_ha",
             "type": "number",
-            "description": "volume of lying deadwood per ha (m³/ha);  only heavy deadwood (diameter > 40 cm)",
+            "description": "volume of lying deadwood per ha (m³/ha) based on a Full Area Survey (FAS);  only heavy deadwood (diameter > 40 cm)",
             "extra_info": "only available for core area Zoniën KERN_1983 (survey numbers 3 and 4)"
           },
           {
-            "name": "vol_LIS_m3_ha",
+            "name": "vol_lis_m3_ha",
             "type": "number",
             "description": "volume of lying deadwood per ha (m³/ha) using Line Intersect Survey (LIS);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
-            "extra_info": null
+            "extra_info": "volume is calculated applying the De Vries formula for Line Intersect Sampling (De Vries,  1973)"
           },
           {
-            "name": "vol_LIS_10_30cm_m3_ha",
+            "name": "vol_lis_10_30cm_m3_ha",
             "type": "number",
-            "description": "volume of lying deadwood per ha (m³/ha) using Line Intersect Survey (LIS); fragments with intersect diameter ≥ 10 cm",
-            "extra_info": null
+            "description": "volume of lying deadwood per ha (m³/ha) using Line Intersect Survey (LIS); fragments with intersect diameter < 30 cm",
+            "extra_info": "volume is calculated applying the De Vries formula for Line Intersect Sampling (De Vries,  1973)"
           }
         ]
       }
@@ -507,8 +507,8 @@
           {
             "name": "vol_log_m3_ha",
             "type": "number",
-            "description": "volume of lying deadwood per ha (m³/ha);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
-            "extra_info": "volume is calculated using Smalian’s formula"
+            "description": "volume of lying deadwood per ha (m³/ha) based on a Full Area Survey (FAS);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
+            "extra_info": "volume is calculated using the conical frustum method"
           }
         ]
       }
@@ -618,8 +618,8 @@
           {
             "name": "vol_log_m3_ha",
             "type": "number",
-            "description": "volume of lying deadwood per ha (m³/ha);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
-            "extra_info": "volume is calculated using Smalian’s formula"
+            "description": "volume of lying deadwood per ha (m³/ha) based on a Full Area Survey (FAS);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
+            "extra_info": "volume is calculated using the conical frustum method"
           }
         ]
       }
@@ -720,8 +720,8 @@
           {
             "name": "vol_log_m3_ha",
             "type": "number",
-            "description": "volume of lying deadwood per ha (m³/ha);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
-            "extra_info": "volume is calculated using Smalian’s formula (except for circular plots Kersselaerspleyn (2001-2065) 1st survey (2000):  volume of fallen trees is based on tariffs, and if necessary cut of at border of the plot)"
+            "description": "volume of lying deadwood per ha (m³/ha) based on a Full Area Survey (FAS);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
+            "extra_info": "volume is calculated using the conical frustum method (except for circular plots Kersselaerspleyn (2001-2065) 1st survey (2000):  volume of fallen trees is based on tariffs, and if necessary cut of at border of the plot)"
           },
           {
             "name": "stems_per_tree",
@@ -732,26 +732,26 @@
           {
             "name": "vol_log_above30cm_m3_ha",
             "type": "number",
-            "description": "volume of lying deadwood per ha (m³/ha);  only heavy deadwood (diameter ≥ 30 cm)",
-            "extra_info": "since implementation of LIS, full inventory is restricted to logs with diamerer ≥ 30 cm"
+            "description": "volume of lying deadwood per ha (m³/ha) based on a Full Area Survey (FAS);  only heavy deadwood (diameter ≥ 30 cm)",
+            "extra_info": "since implementation of LIS, full inventory is restricted to logs with diameter ≥ 30 cm"
           },
           {
             "name": "vol_log_above40cm_m3_ha",
             "type": "number",
-            "description": "volume of lying deadwood per ha (m³/ha);  only heavy deadwood (diameter ≥ 40 cm)",
+            "description": "volume of lying deadwood per ha (m³/ha) based on a Full Area Survey (FAS);  only heavy deadwood (diameter ≥ 40 cm)",
             "extra_info": "only available for core area Zoniën KERN_1983 (survey numbers 3 and 4)"
           },
           {
-            "name": "vol_LIS_m3_ha",
+            "name": "vol_lis_m3_ha",
             "type": "number",
             "description": "volume of lying deadwood per ha (m³/ha) using Line Intersect Survey (LIS);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
-            "extra_info": null
+            "extra_info": "volume is calculated applying the De Vries formula for Line Intersect Sampling (De Vries,  1973)"
           },
           {
-            "name": "vol_LIS_10_30cm_m3_ha",
+            "name": "vol_lis_10_30cm_m3_ha",
             "type": "number",
-            "description": "volume of lying deadwood per ha (m³/ha) using Line Intersect Survey (LIS); fragments with intersect diameter ≥ 10 cm",
-            "extra_info": null
+            "description": "volume of lying deadwood per ha (m³/ha) using Line Intersect Survey (LIS); fragments with intersect diameter < 30 cm",
+            "extra_info": "volume is calculated applying the De Vries formula for Line Intersect Sampling (De Vries,  1973)"
           }
         ]
       }
@@ -852,8 +852,8 @@
           {
             "name": "vol_log_m3_ha",
             "type": "number",
-            "description": "volume of lying deadwood per ha (m³/ha);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
-            "extra_info": "volume is calculated using Smalian’s formula (except for circular plots Kersselaerspleyn (2001-2065) 1st survey (2000):  volume of fallen trees is based on tariffs, and if necessary cut of at border of the plot)"
+            "description": "volume of lying deadwood per ha (m³/ha) based on a Full Area Survey (FAS);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
+            "extra_info": "volume is calculated using the conical frustum method (except for circular plots Kersselaerspleyn (2001-2065) 1st survey (2000):  volume of fallen trees is based on tariffs, and if necessary cut of at border of the plot)"
           },
           {
             "name": "stems_per_tree",
@@ -865,7 +865,7 @@
             "name": "vol_log_above30cm_m3_ha",
             "type": "number",
             "description": "volume of lying deadwood per ha (m³/ha);  only heavy deadwood (diameter ≥ 30 cm)",
-            "extra_info": "since implementation of LIS, full inventory is restricted to logs with diamerer ≥ 30 cm"
+            "extra_info": "since implementation of LIS, full inventory is restricted to logs with diameter ≥ 30 cm"
           },
           {
             "name": "vol_log_above40cm_m3_ha",
@@ -874,16 +874,16 @@
             "extra_info": "only available for core area Zoniën KERN_1983 (survey numbers 3 and 4)"
           },
           {
-            "name": "vol_LIS_m3_ha",
+            "name": "vol_lis_m3_ha",
             "type": "number",
             "description": "volume of lying deadwood per ha (m³/ha) using Line Intersect Survey (LIS);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
-            "extra_info": null
+            "extra_info": "volume is calculated applying the De Vries formula for Line Intersect Sampling (De Vries,  1973)"
           },
           {
-            "name": "vol_LIS_10_30cm_m3_ha",
+            "name": "vol_lis_10_30cm_m3_ha",
             "type": "number",
-            "description": "volume of lying deadwood per ha (m³/ha) using Line Intersect Survey (LIS); fragments with intersect diameter ≥ 10 cm",
-            "extra_info": null
+            "description": "volume of lying deadwood per ha (m³/ha) using Line Intersect Survey (LIS); fragments with intersect diameter < 30 cm",
+            "extra_info": "volume is calculated applying the De Vries formula for Line Intersect Sampling (De Vries,  1973)"
           }
         ]
       }
