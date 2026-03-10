@@ -2043,7 +2043,7 @@
           {
             "name": "survey_deadw",
             "type": "boolean",
-            "description": "TRUE: there was a deadwood survey",
+            "description": "TRUE: there was a full area survey (FAS) for lying deadwood",
             "extra_info": null
           },
           {
@@ -2079,79 +2079,79 @@
           {
             "name": "survey_lis",
             "type": "boolean",
-            "description": "TRUE: there was a Line Intersect Survey (LIS) for lying deadwood",
+            "description": "TRUE: there was a line intersect survey (LIS) for lying deadwood",
             "extra_info": null
           },
           {
             "name": "r_A1",
             "type": "number",
-            "description": null,
-            "extra_info": null
+            "description": "radius of sample circle A1 (A1: seedlings, living trees smaller than 50 cm in height)",
+            "extra_info": "the circular sample plots for dendrometric measurements are a set of circular nested plots with different sizes depending on the dimensions of the woody elements"
           },
           {
             "name": "r_A2",
             "type": "number",
-            "description": null,
+            "description": "radius of sample circle A2 (A2: living trees with DBH < treshold of the A3 sample circle and height > 50 cm)",
             "extra_info": null
           },
           {
             "name": "r_A3",
             "type": "number",
-            "description": null,
+            "description": "radius of sample circle A3 (A3: living and dead trees, with DBH > treshold of the A3 sample circle)",
             "extra_info": null
           },
           {
             "name": "r_A4",
             "type": "number",
-            "description": null,
+            "description": "radius of sample circle A4 (A4: living and dead trees, with DBH > treshold of the A4 sample circle)",
             "extra_info": null
           },
           {
             "name": "dbh_min_a3",
             "type": "integer",
-            "description": null,
+            "description": "treshold for living trees in sample circle A3",
             "extra_info": null
           },
           {
             "name": "dbh_min_a3_dead",
             "type": "integer",
-            "description": null,
+            "description": "treshold for dead standing trees in sample circle A3",
             "extra_info": null
           },
           {
             "name": "dbh_min_a4",
             "type": "integer",
-            "description": null,
+            "description": "treshold for living trees in sample circle A4",
             "extra_info": null
           },
           {
             "name": "dbh_min_a4_dead",
             "type": "integer",
-            "description": null,
+            "description": "treshold for  dead standing trees in sample circle A4",
             "extra_info": null
           },
           {
             "name": "dbh_min_core_area",
             "type": "integer",
-            "description": null,
+            "description": "treshold for living trees in the core area",
             "extra_info": null
           },
           {
             "name": "dbh_min_core_area_dead",
             "type": "integer",
-            "description": null,
+            "description": "treshold for  dead standing trees in the core area",
             "extra_info": null
           },
           {
             "name": "diam_min_a4_logs",
-            "type": "integer",
-            "description": null,
+            "type": "number",
+            "description": "treshold for full area survey of lying deadwood in sample circle A4",
             "extra_info": null
           },
           {
             "name": "diam_min_core_area_logs",
             "type": "integer",
-            "description": null,
+            "description": "treshold for full area survey of  lying deadwood in the core area",
             "extra_info": null
           },
           {
