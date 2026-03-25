@@ -2175,19 +2175,19 @@
           {
             "name": "date_dendro",
             "type": "datetime",
-            "description": null,
+            "description": "date of dendro survey",
             "extra_info": null
           },
           {
             "name": "diam_min_lis",
             "type": "integer",
-            "description": null,
+            "description": "treshold for line intersect sampling of lying deadwood",
             "extra_info": null
           },
           {
             "name": "length_transect_lis",
             "type": "integer",
-            "description": null,
+            "description": "total transect length of the line intersect sampling",
             "extra_info": null
           }
         ]
