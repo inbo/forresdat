@@ -1993,7 +1993,7 @@
       "encoding": "utf-8",
       "description": "Information about the surveys conducted in the plot, per period, along with the corresponding survey number and year of survey",
       "extra_info": "Possible surveys include those of trees, deadwood, regeneration, vegetation and game impact",
-      "source_database": "MDB_BR_22_inbo2026_20251014",
+      "source_database": "MDB_BR_22_inbo2026_20260313",
       "calculation": "forrescalc 0.0.2",
       "height_model": null,
       "schema": {
@@ -2169,6 +2169,24 @@
           {
             "name": "core_area_ha",
             "type": "number",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "date_dendro",
+            "type": "datetime",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "diam_min_lis",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "length_transect_lis",
+            "type": "integer",
             "description": null,
             "extra_info": null
           }
