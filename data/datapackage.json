@@ -3580,7 +3580,7 @@
       "encoding": "utf-8",
       "description": "rejuvenation characteristics per species and height class for the entire core area",
       "extra_info": "number and percentage of subplots where species in respective height class occurs, mean number of rejuvenation, percentage of rubbing damage",
-      "source_database": "MDB_BR_22_inbo2026_20251014",
+      "source_database": "MDB_BR_22_inbo2026_20260313",
       "calculation": "forrescalc 0.0.2",
       "height_model": null,
       "schema": {
@@ -3681,7 +3681,7 @@
       "encoding": "utf-8",
       "description": "rejuvenation characteristics per species for the entire core area",
       "extra_info": "number and percentage of subplots where species occurs, mean number of seedlings and established rejuvenation, percentage of rubbing damage",
-      "source_database": "MDB_BR_22_inbo2026_20251014",
+      "source_database": "MDB_BR_22_inbo2026_20260313",
       "calculation": "forrescalc 0.0.2",
       "height_model": null,
       "schema": {
@@ -3848,7 +3848,7 @@
       "encoding": "utf-8",
       "description": "rejuvenation values on plot level (or subplot level in case of core area)",
       "extra_info": "number of tree species, number of seedlings and established rejuvenation, percentage of rubbing damage",
-      "source_database": "MDB_BR_22_inbo2026_20251014",
+      "source_database": "MDB_BR_22_inbo2026_20260313",
       "calculation": "forrescalc 0.0.2",
       "height_model": null,
       "schema": {
@@ -4015,7 +4015,7 @@
       "encoding": "utf-8",
       "description": "rejuvenation values on plot level (or subplot level in case of core area) per height class",
       "extra_info": "number of tree species, number of rejuvenation, percentage of rubbing damage",
-      "source_database": "MDB_BR_22_inbo2026_20251014",
+      "source_database": "MDB_BR_22_inbo2026_20260313",
       "calculation": "forrescalc 0.0.2",
       "height_model": null,
       "schema": {
@@ -4110,7 +4110,7 @@
       "encoding": "utf-8",
       "description": "rejuvenation values on plot level (or subplot level in case of core area) per species and height class",
       "extra_info": "number of rejuvenation, percentage of rubbing damage",
-      "source_database": "MDB_BR_22_inbo2026_20251014",
+      "source_database": "MDB_BR_22_inbo2026_20260313",
       "calculation": "forrescalc 0.0.2",
       "height_model": null,
       "schema": {
@@ -4205,7 +4205,7 @@
       "encoding": "utf-8",
       "description": "rejuvenation values on plot level (or subplot level in case of core area) per species",
       "extra_info": "number of rejuvenation, percentage of rubbing damage",
-      "source_database": "MDB_BR_22_inbo2026_20251014",
+      "source_database": "MDB_BR_22_inbo2026_20260313",
       "calculation": "forrescalc 0.0.2",
       "height_model": null,
       "schema": {
