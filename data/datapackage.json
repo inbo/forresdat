@@ -5351,7 +5351,7 @@
       "encoding": "utf-8",
       "description": "vegetation characteristics per species for the entire core area",
       "extra_info": "mean coverage, number and percentage of subplots where species occurs, info on browsing",
-      "source_database": "MDB_BR_22_inbo2026_20251014",
+      "source_database": "MDB_BR_22_inbo2026_20260313",
       "calculation": "forrescalc 0.0.2",
       "height_model": null,
       "schema": {
@@ -5440,7 +5440,7 @@
       "encoding": "utf-8",
       "description": "vegetation characteristics on plot level (or subplot level in case of core area)",
       "extra_info": "number of species, total cover per vegetation layer (moss-, herb-, shrub-, tree- and waterlayer), soildisturbance by game",
-      "source_database": "MDB_BR_22_inbo2026_20251014",
+      "source_database": "MDB_BR_22_inbo2026_20260313",
       "calculation": "forrescalc 0.0.2",
       "height_model": null,
       "schema": {
