@@ -55,19 +55,19 @@
             "name": "vol_tot_standing_agb_m3_ha_alive",
             "type": "number",
             "description": "total above ground volume of living trees, including stump and thin branch wood (m³/ha)",
-            "extra_info": "calculated using the (variable) volume expansion factors (VEF) of Longuetaud et al. (2013), based on diameter, height and tree species; derived from StemVolume_m3_ha_alive and VolumeStump_m3_ha_alive"
+            "extra_info": "calculated using the (variable) volume expansion factors (VEF) of Longuetaud et al. (2013), based on diameter, height and tree species; derived from vol_bole_m3_ha_alive and vol_stump_m3_ha_alive"
           },
           {
             "name": "biomass_standing_agb_t_ha_alive",
             "type": "number",
             "description": "above ground biomass of living trees per ha (ton/ha)",
-            "extra_info": "calculated using species-specific wood densities (same densities used as in Flemish RFI & LULUCF reporting); derived from TotalVolumeAGB_m3_ha_alive; method described in INBO A.4103; for factors/densities used, see \"BiomassFactorsMethode_FRL.csv\""
+            "extra_info": "calculated using species-specific wood densities (same densities used as in Flemish RFI & LULUCF reporting); derived from vol_tot_standing_agb_m3_ha_alive; method described in INBO A.4103; for factors/densities used, see \"BiomassFactorsMethode_FRL.csv\""
           },
           {
             "name": "biomass_standing_bgb_t_ha_alive",
             "type": "number",
             "description": "below ground biomass of living trees per ha (ton/ha)",
-            "extra_info": "calculation based on the ratio (R) of below-ground biomass to above-ground biomass (species-specific; source: Vande Walle et al. 2005); derived from BiomassAboveGr_t_ha_alive"
+            "extra_info": "calculation based on the ratio (R) of below-ground biomass to above-ground biomass (species-specific; source: Vande Walle et al. 2005); derived from biomass_standing_agb_t_ha_alive"
           },
           {
             "name": "biomass_standing_t_ha_alive",
@@ -109,19 +109,19 @@
             "name": "vol_tot_standing_agb_m3_ha_dead",
             "type": "number",
             "description": "total above ground volume of dead standing trees, including stump and (for intact trees) (thin) branches (m³/ha)",
-            "extra_info": "for intact trees calculated using the (variable) volume expansion factors (VEF) of Longuetaud et al. (2013), based on diameter, height and tree species; derived from StemVolume_m3_ha_dead and VolumeStump_m3_ha_dead; for snags sum of stump and stem volume, no crown"
+            "extra_info": "for intact trees calculated using the (variable) volume expansion factors (VEF) of Longuetaud et al. (2013), based on diameter, height and tree species; derived from vol_bole_m3_ha_dead and vol_stump_m3_ha_dead; for snags sum of stump and stem volume, no crown"
           },
           {
             "name": "biomass_standing_agb_t_ha_dead",
             "type": "number",
             "description": "above ground biomass of dead standing trees per ha (ton/ha)",
-            "extra_info": "calculated using species-specific wood densities (same densities used as in Flemish RFI & LULUCF reporting); derived from TotalVolumeAGB_m3_ha_dead"
+            "extra_info": "calculated using species-specific wood densities (same densities used as in Flemish RFI & LULUCF reporting); derived from vol_tot_standing_agb_m3_ha_dead"
           },
           {
             "name": "biomass_standing_bgb_t_ha_dead",
             "type": "number",
             "description": "below ground biomass of dead standing trees per ha (ton/ha)",
-            "extra_info": "calculation based on the ratio (R) of below-ground biomass to above-ground biomass (species-specific; source: Vande Walle et al. 2005); derived from BiomassAboveGr_t_ha_dead"
+            "extra_info": "calculation based on the ratio (R) of below-ground biomass to above-ground biomass (species-specific; source: Vande Walle et al. 2005); derived from biomass_standing_agb_t_ha_dead"
           },
           {
             "name": "biomass_standing_t_ha_dead",
@@ -150,44 +150,44 @@
           {
             "name": "vol_log_m3_ha",
             "type": "number",
-            "description": "volume of lying deadwood per ha (m³/ha) based on a Full Area Survey (FAS);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
+            "description": "volume of lying deadwood per ha (m³/ha) based on a Full Area Sampling (FAS);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
             "extra_info": "volume is calculated using the conical frustum method (except for circular plots Kersselaerspleyn (2001-2065) 1st survey (2000):  volume of fallen trees is based on tariffs, and if necessary cut of at the border of the plot)"
           },
           {
             "name": "vol_log_above30cm_m3_ha",
             "type": "number",
-            "description": "volume of lying deadwood per ha (m³/ha) based on a Full Area Survey (FAS);  only heavy deadwood (diameter ≥ 30 cm)",
+            "description": "volume of lying deadwood per ha (m³/ha) based on a Full Area Sampling (FAS);  only heavy deadwood (diameter ≥ 30 cm)",
             "extra_info": "since implementation of LIS, full inventory is restricted to logs with diameter ≥ 30 cm"
           },
           {
             "name": "vol_lis_m3_ha",
             "type": "number",
-            "description": "volume of lying deadwood per ha (m³/ha) using Line Intersect Survey (LIS);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
+            "description": "volume of lying deadwood per ha (m³/ha) using Line Intersect Sampling (LIS);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
             "extra_info": "volume is calculated applying the De Vries formula for Line Intersect Sampling (De Vries,  1973)"
           },
           {
             "name": "vol_lis_10_30cm_m3_ha",
             "type": "number",
-            "description": "volume of lying deadwood per ha (m³/ha) using Line Intersect Survey (LIS); fragments with intersect diameter < 30 cm",
+            "description": "volume of lying deadwood per ha (m³/ha) using Line Intersect Sampling (LIS); fragments with intersect diameter < 30 cm",
             "extra_info": "volume is calculated applying the De Vries formula for Line Intersect Sampling (De Vries,  1973)"
           },
           {
             "name": "vol_log_above40cm_m3_ha",
             "type": "number",
-            "description": "volume of lying deadwood per ha (m³/ha) based on a Full Area Survey (FAS);  only heavy deadwood (diameter ≥ 40 cm)",
+            "description": "volume of lying deadwood per ha (m³/ha) based on a Full Area Sampling (FAS);  only heavy deadwood (diameter ≥ 40 cm)",
             "extra_info": "only available for core area Zoniën KERN_1983 (survey numbers 3 and 4)"
           },
           {
             "name": "biomass_lying_t_ha_dead",
             "type": "number",
             "description": "biomass of lying deadwood per ha (ton/ha) based on FAS or LIS or combination of both",
-            "extra_info": "calculated using species-specific wood densities (same densities used as in Flemish RFI & LULUCF reporting); derived from VolumeLogs_m3_ha (if available) or VolumeLogs_above30cm_m3_ha in combination with VolumeLIS_10_30cm_m3_ha (if available) or VolumeLIS_m3_ha"
+            "extra_info": "calculated using species-specific wood densities (same densities used as in Flemish RFI & LULUCF reporting); derived from vol_log_m3_ha (if available) or vol_log_above30cm_m3_ha in combination with vol_lis_10_30cm_m3_ha (if available) or vol_lis_m3_ha"
           },
           {
             "name": "biomass_lying_above40cm_t_ha_dead",
             "type": "number",
             "description": "biomass of lying deadwood per ha (ton/ha) based on FAS",
-            "extra_info": "calculated using species-specific wood densities (same densities used as in Flemish RFI & LULUCF reporting); derived from VolumeLogs_above40cm_m3_ha; only available for core area Zoniën KERN_1983 (survey numbers 3 and 4)"
+            "extra_info": "calculated using species-specific wood densities (same densities used as in Flemish RFI & LULUCF reporting); derived from vol_log_above40cm_m3_ha; only available for core area Zoniën KERN_1983 (survey numbers 3 and 4)"
           },
           {
             "name": "carbon_lying_t_ha_dead",
@@ -205,19 +205,19 @@
             "name": "vol_agb_m3_ha_dead",
             "type": "number",
             "description": "volume of above ground deadwood per ha, both standing and lying (m³/ha) based on FAS or LIS or combination of both",
-            "extra_info": "only above ground standing volume and lying volume; above ground standing volume taken from TotalVolumeAGB_m3_ha_dead ; lying volume taken from VolumeLogs_m3_ha (if available) or VolumeLogs_above30cm_m3_ha in combination with VolumeLIS_10_30cm_m3_ha (if available) or VolumeLIS_m3_ha"
+            "extra_info": "only above ground standing volume and lying volume; above ground standing volume taken from vol_tot_standing_agb_m3_ha_dead; lying volume taken from vol_log_m3_ha (if available) or vol_log_above30cm_m3_ha in combination with vol_lis_10_30cm_m3_ha (if available) or vol_lis_m3_ha"
           },
           {
             "name": "biomass_agb_t_ha_dead",
             "type": "number",
             "description": "biomass of above ground deadwood per ha, both standing and lying (ton/ha)",
-            "extra_info": "derived from VolumeAGB_m3_ha_dead"
+            "extra_info": "derived from vol_agb_m3_ha_dead"
           },
           {
             "name": "carbon_agb_t_ha_dead",
             "type": "number",
             "description": "carbon stock of above ground deadwood per ha, both standing and lying (tC/ha)",
-            "extra_info": "derived from BiomassAGB_t_ha_dead"
+            "extra_info": "derived from biomass_agb_t_ha_dead"
           }
         ]
       }
