@@ -1,0 +1,36 @@
+ID,Value1,Value2,Value3,OrderField,Active
+4,Ingroei,Ingrowth,,,1
+5,Niet in eerste meting,Not in first measurement,,,1
+6,Uitgebr st tak (NIET MEER GEBRUIKEN),"Fallen branch, standing upright",,,1
+7,Hoogte1eSet aangepast/verwijderd,Heigth 1st measurement corrected/deleted,,,1
+10,Bijzonder element,Rare habitat feature,,,1
+20,Bliksemschade,Lightning scar,,,1
+21,Geringd,Girdled,,,1
+22,Gemeten in prfvl_buit prfvl penmapping,Measured in_outside plot with penmapping,,,1
+40,Hangend,Leaning,,,1
+50,Stamschade,Trunk damage,,,1
+60,Stobbe (stamvoet afgezaagde boom),Stump,,,1
+70,Stobbe van een hakhoutstoof,Stool of coppice,,,1
+80,Top dood,Tree with dead top,,,1
+90,Top uitgebroken,Tree with broken top,,,1
+100,Vorstschade,Frost damage,,,1
+110,Vraatschade,Browsing damage,,,1
+120,Zwamgroei,Epiphytic fungi,,,1
+130,Honingzwam,Armillaria,,,1
+140,Afgezaagd,Cut down,,,1
+150,Liggend,Lying,,,1
+160,Gehamerd,Marked for harvest,,,1
+170,Esdoornaantasting (Nectria ea),Infection on maple (Nectria etc.),,,1
+171,Essenziekte (Chalara),Ash dieback (chalara),,,1
+172,Boomkanker (Nectria ea),Infection on ash (Nectria etc; no Chalar,,,1
+180,Exotenbeheer na 1emeting,"Removal of exotic spec, after 1st meas",,,1
+181,EXPLOITATIE NA 1E METING,Harvested after first measurement,,,1
+182,Kroonhout gevelde boom,Crown of felled tree,,,1
+190,Boom behandeld (hak en spuit),Glyfosate treated tree (cut and inject),,,1
+191,Gekapt,,,,1
+192,Minder bladbezetting (bladloze toppen),,,,1
+193,Schorsbrand,,,,1
+194,Afgestorven,,,,1
+200,-,-,,,1
+210,Moeraszegge verandert naar Oeverzegge,"Removal of exotic spec, after 1st meas",,,1
+220,Oeverzegge toegevoegd,Carex riparia added,,,1

@@ -1,0 +1,8 @@
+ID,Value1,Value2,Value3,OrderField,Active
+10,Navigatieplot,Navigation,NAV,,1
+20,Cirkelplot,Circular plot,CP,,1
+30,Kernvlakte,Core area,CA,,1
+40,BE kartering,Polygonal plot,BE,,1
+50,Facieskartering,Vegetation mapping,FACIES,,1
+60,Biodivplot,Object sampling,BIODIV,,1
+70,Afwijkend,Other,OTHER,,1

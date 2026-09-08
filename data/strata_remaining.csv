@@ -1,0 +1,1056 @@
+plot_id,forest_reserve_fieldmap,SiteName,SubArea,Management,Beheer,Management_type,plot_unmanaged_since,reserve_unmanaged_since,reserve_establishment_yr,last_commercial_intervention,EUNIS_EEA_category,EUNIS_EEA_foresttype,PNV_Bohn,Habtype,S1_fisheyedate,LAI_1ste,VisSky_1st
+101,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,2.651,0.091
+102,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,2.694,0.063
+103,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,2.944,0.058
+104,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,2.876,0.077
+105,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,2.971,0.08
+106,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,2.769,0.063
+107,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,2.957,0.05
+108,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,2.783,0.076
+109,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,2.353,0.092
+110,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,2.369,0.109
+111,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,3.168,0.04
+112,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,3.494,0.036
+113,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,2.687,0.085
+114,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,3.819,0.069
+115,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,2.941,0.089
+116,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,4.646,0.042
+117,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,2.915,0.082
+118,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,2.464,0.087
+119,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,2.209,0.104
+120,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,2.613,0.089
+121,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,3.174,0.054
+122,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,2.832,0.059
+123,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,2.378,0.084
+124,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,2.621,0.096
+125,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,3.407,0.048
+126,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,3.366,0.044
+127,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,3.514,0.034
+128,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,2.387,0.106
+129,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,2.688,0.062
+130,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,2.449,0.085
+131,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,2.553,0.082
+132,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,2.227,0.1
+133,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,3.124,0.046
+134,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,3.217,0.046
+135,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,2.928,0.053
+136,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,2.345,0.109
+137,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,3.203,0.043
+138,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,2.382,0.094
+139,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,2.638,0.083
+140,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,2.629,0.087
+141,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,4.348,0.025
+142,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,3.048,0.047
+143,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,3.108,0.045
+144,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,2.98,0.051
+145,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,2.782,0.086
+146,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,2.976,0.061
+147,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,4.525,0.043
+148,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,Non-intervention,1995,2000,1995,1994,5,5.1,F3,9160,2002-08-20T00:00:00Z,3.706,0.034
+200,Withoefse heide,Grenspark Kalmthoutse Heide,Withoefse Heide,unmanaged,0-beheer,Non-intervention,1943,1943,1994,none,14,14.1,F1a,RBB-ppm,,0,0
+201,,Grenspark Kalmthoutse Heide,Withoefse Heide,unmanaged,0-beheer,Non-intervention,1943,,,,14,14.1,F1a,RBB-ppm,,0,0
+202,,Grenspark Kalmthoutse Heide,Withoefse Heide,unmanaged,0-beheer,Non-intervention,1943,,,,14,14.1,F1a,RBB-ppm,,0,0
+203,,Grenspark Kalmthoutse Heide,Withoefse Heide,unmanaged,0-beheer,Non-intervention,1943,,,,14,14.1,F1a,RBB-ppm,,0,0
+204,Withoefse heide,Grenspark Kalmthoutse Heide,Withoefse Heide,unmanaged,0-beheer,Non-intervention,1943,1943,1994,none,14,14.1,F1a,RBB-ppm,,0,0
+205,Withoefse heide,Grenspark Kalmthoutse Heide,Withoefse Heide,unmanaged,0-beheer,Non-intervention,1943,1943,1994,none,14,14.1,F1a,RBB-ppm,,0,0
+206,Withoefse heide,Grenspark Kalmthoutse Heide,Withoefse Heide,unmanaged,0-beheer,Non-intervention,1943,1943,1994,none,14,14.1,F1a,RBB-ppm,,0,0
+207,Withoefse heide,Grenspark Kalmthoutse Heide,Withoefse Heide,unmanaged,0-beheer,Non-intervention,1943,1943,1994,none,14,14.1,F1a,RBB-ppm,,0,0
+208,,Grenspark Kalmthoutse Heide,Withoefse Heide,unmanaged,0-beheer,Non-intervention,1943,,,,14,14.1,F1a,RBB-ppm,,0,0
+209,Withoefse heide,Grenspark Kalmthoutse Heide,Withoefse Heide,unmanaged,0-beheer,Non-intervention,1943,1943,1994,none,14,14.1,F1a,RBB-ppm,,0,0
+210,Withoefse heide,Grenspark Kalmthoutse Heide,Withoefse Heide,unmanaged,0-beheer,Non-intervention,1943,1943,1994,none,14,14.1,F1a,RBB-ppm,,0,0
+211,Withoefse heide,Grenspark Kalmthoutse Heide,Withoefse Heide,unmanaged,0-beheer,Non-intervention,1943,1943,1994,none,14,14.1,F1a,RBB-ppm,,0,0
+212,Withoefse heide,Grenspark Kalmthoutse Heide,Withoefse Heide,unmanaged,0-beheer,Non-intervention,1943,1943,1994,none,14,14.1,F1a,RBB-ppm,,0,0
+213,Withoefse heide,Grenspark Kalmthoutse Heide,Withoefse Heide,unmanaged,0-beheer,Non-intervention,1943,1943,1994,none,14,14.1,F1a,RBB-ppm,,0,0
+214,Withoefse heide,Grenspark Kalmthoutse Heide,Withoefse Heide,unmanaged,0-beheer,Non-intervention,1943,1943,1994,none,14,14.1,F1a,RBB-ppm,,0,0
+215,Withoefse heide,Grenspark Kalmthoutse Heide,Withoefse Heide,unmanaged,0-beheer,Non-intervention,1943,1943,1994,none,14,14.1,F1a,RBB-ppm,,0,0
+216,Withoefse heide,Grenspark Kalmthoutse Heide,Withoefse Heide,unmanaged,0-beheer,Non-intervention,1943,1943,1994,none,14,14.1,F1a,RBB-ppm,,0,0
+217,Withoefse heide,Grenspark Kalmthoutse Heide,Withoefse Heide,unmanaged,0-beheer,Non-intervention,1943,1943,1994,none,14,14.1,F1a,RBB-ppm,,0,0
+218,Withoefse heide,Grenspark Kalmthoutse Heide,Withoefse Heide,unmanaged,0-beheer,Non-intervention,1943,1943,1994,none,14,14.1,F1a,RBB-ppm,,0,0
+219,Withoefse heide,Grenspark Kalmthoutse Heide,Withoefse Heide,unmanaged,0-beheer,Non-intervention,1943,1943,1994,none,14,14.1,F1a,RBB-ppm,,0,0
+220,Withoefse heide,Grenspark Kalmthoutse Heide,Withoefse Heide,unmanaged,0-beheer,Non-intervention,1943,1943,1994,none,14,14.1,F1a,RBB-ppm,,0,0
+221,Withoefse heide,Grenspark Kalmthoutse Heide,Withoefse Heide,unmanaged,0-beheer,Non-intervention,1943,1943,1994,none,14,14.1,F1a,RBB-ppm,,0,0
+222,,Grenspark Kalmthoutse Heide,Withoefse Heide,unmanaged,0-beheer,Non-intervention,1943,,,,14,14.1,F1a,RBB-ppm,,0,0
+223,Withoefse heide,Grenspark Kalmthoutse Heide,Withoefse Heide,unmanaged,0-beheer,Non-intervention,1943,1943,1994,none,14,14.1,F1a,RBB-ppm,,0,0
+224,Withoefse heide,Grenspark Kalmthoutse Heide,Withoefse Heide,unmanaged,0-beheer,Non-intervention,1943,1943,1994,none,14,14.1,F1a,RBB-ppm,,0,0
+225,Withoefse heide,Grenspark Kalmthoutse Heide,Withoefse Heide,unmanaged,0-beheer,Non-intervention,1943,1943,1994,none,14,14.1,F1a,RBB-ppm,,0,0
+226,Withoefse heide,Grenspark Kalmthoutse Heide,Withoefse Heide,unmanaged,0-beheer,Non-intervention,1943,1943,1994,none,14,14.1,F1a,RBB-ppm,,0,0
+227,Withoefse heide,Grenspark Kalmthoutse Heide,Withoefse Heide,unmanaged,0-beheer,Non-intervention,1943,1943,1994,none,14,14.1,F1a,RBB-ppm,,0,0
+228,Withoefse heide,Grenspark Kalmthoutse Heide,Withoefse Heide,unmanaged,0-beheer,Non-intervention,1943,1943,1994,none,14,14.1,F1a,RBB-ppm,,0,0
+229,Withoefse heide,Grenspark Kalmthoutse Heide,Withoefse Heide,unmanaged,0-beheer,Non-intervention,1943,1943,1994,none,14,14.1,F1a,RBB-ppm,,0,0
+400,,Wijnendalebos,SFR,mowed path,gemaaid pad,Mowed path,,,,,6,6.2,F1a,9120,2002-08-01T00:00:00Z,2.16,0.1
+401,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-01T00:00:00Z,2.217,0.106
+402,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-08T00:00:00Z,2.192,0.106
+403,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-01T00:00:00Z,2.235,0.103
+404,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-01T00:00:00Z,2.499,0.087
+405,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-07T00:00:00Z,3.363,0.048
+406,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-07T00:00:00Z,2.799,0.093
+407,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-08T00:00:00Z,2.281,0.117
+408,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-01T00:00:00Z,2.449,0.09
+409,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-01T00:00:00Z,5.188,0.072
+410,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-07T00:00:00Z,4.99,0.09
+411,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-07T00:00:00Z,3.126,0.103
+412,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-01T00:00:00Z,2.372,0.107
+413,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-07T00:00:00Z,2.531,0.079
+414,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-07T00:00:00Z,3.597,0.101
+415,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-07T00:00:00Z,2.8,0.054
+416,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-01T00:00:00Z,2.963,0.095
+417,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-01T00:00:00Z,2.146,0.104
+418,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-07T00:00:00Z,2.516,0.089
+419,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-07T00:00:00Z,2.399,0.089
+420,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-07T00:00:00Z,2.596,0.085
+421,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-07T00:00:00Z,2.458,0.096
+422,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-07T00:00:00Z,3.489,0.096
+423,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-07-31T00:00:00Z,2.279,0.095
+424,,Wijnendalebos,SFR,mowed path,gemaaid pad,Mowed path,,,,,6,6.2,F1a,9120,2002-07-31T00:00:00Z,2.659,0.079
+425,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-08T00:00:00Z,2.683,0.108
+426,,Wijnendalebos,SFR,mowed path,gemaaid pad,Mowed path,,,,,6,6.2,F1a,9120,2002-07-31T00:00:00Z,2.008,0.182
+427,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-08T00:00:00Z,2.254,0.098
+428,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-01T00:00:00Z,2.518,0.076
+429,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-08T00:00:00Z,2.364,0.12
+430,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-07-26T00:00:00Z,3.108,0.094
+431,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-07-26T00:00:00Z,2.315,0.096
+432,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-07-26T00:00:00Z,2.445,0.081
+433,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-14T00:00:00Z,2.339,0.095
+434,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,2001,2001,1996,1984,6,6.2,F1a,9120,2002-08-14T00:00:00Z,2.031,0.126
+435,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-07-26T00:00:00Z,2.594,0.08
+436,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,2001,2001,1996,1984,6,6.2,F1a,9120,2002-08-14T00:00:00Z,2.856,0.107
+437,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,2001,2001,1996,1984,6,6.2,F1a,9120,2002-08-14T00:00:00Z,2.549,0.15
+438,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,2001,2001,1996,1984,6,6.2,F1a,9120,2002-07-26T00:00:00Z,2.867,0.083
+439,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-07-26T00:00:00Z,2.119,0.106
+440,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-07-26T00:00:00Z,2.436,0.106
+441,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-07-26T00:00:00Z,2.688,0.102
+442,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-07-26T00:00:00Z,2.197,0.115
+443,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-07-26T00:00:00Z,2.488,0.081
+444,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-07-26T00:00:00Z,2.327,0.109
+445,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-07T00:00:00Z,3.039,0.081
+446,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-07T00:00:00Z,3.08,0.092
+447,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-07-26T00:00:00Z,2.119,0.116
+448,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-07T00:00:00Z,2.322,0.09
+449,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-07T00:00:00Z,2.83,0.084
+450,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-07-26T00:00:00Z,3.969,0.094
+451,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,2001,2001,1996,1984,6,6.2,F1a,9120,2002-07-26T00:00:00Z,2.555,0.095
+452,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-14T00:00:00Z,3.697,0.089
+453,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,2001,2001,1996,1984,6,6.2,F1a,9120,2002-08-14T00:00:00Z,2.995,0.13
+454,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-14T00:00:00Z,2.211,0.099
+455,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,2001,2001,1996,1984,6,6.2,F1a,9120,2002-08-14T00:00:00Z,2.202,0.098
+456,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-14T00:00:00Z,2.033,0.117
+457,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-14T00:00:00Z,2.228,0.096
+458,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-14T00:00:00Z,2.29,0.138
+459,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,2001,2001,1996,1984,6,6.2,F1a,9120,2002-08-14T00:00:00Z,2.202,0.11
+460,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-14T00:00:00Z,2.57,0.073
+461,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-14T00:00:00Z,2.528,0.091
+462,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,2001,2001,1996,1984,6,6.2,F1a,9120,2002-07-26T00:00:00Z,3.229,0.089
+463,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-14T00:00:00Z,2.151,0.102
+464,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-14T00:00:00Z,1.742,0.185
+465,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,2001,2001,1996,1984,6,6.2,F1a,9120,2002-07-26T00:00:00Z,2.339,0.095
+466,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-14T00:00:00Z,2.088,0.109
+467,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,2001,2001,1996,1984,6,6.2,F1a,9120,2002-08-14T00:00:00Z,2.516,0.073
+468,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,2001,2001,1996,1984,6,6.2,F1a,9120,2002-08-14T00:00:00Z,2.963,0.101
+469,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-14T00:00:00Z,2.555,0.164
+470,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-14T00:00:00Z,2.739,0.064
+471,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-14T00:00:00Z,2.333,0.087
+472,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-07-26T00:00:00Z,2.461,0.084
+473,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-14T00:00:00Z,2.346,0.096
+474,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-14T00:00:00Z,1.985,0.121
+475,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,2001,2001,1996,1984,6,6.2,F1a,9120,2002-08-14T00:00:00Z,1.049,0.302
+476,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-07-26T00:00:00Z,2.869,0.077
+477,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-14T00:00:00Z,1.997,0.124
+478,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-14T00:00:00Z,1.838,0.161
+479,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-07-26T00:00:00Z,2.75,0.088
+480,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-14T00:00:00Z,2.333,0.093
+481,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-14T00:00:00Z,2.292,0.1
+482,,Wijnendalebos,SFR,open area,open ruimte,Open area,,,,,6,6.2,F1a,9120,2002-08-14T00:00:00Z,1.574,0.221
+483,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-07-26T00:00:00Z,2.423,0.091
+484,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-14T00:00:00Z,1.844,0.166
+485,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-07-26T00:00:00Z,2.602,0.084
+486,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-07-26T00:00:00Z,3.118,0.092
+487,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-07-26T00:00:00Z,2.379,0.12
+488,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-07-26T00:00:00Z,0,0
+489,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-07-26T00:00:00Z,2.591,0.09
+490,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-07T00:00:00Z,3.017,0.081
+491,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-07T00:00:00Z,2.918,0.093
+492,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-07T00:00:00Z,2.481,0.093
+493,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-07T00:00:00Z,2.403,0.098
+494,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-07-26T00:00:00Z,2.104,0.108
+495,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-07T00:00:00Z,2.363,0.09
+496,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-07T00:00:00Z,2.456,0.095
+497,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-07-26T00:00:00Z,2.187,0.099
+498,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-08T00:00:00Z,2.143,0.123
+499,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-07-26T00:00:00Z,2.23,0.096
+500,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-08T00:00:00Z,2.397,0.096
+501,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,2001,2001,1996,1984,6,6.2,F1a,9120,2002-08-08T00:00:00Z,2.186,0.105
+502,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-09T00:00:00Z,2.144,0.112
+503,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-07-26T00:00:00Z,2.371,0.104
+504,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,2001,2001,1996,1984,6,6.2,F1a,9120,2002-08-09T00:00:00Z,2.236,0.097
+505,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-09T00:00:00Z,2.1,0.111
+506,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-07-26T00:00:00Z,2.085,0.11
+507,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-07T00:00:00Z,2.41,0.105
+508,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-07T00:00:00Z,2.502,0.081
+509,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-08T00:00:00Z,2.071,0.117
+510,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-08T00:00:00Z,2.346,0.09
+511,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-07-26T00:00:00Z,3.173,0.08
+512,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-08T00:00:00Z,2.546,0.086
+513,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-07-26T00:00:00Z,2.389,0.095
+514,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-07-26T00:00:00Z,2.867,0.082
+515,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,2001,2001,1996,1984,6,6.2,F1a,9120,2002-07-26T00:00:00Z,2.228,0.105
+516,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,2001,2001,1996,1984,6,6.2,F1a,9120,2002-08-07T00:00:00Z,2.232,0.101
+517,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,2001,2001,1996,1984,6,6.2,F1a,9120,2002-08-07T00:00:00Z,2.859,0.077
+518,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-07T00:00:00Z,2.817,0.083
+519,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-07T00:00:00Z,2.444,0.086
+520,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,2001,2001,1996,1984,6,6.2,F1a,9120,2002-08-07T00:00:00Z,2.461,0.101
+521,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,2001,2001,1996,1984,6,6.2,F1a,9120,2002-08-09T00:00:00Z,2.082,0.117
+522,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,1985,2001,1996,1984,6,6.2,F1a,9120,2002-08-07T00:00:00Z,3.086,0.075
+523,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,Non-intervention,2001,2001,1996,1984,6,6.2,F1a,9120,2002-08-09T00:00:00Z,2.897,0.11
+701,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,2008,2008,1996,1991,11,11.2,T,91E0,,1.625,19.207
+702,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,2004-07-15T00:00:00Z,2.696,7.521
+703,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,2004-07-15T00:00:00Z,2.807,9.23
+704,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,2004-07-15T00:00:00Z,2.608,10.647
+705,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,2004-07-15T00:00:00Z,2.292,10.714
+706,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,2004-07-15T00:00:00Z,3.721,9.623
+707,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,2008,2008,1996,1991,11,11.2,T,91E0,,0,0
+708,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,2004-07-15T00:00:00Z,3.108,11.033
+709,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,2008,2008,1996,1991,11,11.2,T,91E0,,2.523,10.558
+710,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,2004-07-15T00:00:00Z,3.297,8.969
+711,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,,0,0
+712,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,2004-07-15T00:00:00Z,3.026,7.784
+713,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,2004-07-15T00:00:00Z,3.261,7.832
+714,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,2004-07-15T00:00:00Z,2.796,7.339
+715,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,2004-07-15T00:00:00Z,2.703,7.718
+716,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,2004-07-15T00:00:00Z,2.821,8.317
+717,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,2004-07-15T00:00:00Z,2.474,10.146
+718,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,2004-07-23T00:00:00Z,4.221,7.921
+719,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,2004-07-15T00:00:00Z,2.871,8.143
+720,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,2004-07-15T00:00:00Z,2.791,9.347
+721,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,2004-07-15T00:00:00Z,2.881,9.265
+722,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,2004-07-15T00:00:00Z,2.468,9.02
+723,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,2004-07-15T00:00:00Z,2.948,9.218
+724,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,2004-07-15T00:00:00Z,2.613,9.401
+725,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,,0,0
+726,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,,0,0
+727,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,2008,2008,1996,1991,11,11.2,T,91E0,,2.783,9.122
+728,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,2008,2008,1996,1991,11,11.2,T,91E0,,2.396,9.505
+729,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,,0,0
+730,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,,2.222,13.397
+731,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,2004-07-15T00:00:00Z,2.957,8.596
+732,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,2004-07-15T00:00:00Z,2.933,7.912
+733,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,,2.668,8.562
+734,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,2004-07-15T00:00:00Z,2.649,7.485
+735,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,,2.522,9.372
+736,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,2004-07-15T00:00:00Z,2.538,8.833
+737,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,2004-07-15T00:00:00Z,2.359,10.154
+738,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,2008,2008,1996,1991,6,6.2,T,9120,,2.267,10.943
+739,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,2008,2008,1996,1991,6,6.2,T,9120,,2.718,10.578
+740,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,2008,2008,1996,1991,6,6.2,T,9120,,2.496,9.829
+741,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,,0,0
+742,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,,2.289,9.382
+743,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,,0,56.1
+744,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,,1.815,15.202
+745,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,2004-07-15T00:00:00Z,2.61,7.359
+746,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,2004-07-15T00:00:00Z,2.403,10.235
+747,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,,2.317,10.083
+748,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,,2.525,9.593
+749,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,2004-07-15T00:00:00Z,4.559,9.611
+750,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,,2.606,9.078
+751,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,,3.092,7.741
+752,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,,2.583,8.733
+753,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,,2.749,9.787
+754,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,,2.132,10.259
+755,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,,3.225,8.121
+756,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,,2.851,8.056
+757,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,,3.404,9.505
+758,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,,2.257,10.773
+759,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,2008,2008,1996,1991,11,11.2,T,91E0,,2.441,9.689
+760,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,2008,2008,1996,1991,11,11.2,T,91E0,,2.254,10.315
+761,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,,2.277,8.969
+762,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,,2.175,10.605
+763,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,2004-07-15T00:00:00Z,3.249,9.325
+764,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,2004-07-23T00:00:00Z,3.306,9.321
+765,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,2004-07-23T00:00:00Z,2.462,8.833
+766,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,2004-07-23T00:00:00Z,2.227,10.292
+767,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,2004-07-23T00:00:00Z,2.658,7.708
+768,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,Non-intervention,1991,2008,1996,1991,11,11.2,T,91E0,2004-07-23T00:00:00Z,2.685,9.478
+801,Jansheideberg,Hallerbos,Jansheideberg SFR,unmanaged,0-beheer,Non-intervention,1994,1994,1996,1994,6,6.2,F5a,9130,2005-07-22T00:00:00Z,2.742,0.064
+802,Jansheideberg,Hallerbos,Jansheideberg SFR,unmanaged,0-beheer,Non-intervention,1994,1994,1996,1994,6,6.2,F5a,9130,2005-07-22T00:00:00Z,1.858,0.146
+803,Jansheideberg,Hallerbos,Jansheideberg SFR,unmanaged,0-beheer,Non-intervention,1994,1994,1996,1994,6,6.2,F5a,9130,2005-07-22T00:00:00Z,2.69,0.064
+804,Jansheideberg,Hallerbos,Jansheideberg SFR,unmanaged,0-beheer,Non-intervention,1994,1994,1996,1994,6,6.2,F5a,9130,2005-07-22T00:00:00Z,2.466,0.078
+805,Jansheideberg,Hallerbos,Jansheideberg SFR,unmanaged,0-beheer,Non-intervention,1994,1994,1996,1994,6,6.2,F5a,9130,2005-07-22T00:00:00Z,2.273,0.131
+806,Jansheideberg,Hallerbos,Jansheideberg SFR,unmanaged,0-beheer,Non-intervention,1994,1994,1996,1994,6,6.2,F5a,9130,2005-07-22T00:00:00Z,2.555,0.078
+807,Jansheideberg,Hallerbos,Jansheideberg SFR,unmanaged,0-beheer,Non-intervention,1994,1994,1996,1994,6,6.2,F5a,9130,2005-07-29T00:00:00Z,1.721,0.162
+808,Jansheideberg,Hallerbos,Jansheideberg SFR,unmanaged,0-beheer,Non-intervention,1994,1994,1996,1994,6,6.2,F5a,9130,2005-07-22T00:00:00Z,2.086,0.135
+809,Jansheideberg,Hallerbos,Jansheideberg SFR,unmanaged,0-beheer,Non-intervention,1994,1994,1996,1994,6,6.2,F5a,9130,2005-07-29T00:00:00Z,1.984,0.138
+810,Jansheideberg,Hallerbos,Jansheideberg SFR,unmanaged,0-beheer,Non-intervention,1994,1994,1996,1994,6,6.2,F5a,9130,2005-07-22T00:00:00Z,2.58,0.087
+811,Jansheideberg,Hallerbos,Jansheideberg SFR,unmanaged,0-beheer,Non-intervention,1994,1994,1996,1994,6,6.2,F5a,9130,2005-07-29T00:00:00Z,2.548,0.127
+812,Jansheideberg,Hallerbos,Jansheideberg SFR,unmanaged,0-beheer,Non-intervention,1994,1994,1996,1994,6,6.2,F5a,9130,2005-07-22T00:00:00Z,2.974,0.056
+813,Jansheideberg,Hallerbos,Jansheideberg SFR,unmanaged,0-beheer,Non-intervention,1994,1994,1996,1994,6,6.2,F5a,9130,2005-07-29T00:00:00Z,2.001,0.142
+814,Jansheideberg,Hallerbos,Jansheideberg SFR,unmanaged,0-beheer,Non-intervention,1994,1994,1996,1994,6,6.2,F5a,9130,2005-07-22T00:00:00Z,2.453,0.117
+815,Jansheideberg,Hallerbos,Jansheideberg SFR,unmanaged,0-beheer,Non-intervention,1994,1994,1996,1994,6,6.2,F5a,9130,2005-07-29T00:00:00Z,2.069,0.132
+816,Jansheideberg,Hallerbos,Jansheideberg SFR,unmanaged,0-beheer,Non-intervention,1994,1994,1996,1994,6,6.2,F5a,9130,2005-07-22T00:00:00Z,2.013,0.145
+817,Jansheideberg,Hallerbos,Jansheideberg SFR,unmanaged,0-beheer,Non-intervention,1994,1994,1996,1994,6,6.2,F5a,9130,2005-07-29T00:00:00Z,2.09,0.134
+818,Jansheideberg,Hallerbos,Jansheideberg SFR,unmanaged,0-beheer,Non-intervention,1994,1994,1996,1994,6,6.2,F5a,9130,2005-07-22T00:00:00Z,2.02,0.15
+819,Jansheideberg,Hallerbos,Jansheideberg SFR,unmanaged,0-beheer,Non-intervention,1994,1994,1996,1994,6,6.2,F5a,9130,2005-07-29T00:00:00Z,1.982,0.14
+820,Jansheideberg,Hallerbos,Jansheideberg SFR,unmanaged,0-beheer,Non-intervention,1994,1994,1996,1994,6,6.2,F5a,9130,2005-07-29T00:00:00Z,2.258,0.131
+821,Jansheideberg,Hallerbos,Jansheideberg SFR,unmanaged,0-beheer,Non-intervention,1994,1994,1996,1994,6,6.2,F5a,9130,2005-07-22T00:00:00Z,1.84,0.162
+822,Jansheideberg,Hallerbos,Jansheideberg SFR,unmanaged,0-beheer,Non-intervention,1994,1994,1996,1994,6,6.2,F5a,9130,2005-07-29T00:00:00Z,2.347,0.127
+823,Jansheideberg,Hallerbos,Jansheideberg SFR,unmanaged,0-beheer,Non-intervention,1994,1994,1996,1994,6,6.2,F5a,9130,2005-07-29T00:00:00Z,1.853,0.142
+824,Jansheideberg,Hallerbos,Jansheideberg SFR,unmanaged,0-beheer,Non-intervention,1994,1994,1996,1994,6,6.2,F5a,9130,2005-07-29T00:00:00Z,2.025,0.122
+825,Jansheideberg,Hallerbos,Jansheideberg SFR,unmanaged,0-beheer,Non-intervention,1994,1994,1996,1994,6,6.2,F5a,9130,2005-07-29T00:00:00Z,2.182,0.123
+826,Jansheideberg,Hallerbos,Jansheideberg SFR,unmanaged,0-beheer,Non-intervention,1994,1994,1996,1994,6,6.2,F5a,9130,2005-07-29T00:00:00Z,2.027,0.127
+827,Jansheideberg,Hallerbos,Jansheideberg SFR,unmanaged,0-beheer,Non-intervention,1994,1994,1996,1994,6,6.2,F5a,9130,2005-07-29T00:00:00Z,2.125,0.115
+828,Jansheideberg,Hallerbos,Jansheideberg SFR,unmanaged,0-beheer,Non-intervention,1994,1994,1996,1994,6,6.2,F5a,9130,2005-07-29T00:00:00Z,1.758,0.158
+829,Jansheideberg,Hallerbos,Jansheideberg SFR,unmanaged,0-beheer,Non-intervention,1994,1994,1996,1994,6,6.2,F5a,9130,2005-07-29T00:00:00Z,2.216,0.119
+830,Jansheideberg,Hallerbos,Jansheideberg SFR,unmanaged,0-beheer,Non-intervention,1994,1994,1996,1994,6,6.2,F5a,9130,2005-07-29T00:00:00Z,1.686,0.164
+831,Jansheideberg,Hallerbos,Jansheideberg SFR,unmanaged,0-beheer,Non-intervention,1994,1994,1996,1994,6,6.2,F5a,9130,2005-07-29T00:00:00Z,1.721,0.158
+832,Jansheideberg,Hallerbos,Jansheideberg SFR,unmanaged,0-beheer,Non-intervention,1994,1994,1996,1994,6,6.2,F5a,9130,2005-07-29T00:00:00Z,1.928,0.13
+833,Jansheideberg,Hallerbos,Jansheideberg SFR,unmanaged,0-beheer,Non-intervention,1994,1994,1996,1994,6,6.2,F5a,9130,2005-07-29T00:00:00Z,3.319,0.094
+841,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,2003,2003,1996,1981-1983,6,6.2,F5a,9130,,3.458,0.03
+842,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,2003,2003,1996,1981-1983,6,6.2,F5a,9130,,2.685,0.083
+843,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,2.691,0.075
+844,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,2003,2003,1996,1981-1983,6,6.2,F5a,9130,,2.497,0.101
+845,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1993,2003,1996,1981-1983,6,6.2,F5a,9130,,2.721,0.087
+846,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,2.584,0.08
+847,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,2.792,0.076
+848,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,3.91,0.025
+849,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,2.766,0.078
+850,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,3.015,0.089
+851,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,2003,2003,1996,1981-1983,6,6.2,F5a,9130,,2.039,0.117
+852,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1993,2003,1996,1981-1983,6,6.2,F5a,9130,,3.602,0.034
+853,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,4.321,0.029
+854,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,3.43,0.043
+855,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,2.514,0.075
+856,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,4.361,0.023
+857,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,2003,2003,1996,1981-1983,6,6.2,F5a,9130,,2.612,0.1
+858,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,2.332,0.088
+859,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,2.261,0.094
+860,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,3.537,0.026
+861,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,2.776,0.082
+862,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,2003,2003,1996,1981-1983,6,6.2,F5a,9130,,0,0
+863,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,2.423,0.096
+864,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,2.19,0.112
+865,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,4.097,0.084
+866,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,2.323,0.093
+867,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,1.751,0.182
+868,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,2.761,0.075
+869,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,2.834,0.083
+870,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,2.473,0.083
+871,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,2.209,0.103
+872,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,3.755,0.089
+873,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,2.944,0.09
+874,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,2.976,0.086
+875,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,2.471,0.093
+876,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,2.447,0.082
+877,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,2.321,0.097
+878,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,2.791,0.084
+879,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,2.69,0.081
+880,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,3.515,0.034
+881,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,2.779,0.084
+882,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,4.561,0.028
+883,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,2.401,0.086
+884,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,4.146,0.027
+885,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,3.243,0.049
+886,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,2.354,0.09
+887,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,3.425,0.043
+888,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,3.589,0.043
+889,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,2.44,0.098
+890,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,Non-intervention,1983,2003,1996,1981-1983,6,6.2,F5a,9130,,2.383,0.099
+901,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,2.747,0.062
+902,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,3.673,0.074
+903,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,2.861,0.063
+904,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-03T00:00:00Z,2.668,0.067
+905,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,3.053,0.061
+906,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,3.399,0.061
+907,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,3.1,0.058
+908,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,3.437,0.069
+909,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-03T00:00:00Z,1.934,0.143
+910,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-03T00:00:00Z,3.007,0.069
+911,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,2.394,0.08
+912,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,3.303,0.066
+913,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,2.802,0.058
+914,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-03T00:00:00Z,2.499,0.072
+915,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-03T00:00:00Z,2.648,0.065
+916,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,2.097,0.153
+917,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,0.903,0.375
+918,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,4.896,0.057
+919,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,3.097,0.075
+920,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,3.238,0.062
+921,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-03T00:00:00Z,3.187,0.053
+922,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-03T00:00:00Z,3.569,0.059
+923,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,2.573,0.08
+924,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,1.207,0.313
+925,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,2.929,0.047
+926,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,2.709,0.06
+927,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,2.672,0.066
+928,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-03T00:00:00Z,3.054,0.066
+929,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-03T00:00:00Z,2.483,0.078
+930,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,2.979,0.052
+931,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,2.797,0.064
+932,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,2.684,0.064
+933,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,3.589,0.059
+934,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,2.911,0.052
+935,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-03T00:00:00Z,3.804,0.066
+936,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-03T00:00:00Z,2.984,0.055
+937,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,3.747,0.06
+938,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,2.62,0.065
+939,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,2.94,0.053
+940,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,2.924,0.053
+941,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,2.573,0.072
+942,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-03T00:00:00Z,2.645,0.069
+943,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,4.852,0.066
+944,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,3.049,0.053
+945,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,2.685,0.063
+946,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,2.215,0.1
+947,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,2.584,0.07
+948,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,3.43,0.05
+949,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,2.909,0.059
+950,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,2.579,0.077
+951,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,2.867,0.054
+952,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,2.48,0.085
+953,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,2.934,0.056
+954,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,3.27,0.057
+955,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,3.275,0.061
+956,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,2.713,0.072
+957,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,3.543,0.072
+958,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,2.727,0.071
+959,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,3.73,0.05
+960,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,3.022,0.059
+961,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,2.827,0.058
+962,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,2.959,0.063
+963,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,3.069,0.057
+964,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,3.115,0.066
+965,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,2.998,0.05
+966,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,Non-intervention,2002,2002,1995,1993,5,5.1,F3,9160,2006-08-02T00:00:00Z,2.584,0.088
+1003,Liedekerke,Liedekerkebos,"SFR (Plot 3 Van Den Meersschaut (1997))
+SFR (Plot 3 Van Den Meersschaut (1997))",unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.348,0.125
+1004,Liedekerke,Liedekerkebos,SFR (Plot 4 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.855,0.085
+1005,Liedekerke,Liedekerkebos,SFR (Plot 5 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.451,0.107
+1008,Liedekerke,Liedekerkebos,SFR (Plot 8 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.176,0.133
+1009,Liedekerke,Liedekerkebos,SFR (Plot 9 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.255,0.123
+1011,Liedekerke,Liedekerkebos,SFR (Plot 11 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,3.315,0.092
+1018,Liedekerke,Liedekerkebos,SFR (Plot 18 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-18T00:00:00Z,2.291,0.11
+1019,Liedekerke,Liedekerkebos,SFR (Plot 19 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-18T00:00:00Z,2.546,0.107
+1022,Liedekerke,Liedekerkebos,SFR (Plot 22 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-18T00:00:00Z,2.151,0.124
+1023,Liedekerke,Liedekerkebos,SFR (Plot 23 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-18T00:00:00Z,2.597,0.1
+1024,Liedekerke,Liedekerkebos,SFR (Plot 24 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.649,0.111
+1026,Liedekerke,Liedekerkebos,SFR (Plot 26 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-18T00:00:00Z,2.04,0.12
+1027,Liedekerke,Liedekerkebos,SFR (Plot 27 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-18T00:00:00Z,2.484,0.12
+1028,Liedekerke,Liedekerkebos,SFR (Plot 28 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-18T00:00:00Z,2.44,0.114
+1029,Liedekerke,Liedekerkebos,SFR (Plot 29 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-18T00:00:00Z,3.113,0.107
+1032,Liedekerke,Liedekerkebos,SFR (Plot 32 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-18T00:00:00Z,2.451,0.116
+1035,Liedekerke,Liedekerkebos,SFR (Plot 35 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.769,0.112
+1037,Liedekerke,Liedekerkebos,SFR (Plot 37 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.384,0.121
+1041,Liedekerke,Liedekerkebos,SFR (Plot 41 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.332,0.094
+1044,Liedekerke,Liedekerkebos,SFR (Plot 44 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-18T00:00:00Z,3.29,0.11
+1046,Liedekerke,Liedekerkebos,SFR (Plot 46 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.263,0.115
+1051,Liedekerke,Liedekerkebos,SFR (Plot 51 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.117,0.117
+1052,Liedekerke,Liedekerkebos,SFR (Plot 52 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.355,0.093
+1053,Liedekerke,Liedekerkebos,SFR (Plot 53 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.088,0.123
+1058,Liedekerke,Liedekerkebos,SFR (Plot 58 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.613,0.092
+1059,Liedekerke,Liedekerkebos,SFR (Plot 59 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.49,0.101
+1060,Liedekerke,Liedekerkebos,SFR (Plot 60 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.135,0.115
+1062,Liedekerke,Liedekerkebos,SFR (Plot 62 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.633,0.107
+1063,Liedekerke,Liedekerkebos,SFR (Plot 63 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.025,0.136
+1065,Liedekerke,Liedekerkebos,SFR (Plot 65 Van Den Meersschaut (1997)),unmanaged,0-beheer,Non-intervention,1972,1972,2003,late 1960's,6,6.2,F1a,9120,2006-08-11T00:00:00Z,2.148,0.125
+1101,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,2.067,0.119
+1102,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,2.282,0.105
+1103,Sevendonck,Sevendonck,Oak forest SFR,unmanaged,0-beheer,Non-intervention,1987,1995,1997,1994,11,11.2,T,91E0,,2.692,0.1
+1104,Sevendonck,Sevendonck,Oak forest SFR,unmanaged,0-beheer,Non-intervention,1987,1995,1997,1994,11,11.2,T,91E0,,2.585,0.134
+1105,Sevendonck,Sevendonck,Oak forest SFR,unmanaged,0-beheer,Non-intervention,1987,1995,1997,1994,11,11.2,T,91E0,,2.515,0.089
+1106,Sevendonck,Sevendonck,Oak forest SFR,unmanaged,0-beheer,Non-intervention,1987,1995,1997,1994,11,11.2,T,91E0,,2.568,0.1
+1107,Sevendonck,Sevendonck,Oak forest SFR,unmanaged,0-beheer,Non-intervention,1987,1995,1997,1994,11,11.2,T,91E0,,2.016,0.134
+1108,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,2.322,0.124
+1109,Sevendonck,Sevendonck,Oak forest SFR,unmanaged,0-beheer,Non-intervention,1987,1995,1997,1994,11,11.2,T,91E0,,3.645,0.086
+1110,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,2.342,0.121
+1111,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,2.601,0.109
+1112,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,0,0
+1113,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,2.162,0.117
+1114,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,0,0
+1115,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,2.342,0.114
+1116,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,2.352,0.119
+1117,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,2.086,0.124
+1118,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,2.543,0.11
+1119,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,2.323,0.111
+1120,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,0,0
+1121,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,2.169,0.118
+1122,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,2.458,0.116
+1123,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,2.268,0.114
+1124,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,2.095,0.12
+1125,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,2.121,0.131
+1126,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,2.094,0.121
+1127,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,2.052,0.137
+1128,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,2.66,0.107
+1129,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,2.487,0.102
+1130,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,2.451,0.1
+1131,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,2.092,0.118
+1132,Sevendonck,Sevendonck,Oak forest SFR,unmanaged,0-beheer,Non-intervention,1987,1995,1997,1994,11,11.2,T,91E0,,2.483,0.1
+1133,Sevendonck,Sevendonck,Oak forest SFR,unmanaged,0-beheer,Non-intervention,1987,1995,1997,1994,11,11.2,T,91E0,,2.258,0.109
+1134,Sevendonck,Sevendonck,Oak forest SFR,unmanaged,0-beheer,Non-intervention,1987,1995,1997,1994,11,11.2,T,91E0,,2.947,0.075
+1135,Sevendonck,Sevendonck,Oak forest SFR,unmanaged,0-beheer,Non-intervention,1987,1995,1997,1994,11,11.2,T,91E0,,2.394,0.131
+1136,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,3.56,0.095
+1137,Sevendonck,Sevendonck,Oak forest SFR,open area,open ruimte,Open area,,1995,1997,1994,11,11.2,T,91E0,,2.624,0.108
+1138,Sevendonck,Sevendonck,Oak forest SFR,unmanaged,0-beheer,Non-intervention,1987,1995,1997,1994,11,11.2,T,91E0,,0,0
+1139,Sevendonck,Sevendonck,Oak forest SFR,unmanaged,0-beheer,Non-intervention,1987,1995,1997,1994,11,11.2,T,91E0,,1.785,0.151
+1140,Sevendonck,Sevendonck,Oak forest SFR,open area,open ruimte,Open area,,1995,1997,1994,11,11.2,T,91E0,,2.679,0.091
+1141,Sevendonck,Sevendonck,Oak forest SFR,unmanaged,0-beheer,Non-intervention,1987,1995,1997,1994,11,11.2,T,91E0,,2.315,0.108
+1142,Sevendonck,Sevendonck,Oak forest SFR,unmanaged,0-beheer,Non-intervention,1987,1995,1997,1994,11,11.2,T,91E0,,0,0
+1143,Sevendonck,Sevendonck,Oak forest SFR,unmanaged,0-beheer,Non-intervention,1987,1995,1997,1994,11,11.2,T,91E0,,2.94,0.109
+1144,Sevendonck,Sevendonck,Oak forest SFR,unmanaged,0-beheer,Non-intervention,1987,1995,1997,1994,11,11.2,T,91E0,,3.564,0.087
+1145,Sevendonck,Sevendonck,Oak forest SFR,unmanaged,0-beheer,Non-intervention,1987,1995,1997,1994,11,11.2,T,91E0,,2.963,0.108
+1146,Sevendonck,Sevendonck,Oak forest SFR,unmanaged,0-beheer,Non-intervention,1987,1995,1997,1994,11,11.2,T,91E0,,2.813,0.094
+1147,Sevendonck,Sevendonck,Oak forest SFR,unmanaged,0-beheer,Non-intervention,1987,1995,1997,1994,11,11.2,T,91E0,,2.537,0.098
+1148,Sevendonck,Sevendonck,Oak forest SFR,unmanaged,0-beheer,Non-intervention,1987,1995,1997,1994,11,11.2,T,91E0,,2.358,0.115
+1149,Sevendonck,Sevendonck,Oak forest SFR,unmanaged,0-beheer,Non-intervention,1987,1995,1997,1994,11,11.2,T,91E0,,2.445,0.1
+1150,Sevendonck,Sevendonck,Oak forest SFR,unmanaged,0-beheer,Non-intervention,1987,1995,1997,1994,11,11.2,T,91E0,,2.385,0.107
+1151,Sevendonck,Sevendonck,Oak forest SFR,unmanaged,0-beheer,Non-intervention,1987,1995,1997,1994,11,11.2,T,91E0,,2.109,0.122
+1152,Sevendonck,Sevendonck,Oak forest SFR,unmanaged,0-beheer,Non-intervention,1987,1995,1997,1994,11,11.2,T,91E0,,2.275,0.102
+1153,Sevendonck,Sevendonck,Oak forest SFR,unmanaged,0-beheer,Non-intervention,1987,1995,1997,1994,11,11.2,T,91E0,,2.313,0.112
+1154,Sevendonck,Sevendonck,Oak forest SFR,unmanaged,0-beheer,Non-intervention,1987,1995,1997,1994,11,11.2,T,91E0,,2.522,0.1
+1155,Sevendonck,Sevendonck,Oak forest SFR,unmanaged,0-beheer,Non-intervention,1987,1995,1997,1994,11,11.2,T,91E0,,2.195,0.173
+1156,Sevendonck,Sevendonck,Oak forest SFR,unmanaged,0-beheer,Non-intervention,1987,1995,1997,1994,11,11.2,T,91E0,,2.799,0.098
+1157,Sevendonck,Sevendonck,Oak forest SFR,unmanaged,0-beheer,Non-intervention,1987,1995,1997,1994,11,11.2,T,91E0,,2.183,0.116
+1158,Sevendonck,Sevendonck,Oak forest SFR,unmanaged,0-beheer,Non-intervention,1987,1995,1997,1994,11,11.2,T,91E0,,2.605,0.096
+1159,Sevendonck,Sevendonck,Oak forest SFR,unmanaged,0-beheer,Non-intervention,1987,1995,1997,1994,11,11.2,T,91E0,,2.12,0.117
+1160,Sevendonck,Sevendonck,Oak forest SFR,unmanaged,0-beheer,Non-intervention,1987,1995,1997,1994,11,11.2,T,91E0,,2.241,0.127
+1161,Sevendonck,Sevendonck,Oak forest SFR,unmanaged,0-beheer,Non-intervention,1987,1995,1997,1994,11,11.2,T,91E0,,2.129,0.103
+1162,Sevendonck,Sevendonck,Oak forest SFR,unmanaged,0-beheer,Non-intervention,1987,1995,1997,1994,11,11.2,T,91E0,,2.317,0.105
+1163,Sevendonck,Sevendonck,Oak forest SFR,unmanaged,0-beheer,Non-intervention,1987,1995,1997,1994,11,11.2,T,91E0,,2.463,0.096
+1164,Sevendonck,Sevendonck,Oak forest SFR,unmanaged,0-beheer,Non-intervention,1987,1995,1997,1994,11,11.2,T,91E0,,2.727,0.093
+1165,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,2.036,0.129
+1166,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,2.07,0.121
+1167,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,2.106,0.11
+1168,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,2.25,0.118
+1169,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,2.539,0.105
+1170,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,2.348,0.115
+1171,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,2.488,0.099
+1172,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,2.216,0.117
+1173,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,0,0
+1174,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,2.205,0.12
+1175,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,1.906,0.13
+1176,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,2.186,0.121
+1177,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,0,0
+1178,Sevendonck,Sevendonck,Alder forest SFR,unmanaged,0-beheer,Non-intervention,1995,1995,1997,1994,4,4.1,F1a,9190,,2.487,0.107
+1201,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1202,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1203,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1204,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1205,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1206,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1207,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1208,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1209,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1210,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1211,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1212,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1213,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1214,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1215,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1216,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1217,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1218,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1219,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1220,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1221,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1222,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1223,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1224,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1225,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1226,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1227,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1228,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1229,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1230,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1231,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1232,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1233,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1234,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1235,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1236,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1237,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1238,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1239,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1240,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1241,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1242,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1243,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1244,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1245,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1246,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,Non-intervention,1997,1997,1997,1997,5,5.9,F2,91E0,,0,0
+1301,Ename,Bos t'Ename,,unmanaged,0-beheer,Non-intervention,1990,1990,2000,1990's,6,6.2,F5a,9130,,0,0
+1302,Ename,Bos t'Ename,,in transition,overgangsbeheer,conversion fellings,,,2000,,6,6.2,F5a,9130,,0,0
+1303,Ename,Bos t'Ename,,in transition,overgangsbeheer,conversion fellings,,,2000,,6,6.2,F5a,9130,,0,0
+1304,Ename,Bos t'Ename,,unmanaged,0-beheer,Non-intervention,1990,1990,2000,1990's,6,6.2,F5a,9130,,0,0
+1305,Ename,Bos t'Ename,,unmanaged,0-beheer,Non-intervention,1990,1990,2000,1990's,6,6.2,F5a,9130,,0,0
+1306,Ename,Bos t'Ename,,unmanaged,0-beheer,Non-intervention,1990,1990,2000,1990's,6,6.2,F5a,9130,,0,0
+1307,Ename,Bos t'Ename,,coppice with standards,middelhout,Coppice with standards,,,2000,,6,6.2,F5a,9130,,0,0
+1308,Ename,Bos t'Ename,,unmanaged,0-beheer,Non-intervention,1990,1990,2000,1990's,6,6.2,F5a,9130,,0,0
+1309,Ename,Bos t'Ename,,unmanaged,0-beheer,Non-intervention,1990,1990,2000,1990's,6,6.2,F5a,9130,,0,0
+1310,Ename,Bos t'Ename,,unmanaged,0-beheer,Non-intervention,1990,1990,2000,1990's,6,6.2,F5a,9130,,0,0
+1311,Ename,Bos t'Ename,,conversion + grazing,bosomvorming + begrazing,Forest grazing and stand conversion,,,2000,,6,6.2,F5a,9130,,0,0
+1312,Ename,Bos t'Ename,,in transition + grazing,overgangsbeheer + begrazing,Coppice with standards + forest grazing,,,2000,,6,6.2,F5a,9130,,0,0
+1313,Ename,Bos t'Ename,,conversion + grazing,bosomvorming + begrazing,Forest grazing and stand conversion,,,2000,,6,6.2,F5a,9130,,0,0
+1314,Ename,Bos t'Ename,,conversion + grazing,bosomvorming + begrazing,Forest grazing and stand conversion,,,2000,,6,6.2,F5a,9130,,0,0
+1315,Ename,Bos t'Ename,,conversion + grazing,bosomvorming + begrazing,Forest grazing and stand conversion,,,2000,,6,6.2,F5a,9130,,0,0
+1316,Ename,Bos t'Ename,,in transition + grazing,overgangsbeheer + begrazing,Coppice with standards + forest grazing,,,2000,,6,6.2,F5a,9130,,0,0
+1317,Ename,Bos t'Ename,,conversion + grazing,bosomvorming + begrazing,Forest grazing and stand conversion,,,2000,,6,6.2,F5a,9130,,0,0
+1318,Ename,Bos t'Ename,,coppice with standards + grazing,middelhout + begrazing,Coppice with standards + forest grazing,,,2000,,6,6.2,F5a,9130,,0,0
+1319,Ename,Bos t'Ename,,grazing,bos met begrazing,Forest grazing - no tree felling,,,2000,,6,6.2,F5a,9130,,0,0
+1320,Ename,Bos t'Ename,,conversion + grazing,bosomvorming + begrazing,Forest grazing and stand conversion,,,2000,,6,6.2,F5a,9130,,0,0
+1321,Ename,Bos t'Ename,,grazing,bos met begrazing,Forest grazing - no tree felling,,,2000,,6,6.2,F5a,9130,,0,0
+1322,Ename,Bos t'Ename,,grazing,bos met begrazing,Forest grazing - no tree felling,,,2000,,6,6.2,F5a,9130,,0,0
+1323,Ename,Bos t'Ename,,conversion + grazing,bosomvorming + begrazing,Forest grazing and stand conversion,,,2000,,6,6.2,F5a,9130,,0,0
+1324,Ename,Bos t'Ename,,unmanaged,0-beheer,Non-intervention,1990,1990,2000,1990's,6,6.2,F5a,9130,,0,0
+1325,Ename,Bos t'Ename,,conversion + grazing,bosomvorming + begrazing,Forest grazing and stand conversion,,,2000,,6,6.2,F5a,9130,,0,0
+1326,Ename,Bos t'Ename,,conversion + grazing,bosomvorming + begrazing,Forest grazing and stand conversion,,,2000,,6,6.2,F5a,9130,,0,0
+1327,Ename,Bos t'Ename,,grazing,bos met begrazing,Forest grazing - no tree felling,,,2000,,6,6.2,F5a,9130,,0,0
+1328,Ename,Bos t'Ename,,unmanaged,0-beheer,Non-intervention,1990,1990,2000,1990's,6,6.2,F5a,9130,,0,0
+1329,Ename,Bos t'Ename,,grazing,bos met begrazing,Forest grazing - no tree felling,,,2000,,6,6.2,F5a,9130,,0,0
+1330,Ename,Bos t'Ename,,conversion + grazing,bosomvorming + begrazing,Forest grazing and stand conversion,,,2000,,6,6.2,F5a,9130,,0,0
+1331,Ename,Bos t'Ename,,in transition + grazing,overgangsbeheer + begrazing,Coppice with standards + forest grazing,,,2000,,6,6.2,F5a,9130,,0,0
+1332,Ename,Bos t'Ename,,coppice with standards,middelhout,Coppice with standards,,,2000,,6,6.2,F5a,9130,,0,0
+1333,Ename,Bos t'Ename,,coppice with standards,middelhout,Coppice with standards,,,2000,,6,6.2,F5a,9130,,0,0
+1334,Ename,Bos t'Ename,,conversion + grazing,bosomvorming + begrazing,Forest grazing and stand conversion,,,2000,,6,6.2,F5a,9130,,0,0
+1335,Ename,Bos t'Ename,,conversion + grazing,bosomvorming + begrazing,Forest grazing and stand conversion,,,2000,,6,6.2,F5a,9130,,0,0
+1336,Ename,Bos t'Ename,,conversion + grazing,bosomvorming + begrazing,Forest grazing and stand conversion,,,2000,,6,6.2,F5a,9130,,0,0
+1337,Ename,Bos t'Ename,,in transition + grazing,overgangsbeheer + begrazing,Coppice with standards + forest grazing,,,2000,,6,6.2,F5a,9130,,0,0
+1338,Ename,Bos t'Ename,,coppice with standards,middelhout,Coppice with standards,,,2000,,6,6.2,F5a,9130,,0,0
+1339,Ename,Bos t'Ename,,conversion + grazing,bosomvorming + begrazing,Forest grazing and stand conversion,,,2000,,6,6.2,F5a,9130,,0,0
+1340,Ename,Bos t'Ename,,conversion + grazing,bosomvorming + begrazing,Forest grazing and stand conversion,,,2000,,6,6.2,F5a,9130,,0,0
+1341,Ename,Bos t'Ename,,conversion + grazing,bosomvorming + begrazing,Forest grazing and stand conversion,,,2000,,6,6.2,F5a,9130,,0,0
+1342,Ename,Bos t'Ename,,coppice with standards,middelhout,Coppice with standards,,,2000,,6,6.2,F5a,9130,,0,0
+1343,Ename,Bos t'Ename,,unmanaged,0-beheer,Non-intervention,1990,1990,2000,1990's,6,6.2,F5a,9130,,0,0
+1344,Ename,Bos t'Ename,,unmanaged,0-beheer,Non-intervention,1990,1990,2000,1990's,6,6.2,F5a,9130,,0,0
+1345,Ename,Bos t'Ename,,coppice with standards,middelhout,Coppice with standards,,,2000,,6,6.2,F5a,9130,,0,0
+1346,Ename,Bos t'Ename,,unmanaged,0-beheer,Non-intervention,1990,1990,2000,1990's,6,6.2,F5a,9130,,0,0
+1347,Ename,Bos t'Ename,,unmanaged,0-beheer,Non-intervention,1990,1990,2000,1990's,6,6.2,F5a,9130,,0,0
+1348,Ename,Bos t'Ename,,conversion + grazing,bosomvorming + begrazing,Forest grazing and stand conversion,,,2000,,6,6.2,F5a,9130,,0,0
+1349,Ename,Bos t'Ename,,conversion + grazing,bosomvorming + begrazing,Forest grazing and stand conversion,,,2000,,6,6.2,F5a,9130,,0,0
+1350,Ename,Bos t'Ename,,conversion + grazing,bosomvorming + begrazing,Forest grazing and stand conversion,,,2000,,6,6.2,F5a,9130,,0,0
+1351,Ename,Bos t'Ename,,coppice with standards,middelhout,Coppice with standards,,,2000,,6,6.2,F5a,9130,,0,0
+1352,Ename,Bos t'Ename,,unmanaged,0-beheer,Non-intervention,1990,1990,2000,1990's,6,6.2,F5a,9130,,0,0
+1353,Ename,Bos t'Ename,,unmanaged,0-beheer,Non-intervention,1990,1990,2000,1990's,6,6.2,F5a,9130,,0,0
+1354,Ename,Bos t'Ename,,conversion + grazing,bosomvorming + begrazing,Forest grazing and stand conversion,,,2000,,6,6.2,F5a,9130,,0,0
+1355,Ename,Bos t'Ename,,conversion + grazing,bosomvorming + begrazing,Forest grazing and stand conversion,,,2000,,6,6.2,F5a,9130,,0,0
+1356,Ename,Bos t'Ename,,unmanaged,0-beheer,Non-intervention,1990,1990,2000,1990's,6,6.2,F5a,9130,,0,0
+1357,Ename,Bos t'Ename,,unmanaged,0-beheer,Non-intervention,1990,1990,2000,1990's,6,6.2,F5a,9130,,0,0
+1358,Ename,Bos t'Ename,,unmanaged,0-beheer,Non-intervention,1990,1990,2000,1990's,6,6.2,F5a,9130,,0,0
+1359,Ename,Bos t'Ename,,conversion + grazing,bosomvorming + begrazing,Forest grazing and stand conversion,,,2000,,6,6.2,F5a,9130,,0,0
+1360,Ename,Bos t'Ename,,coppice with standards + grazing,middelhout + begrazing,Coppice with standards + forest grazing,,,2000,,6,6.2,F5a,9130,,0,0
+1361,Ename,Bos t'Ename,,grazing,bos met begrazing,Forest grazing - no tree felling,,,2000,,6,6.2,F5a,9130,,0,0
+1362,Ename,Bos t'Ename,,grazing,bos met begrazing,Forest grazing - no tree felling,,,2000,,6,6.2,F5a,9130,,0,0
+1363,Ename,Bos t'Ename,,conversion + grazing,bosomvorming + begrazing,Forest grazing and stand conversion,,,2000,,6,6.2,F5a,9130,,0,0
+1364,Ename,Bos t'Ename,,coppice with standards + grazing,middelhout + begrazing,Coppice with standards + forest grazing,,,2000,,6,6.2,F5a,9130,,0,0
+1365,Ename,Bos t'Ename,,grazing,bos met begrazing,Forest grazing - no tree felling,,,2000,,6,6.2,F5a,9130,,0,0
+1366,Ename,Bos t'Ename,,coppice with standards + grazing,middelhout + begrazing,Coppice with standards + forest grazing,,,2000,,6,6.2,F5a,9130,,0,0
+1367,Ename,Bos t'Ename,,coppice with standards + grazing,middelhout + begrazing,Coppice with standards + forest grazing,,,2000,,6,6.2,F5a,9130,,0,0
+1368,Ename,Bos t'Ename,,conversion + grazing,bosomvorming + begrazing,Forest grazing and stand conversion,,,2000,,6,6.2,F5a,9130,,0,0
+1369,Ename,Bos t'Ename,,coppice with standards + grazing,middelhout + begrazing,Coppice with standards + forest grazing,,,2000,,6,6.2,F5a,9130,,0,0
+1370,Ename,Bos t'Ename,,conversion + grazing,bosomvorming + begrazing,Forest grazing and stand conversion,,,2000,,6,6.2,F5a,9130,,0,0
+1371,Ename,Bos t'Ename,,conversion + grazing,bosomvorming + begrazing,Forest grazing and stand conversion,,,2000,,6,6.2,F5a,9130,,0,0
+1372,Ename,Bos t'Ename,,coppice with standards + grazing,middelhout + begrazing,Coppice with standards + forest grazing,,,2000,,6,6.2,F5a,9130,,0,0
+1373,Ename,Bos t'Ename,,conversion + grazing,bosomvorming + begrazing,Forest grazing and stand conversion,,,2000,,6,6.2,F5a,9130,,0,0
+1401,De heide,Meerdaalwoud,De Heide (stand 1),coppice with standards,Bestand 1 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot1,,,1999,,5,5.1,F3,9160,,0,0
+1402,De heide,Meerdaalwoud,De Heide (stand 1),coppice with standards,Bestand 1 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot1,,,1999,,5,5.1,F3,9160,,0,0
+1403,De heide,Meerdaalwoud,De Heide (stand 1),coppice with standards,Bestand 1 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot1,,,1999,,5,5.1,F3,9160,,0,0
+1404,De heide,Meerdaalwoud,De Heide (stand 1),coppice with standards,Bestand 1 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot1,,,1999,,5,5.1,F3,9160,,0,0
+1405,De heide,Meerdaalwoud,De Heide (stand 1),coppice with standards,Bestand 1 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot1,,,1999,,5,5.1,F3,9160,,0,0
+1406,De heide,Meerdaalwoud,De Heide (stand 1),coppice with standards,Bestand 1 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot1,,,1999,,5,5.1,F3,9160,,0,0
+1407,De heide,Meerdaalwoud,De Heide (stand 2),coppice with standards,Bestand 2 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot2,,,1999,,5,5.1,F3,9160,,0,0
+1408,De heide,Meerdaalwoud,De Heide (stand 2),coppice with standards,Bestand 2 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot2,,,1999,,5,5.1,F3,9160,,0,0
+1409,De heide,Meerdaalwoud,De Heide (stand 2),coppice with standards,Bestand 2 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot2,,,1999,,5,5.1,F3,9160,,0,0
+1410,De heide,Meerdaalwoud,De Heide (stand 2),coppice with standards,Bestand 2 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot2,,,1999,,5,5.1,F3,9160,,0,0
+1411,De heide,Meerdaalwoud,De Heide (stand 2),coppice with standards,Bestand 2 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot2,,,1999,,5,5.1,F3,9160,,0,0
+1412,De heide,Meerdaalwoud,De Heide (stand 2),coppice with standards,Bestand 2 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot2,,,1999,,5,5.1,F3,9160,,0,0
+1413,De heide,Meerdaalwoud,De Heide (stand 2),coppice with standards,Bestand 2 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot2,,,1999,,5,5.1,F3,9160,,0,0
+1414,De heide,Meerdaalwoud,De Heide (stand 2),coppice with standards,Bestand 2 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot2,,,1999,,5,5.1,F3,9160,,0,0
+1415,De heide,Meerdaalwoud,De Heide (stand 2),coppice with standards,Bestand 2 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot2,,,1999,,5,5.1,F3,9160,,0,0
+1416,De heide,Meerdaalwoud,De Heide (stand 2),coppice with standards,Bestand 2 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot2,,,1999,,5,5.1,F3,9160,,0,0
+1417,De heide,Meerdaalwoud,De Heide (stand 3),coppice with standards,Bestand 3 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot3,,,1999,,5,5.1,F3,9160,,0,0
+1418,De heide,Meerdaalwoud,De Heide (stand 3),coppice with standards,Bestand 3 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot3,,,1999,,5,5.1,F3,9160,,0,0
+1419,De heide,Meerdaalwoud,De Heide (stand 3),coppice with standards,Bestand 3 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot3,,,1999,,5,5.1,F3,9160,,0,0
+1420,De heide,Meerdaalwoud,De Heide (stand 3),coppice with standards,Bestand 3 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot3,,,1999,,5,5.1,F3,9160,,0,0
+1421,De heide,Meerdaalwoud,De Heide (stand 3),coppice with standards,Bestand 3 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot3,,,1999,,5,5.1,F3,9160,,0,0
+1422,De heide,Meerdaalwoud,De Heide (stand 3),coppice with standards,Bestand 3 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot3,,,1999,,5,5.1,F3,9160,,0,0
+1423,De heide,Meerdaalwoud,De Heide (stand 3),coppice with standards,Bestand 3 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot3,,,1999,,5,5.1,F3,9160,,0,0
+1424,De heide,Meerdaalwoud,De Heide (stand 3),coppice with standards,Bestand 3 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot3,,,1999,,5,5.1,F3,9160,,0,0
+1425,De heide,Meerdaalwoud,De Heide (stand 3),coppice with standards,Bestand 3 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot3,,,1999,,5,5.1,F3,9160,,0,0
+1426,De heide,Meerdaalwoud,De Heide (stand 3),coppice with standards,Bestand 3 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot3,,,1999,,5,5.1,F3,9160,,0,0
+1427,De heide,Meerdaalwoud,De Heide (stand 4),coppice with standards,Bestand 4 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot4,,,1999,,5,5.1,F3,9160,,0,0
+1428,De heide,Meerdaalwoud,De Heide (stand 4),coppice with standards,Bestand 4 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot4,,,1999,,5,5.1,F3,9160,,0,0
+1429,De heide,Meerdaalwoud,De Heide (stand 4),coppice with standards,Bestand 4 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot4,,,1999,,5,5.1,F3,9160,,0,0
+1430,De heide,Meerdaalwoud,De Heide (stand 4),coppice with standards,Bestand 4 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot4,,,1999,,5,5.1,F3,9160,,0,0
+1431,De heide,Meerdaalwoud,De Heide (stand 4),coppice with standards,Bestand 4 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot4,,,1999,,5,5.1,F3,9160,,0,0
+1432,De heide,Meerdaalwoud,De Heide (stand 4),coppice with standards,Bestand 4 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot4,,,1999,,5,5.1,F3,9160,,0,0
+1433,De heide,Meerdaalwoud,De Heide (stand 5),coppice with standards,Bestand 5 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot5,,,1999,,5,5.1,F3,9160,,0,0
+1434,De heide,Meerdaalwoud,De Heide (stand 5),coppice with standards,Bestand 5 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot5,,,1999,,5,5.1,F3,9160,,0,0
+1435,De heide,Meerdaalwoud,De Heide (stand 5),coppice with standards,Bestand 5 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot5,,,1999,,5,5.1,F3,9160,,0,0
+1436,De heide,Meerdaalwoud,De Heide (stand 5),coppice with standards,Bestand 5 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot5,,,1999,,5,5.1,F3,9160,,0,0
+1437,De heide,Meerdaalwoud,De Heide (stand 5),coppice with standards,Bestand 5 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot5,,,1999,,5,5.1,F3,9160,,0,0
+1438,De heide,Meerdaalwoud,De Heide (stand 6),coppice with standards,Bestand 6 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot6,,,1999,,5,5.1,F3,9160,,0,0
+1439,De heide,Meerdaalwoud,De Heide (stand 6),coppice with standards,Bestand 6 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot6,,,1999,,5,5.1,F3,9160,,0,0
+1440,De heide,Meerdaalwoud,De Heide (stand 6),coppice with standards,Bestand 6 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot6,,,1999,,5,5.1,F3,9160,,0,0
+1441,De heide,Meerdaalwoud,De Heide (stand 6),coppice with standards,Bestand 6 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot6,,,1999,,5,5.1,F3,9160,,0,0
+1442,De heide,Meerdaalwoud,De Heide (stand 6),coppice with standards,Bestand 6 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot6,,,1999,,5,5.1,F3,9160,,0,0
+1443,De heide,Meerdaalwoud,De Heide (stand 7),coppice with standards,Bestand 7 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot7,,,1999,,5,5.1,F3,9160,,0,0
+1444,De heide,Meerdaalwoud,De Heide (stand 7),coppice with standards,Bestand 7 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot7,,,1999,,5,5.1,F3,9160,,0,0
+1445,De heide,Meerdaalwoud,De Heide (stand 7),coppice with standards,Bestand 7 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot7,,,1999,,5,5.1,F3,9160,,0,0
+1446,De heide,Meerdaalwoud,De Heide (stand 7),coppice with standards,Bestand 7 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot7,,,1999,,5,5.1,F3,9160,,0,0
+1447,De heide,Meerdaalwoud,De Heide (stand 7),coppice with standards,Bestand 7 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot7,,,1999,,5,5.1,F3,9160,,0,0
+1448,De heide,Meerdaalwoud,De Heide (stand 8),coppice with standards,Bestand 8 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot8,,,1999,,5,5.1,F3,9160,,0,0
+1449,De heide,Meerdaalwoud,De Heide (stand 8),coppice with standards,Bestand 8 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot8,,,1999,,5,5.1,F3,9160,,0,0
+1450,De heide,Meerdaalwoud,De Heide (stand 8),coppice with standards,Bestand 8 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot8,,,1999,,5,5.1,F3,9160,,0,0
+1451,De heide,Meerdaalwoud,De Heide (stand 8),coppice with standards,Bestand 8 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot8,,,1999,,5,5.1,F3,9160,,0,0
+1452,De heide,Meerdaalwoud,De Heide (stand 8),coppice with standards,Bestand 8 - middelhoutbeheer (omlooptijd 16 jaar),CwS-16y cycle - plot8,,,1999,,5,5.1,F3,9160,,0,0
+1501,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1502,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1503,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1504,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1505,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1506,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1507,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1508,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1509,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1510,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1511,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1512,Kluisbos,Kluisbos,Kluisbos Communal Forest,unmanaged,0-beheer,Non-intervention,2005,,,??,6,6.2,F5a,9130,,0,0
+1513,Kluisbos,Kluisbos,Kluisbos Communal Forest,unmanaged,0-beheer,Non-intervention,2005,,,??,6,6.2,F5a,9130,,0,0
+1514,Kluisbos,Kluisbos,Kluisbos Communal Forest,unmanaged,0-beheer,Non-intervention,2005,,,??,6,6.2,F5a,9130,,0,0
+1515,Kluisbos,Kluisbos,Kluisbos Communal Forest,unmanaged,0-beheer,Non-intervention,2005,,,??,6,6.2,F5a,9130,,0,0
+1516,Kluisbos,Kluisbos,Kluisbos Communal Forest,unmanaged,0-beheer,Non-intervention,2005,,,??,6,6.2,F5a,9130,,0,0
+1517,Kluisbos,Kluisbos,Kluisbos Communal Forest,unmanaged,0-beheer,Non-intervention,2005,,,??,6,6.2,F5a,9130,,0,0
+1518,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1519,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1520,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1521,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1522,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1523,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1524,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1525,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1526,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1527,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1528,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1529,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1530,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1531,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1532,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1533,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1534,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1535,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1536,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1537,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1538,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1539,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1540,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1541,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1542,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1543,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1544,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1545,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1546,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1547,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1548,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1549,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1550,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1551,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1552,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1553,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1554,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1555,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1556,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1557,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1558,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1559,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1560,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1561,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1562,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1563,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1564,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1565,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1566,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1567,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1568,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1569,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1570,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1571,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1572,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1573,Kluisbos,Kluisbos,Kluisbos SFR,unmanaged,0-beheer,Non-intervention,2005,2000,2006,thinning in 1990s (?),6,6.2,F5a,9130,,0,0
+1574,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1575,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1576,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1577,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1578,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1579,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1580,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1581,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1582,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1583,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1584,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1585,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1586,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1587,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1588,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1589,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1590,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1591,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1592,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1593,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1594,Kluisbos,Kluisbos,Kluisbos Communal Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1595,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1596,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1597,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1598,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1599,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1600,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1601,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1602,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1603,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1604,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1605,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1606,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1607,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1608,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1609,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1610,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1611,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1612,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1613,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1614,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1615,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1616,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1617,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1618,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1619,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1620,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1621,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1622,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1623,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1624,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1625,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1626,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1627,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1628,Kluisbos,Kluisbos,Kluisbos State Forest,managed forest,productiebos,selective thinning forestry,,,,thinning in 2016-17,6,6.2,F5a,9130,,0,0
+1701,Kolmont,Kolmontbos,SFR,unmanaged,0-beheer,Non-intervention,1960,1991,1995,over 100 yrs,5,5.1,F3,9160,,0,0
+1702,Kolmont,Kolmontbos,SFR,unmanaged,0-beheer,Non-intervention,1960,1991,1995,over 100 yrs,5,5.1,F3,9160,,0,0
+1703,Kolmont,Kolmontbos,SFR,unmanaged,0-beheer,Non-intervention,1960,1991,1995,over 100 yrs,5,5.1,F3,9160,,0,0
+1704,Kolmont,Kolmontbos,SFR,unmanaged,0-beheer,Non-intervention,1960,1991,1995,over 100 yrs,5,5.1,F3,9160,,0,0
+1705,Kolmont,Kolmontbos,SFR,unmanaged,0-beheer,Non-intervention,1960,1991,1995,over 100 yrs,5,5.1,F3,9160,,0,0
+1706,Kolmont,Kolmontbos,SFR,unmanaged,0-beheer,Non-intervention,1960,1991,1995,over 100 yrs,5,5.1,F3,9160,,0,0
+1707,Kolmont,Kolmontbos,SFR,unmanaged,0-beheer,Non-intervention,1960,1991,1995,over 100 yrs,5,5.1,F3,9160,,0,0
+1708,Kolmont,Kolmontbos,SFR,unmanaged,0-beheer,Non-intervention,1960,1991,1995,over 100 yrs,5,5.1,F3,9160,,0,0
+1709,Kolmont,Kolmontbos,SFR,unmanaged,0-beheer,Non-intervention,1960,1991,1995,over 100 yrs,5,5.1,F3,9160,,0,0
+1710,Kolmont,Kolmontbos,SFR,unmanaged,0-beheer,Non-intervention,1960,1991,1995,over 100 yrs,5,5.1,F3,9160,,0,0
+1711,Kolmont,Kolmontbos,SFR,unmanaged,0-beheer,Non-intervention,1960,1991,1995,over 100 yrs,5,5.1,F3,9160,,0,0
+1712,Kolmont,Kolmontbos,SFR,unmanaged,0-beheer,Non-intervention,1960,1991,1995,over 100 yrs,5,5.1,F3,9160,,0,0
+1713,Kolmont,Kolmontbos,SFR,unmanaged,0-beheer,Non-intervention,1960,1991,1995,over 100 yrs,5,5.1,F3,9160,,0,0
+1714,Kolmont,Kolmontbos,SFR,unmanaged,0-beheer,Non-intervention,1960,1991,1995,over 100 yrs,5,5.1,F3,9160,,0,0
+1715,Kolmont,Kolmontbos,SFR,unmanaged,0-beheer,Non-intervention,1960,1991,1995,over 100 yrs,5,5.1,F3,9160,,0,0
+1716,Kolmont,Kolmontbos,SFR,unmanaged,0-beheer,Non-intervention,1960,1991,1995,over 100 yrs,5,5.1,F3,9160,,0,0
+1717,Kolmont,Kolmontbos,SFR,unmanaged,0-beheer,Non-intervention,1960,1991,1995,over 100 yrs,5,5.1,F3,9160,,0,0
+1718,Kolmont,Kolmontbos,SFR,unmanaged,0-beheer,Non-intervention,1960,1991,1995,over 100 yrs,5,5.1,F3,9160,,0,0
+1719,Kolmont,Kolmontbos,SFR,unmanaged,0-beheer,Non-intervention,1960,1991,1995,over 100 yrs,5,5.1,F3,9160,,0,0
+1720,Kolmont,Kolmontbos,SFR,unmanaged,0-beheer,Non-intervention,1960,1991,1995,over 100 yrs,5,5.1,F3,9160,,0,0
+1721,Kolmont,Kolmontbos,SFR,unmanaged,0-beheer,Non-intervention,1960,1991,1995,over 100 yrs,5,5.1,F3,9160,,0,0
+1722,Kolmont,Kolmontbos,SFR,unmanaged,0-beheer,Non-intervention,1960,1991,1995,over 100 yrs,5,5.1,F3,9160,,0,0
+1723,Kolmont,Kolmontbos,SFR,unmanaged,0-beheer,Non-intervention,1960,1991,1995,over 100 yrs,5,5.1,F3,9160,,0,0
+1724,Kolmont,Kolmontbos,SFR,unmanaged,0-beheer,Non-intervention,1960,1991,1995,over 100 yrs,5,5.1,F3,9160,,0,0
+1725,Kolmont,Kolmontbos,SFR,unmanaged,0-beheer,Non-intervention,1960,1991,1995,over 100 yrs,5,5.1,F3,9160,,0,0
+1726,Kolmont,Kolmontbos,SFR,unmanaged,0-beheer,Non-intervention,1960,1991,1995,over 100 yrs,5,5.1,F3,9160,,0,0
+1727,Kolmont,Kolmontbos,SFR,unmanaged,0-beheer,Non-intervention,1960,1991,1995,over 100 yrs,5,5.1,F3,9160,,0,0
+1728,Kolmont,Kolmontbos,SFR,unmanaged,0-beheer,Non-intervention,1960,1991,1995,over 100 yrs,5,5.1,F3,9160,,0,0
+1729,Kolmont,Kolmontbos,SFR,unmanaged,0-beheer,Non-intervention,1960,1991,1995,over 100 yrs,5,5.1,F3,9160,,0,0
+1730,Kolmont,Kolmontbos,SFR,unmanaged,0-beheer,Non-intervention,1960,1991,1995,over 100 yrs,5,5.1,F3,9160,,0,0
+1731,Kolmont,Kolmontbos,SFR,unmanaged,0-beheer,Non-intervention,1960,1991,1995,over 100 yrs,5,5.1,F3,9160,,0,0
+1732,Kolmont,Kolmontbos,SFR,unmanaged,0-beheer,Non-intervention,1960,1991,1995,over 100 yrs,5,5.1,F3,9160,,0,0
+2001,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2002,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2003,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2004,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2005,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2006,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2007,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2008,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2009,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2010,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2011,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2012,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2013,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2014,Zoniën KERN_1983,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Core: original reserve 1983,unmanaged,0-beheer,Non-intervention,1983,1983,1995,,6,6.2,F5a,9120,,0,0
+2015,Zoniën KERN_1983,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Core: original reserve 1983,unmanaged,0-beheer,Non-intervention,1983,1983,1995,,6,6.2,F5a,9120,,0,0
+2016,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2017,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2018,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2019,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2020,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2021,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2022,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2023,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2024,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2025,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2026,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2027,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2028,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2029,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2030,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2031,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2032,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2033,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2034,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2035,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2036,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2037,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2038,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2039,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2040,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2041,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2042,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2043,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2044,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2045,Zoniën KERN_1983,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Core: original reserve 1983,unmanaged,0-beheer,Non-intervention,1983,1983,1995,,6,6.2,F5a,9120,,0,0
+2046,Zoniën KERN_1983,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Core: original reserve 1983,unmanaged,0-beheer,Non-intervention,1983,1983,1995,,6,6.2,F5a,9120,,0,0
+2047,Zoniën KERN_1983,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Core: original reserve 1983,unmanaged,0-beheer,Non-intervention,1983,1983,1995,,6,6.2,F5a,9120,,0,0
+2048,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2049,Zoniën KERN_1983,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Core: original reserve 1983,unmanaged,0-beheer,Non-intervention,1983,1983,1995,,6,6.2,F5a,9120,,0,0
+2050,Zoniën KERN_1983,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Core: original reserve 1983,unmanaged,0-beheer,Non-intervention,1983,1983,1995,,6,6.2,F5a,9120,,0,0
+2051,Zoniën KERN_1983,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Core: original reserve 1983,unmanaged,0-beheer,Non-intervention,1983,1983,1995,,6,6.2,F5a,9120,,0,0
+2053,Zoniën KERN_1983,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Core: original reserve 1983,unmanaged,0-beheer,Non-intervention,1983,1983,1995,,6,6.2,F5a,9120,,0,0
+2054,Zoniën KERN_1983,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Core: original reserve 1983,unmanaged,0-beheer,Non-intervention,1983,1983,1995,,6,6.2,F5a,9120,,0,0
+2055,Zoniën KERN_1983,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Core: original reserve 1983,unmanaged,0-beheer,Non-intervention,1983,1983,1995,,6,6.2,F5a,9120,,0,0
+2056,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2057,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2058,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2059,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2060,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2061,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2062,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2063,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2064,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2065,Zoniën UITBR_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Extension 1995,unmanaged,0-beheer,Non-intervention,1993,1993,1995,,6,6.2,F5a,9120,,0,0
+2101,Zoniën HARRAS_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Harras,unmanaged,0-beheer,Non-intervention,2008,1993,1995,,6,6.2,F5a,9120,,0,0
+2102,Zoniën HARRAS_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Harras,unmanaged,0-beheer,Non-intervention,2008,1993,1995,,6,6.2,F5a,9120,,0,0
+2103,Zoniën HARRAS_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Harras,unmanaged,0-beheer,Non-intervention,2008,1993,1995,,6,6.2,F5a,9120,,0,0
+2104,Zoniën HARRAS_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Harras,unmanaged,0-beheer,Non-intervention,2008,1993,1995,,6,6.2,F5a,9120,,0,0
+2105,Zoniën HARRAS_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Harras,unmanaged,0-beheer,Non-intervention,2008,1993,1995,,6,6.2,F5a,9120,,0,0
+2106,Zoniën HARRAS_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Harras,unmanaged,0-beheer,Non-intervention,2008,1993,1995,,6,6.2,F5a,9120,,0,0
+2107,Zoniën HARRAS_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Harras,unmanaged,0-beheer,Non-intervention,2008,1993,1995,,6,6.2,F5a,9120,,0,0
+2108,Zoniën HARRAS_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Harras,unmanaged,0-beheer,Non-intervention,2008,1993,1995,,6,6.2,F5a,9120,,0,0
+2109,Zoniën HARRAS_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Harras,unmanaged,0-beheer,Non-intervention,2008,1993,1995,,6,6.2,F5a,9120,,0,0
+2110,Zoniën HARRAS_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Harras,unmanaged,0-beheer,Non-intervention,2008,1993,1995,,6,6.2,F5a,9120,,0,0
+2111,Zoniën HARRAS_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Harras,unmanaged,0-beheer,Non-intervention,2008,1993,1995,,6,6.2,F5a,9120,,0,0
+2112,Zoniën HARRAS_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Harras,unmanaged,0-beheer,Non-intervention,2008,1993,1995,,6,6.2,F5a,9120,,0,0
+2113,Zoniën HARRAS_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Harras,unmanaged,0-beheer,Non-intervention,2008,1993,1995,,6,6.2,F5a,9120,,0,0
+2114,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2115,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2116,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2117,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2118,Zoniën HARRAS_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Harras,unmanaged,0-beheer,Non-intervention,2008,1993,1995,,6,6.2,F5a,9120,,0,0
+2119,Zoniën HARRAS_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Harras,unmanaged,0-beheer,Non-intervention,2008,1993,1995,,6,6.2,F5a,9120,,0,0
+2120,Zoniën HARRAS_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Harras,unmanaged,0-beheer,Non-intervention,2008,1993,1995,,6,6.2,F5a,9120,,0,0
+2121,Zoniën HARRAS_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Harras,unmanaged,0-beheer,Non-intervention,2008,1993,1995,,6,6.2,F5a,9120,,0,0
+2122,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2123,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2124,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2125,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2126,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2127,Zoniën HARRAS_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Harras,unmanaged,0-beheer,Non-intervention,2008,1993,1995,,6,6.2,F5a,9120,,0,0
+2128,Zoniën HARRAS_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Harras,unmanaged,0-beheer,Non-intervention,2008,1993,1995,,6,6.2,F5a,9120,,0,0
+2129,Zoniën HARRAS_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Harras,unmanaged,0-beheer,Non-intervention,2008,1993,1995,,6,6.2,F5a,9120,,0,0
+2130,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2131,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2132,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2133,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2134,Zoniën HARRAS_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Harras,unmanaged,0-beheer,Non-intervention,2008,1993,1995,,6,6.2,F5a,9120,,0,0
+2135,Zoniën HARRAS_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Harras,unmanaged,0-beheer,Non-intervention,2008,1993,1995,,6,6.2,F5a,9120,,0,0
+2136,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2137,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2138,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2139,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2140,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2141,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2142,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2143,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2144,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2145,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2146,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2147,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2148,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2149,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2150,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2151,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2152,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2153,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2154,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2155,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2156,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2157,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2158,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2159,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2160,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2161,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2162,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2163,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2164,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2165,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2166,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2167,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2168,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2169,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2170,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2171,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2172,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2173,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2174,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2175,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2176,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2177,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2178,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2179,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2180,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2181,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2182,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2183,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2184,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2185,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+2186,Zoniën UITBR_2010,"SFR Joseph Zwaenepoel, Sonian Forest",Extension 2010,unmanaged,0-beheer,Non-intervention,2008,2008,2010,2005-2008,6,6.2,F5a,9120,,0,0
+11000,Zoniën KERN_1983,"SFR Joseph Zwaenepoel, Sonian Forest",Kersselaerspleyn Core: original reserve 1983,unmanaged,0-beheer,,,1983,1995,,,,,,,,
+21000,Zoniën HARRAS_1995,"SFR Joseph Zwaenepoel, Sonian Forest",Harras,unmanaged,0-beheer,,,1993,1995,,,,,,,,
+31000,Hannecart,Hannecartbos,Nature reserve,unmanaged,0-beheer,,,1985,1989,,,,,,,,
+41000,Rodebos KV1,Rodebos,Nature reserve,unmanaged,0-beheer,,,1985,1989,,,,,,,,
+42000,,Rodebos,Nature reserve,unmanaged,0-beheer,,,,,,,,,,,,
+43000,Rodebos KV2,Rodebos,Nature reserve,unmanaged,0-beheer,,,1985,1989,,,,,,,,
+51000,Walenbos KV1,Walenbos,Nature reserve - mesotrophic forest,unmanaged,0-beheer,,,1985,1989,,,,,,,,
+53000,Walenbos OT,Walenbos,Nature reserve - oligotrophic forest,unmanaged,0-beheer,,,1985,1989,,,,,,,,
+71000,Wijnendalebos,Wijnendalebos,SFR,unmanaged,0-beheer,,,2001,1996,1984,,,,,,,
+81000,Everzwijnbad,Meerdaalwoud,Everzwijnbad SFR,unmanaged,0-beheer,,,1995,1995,1994,,,,,,,
+91000,Heirnisse,De Heirnisse,SFR,unmanaged,0-beheer,,,2008,1996,1991,,,,,,,
+101000,Jansheideberg,Hallerbos,Jansheideberg SFR,unmanaged,0-beheer,,,1994,1996,1994,,,,,,,
+111000,Bos Terrijst,Bos Ter Rijst,SFR,unmanaged,0-beheer,,,2003,1996,1981-1983,,,,,,,
+121000,Pruikemakers,Meerdaalwoud,Pruikenmakers SFR,unmanaged,0-beheer,,,2002,1995,1993,,,,,,,
+131000,Liedekerke TR,Liedekerkebos,SFR,unmanaged,0-beheer,,,,,,,,,,,,
+141100,Sevendonck A,Sevendonck,Alder forest SFR,unmanaged,0-beheer,,,1987,1997,1986,,,,,,,
+141200,Sevendonck Q,Sevendonck,Oak forest SFR,unmanaged,0-beheer,,,1995,1997,1994,,,,,,,
+151000,Muizenbos,Muizenbos,SFR,unmanaged,0-beheer,,,1997,1997,1997,,,,,,,
+155000,,Muizenbos,SFR,unmanaged,0-beheer,,,,,,,,,,,,
+156000,,Muizenbos,SFR,unmanaged,0-beheer,,,,,,,,,,,,
+171100,Coolhem A,Coolhembos,Alder forest,unmanaged,0-beheer,,,1993,1995,1993,,,,,,,
+171200,Coolhem Q,Coolhembos,Oak forest,unmanaged,0-beheer,,,1993,1995,1993,,,,,,,
+300001,,Meerdaalwoud,Plot 9196 Dethioux/Bauwens (1954/2000),managed forest,productiebos,,,,,,,,,,,,
+300002,,Meerdaalwoud,Plot 8534 Dethioux/Bauwens (1954/2000),unmanaged,0-beheer,,,,,,,,,,,,
+300003,,Meerdaalwoud,Plot 8531 Dethioux/Bauwens (1954/2000),unmanaged,0-beheer,,,,,,,,,,,,
+300004,,Meerdaalwoud,Plot 8528 Dethioux/Bauwens (1954/2000),managed forest,productiebos,,,,,,,,,,,,
+300005,,Meerdaalwoud,Plot 8815 Dethioux/Bauwens (1954/2000),managed forest,productiebos,,,,,,,,,,,,
+300006,,Meerdaalwoud,Plot 8505 Dethioux/Bauwens (1954/2000),managed forest,productiebos,,,,,,,,,,,,
+300007,,Meerdaalwoud,Plot 8520 Dethioux/Bauwens (1954/2000),managed forest,productiebos,,,,,,,,,,,,
+300008,,Meerdaalwoud,Plot 8519 Dethioux/Bauwens (1954/2000),managed forest,productiebos,,,,,,,,,,,,
+300009,,Meerdaalwoud,Plot 8501 Dethioux/Bauwens (1954/2000),unmanaged,0-beheer,,,,,,,,,,,,
+300010,,Meerdaalwoud,Plot 8800 Dethioux/Bauwens (1954/2000),unmanaged,0-beheer,,,,,,,,,,,,
+300011,,Meerdaalwoud,Plot 8801 Dethioux/Bauwens (1954/2000),unmanaged,0-beheer,,,,,,,,,,,,
+300012,,Meerdaalwoud,Plot 8803 Dethioux/Bauwens (1954/2000),unmanaged,0-beheer,,,,,,,,,,,,
+300013,,Meerdaalwoud,Plot 8802 Dethioux/Bauwens (1954/2000),unmanaged,0-beheer,,,,,,,,,,,,
+300014,,Meerdaalwoud,Plot 8830 Dethioux/Bauwens (1954/2000),unmanaged,0-beheer,,,,,,,,,,,,
+300015,,Meerdaalwoud,Plot 8513 Dethioux/Bauwens (1954/2000),managed forest,productiebos,,,,,,,,,,,,
+300016,,Meerdaalwoud,Plot 8514 Dethioux/Bauwens (1954/2000),managed forest,productiebos,,,,,,,,,,,,
+300017,,Meerdaalwoud,Plot 8807 Dethioux/Bauwens (1954/2000),managed forest,productiebos,,,,,,,,,,,,
+300018,,Meerdaalwoud,Plot 8810 Dethioux/Bauwens (1954/2000),managed forest,productiebos,,,,,,,,,,,,
+300019,,Meerdaalwoud,Plot 8808 Dethioux/Bauwens (1954/2000),managed forest,productiebos,,,,,,,,,,,,
+300022,,Meerdaalwoud,Plot 8499 Dethioux/Bauwens (1954/2000),managed forest,productiebos,,,,,,,,,,,,
+300023,,Meerdaalwoud,Plot 8819 Dethioux/Bauwens (1954/2000),managed forest,productiebos,,,,,,,,,,,,
+300024,,Meerdaalwoud,Plot 9095 Dethioux/Bauwens (1954/2000),managed forest,productiebos,,,,,,,,,,,,
+300025,,Meerdaalwoud,Plot 8823 Dethioux/Bauwens (1954/2000),unmanaged,0-beheer,,,,,,,,,,,,
+400000,,Peerdsbos,Research site 'Boswachter',NA,onbekend,,,,,,,,,,,,
