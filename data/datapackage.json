@@ -482,12 +482,6 @@
             "type": "number",
             "description": "carbon stock of lying deadwood per ha (tC/ha) based on FAS;  only heavy deadwood (diameter ≥ 40 cm)",
             "extra_info": "derived from biomass of lying deadwood above 40 cm diameter, using a carbon factor of 0.5; only available for core area Zoniën KERN_1983 (survey numbers 3 and 4)"
-          },
-          {
-            "name": "survey_trees",
-            "type": "boolean",
-            "description": null,
-            "extra_info": null
           }
         ]
       }
