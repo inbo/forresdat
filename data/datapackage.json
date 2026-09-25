@@ -7,7 +7,7 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "description": "biomass and carbon of living trees per plot",
+      "description": "dendrometric values of living trees and deadwood on plot level, supplemented with extra calculated variables such as volume of different tree parts and biomass/carbon stock",
       "extra_info": "calculations cfr NFI data for the LULUCF report",
       "attention": "plot 11000 (core area Kersselaerspleyn) has different tresholds for standing trees (L+D); see p. 78 in the monitoring report  https://purews.inbo.be/ws/portalfiles/portal/41050863/Vandekerkhove_etal_2021_MonitoringProgrammeOnStrictForestReservesFlanders.pdf",
       "source_database": null,
@@ -160,16 +160,286 @@
             "extra_info": "since implementation of LIS, full inventory is restricted to logs with diameter ≥ 30 cm"
           },
           {
-            "name": "vol_lis_m3_ha",
+            "name": "vol_log_above40cm_m3_ha",
             "type": "number",
-            "description": "volume of lying deadwood per ha (m³/ha) using Line Intersect Sampling (LIS);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
-            "extra_info": "volume is calculated applying the De Vries formula for Line Intersect Sampling (De Vries,  1973)"
+            "description": "volume of lying deadwood per ha (m³/ha) based on a Full Area Sampling (FAS);  only heavy deadwood (diameter ≥ 40 cm)",
+            "extra_info": "only available for core area Zoniën KERN_1983 (survey numbers 3 and 4)"
           },
           {
-            "name": "vol_lis_10_30cm_m3_ha",
+            "name": "biomass_lying_t_ha_dead",
             "type": "number",
-            "description": "volume of lying deadwood per ha (m³/ha) using Line Intersect Sampling (LIS); fragments with intersect diameter < 30 cm",
-            "extra_info": "volume is calculated applying the De Vries formula for Line Intersect Sampling (De Vries,  1973)"
+            "description": "biomass of lying deadwood per ha (ton/ha) based on FAS",
+            "extra_info": "calculated using species-specific wood densities (same densities used as in Flemish RFI & LULUCF reporting); derived from vol_log_m3_ha"
+          },
+          {
+            "name": "biomass_lying_above40cm_t_ha_dead",
+            "type": "number",
+            "description": "biomass of lying deadwood per ha (ton/ha) based on FAS;  only heavy deadwood (diameter ≥ 40 cm)",
+            "extra_info": "calculated using species-specific wood densities (same densities used as in Flemish RFI & LULUCF reporting); derived from vol_log_above40cm_m3_ha; only available for core area Zoniën KERN_1983 (survey numbers 3 and 4)"
+          },
+          {
+            "name": "carbon_lying_t_ha_dead",
+            "type": "number",
+            "description": "carbon stock of lying deadwood per ha (tC/ha) based on FAS",
+            "extra_info": "derived from biomass of lying deadwood, using a carbon factor of 0.5"
+          },
+          {
+            "name": "carbon_lying_above40cm_t_ha_dead",
+            "type": "number",
+            "description": "carbon stock of lying deadwood per ha (tC/ha) based on FAS;  only heavy deadwood (diameter ≥ 40 cm)",
+            "extra_info": "derived from biomass of lying deadwood above 40 cm diameter, using a carbon factor of 0.5; only available for core area Zoniën KERN_1983 (survey numbers 3 and 4)"
+          },
+          {
+            "name": "vol_large_branches_m3_ha_alive",
+            "type": "number",
+            "description": "crown volume of living trees per ha (m³/ha), including only the large branches up to a diameter of 7 cm",
+            "extra_info": "calculated using species specific volume functions based on diameter at breast height following Dagnelie et al.; see table \"tblTarieven_1ingKroon\""
+          },
+          {
+            "name": "vol_top_m3_ha_alive",
+            "type": "number",
+            "description": "volume of the stem top (< 7 cm diameter) of living trees per ha (m³/ha)",
+            "extra_info": "volume of the stem top, being the part of the stem excluded from \"vol_bole_m3_ha\" (only contains the stem volume up to a top diameter of 7 cm); calculated based on the assumption of a conical tree shape and trigonometry"
+          },
+          {
+            "name": "vol_tot_standing_bgb_m3_ha_alive",
+            "type": "number",
+            "description": "total volume of the underground parts (m³) of living trees per ha (m³/ha)",
+            "extra_info": "calculation based on the ratio (R) of below-ground biomass to above-ground biomass (species-specific; source: Vande Walle et al. 2005); derived from the total above ground volume"
+          },
+          {
+            "name": "vol_large_branches_m3_ha_dead",
+            "type": "number",
+            "description": "crown volume of dead standing trees per ha (m³/ha), including only the large branches up to a diameter of 7 cm",
+            "extra_info": "calculated using species specific volume functions based on diameter at breast height following Dagnelie et al.; see table \"tblTarieven_1ingKroon\"; crown volume is assumed zero for snags and dead coppice"
+          },
+          {
+            "name": "vol_top_m3_ha_dead",
+            "type": "number",
+            "description": "volume of the stem top (< 7 cm diameter) of dead standing trees per ha (m³/ha)",
+            "extra_info": "volume of the stem top, being the part of the stem excluded from \"vol_bole_m3_ha\" (only contains the stem volume up to a top diameter of 7 cm); calculated based on the assumption of a conical tree shape and trigonometry"
+          },
+          {
+            "name": "vol_tot_standing_bgb_m3_ha_dead",
+            "type": "number",
+            "description": "total volume of the underground parts (m³) of dead standing trees per ha (m³/ha)",
+            "extra_info": "calculation based on the ratio (R) of below-ground biomass to above-ground biomass (species-specific; source: Vande Walle et al. 2005); derived from the total above ground volume"
+          },
+          {
+            "name": "biomass_lying_above30cm_t_ha_dead",
+            "type": "number",
+            "description": "biomass of lying deadwood per ha (ton/ha) based on FAS;  only heavy deadwood (diameter ≥ 30 cm)",
+            "extra_info": "calculated using species-specific wood densities (same densities used as in Flemish RFI & LULUCF reporting); derived from vol_log_above30cm_m3_ha (since implementation of LIS, full inventory is restricted to logs with diameter ≥ 30 cm )"
+          },
+          {
+            "name": "carbon_lying_above30cm_t_ha_dead",
+            "type": "number",
+            "description": "carbon stock of lying deadwood per ha (tC/ha) based on FAS;  only heavy deadwood (diameter ≥ 30 cm)",
+            "extra_info": "derived from biomass of lying deadwood above 30 cm diameter, using a carbon factor of 0.5"
+          }
+        ]
+      }
+    },
+    {
+      "name": "carbon_by_plot_species",
+      "path": "carbon_by_plot_species.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "dendrometric values of living trees and deadwood on plot level, supplemented with extra calculated variables such as volume of different tree parts and biomass/carbon stock",
+      "extra_info": "calculations cfr NFI data for the LULUCF report",
+      "attention": "plot 11000 (core area Kersselaerspleyn) has different tresholds for standing trees (L+D); see p. 78 in the monitoring report  https://purews.inbo.be/ws/portalfiles/portal/41050863/Vandekerkhove_etal_2021_MonitoringProgrammeOnStrictForestReservesFlanders.pdf",
+      "source_database": null,
+      "calculation": null,
+      "height_model": null,
+      "schema": {
+        "fields": [
+          {
+            "name": "plottype",
+            "type": "string",
+            "description": "CP:  circular plot; CA: core area",
+            "extra_info": null
+          },
+          {
+            "name": "plot_id",
+            "type": "number",
+            "description": "unique sample plot id",
+            "extra_info": null
+          },
+          {
+            "name": "year",
+            "type": "number",
+            "description": "year of dendro survey (year of growing season)",
+            "extra_info": "f.e. march 2020 becomes 2019 (start of growing season is set to May 1)"
+          },
+          {
+            "name": "period",
+            "type": "number",
+            "description": "period: \"1\" for 1st decade (2000-2010), \"2\" for 2nd decade (2011-2020), \"3\" for 3th decade (2021-2030)",
+            "extra_info": "\"0\" only occurs for dendro data in plot 11000 (1986)"
+          },
+          {
+            "name": "species",
+            "type": "number",
+            "description": "tree species code",
+            "extra_info": "see table \"qspecies\""
+          },
+          {
+            "name": "vol_bole_m3_ha_alive",
+            "type": "number",
+            "description": "bole volume of living trees per ha (m³/ha): calculated using species specific volume functions based on height and diameter at breast height;  small trees excluded (dbh < 5 cm)",
+            "extra_info": "source: Dagnelie et al., Quataert et al., Dik, Berben; see table \"tblTarieven_2ing\" and \"tblTarieven_1ing\"; volume up to a top diameter of 7 cm"
+          },
+          {
+            "name": "vol_large_branches_m3_ha_alive",
+            "type": "number",
+            "description": "crown volume of living trees per ha (m³/ha), including only the large branches up to a diameter of 7 cm",
+            "extra_info": "calculated using species specific volume functions based on diameter at breast height following Dagnelie et al.; see table \"tblTarieven_1ingKroon\""
+          },
+          {
+            "name": "vol_stump_m3_ha_alive",
+            "type": "number",
+            "description": "volume of stumps of living trees per ha (m³/ha)",
+            "extra_info": "a stump being the bottom 10 cm of each tree, and volume calculated as the volume of a cylinder with height 10 cm and circumference being the circumference at the bottom of the trunk; source: Dagnelie et al. (2013)"
+          },
+          {
+            "name": "vol_top_m3_ha_alive",
+            "type": "number",
+            "description": "volume of the stem top (< 7 cm diameter) of living trees per ha (m³/ha)",
+            "extra_info": "volume of the stem top, being the part of the stem excluded from \"vol_bole_m3_ha\" (only contains the stem volume up to a top diameter of 7 cm); calculated based on the assumption of a conical tree shape and trigonometry"
+          },
+          {
+            "name": "vol_tot_standing_agb_m3_ha_alive",
+            "type": "number",
+            "description": "total above ground volume of living trees, including stump and thin branch wood (m³/ha)",
+            "extra_info": "calculated using the (variable) volume expansion factors (VEF) of Longuetaud et al. (2013), based on diameter, height and tree species; derived from vol_bole_m3_ha_alive and vol_stump_m3_ha_alive"
+          },
+          {
+            "name": "vol_tot_standing_bgb_m3_ha_alive",
+            "type": "number",
+            "description": "total volume of the underground parts (m³) of living trees per ha (m³/ha)",
+            "extra_info": "calculation based on the ratio (R) of below-ground biomass to above-ground biomass (species-specific; source: Vande Walle et al. 2005); derived from the total above ground volume"
+          },
+          {
+            "name": "biomass_standing_agb_t_ha_alive",
+            "type": "number",
+            "description": "above ground biomass of living trees per ha (ton/ha)",
+            "extra_info": "calculated using species-specific wood densities (same densities used as in Flemish RFI & LULUCF reporting); derived from vol_tot_standing_agb_m3_ha_alive; method described in INBO A.4103; for factors/densities used, see \"BiomassFactorsMethode_FRL.csv\""
+          },
+          {
+            "name": "biomass_standing_bgb_t_ha_alive",
+            "type": "number",
+            "description": "below ground biomass of living trees per ha (ton/ha)",
+            "extra_info": "calculation based on the ratio (R) of below-ground biomass to above-ground biomass (species-specific; source: Vande Walle et al. 2005); derived from biomass_standing_agb_t_ha_alive"
+          },
+          {
+            "name": "biomass_standing_t_ha_alive",
+            "type": "number",
+            "description": "total above and below ground biomass of living trees per ha (ton/ha)",
+            "extra_info": null
+          },
+          {
+            "name": "carbon_standing_agb_t_ha_alive",
+            "type": "number",
+            "description": "above ground carbon stock of living trees per ha (ton/ha)",
+            "extra_info": "derived from above ground live biomass, using a carbon factor of 0.5"
+          },
+          {
+            "name": "carbon_standing_bgb_t_ha_alive",
+            "type": "number",
+            "description": "below ground carbon stock of living trees per ha (ton/ha)",
+            "extra_info": "derived from below ground live biomass, using a carbon factor of 0.5"
+          },
+          {
+            "name": "carbon_standing_t_ha_alive",
+            "type": "number",
+            "description": "total carbon stock of living trees per ha (ton/ha)",
+            "extra_info": "derived from total live biomass, using a carbon factor of 0.5"
+          },
+          {
+            "name": "vol_bole_m3_ha_dead",
+            "type": "number",
+            "description": "bole volume of dead standing trees per ha (m³/ha): calculated using species specific volume functions based on height and diameter at breast height;  small trees excluded (dbh < 5 cm)",
+            "extra_info": "source: Dagnelie et al., Quataert et al., Dik, Berben; see table \"tblTarieven_2ing\" and \"tblTarieven_1ing\"; volume up to a top diameter of 7 cm"
+          },
+          {
+            "name": "vol_large_branches_m3_ha_dead",
+            "type": "number",
+            "description": "crown volume of dead standing trees per ha (m³/ha), including only the large branches up to a diameter of 7 cm",
+            "extra_info": "calculated using species specific volume functions based on diameter at breast height following Dagnelie et al.; see table \"tblTarieven_1ingKroon\"; crown volume is assumed zero for snags and dead coppice"
+          },
+          {
+            "name": "vol_stump_m3_ha_dead",
+            "type": "number",
+            "description": "volume of stumps of dead standing trees per ha (m³/ha)",
+            "extra_info": "a stump being the bottom 10 cm of each tree, and volume calculated as the volume of a cylinder with height 10 cm and circumference being the circumference at the bottom of the trunk; source: Dagnelie et al. (2013)"
+          },
+          {
+            "name": "vol_top_m3_ha_dead",
+            "type": "number",
+            "description": "volume of the stem top (< 7 cm diameter) of dead standing trees per ha (m³/ha)",
+            "extra_info": "volume of the stem top, being the part of the stem excluded from \"vol_bole_m3_ha\" (only contains the stem volume up to a top diameter of 7 cm); calculated based on the assumption of a conical tree shape and trigonometry"
+          },
+          {
+            "name": "vol_tot_standing_agb_m3_ha_dead",
+            "type": "number",
+            "description": "total above ground volume of dead standing trees, including stump and (for intact trees) (thin) branches (m³/ha)",
+            "extra_info": "for intact trees calculated using the (variable) volume expansion factors (VEF) of Longuetaud et al. (2013), based on diameter, height and tree species; derived from vol_bole_m3_ha_dead and vol_stump_m3_ha_dead; for snags sum of stump and stem volume, no crown"
+          },
+          {
+            "name": "vol_tot_standing_bgb_m3_ha_dead",
+            "type": "number",
+            "description": "total volume of the underground parts (m³) of dead standing trees per ha (m³/ha)",
+            "extra_info": "calculation based on the ratio (R) of below-ground biomass to above-ground biomass (species-specific; source: Vande Walle et al. 2005); derived from the total above ground volume"
+          },
+          {
+            "name": "biomass_standing_agb_t_ha_dead",
+            "type": "number",
+            "description": "above ground biomass of dead standing trees per ha (ton/ha)",
+            "extra_info": "calculated using species-specific wood densities (same densities used as in Flemish RFI & LULUCF reporting); derived from vol_tot_standing_agb_m3_ha_dead"
+          },
+          {
+            "name": "biomass_standing_bgb_t_ha_dead",
+            "type": "number",
+            "description": "below ground biomass of dead standing trees per ha (ton/ha)",
+            "extra_info": "calculation based on the ratio (R) of below-ground biomass to above-ground biomass (species-specific; source: Vande Walle et al. 2005); derived from biomass_standing_agb_t_ha_dead"
+          },
+          {
+            "name": "biomass_standing_t_ha_dead",
+            "type": "number",
+            "description": "above and below ground biomass of dead standing trees per ha (ton/ha)",
+            "extra_info": null
+          },
+          {
+            "name": "carbon_standing_agb_t_ha_dead",
+            "type": "number",
+            "description": "above ground carbon stock of dead standing trees per ha (ton/ha)",
+            "extra_info": "derived from above ground biomass of dead standing trees, using a carbon factor of 0.5"
+          },
+          {
+            "name": "carbon_standing_bgb_t_ha_dead",
+            "type": "number",
+            "description": "below ground carbon stock of dead standing trees per ha (ton/ha)",
+            "extra_info": "derived from below ground dead biomass of dead standing trees, using a carbon factor of 0.5"
+          },
+          {
+            "name": "carbon_standing_t_ha_dead",
+            "type": "number",
+            "description": "total carbon stock of dead standing trees per ha (ton/ha)",
+            "extra_info": "derived from above and below ground biomass of dead standing trees, using a carbon factor of 0.5"
+          },
+          {
+            "name": "vol_log_m3_ha",
+            "type": "number",
+            "description": "volume of lying deadwood per ha (m³/ha) based on a Full Area Sampling (FAS);  small fragments excluded (diameter < 10 cm or length < 1m; if diameter > 20 cm, length < 0,5m)",
+            "extra_info": "volume is calculated using the conical frustum method (except for circular plots Kersselaerspleyn (2001-2065) 1st survey (2000):  volume of fallen trees is based on tariffs, and if necessary cut of at the border of the plot)"
+          },
+          {
+            "name": "vol_log_above30cm_m3_ha",
+            "type": "number",
+            "description": "volume of lying deadwood per ha (m³/ha) based on a Full Area Sampling (FAS);  only heavy deadwood (diameter ≥ 30 cm)",
+            "extra_info": "since implementation of LIS, full inventory is restricted to logs with diameter ≥ 30 cm"
           },
           {
             "name": "vol_log_above40cm_m3_ha",
@@ -180,44 +450,44 @@
           {
             "name": "biomass_lying_t_ha_dead",
             "type": "number",
-            "description": "biomass of lying deadwood per ha (ton/ha) based on FAS or LIS or combination of both",
-            "extra_info": "calculated using species-specific wood densities (same densities used as in Flemish RFI & LULUCF reporting); derived from vol_log_m3_ha (if available) or vol_log_above30cm_m3_ha in combination with vol_lis_10_30cm_m3_ha (if available) or vol_lis_m3_ha"
+            "description": "biomass of lying deadwood per ha (ton/ha) based on FAS",
+            "extra_info": "calculated using species-specific wood densities (same densities used as in Flemish RFI & LULUCF reporting); derived from vol_log_m3_ha"
+          },
+          {
+            "name": "biomass_lying_above30cm_t_ha_dead",
+            "type": "number",
+            "description": "biomass of lying deadwood per ha (ton/ha) based on FAS;  only heavy deadwood (diameter ≥ 30 cm)",
+            "extra_info": "calculated using species-specific wood densities (same densities used as in Flemish RFI & LULUCF reporting); derived from vol_log_above30cm_m3_ha (since implementation of LIS, full inventory is restricted to logs with diameter ≥ 30 cm )"
           },
           {
             "name": "biomass_lying_above40cm_t_ha_dead",
             "type": "number",
-            "description": "biomass of lying deadwood per ha (ton/ha) based on FAS",
+            "description": "biomass of lying deadwood per ha (ton/ha) based on FAS;  only heavy deadwood (diameter ≥ 40 cm)",
             "extra_info": "calculated using species-specific wood densities (same densities used as in Flemish RFI & LULUCF reporting); derived from vol_log_above40cm_m3_ha; only available for core area Zoniën KERN_1983 (survey numbers 3 and 4)"
           },
           {
             "name": "carbon_lying_t_ha_dead",
             "type": "number",
-            "description": "carbon stock of lying deadwood per ha (tC/ha) based on FAS or LIS or combination of both",
+            "description": "carbon stock of lying deadwood per ha (tC/ha) based on FAS",
             "extra_info": "derived from biomass of lying deadwood, using a carbon factor of 0.5"
+          },
+          {
+            "name": "carbon_lying_above30cm_t_ha_dead",
+            "type": "number",
+            "description": "carbon stock of lying deadwood per ha (tC/ha) based on FAS;  only heavy deadwood (diameter ≥ 30 cm)",
+            "extra_info": "derived from biomass of lying deadwood above 30 cm diameter, using a carbon factor of 0.5"
           },
           {
             "name": "carbon_lying_above40cm_t_ha_dead",
             "type": "number",
-            "description": "carbon stock of lying deadwood per ha (tC/ha) based on FAS",
+            "description": "carbon stock of lying deadwood per ha (tC/ha) based on FAS;  only heavy deadwood (diameter ≥ 40 cm)",
             "extra_info": "derived from biomass of lying deadwood above 40 cm diameter, using a carbon factor of 0.5; only available for core area Zoniën KERN_1983 (survey numbers 3 and 4)"
           },
           {
-            "name": "vol_agb_m3_ha_dead",
-            "type": "number",
-            "description": "volume of above ground deadwood per ha, both standing and lying (m³/ha) based on FAS or LIS or combination of both",
-            "extra_info": "only above ground standing volume and lying volume; above ground standing volume taken from vol_tot_standing_agb_m3_ha_dead; lying volume taken from vol_log_m3_ha (if available) or vol_log_above30cm_m3_ha in combination with vol_lis_10_30cm_m3_ha (if available) or vol_lis_m3_ha"
-          },
-          {
-            "name": "biomass_agb_t_ha_dead",
-            "type": "number",
-            "description": "biomass of above ground deadwood per ha, both standing and lying (ton/ha)",
-            "extra_info": "derived from vol_agb_m3_ha_dead"
-          },
-          {
-            "name": "carbon_agb_t_ha_dead",
-            "type": "number",
-            "description": "carbon stock of above ground deadwood per ha, both standing and lying (tC/ha)",
-            "extra_info": "derived from biomass_agb_t_ha_dead"
+            "name": "survey_trees",
+            "type": "boolean",
+            "description": null,
+            "extra_info": null
           }
         ]
       }
@@ -451,7 +721,57 @@
             "name": "dbh_class_5cm",
             "type": "string",
             "constraints": {
-              "enum": ["5 - 10 cm", "10 - 15 cm", "15 - 20 cm", "20 - 25 cm", "25 - 30 cm", "30 - 35 cm", "35 - 40 cm", "40 - 45 cm", "45 - 50 cm", "50 - 55 cm", "55 - 60 cm", "60 - 65 cm", "65 - 70 cm", "70 - 75 cm", "75 - 80 cm", "80 - 85 cm", "85 - 90 cm", "90 - 95 cm", "95 - 100 cm", "100 - 105 cm", "105 - 110 cm", "110 - 115 cm", "115 - 120 cm", "120 - 125 cm", "125 - 130 cm", "130 - 135 cm", "135 - 140 cm", "140 - 145 cm", "145 - 150 cm", "150 - 155 cm", "155 - 160 cm", "160 - 165 cm", "165 - 170 cm", "170 - 175 cm", "175 - 180 cm", "180 - 185 cm", "185 - 190 cm", "190 - 195 cm", "195 - 200 cm", "200 - 205 cm", "205 - 210 cm", "210 - 215 cm", "215 - 220 cm", "220 - 225 cm", "225 - 230 cm", "230 - 235 cm", "235 - 240 cm", "240 - 245 cm", "245 cm +"]
+              "enum": [
+                "5 - 10 cm",
+                "10 - 15 cm",
+                "15 - 20 cm",
+                "20 - 25 cm",
+                "25 - 30 cm",
+                "30 - 35 cm",
+                "35 - 40 cm",
+                "40 - 45 cm",
+                "45 - 50 cm",
+                "50 - 55 cm",
+                "55 - 60 cm",
+                "60 - 65 cm",
+                "65 - 70 cm",
+                "70 - 75 cm",
+                "75 - 80 cm",
+                "80 - 85 cm",
+                "85 - 90 cm",
+                "90 - 95 cm",
+                "95 - 100 cm",
+                "100 - 105 cm",
+                "105 - 110 cm",
+                "110 - 115 cm",
+                "115 - 120 cm",
+                "120 - 125 cm",
+                "125 - 130 cm",
+                "130 - 135 cm",
+                "135 - 140 cm",
+                "140 - 145 cm",
+                "145 - 150 cm",
+                "150 - 155 cm",
+                "155 - 160 cm",
+                "160 - 165 cm",
+                "165 - 170 cm",
+                "170 - 175 cm",
+                "175 - 180 cm",
+                "180 - 185 cm",
+                "185 - 190 cm",
+                "190 - 195 cm",
+                "195 - 200 cm",
+                "200 - 205 cm",
+                "205 - 210 cm",
+                "210 - 215 cm",
+                "215 - 220 cm",
+                "220 - 225 cm",
+                "225 - 230 cm",
+                "230 - 235 cm",
+                "235 - 240 cm",
+                "240 - 245 cm",
+                "245 cm +"
+              ]
             },
             "description": "diameter class per 5 cm (5 - 10 cm, 10 - 15 cm, …, 155 - 160 cm)",
             "extra_info": null
@@ -562,7 +882,57 @@
             "name": "dbh_class_5cm",
             "type": "string",
             "constraints": {
-              "enum": ["5 - 10 cm", "10 - 15 cm", "15 - 20 cm", "20 - 25 cm", "25 - 30 cm", "30 - 35 cm", "35 - 40 cm", "40 - 45 cm", "45 - 50 cm", "50 - 55 cm", "55 - 60 cm", "60 - 65 cm", "65 - 70 cm", "70 - 75 cm", "75 - 80 cm", "80 - 85 cm", "85 - 90 cm", "90 - 95 cm", "95 - 100 cm", "100 - 105 cm", "105 - 110 cm", "110 - 115 cm", "115 - 120 cm", "120 - 125 cm", "125 - 130 cm", "130 - 135 cm", "135 - 140 cm", "140 - 145 cm", "145 - 150 cm", "150 - 155 cm", "155 - 160 cm", "160 - 165 cm", "165 - 170 cm", "170 - 175 cm", "175 - 180 cm", "180 - 185 cm", "185 - 190 cm", "190 - 195 cm", "195 - 200 cm", "200 - 205 cm", "205 - 210 cm", "210 - 215 cm", "215 - 220 cm", "220 - 225 cm", "225 - 230 cm", "230 - 235 cm", "235 - 240 cm", "240 - 245 cm", "245 cm +"]
+              "enum": [
+                "5 - 10 cm",
+                "10 - 15 cm",
+                "15 - 20 cm",
+                "20 - 25 cm",
+                "25 - 30 cm",
+                "30 - 35 cm",
+                "35 - 40 cm",
+                "40 - 45 cm",
+                "45 - 50 cm",
+                "50 - 55 cm",
+                "55 - 60 cm",
+                "60 - 65 cm",
+                "65 - 70 cm",
+                "70 - 75 cm",
+                "75 - 80 cm",
+                "80 - 85 cm",
+                "85 - 90 cm",
+                "90 - 95 cm",
+                "95 - 100 cm",
+                "100 - 105 cm",
+                "105 - 110 cm",
+                "110 - 115 cm",
+                "115 - 120 cm",
+                "120 - 125 cm",
+                "125 - 130 cm",
+                "130 - 135 cm",
+                "135 - 140 cm",
+                "140 - 145 cm",
+                "145 - 150 cm",
+                "150 - 155 cm",
+                "155 - 160 cm",
+                "160 - 165 cm",
+                "165 - 170 cm",
+                "170 - 175 cm",
+                "175 - 180 cm",
+                "180 - 185 cm",
+                "185 - 190 cm",
+                "190 - 195 cm",
+                "195 - 200 cm",
+                "200 - 205 cm",
+                "205 - 210 cm",
+                "210 - 215 cm",
+                "215 - 220 cm",
+                "220 - 225 cm",
+                "225 - 230 cm",
+                "230 - 235 cm",
+                "235 - 240 cm",
+                "240 - 245 cm",
+                "245 cm +"
+              ]
             },
             "description": "diameter class per 5 cm (5 - 10 cm, 10 - 15 cm, …, 155 - 160 cm)",
             "extra_info": null
