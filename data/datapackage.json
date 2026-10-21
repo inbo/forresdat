@@ -2357,7 +2357,7 @@
       "encoding": "utf-8",
       "description": "Information about the surveys conducted in the plot, per period, along with the corresponding survey number and year of survey",
       "extra_info": "Possible surveys include those of trees, deadwood, regeneration, vegetation and game impact",
-      "source_database": "MDB_BR_22_inbo2026_20260313",
+      "source_database": "MDB_BR_23_INBO2026_20261015",
       "calculation": "forrescalc 0.0.2",
       "height_model": null,
       "schema": {
@@ -2471,21 +2471,9 @@
             "extra_info": null
           },
           {
-            "name": "dbh_min_a3",
-            "type": "integer",
-            "description": "treshold for living trees in sample circle A3",
-            "extra_info": null
-          },
-          {
             "name": "dbh_min_a3_dead",
             "type": "integer",
             "description": "treshold for dead standing trees in sample circle A3",
-            "extra_info": null
-          },
-          {
-            "name": "dbh_min_a4",
-            "type": "integer",
-            "description": "treshold for living trees in sample circle A4",
             "extra_info": null
           },
           {
@@ -2552,6 +2540,18 @@
             "name": "length_transect_lis",
             "type": "integer",
             "description": "total transect length of the line intersect sampling",
+            "extra_info": null
+          },
+          {
+            "name": "dbh_min_a3_alive",
+            "type": "integer",
+            "description": null,
+            "extra_info": null
+          },
+          {
+            "name": "dbh_min_a4_alive",
+            "type": "integer",
+            "description": null,
             "extra_info": null
           }
         ]
